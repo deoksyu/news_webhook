@@ -1,0 +1,71 @@
+name: daily-brief
+
+on:
+  schedule:
+    # 23:00 UTC = 08:00 KST (다음 날)
+    # GitHub 무료 러너는 스케줄이 5~20분 늦게 실행되는 경우가 흔하다.
+    # 정시가 중요하면 '40 22 * * *'(07:40 KST)로 당기고 main.py 앞에서 sleep 하면 된다.
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: '슬랙으로 보내지 않고 로그만 확인'
+        type: boolean
+        default: false
+      dedup_log_only:
+        description: '중복을 차단하지 않고 로그만 남김 (관찰 모드)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write        # state/history.json 커밋에 필요
+
+concurrency:
+  group: daily-brief     # 이력 파일 push 경합 방지
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4      # state/history.json 도 함께 받아온다
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Unit tests
+        run: python tests/test_dedup.py
+
+      - name: Send brief
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          DRY_RUN: ${{ inputs.dry_run && 'true' || 'false' }}
+          DEDUP_LOG_ONLY: ${{ inputs.dedup_log_only && 'true' || 'false' }}
+          TZ: 'Asia/Seoul'
+        run: python -m src.main
+
+      - name: Persist history
+        if: always()
+        run: |
+          git config user.name  "daily-brief-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/history.json
+          if git diff --staged --quiet; then
+            echo "변경 없음"
+            exit 0
+          fi
+          git commit -m "chore(state): history $(TZ=Asia/Seoul date +%F)"
+          for i in 1 2 3; do
+            if git push; then
+              echo "push 완료"
+              exit 0
+            fi
+            git pull --rebase --autostash || true
+          done
+          echo "::warning::history push 실패 — 다음 실행에서 중복이 통과할 수 있습니다"

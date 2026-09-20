@@ -1,0 +1,380 @@
+{
+ "version": 1,
+ "updated_at": "2026-09-20T23:45:29+09:00",
+ "entries": [
+  {
+   "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
+   "url": "https://www.etnews.com/20260915000078",
+   "simhash": "8933664009afad11",
+   "event_key": "4f5b045fe999417557347f943d102032037d7228",
+   "title": "[창간특집 인터뷰] 김성환 기후부 장관 “AI 시대, 전력수요 3배 가까이 늘 수도…'탈탄소 AI 강국' 만든다”",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "기후부",
+    "김성환",
+    "만든다",
+    "장관",
+    "전력수요",
+    "탈탄소"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7448aa06ee5a3acdabde7084f4588cbfbbbb1d65",
+   "url": "https://www.etnews.com/20260920000021",
+   "simhash": "f7b49141780e283c",
+   "event_key": "783494d082b3fd72f14871dc5941c8f1c141a10b",
+   "title": "[CAIO 포럼 2차 세미나] \"토큰, 업무생산성·투자수익률 좌우…관리 역량 중요\"",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "관리",
+    "업무생산성",
+    "역량",
+    "좌우",
+    "토큰",
+    "투자수익률"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d816a7639530f06d9c2470ad3f35fed7505b5e84",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PZDN5c3NVckYzYi1uZ0RDMHFfZHlwTE1JYUxJUFVkVlczZE5iSGRRNHAtaG9XX0dPR0lERkxGTENqMmV6MXMySDJmblZzYnBBSGxPSE9mcmYzZkNEQnNxTTA2ZDNYSU5yZ19BSg?oc=5",
+   "simhash": "d6eed80220604572",
+   "event_key": "a9f47ef9238a957ad1d78850901a1a572e461bf0",
+   "title": "피규어 AI, 휴머노이드 로봇 파운데이션 모델 '헬릭스 2.5' 공개",
+   "source": "로봇신문",
+   "category": "ai",
+   "tokens": [
+    "로봇",
+    "모델",
+    "파운데이션",
+    "피규어",
+    "헬릭스",
+    "휴머노이드"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "eafb06e98131618d908180cfbb9edc6db7d94937",
+   "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+   "simhash": "289edde7b575ff7b",
+   "event_key": "ad0f634ed6c090114fd3a2ca11358e12bf98a7a7",
+   "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "biggest",
+    "cybersecurity",
+    "energy",
+    "humans",
+    "rogue",
+    "systems"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c0097ee42480857c1e7a1b58da5a1416b1f02394",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ld1FZN3piQU9HaHZKcWc1eEN0ejJpXzNMTTk0eXBjbWx1Wk9KMllYS2JoeHZHWndGTGVfamRxRlZQZW1aZkpVS01DbWVlWTJuMkVnMjNEMVM5d2xZSldaRVBKRVjSAWRBVV95cUxNS3dRWTd6YkFPR2h2SnFnNXhDdHoyaV8zTE05NHlwY21sdVpPSjJZWEtiaHh2R1p3RkxlX2pkcUZWUGVtWmZKVUtNQ21lZVkybjJFZzIzRDFTOXdsWUpXWkVQSkVY?oc=5",
+   "simhash": "b1aa043083f407ce",
+   "event_key": "3e781460c5a133b8e59498b1998496eacde544a8",
+   "title": "충주시 '피지컬 AI 도시' 선전 공략…로봇·반도체 기업과 협력",
+   "source": "뉴스1",
+   "category": "ai",
+   "tokens": [
+    "공략",
+    "도시",
+    "로봇",
+    "선전",
+    "충주시",
+    "피지컬"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "efd7c89296ba9ec3bafd5181852fbdf6625b51c9",
+   "url": "https://www.venturesquare.net/1115285/",
+   "simhash": "a54c78ed5ad060a7",
+   "event_key": "cdce82a84b79a8019745bbe351bc12a87c3fd176",
+   "title": "창업은 캠퍼스에서, 성장은 시장에서…‘PARTNER CONNECT’가 만든 연결",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "connect",
+    "partner",
+    "성장",
+    "시장",
+    "창업",
+    "캠퍼스"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "32e5f3b53b39b8a07e097e5817c671e2882c353d",
+   "url": "https://platum.kr/archives/294851?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259e%25ac%25ec%2583%259d%25ec%259b%2590%25eb%25a3%258c-%25ec%2593%25b0%25eb%258a%2594-%25ec%25a0%259c%25ed%2592%2588%25c2%25b7%25eb%25b8%258c%25eb%259e%259c%25eb%2593%259c-%25ea%25b8%25b0%25ec%2597%2585-%25ec%25b0%25be%25eb%258a%2594%25eb%258b%25a4-%25eb%25a1%25af%25eb%258d%25b0%25ec%25bc%2580%25eb%25af%25b8",
+   "simhash": "de1d06c07377827c",
+   "event_key": "786fc0070229c415755add6bf266d5fb67b7c047",
+   "title": "재생원료 쓰는 제품·브랜드 기업 찾는다, 롯데케미칼 ‘프로젝트루프소셜’ 5기 모집",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "롯데케미칼",
+    "브랜드",
+    "쓰는",
+    "재생원료",
+    "찾는다",
+    "프로젝트루프소셜"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e57b5ab9f3b7649030baa77ac4cad1b59ed90d7d",
+   "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+   "simhash": "29580c181039774e",
+   "event_key": "742e0a81ba5f0d89fd8f9b417a549ef7306dd3a5",
+   "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+   "source": "TechCrunch Venture",
+   "category": "biz",
+   "tokens": [
+    "days",
+    "disrupt",
+    "get",
+    "prices",
+    "ticket",
+    "your"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "08564760681d66390f41befb00625d6e458cc3ac",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MRzFsSzJuRDdmUV9RakhqYTFyczY4X0hzNXlDc3hFQXlGNkZZQWMyZFJsUmFOV2JCbGZ0bWFwa3kzWTE0M1h6TTREZHYtaGNQYjNmYTl4WkNUMjVpMHJmN9IBeEFVX3lxTE0tSjl0VHBWak5hV2ZFZ0FGV1hUUUlhcXZkRGJtTHk1X1N0b19xYmFxMEtvQ1laTWt2UHhzODhFeW5TNFFHV3BJNzRKMWE1NjlCNmdBMHBvd3BPakRHeVc0RlNYbTQxVk10bkpKcGlvQjJZdE9HbW1YRg?oc=5",
+   "simhash": "b8563cb4472adce7",
+   "event_key": "5dae4ec84f71f94c12e15431caef0cf104835ff9",
+   "title": "\"안양시 소상공인 조례 '폐업하면 환수'규정 재기 막는 사각지대\"",
+   "source": "뉴시스",
+   "category": "biz",
+   "tokens": [
+    "규정",
+    "사각지대",
+    "안양시",
+    "조례",
+    "폐업하면",
+    "환수"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2df69b46d3ba44c0e3c840c295aab6d47ecb126e",
+   "url": "https://saweis.net/posts/rsa-896.html",
+   "simhash": "280f218098381a7b",
+   "event_key": "01e4715cd1f1397a5c3495a567a488fca2e123ec",
+   "title": "RSA-896",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "rsa"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "367962ef4ef50aadbf3ac08196759387e57405c1",
+   "url": "https://www.yna.co.kr/view/AKR20260920051700001",
+   "simhash": "f517e2d2ff701ea3",
+   "event_key": "3b11243debd453f89aebe1a3a20c38b21eea5475",
+   "title": "국힘 \"개헌보다 민생이 먼저…국민이 믿을 국정부터 보여야\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "개헌보다",
+    "국민",
+    "국힘",
+    "먼저",
+    "민생",
+    "보여야"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "85f296cc1262e28dc59272756b9c7bc5ba89f413",
+   "url": "https://www.khan.co.kr/article/202609202104015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "782488c783cfd280",
+   "event_key": "21be31b323d8d943083127a35d4b981a720f6e84",
+   "title": "“연임·공소취소 논란 정리는 긍정적…부동산 문제 전임 정부 탓은 아쉬워”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "공소취소",
+    "긍정적",
+    "논란",
+    "부동산",
+    "아쉬워",
+    "연임"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8b4a4c75e5d47cabccd8a1a08f1fe84b0d034969",
+   "url": "https://www.khan.co.kr/article/202609202102015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "58117021012172f7",
+   "event_key": "96028a77093eb827e42262b4fed1e5d72594de05",
+   "title": "‘공소취소 삭제’ 조작기소 특검법에 민주당 신중론",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "공소취소",
+    "민주당",
+    "삭제",
+    "신중론",
+    "조작기소",
+    "특검법"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "57d09e12193da00c236e5de40b38fb685dbfaee1",
+   "url": "https://www.yna.co.kr/view/AKR20260919054651001",
+   "simhash": "561a70a31843b206",
+   "event_key": "9923b9c27ba8a5dbf1ac9096b3417a4fea451e59",
+   "title": "與, '김승원 낙마'에 상처…개헌 논의 띄우며 국면전환 도모(종합)",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "개헌",
+    "국면전환",
+    "김승원",
+    "낙마",
+    "띄우며",
+    "상처"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "11617bb163a5d53a0b1101852fc4e3da6915a36d",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762281",
+   "simhash": "fe79f09c41df5771",
+   "event_key": "f834d0a03a45379b693954b9fc86288d9887e953",
+   "title": "왕자병 얘기에 \"쉰내 나는 워딩\"…\"멘탈 잡아라, 이제 시작\" 경고 [바로이뉴스]",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "나는",
+    "쉰내",
+    "얘기",
+    "왕자병",
+    "워딩",
+    "잡아라"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6f3917f41cbb386deb0e4d9403fc1fbed8bdad5e",
+   "url": "https://www.theguardian.com/us-news/2026/sep/20/trump-triumphal-arch-military-complex",
+   "simhash": "f4702559820ecee1",
+   "event_key": "ee037a433698711eaaf1d77f7e33520b510fcfee",
+   "title": "Trump claims triumphal arch will serve as a ‘top grade military complex’ to store weapons",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "claims",
+    "complex",
+    "military",
+    "serve",
+    "triumphal",
+    "weapons"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "69eb6e09a8f8e7473bc51a9563e040ff3e929278",
+   "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
+   "simhash": "71c48216f279834d",
+   "event_key": "72ef4098b0d3310ee2c25901a01fc87beaab5fca",
+   "title": "Moscow targeted with hundreds of drones as Kyiv uses its first ballistic missile in the war",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "ballistic",
+    "drones",
+    "hundreds",
+    "missile",
+    "moscow",
+    "targeted"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ea7775a3c315aaa90b256ed2b01e7704267bda6c",
+   "url": "https://www.yna.co.kr/view/AKR20260920048200109",
+   "simhash": "3e506f122b860753",
+   "event_key": "11c020d939e447058b6153c3f7372b0ee524588d",
+   "title": "UN \"러·우크라전 이후 성폭력 1천여건…가해자 89% 러시아군\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "가해자",
+    "러시아군",
+    "성폭력",
+    "우크라전",
+    "천여건"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "956891ca68367a107ea8db228aefe00c58e39768",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
+   "simhash": "70b453a2618f7250",
+   "event_key": "522de571f6a078de99dd99e6fa05a9ea155121f0",
+   "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "activists",
+    "flotilla",
+    "hundreds",
+    "protest",
+    "release",
+    "tunisia"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0db9744a88fc66e20c264e5232c7343c2fd3a2df",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss",
+   "simhash": "613f83861e056223",
+   "event_key": "9855d0b7e404329d94709429d7cde7b653240720",
+   "title": "Netanyahu tours tunnels underneath Al-Aqsa Mosque compound",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "compound",
+    "mosque",
+    "netanyahu",
+    "tours",
+    "tunnels",
+    "underneath"
+   ],
+   "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  }
+ ]
+}
