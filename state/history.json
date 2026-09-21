@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-09-20T23:56:53+09:00",
+ "updated_at": "2026-09-21T09:39:57+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -751,6 +751,384 @@
     "조선"
    ],
    "sent_at": "2026-09-20T23:56:53+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ce0ebe044b3676217a0ccc4234e096396e780965",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJR1I2anBmZFpESHdMMUlES2czRzFSVWxjMlFqTTFEc0NGTzRQYi1WX2tiTEtaMm56MmxhQzhzQ3lYc2QyaVBUU0ZhaTJJVVoydVl1aFNQQWVlZw?oc=5",
+   "simhash": "628a942ddd5cc031",
+   "event_key": "4afe9af35616ae4f3a42443dbd189b31cb4f3000",
+   "title": "한국예탁결제원, 직원 참여형 AI 혁신…업무 에이전트 10건 선정",
+   "source": "브릿지경제",
+   "category": "ai",
+   "tokens": [
+    "업무",
+    "에이전트",
+    "직원",
+    "참여형",
+    "한국예탁결제원",
+    "혁신"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0723ae02b99e2a0915bfce7587b552b493530461",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50N3BxbFdudTZHR1VKU3hscFBkaDY4Q2o3dTFQTy01QlFES0pjX2FGa2ZnMWJzQmhIQktHcm5HLUN4ejVhQTZMY2g5U1NyamVNcUtldzVxaW5uZmxq?oc=5",
+   "simhash": "51324a22a0308e6b",
+   "event_key": "736df7e773e5254e0fd401d82db87fa2557689bb",
+   "title": "[홍콩 특징주] 알리바바 다모, 150종 복부질환 통합 진단 AI 모델 공개",
+   "source": "뉴스핌",
+   "category": "ai",
+   "tokens": [
+    "다모",
+    "모델",
+    "복부질환",
+    "알리바바",
+    "진단",
+    "통합"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "093fcb2836882896a717e1666e5170c861fb99a1",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZ3dJRnRMWF9VSFZHRUgyUFVmUm5xbDVEX0g2Vy1Mb1pZcTdwTThoNlpFVlF6NmJwaTZKeGk1S3F6Q2pJYzdvNFYzRkt4RDN2VTZveFJ2ZFhYZ9IBWEFVX3lxTFB3eUFVQkNnSm03T291Q2hoRmZPX2MwYy1Gb1QzbHJ5bW8zSS12dTZBQWtsc0hodHR0cEIxZzczdVd0aU1xVlBydktXeUdvR0xTR2djUVdOR1Q?oc=5",
+   "simhash": "b545daa270e6dd26",
+   "event_key": "3009406212fb1348fd4598f0aa18ea3fa17d6e9b",
+   "title": "한미반도체, 故 김정기 작품 AI로 재해석한 2040 비전 공개",
+   "source": "아주경제",
+   "category": "ai",
+   "tokens": [
+    "2040",
+    "김정기",
+    "비전",
+    "작품",
+    "재해석한",
+    "한미반도체"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a0ee519ca95843817b86658952a1db6c89c41ce1",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTdktmbUZYa2trWHhqVXBCSDRMeG9IQnVqMTRneHp6aFpTZlphUjI1Y3BhTkY1X3BYSjVRRk1McC0yVWNiVHZDVmpzc3pUUXc1cE5lcnlFVGNKUEt2?oc=5",
+   "simhash": "3c0c8f61476496c0",
+   "event_key": "e91ed4fea1f8d71eb0f882edab6dda3fe45c604c",
+   "title": "문체부, 생성형 AI 활용 음악의 저작권 신탁·분배 기준 논의",
+   "source": "뉴스핌",
+   "category": "ai",
+   "tokens": [
+    "문체부",
+    "생성형",
+    "신탁",
+    "음악",
+    "저작권",
+    "활용"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8d91d93114a5afd943c248b81f9ef9a754f16ff4",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwOTczb0pNejlnNjVGdVptUjJ3ekdsYWl0TFI4WjR3S2Q1TmlDSENwUFEyTXExLU5XZ3hQUXZhczlHM251MlpVTXIyQTQ0TjBnZmFadXk4b25Kc1pVMkUxNNIBeEFVX3lxTE1raUNxM1NoX1ZUczBvOHdqZmdlelF3NGtLMnJaRmxnTVZ1QUVGUzZ1djdNYWU5STdweWwxeHRBNjdWMzNzVTY1akQyalA0ZHpIbGoyZnhkb2ZWT05pMGVtTHNOU2o5aGFkTE0yeGY5OTNMX1ZTMEhKRg?oc=5",
+   "simhash": "e51bbf2cb021c227",
+   "event_key": "cc3fb3391d731099eb5741bbbe5483b8c388f7d0",
+   "title": "반도체 넘어 AI·에너지…초광역 전략산업 생태계 구축[칩 메카 전남광주⑥]",
+   "source": "뉴시스",
+   "category": "ai",
+   "tokens": [
+    "구축",
+    "넘어",
+    "생태계",
+    "에너지",
+    "전략산업",
+    "초광역"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "69cf16d3889450396275ab0aa6269a52e2e6e86a",
+   "url": "https://www.venturesquare.net/1115319/",
+   "simhash": "09f622c20163011f",
+   "event_key": "34e87592b0c849a76c8d567acfdb0441d2ca9e94",
+   "title": "[컬처슬로건 탐방기] 데이블 – AI 시대에 일 잘하는 방법",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "데이블",
+    "방법",
+    "시대",
+    "잘하"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "007689e82c5d2934338dcd56a2e3e9ffba3dce66",
+   "url": "https://www.venturesquare.net/1115116/",
+   "simhash": "c90b3c6ce44b2405",
+   "event_key": "57a463c2eef92365f25e393a1af17ac5bc2b8d1d",
+   "title": "경기혁신센터, 디지털트윈·배터리·유전자치료 스타트업 6곳 투자사 앞에",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "경기혁신센터",
+    "디지털트윈",
+    "배터리",
+    "앞에",
+    "유전자치료",
+    "투자사"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0b97d570de2b10e67f4e17d1735fcaff6e566875",
+   "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+   "simhash": "b330dace2bdc6e33",
+   "event_key": "e76c843d9f67d14dda8d814d227fce32290bfe6e",
+   "title": "A small but growing number of founders are betting on bringing people together offline",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "betting",
+    "bringing",
+    "founders",
+    "growing",
+    "offline",
+    "together"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cfd30c70571774416fa45ca79d8ab2d0ea4cc292",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCYTNiTmcwQU5RMkZoLTU0X2ZxeG1sVmtFMDJUcFFRR2M5c25ETk5OajNoVG4xeVNQLWc1UHB2ZDQxcUJGTkFxRWdDSGZXLXRaVElKdmZvdmE5NGxQb0RVMklwYWN2Ty1ZcTdCOXN2Z2FPRG_SAXNBVV95cUxQQmEzYk5nMEFOUTJGaC01NF9mcXhtbFZrRTAyVHBRUUdjOXNuRE5OTmozaFRuMXlTUC1nNVBwdmQ0MXFCRk5BcUVnQ0hmVy10WlRJSnZmb3ZhOTRsUG9EVTJJcGFjdk8tWXE3QjlzdmdhT0Rv?oc=5",
+   "simhash": "610e496e20c02824",
+   "event_key": "ac9ae3e5bbadaf78be77b30aad811b9d52d1e389",
+   "title": "“창업기업 키우고 골목상권 살리고”…오세현 아산시장, 지역경제 투트랙",
+   "source": "한국일보",
+   "category": "biz",
+   "tokens": [
+    "골목상권",
+    "살리고",
+    "아산시장",
+    "지역경제",
+    "창업기업",
+    "키우고"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9bc480d7a7e3cd24ce5bc08fca4b0edd1621d39f",
+   "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+   "simhash": "cbbdd2046b386370",
+   "event_key": "7b4fddb732741632851786219edf48d68e3a357d",
+   "title": "Bill to Ban Private Equity from Owning Medical Practices",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "bill",
+    "equity",
+    "medical",
+    "owning",
+    "practices",
+    "private"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fd312adff1952b477555abb530cd17b4e3e5e4fc",
+   "url": "https://www.yna.co.kr/view/AKR20260921015800001",
+   "simhash": "72eca716811404e4",
+   "event_key": "125f336507343df49515ff61a75638a064e7a1fa",
+   "title": "김민석 \"대통령 연임불가가 공적이라 말한 국힘, 개헌 답해야\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "공적",
+    "국힘",
+    "김민석",
+    "답해야",
+    "말한",
+    "연임불가"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "08853af390777181d20dd55a2a2252e6b89bb3d4",
+   "url": "https://www.khan.co.kr/article/202609210928001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "900ef839af8c4108",
+   "event_key": "58d887f16f85128f02b00a92ed1f2f1c5b0b09e2",
+   "title": "당정 “전수조사 농지 뺏기 위한 것 아냐…경미한 농지법 위반은 정상 이용, 명백한 투기는 엄정조치”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "경미한",
+    "농지법",
+    "당정",
+    "명백한",
+    "엄정조치",
+    "전수조사"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3aa2710e5b915bee0ccc894e82f1954aa0529ab5",
+   "url": "https://www.khan.co.kr/article/202609210903001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "1184ec5356451257",
+   "event_key": "f66858ff7d13d667e3fe9fa33aab3fafbb1761f4",
+   "title": "‘관행적’ 농지 임대차는 농지은행 위탁시 처분 유예···불법 전용도 사후 전용으로 양성화",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "관행적",
+    "농지",
+    "농지은행",
+    "양성화",
+    "위탁시",
+    "임대차"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bc0dbb0df403ebadd8a5598b398ead012068cd8c",
+   "url": "https://www.yna.co.kr/view/AKR20260920034300001",
+   "simhash": "6516a2eaa72e5696",
+   "event_key": "1747a4f3aeb4d61c124a691fefce69ad3b8df34c",
+   "title": "與, 오늘 경기서 최고위·예산협의…김민석-추미애 대면",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "경기서",
+    "김민석",
+    "대면",
+    "예산협",
+    "최고위",
+    "추미애"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b24ff558b4802920dc9df3cd2d8013bfd32a8fb1",
+   "url": "https://www.mk.co.kr/news/politics/12157799",
+   "simhash": "2628d16d4a5d7398",
+   "event_key": "0887504ee8aacfbf4d0985efba0e6243a3565771",
+   "title": "농지 전수조사 당정협의, 자리 향하는 송미령 장관과 권칠승 정책위",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "권칠승",
+    "농지",
+    "당정협",
+    "송미령",
+    "전수조사",
+    "정책위"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d4926f5e72a3404f13b3defc050b0be1ec2ae22b",
+   "url": "https://www.yna.co.kr/view/AKR20260921024700009",
+   "simhash": "18919d3df35020e4",
+   "event_key": "5fda0020cd7270f590b43d9857ba08719c0da3dd",
+   "title": "미·우크라 정상 통화…젤렌스키 \"러와 긴장완화 중대조치 준비\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "긴장완화",
+    "우크라",
+    "정상",
+    "젤렌스키",
+    "중대조치",
+    "통화"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "66ac7154c6668347f2ebffe2980cfd342c4c9c07",
+   "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+   "simhash": "6e671292161ebb34",
+   "event_key": "6322f33d6734f13aea6c2977d6b7c439cf0c5d24",
+   "title": "Polls close in Russian wartime election with ruling party set to dominate",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "dominate",
+    "election",
+    "polls",
+    "ruling",
+    "russian",
+    "wartime"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2175432ccc1c3f8898e578ef81c8543a5fe412f9",
+   "url": "https://www.theguardian.com/world/2026/sep/20/middle-east-braces-for-more-violence-as-iran-claims-us-is-planning-to-renew-bombing-campaign",
+   "simhash": "b3ea976eed01f109",
+   "event_key": "363abd2f36984fc063aab76e6e850c16fb2678e3",
+   "title": "Middle East braces for more violence as Iran claims US is planning to renew bombing campaign",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "bombing",
+    "braces",
+    "campaign",
+    "middle",
+    "planning",
+    "violence"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3eb45d2ff7d0aeb2ab98f8550269ecfc76e98e7e",
+   "url": "https://www.theguardian.com/us-news/2026/sep/20/andy-burnham-faces-a-weakened-trump-but-the-president-remains-unpredictable",
+   "simhash": "adc7190ec1271b21",
+   "event_key": "13b0b889565029f00bc6f086fe86555b81295dd3",
+   "title": "Andy Burnham faces a weakened Trump – but the president remains unpredictable",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "burnham",
+    "faces",
+    "president",
+    "remains",
+    "unpredictable",
+    "weakened"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "167ff4211ea1a7c2d89cb6dea9a7d05d0cbe929a",
+   "url": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
+   "simhash": "6509bdd214149c49",
+   "event_key": "baeb0fc55f6e33c761d73def333f5f3e2b06b40e",
+   "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "describes",
+    "earthquake",
+    "fallout",
+    "israel",
+    "qatar",
+    "war"
+   ],
+   "sent_at": "2026-09-21T09:39:57+09:00",
    "followup_count": 0
   }
  ]
