@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-09-21T09:39:57+09:00",
+ "updated_at": "2026-09-22T10:21:37+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -1129,6 +1129,376 @@
     "war"
    ],
    "sent_at": "2026-09-21T09:39:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "365635f4f8cea8745d56d5a26cb30219b51df432",
+   "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+   "simhash": "6d101cb554141540",
+   "event_key": "b05988369cfc9c693cddf3a31868432ea718fb1d",
+   "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "chatgpt",
+    "early",
+    "launch",
+    "meta",
+    "mobile",
+    "outpacing"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "11f6953e11efa22d27700d123962c954b8e50a2a",
+   "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+   "simhash": "296992785dd436c2",
+   "event_key": "ea88c698ac2214a5bad1221953a48dc12f4ebb85",
+   "title": "Meta’s AI agent has been blocked from using Amazon.com",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "agent",
+    "amazon",
+    "blocked",
+    "com",
+    "meta",
+    "using"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d2c737cba2ad89a833f6b71775b64d52ab3d02ef",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KNzdQTnV3cjN1MmpjdmJLNWQ0RnY3Y1YwblBQMXI4ZmdvdDlUaHRJZzFIa2NSdjNqTEhOa0Z5Q2hybU50Z0NEY2FRM29kR2lITmJ2STJ2Vlo4dw?oc=5",
+   "simhash": "783886cd4744f8b1",
+   "event_key": "f48fd4d8ae1d1e6d649f4a9c694fa1d6593ef56b",
+   "title": "KH바텍, 로봇·AI 데이터센터·반도체 관련 신사업 확대",
+   "source": "한국경제",
+   "category": "ai",
+   "tokens": [
+    "데이터센터",
+    "로봇",
+    "바텍",
+    "신사업",
+    "확대"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "153016c11b038571a7ab06671a9985e555f7d6e8",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTRXRrdWEtN1hOT1pzUG9zUXFZWXkwbDF0dkNINThFTmRDLXk2OGhtMzE0c3hOVXc0U2hYYWpMVkNia3Z4NlJQRmdHU0lFb0piX0l5YWpIX29hSi1MMmdZellvZVg2Z0E?oc=5",
+   "simhash": "31a13461c2091ea3",
+   "event_key": "b96fbd016dd937e09c9b9874d71edc96c8d39e7d",
+   "title": "델 테크놀로지스, 한국벤처투자에 고성능 GPU 서버 공급...전사적인 에이전트 AI 도입 위한 온프레미스 AI 기반 제공",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "고성능",
+    "에이전트",
+    "온프레미스",
+    "전사적인",
+    "테크놀로지스",
+    "한국벤처투자"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5dc1319989937b1659f9baf24669832789dba201",
+   "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+   "simhash": "2df1ecbc7f384698",
+   "event_key": "14a476f042e841585b9f305325a805f456ac9167",
+   "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+   "source": "Ars Technica",
+   "category": "ai",
+   "tokens": [
+    "assistant",
+    "extraordinarily",
+    "meta",
+    "muse",
+    "privileged",
+    "serious"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "54676c947a832844a16551a925f25234b0a49204",
+   "url": "https://platum.kr/archives/294978?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%2598%25ea%25b3%25bc%25ec%259c%2584%25ec%2583%259d%25ec%2582%25ac-%25eb%258c%2580%25ec%258b%25a0-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%25b4-%25ec%2584%259d%25ec%2585%2598%25ec%259d%2584-%25ec%259e%25a1%25eb%258a%2594%25eb%258b%25a4-%25eb%258d%25b4%25ed%2583%2588%25eb%25a1%259c%25eb%25b3%25b4%25ed%258b%25b1",
+   "simhash": "d522704f068774a9",
+   "event_key": "3a07e11529c0ef4ad40ca465e0cd5902a0093fe1",
+   "title": "치과위생사 대신 로봇이 석션을 잡는다, 덴탈로보틱스 시드 투자 유치",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "대신",
+    "덴탈로보틱스",
+    "로봇",
+    "석션",
+    "잡는다",
+    "치과위생사"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d562c12bd44a50393db1238d6cf86090e2abad95",
+   "url": "https://platum.kr/archives/294970?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259e%25ac%25ec%2599%25b8-%25ed%2595%259c%25ec%259d%25b8-%25ea%25b8%25b0%25ec%2588%25a0%25ec%259d%25b8%25ec%259e%25ac-%25ec%259c%25a0%25ec%25b9%2598%25eb%25b6%2580%25ed%2584%25b0-%25ed%2595%25b4%25ec%2599%25b8-%25ec%25a7%2584%25ec%25b6%259c%25ea%25b9%258c%25ec%25a7%2580-nipa%25c2%25b7%25ec%2597%2594%25ec%25a0%25a4",
+   "simhash": "cd1094e2ca5660ad",
+   "event_key": "f19e3ac0c0627335ba9875ffb3ef0f8bdade354e",
+   "title": "재외 한인 기술인재 유치부터 해외 진출까지, NIPA·엔젤투자협회 협력",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "nipa",
+    "기술인재",
+    "엔젤투자협회",
+    "재외",
+    "한인",
+    "해외"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a8a5554023809ac299b9dc0f5bbd0f0c8c6b489f",
+   "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+   "simhash": "8af75e91fdf58e61",
+   "event_key": "745ffe796f873596e0032c99af2fb88064fe8d34",
+   "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "benefits",
+    "brokerage",
+    "build",
+    "corridor",
+    "health",
+    "raises"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9a049e8c18fbaa9fe3150ebcdd6bdb2e6e767470",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ1RDSnRubHR6NnVTOG0yNmdUdDRHazREU1BKSmc2XzBFTDBXbDIzQ01Hdm1pam1uTU9Eb2hfRjB6VEJEMURXUjRqdEtZT01BTGVFUUZZN1g4dWdSX2JreGd0dlBERE0tVUdSdzBBaDJnZmlmdlBST04wV280UUMtamhpSjh0REc1NThfaVZR?oc=5",
+   "simhash": "e4143c74230e1e9e",
+   "event_key": "57ef1e41eebbf2f0c74f6d7856565e7a2f0e1f8b",
+   "title": "1대 1 밀착 창업 지원… 소상공인 재기 돕는다",
+   "source": "조선일보",
+   "category": "biz",
+   "tokens": [
+    "돕는다",
+    "밀착",
+    "재기"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "36d08d7343d12c02faad32e28617ccc3723bc644",
+   "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+   "simhash": "432e5404d48942aa",
+   "event_key": "0aca8b293ed2ec7dff5d23b1dee96a0c28fb75e6",
+   "title": "I don't want to read what you didn't write",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "didn",
+    "don",
+    "read",
+    "want",
+    "write"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "deb5d7e3f2da4d6fe7919561056a8629cd7e72c1",
+   "url": "https://www.yna.co.kr/view/AKR20260922056300504",
+   "simhash": "2c0ccd9bf0e97ad0",
+   "event_key": "b71c0dd89eac2d7a9df9f2b23d88b7632ce621cb",
+   "title": "\"북한 완전 비핵화\" 목표 재확인한 한미일…경제협력도 확대",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "경제협력",
+    "북한",
+    "비핵화",
+    "완전",
+    "재확인한",
+    "한미일"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a3610127e78f87c682506fbbe1666f75ded600cb",
+   "url": "https://www.yna.co.kr/view/AKR20260922060100001",
+   "simhash": "b0bb8c9f6ded8abc",
+   "event_key": "b16c0d903ed9c582e91298f3dd3cf610194ec4ef",
+   "title": "한병도, 국힘 '정권 실정대회'에 \"맹목적 발목잡기…못된 심보\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "맹목적",
+    "발목잡기",
+    "실정대회",
+    "정권",
+    "한병"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fbc49e88546e431fad17240c70545496dd80c0eb",
+   "url": "https://www.khan.co.kr/article/202609220750001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "108ed4fc78c02c64",
+   "event_key": "8e964da2780615ccbefc217d6b6f11139b23f62d",
+   "title": "이 대통령 “강남불패·부동산투기공화국은 이제 과거 이야기 될 것”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "강남불패",
+    "과거",
+    "부동산투기공화국",
+    "이야기",
+    "이제"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4a8f7bbdfcc1f4a396611d75492fb8a5bf0a13f6",
+   "url": "https://www.mk.co.kr/news/politics/12158882",
+   "simhash": "10c42842f6469a17",
+   "event_key": "06bbdf68980852dfdb35284427eaa5de20b59e78",
+   "title": "‘223억달러 텍사스 발전소’ 세워질까…정부, 오늘 대미투자 1호 국회 보고",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "대미투자",
+    "발전소",
+    "세워질까",
+    "억달러",
+    "정부",
+    "텍사스"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "534e34b017ea2dbc1e725319f551bd6976e8bc14",
+   "url": "https://www.khan.co.kr/article/202609220708001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "10dcabda18dcc8c6",
+   "event_key": "d5f749a946479c0f06a29ab82f2fd5a2fa44e437",
+   "title": "한·미·일 “북한 대화 복귀 촉구…대만해협 평화 유지 중요”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "대만해협",
+    "대화",
+    "복귀",
+    "북한",
+    "촉구",
+    "평화"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ab2efb983649fdaf5da7bd708575acf6d0487cba",
+   "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+   "simhash": "2c7c4023d038c6da",
+   "event_key": "64cf4485dd464bd4ba262600df1b42c1a51314f4",
+   "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "against",
+    "file",
+    "house",
+    "lawsuit",
+    "politico",
+    "white"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "01720bf8c3132e1bb729b8a5784ebbbd1c8bd473",
+   "url": "https://www.theguardian.com/us-news/2026/sep/21/trump-and-mamdani-meeting-gracie-mansion",
+   "simhash": "0d0cbe9fd16826a9",
+   "event_key": "bdb3c5ee66cea0c77c58d367e208b4182fd0a559",
+   "title": "Trump and Mamdani appear friendly after ‘wide-ranging’ meeting at Gracie Mansion",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "appear",
+    "friendly",
+    "mamdani",
+    "mansion",
+    "meeting",
+    "ranging"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d62a9270f69a8d6f87d53e0ab544e9ec68f966e3",
+   "url": "https://www.theguardian.com/australia-news/2026/sep/21/no-avoiding-the-cost-of-inaction-on-climate-anthony-albanese-says-in-new-york",
+   "simhash": "6161c51a0dbd56f2",
+   "event_key": "42f842dcfff0b4ffebb50843c056d2915cd51054",
+   "title": "No avoiding the cost of inaction on climate, Anthony Albanese says ahead of UN general assembly",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "albanese",
+    "anthony",
+    "assembly",
+    "avoiding",
+    "climate",
+    "inaction"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "050a664842b842e4f79e847eff290ca39d66b772",
+   "url": "https://www.yna.co.kr/view/AKR20260922057600083",
+   "simhash": "2dd508596306a207",
+   "event_key": "7a6ed5bfddf15ead9376014adab1e7c7a730fffe",
+   "title": "미중정상회담 앞둔 시진핑, 美청년들에 \"우호 계승자 돼 달라\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "계승자",
+    "미중정상회담",
+    "시진핑",
+    "앞둔",
+    "우호",
+    "청년들"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bf737f09249d13e24ffa32dc376db1a00d1130e4",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss",
+   "simhash": "aca6a049c0cc1f61",
+   "event_key": "0cfac81214bbc46dc99d37bb97624c680e2ff533",
+   "title": "Trump returns to the UN, what will he say?",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "returns",
+    "say"
+   ],
+   "sent_at": "2026-09-22T10:21:37+09:00",
    "followup_count": 0
   }
  ]
