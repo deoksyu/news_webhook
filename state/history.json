@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-09-23T10:04:19+09:00",
+ "updated_at": "2026-09-24T09:58:21+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -1877,6 +1877,381 @@
     "very"
    ],
    "sent_at": "2026-09-23T10:04:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b2d1f3b8c0c378980a751e260aaba43fee0ab063",
+   "url": "https://www.etnews.com/20260922000449",
+   "simhash": "243800b81f553183",
+   "event_key": "5070ba4b2bbd040357c9cab84c9376910d7e6bd1",
+   "title": "새만금개발청, 현대차그룹  'AI 데이터센터' 건축심의 본격 착수",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "건축심",
+    "데이터센터",
+    "본격",
+    "새만금개발청",
+    "착수",
+    "현대차그룹"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2c3b9d4adb64ccbb6d6184e24afea9e7411c9a65",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+   "simhash": "26b3e552980c4a40",
+   "event_key": "5942cde8d6d617868e21f8de01798e9cb424652f",
+   "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "8217",
+    "anthropic",
+    "biolab",
+    "comparing",
+    "crispr",
+    "discovery"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e8483fa4c1d3b9916024852417db1b4cc1f7fa6a",
+   "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+   "simhash": "4f8b57429a0e4eba",
+   "event_key": "148502d857d7b2a5138f02fd7da2f3dfe16ece5f",
+   "title": "Anthropic says its biology lab has already found something big",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "already",
+    "anthropic",
+    "biology",
+    "found",
+    "lab",
+    "something"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "31283a7047ea57ed323c562237c6353422ba3d99",
+   "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+   "simhash": "ab178a9d854b9a1d",
+   "event_key": "3747ad982613cfb58cafc04673bce901f3f10185",
+   "title": "Meta introduces camera-free AI glasses",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "camera",
+    "free",
+    "glasses",
+    "introduces",
+    "meta"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0029abaf2ce1b4f461eaae4be775e1ba14b8f7e0",
+   "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+   "simhash": "996d584f98d96a41",
+   "event_key": "c083984c0055436c258f530172495535ffe8d49c",
+   "title": "The AI Hype Index: AI loves cheating",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "tokens": [
+    "cheating",
+    "hype",
+    "index",
+    "loves"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "59c4e5e6ade436614ac89f71d6a812501ced5298",
+   "url": "https://www.venturesquare.net/1115987/",
+   "simhash": "9ba3696a1fc773a3",
+   "event_key": "92aa0c4239780a9d4fcc5c02d13467599f208727",
+   "title": "이소영표 중기부 출범…코스포·벤처기업협회·이노비즈협회 축하 메시지 “규제혁신 기대”",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "규제혁신",
+    "벤처기업협회",
+    "이노비즈협회",
+    "이소영표",
+    "중기부",
+    "코스포"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9ee3184cb895f4c6ea012fd6663c146cfa88534b",
+   "url": "https://platum.kr/archives/295184?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a4%25bc%25ed%258a%25bc-%25ec%2583%2581%25ec%259e%25a5-%25ec%25a3%25bc%25ea%25b4%2580%25ec%2582%25ac%25eb%25a1%259c-%25eb%25af%25b8%25eb%259e%2598%25ec%2597%2590%25ec%2585%258b%25ec%25a6%259d%25ea%25b6%258c%25c2%25b7nh%25ed%2588%25ac%25ec%259e%2590%25ec%25a6%259d%25ea%25b6%258c-%25ec%2584%25a0%25ec%25a0%2595",
+   "simhash": "d01654005fe41835",
+   "event_key": "678e267668e6f931e5b36840861ccc447ada10ac",
+   "title": "뤼튼, 상장 주관사로 미래에셋증권·NH투자증권 선정",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "뤼튼",
+    "미래에셋증권",
+    "상장",
+    "선정",
+    "주관사",
+    "투자증권"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f8e92900b89863d0c6261746a36aef106935b5ac",
+   "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+   "simhash": "e56e92c70490276d",
+   "event_key": "c6c261898e446a2b0739d9f35f82c63d0fb9749e",
+   "title": "Modal Motors is trying to cut China out of electric motors entirely",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "china",
+    "electric",
+    "entirely",
+    "modal",
+    "motors",
+    "trying"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8e76b2e1b9b3d021064767c002da16f338777b2b",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ld3RpUmctNF93WWgyejZTMkRreTlCRndfWlJ5ZTVKX2NOc3FXY2d6SjVZbkdLMFAtVmNDcE5qUjNzc3M1S3Q2MXJUekZ4aE13MHFwV2NSNnBHZTg5YkwwTllXdURra2pOZTM40gFwQVVfeXFMUGRSVm1STVNsSVZVd1RIaXpqeDMzZGs4ZGdfaXlZSXVmSXR6eFVsbkZKLUJCNk4wbTc5V2QtdUNlaEtBS1I1ZzdZd1EzU1M4RnlKOVJXcUYxUVdYLVZLUUVIM2gwMzgwejVpLUVqbFFFRg?oc=5",
+   "simhash": "ca14760cf2d3276b",
+   "event_key": "c999c81eacbdc1563d3ac4cc042997ca3a87413c",
+   "title": "창업한 초기 스타트업에 최대 1억 지원...'빌드업 프로그램' 출시 - 머니투데이",
+   "source": "머니투데이",
+   "category": "biz",
+   "tokens": [
+    "머니투데",
+    "빌드업",
+    "창업한",
+    "초기",
+    "최대",
+    "프로그램"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7d998d11cb8bbc6130e160f77b6fcff3b443e3db",
+   "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+   "simhash": "e23856db474833a0",
+   "event_key": "f6934ff0f6663111d75a7fbc1cdf0b58029ce4ae",
+   "title": "Once Claude can measure something, it can make it faster",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "claude",
+    "faster",
+    "make",
+    "measure",
+    "once",
+    "something"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fb3e31164b5d508d293e13926d68604197d1b905",
+   "url": "https://www.yna.co.kr/view/AKR20260924017000504",
+   "simhash": "698dfe85299266b9",
+   "event_key": "a389c5c0fbfbf10299e6f0d7535ce9425ca9e6cc",
+   "title": "정부, '北포로 한국행' 공개에 \"필요 소통·협의 진행해와\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "공개",
+    "정부",
+    "진행해",
+    "포로",
+    "필요",
+    "한국행"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0f0b58f6b21a7cd19a2f092da47a774f8a6931ea",
+   "url": "https://www.khan.co.kr/article/202609240952001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "9711a44a19a7717f",
+   "event_key": "d48984eea2c3b920df0c7d0e3e70d73185d6580c",
+   "title": "박지원 “조희대는 제2의 윤석열…탄핵하자”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "박지원",
+    "윤석열",
+    "조희대",
+    "탄핵하자"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "da42f153c46c60b66a6c445c1df4e8f900510d9a",
+   "url": "https://www.khan.co.kr/article/202609240933001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "d487c043e90b6d92",
+   "event_key": "0cc5226ea285eddc4b71fc37a60901910ee12e0a",
+   "title": "[여론조사 ‘경향’]이 대통령 기자회견 후 “국정 운영 긍정” 39.1% 소폭 반등···민주당 지지율, 다시 국힘 앞질러",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "국정",
+    "기자회견",
+    "민주당",
+    "앞질러",
+    "운영",
+    "지지율"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4a5a19e0c1dfc908239cc82c3c02c2154738874c",
+   "url": "https://www.mk.co.kr/news/economy/12160791",
+   "simhash": "2352371c35aae946",
+   "event_key": "36ee9fb39c3c8245ce1eeaca550bf3b96800ec40",
+   "title": "“과세 없이 연 19% 더 얹어드립니다”…화제의 적금, 내달 또 나온다",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "과세",
+    "나온다",
+    "얹어드립니다",
+    "없이",
+    "적금",
+    "화제"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3233192da969985b11c8074ccd1c9cda576bdcea",
+   "url": "https://www.yna.co.kr/view/AKR20260923082451001",
+   "simhash": "0704f27c6fe568ed",
+   "event_key": "a441b50e9c069677e12e1d8c897054a180116059",
+   "title": "김장겸 \"KBS에 항의 전화 외압 확인\"…한준호측 \"정치 공세\"(종합)",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "kbs",
+    "김장겸",
+    "외압",
+    "전화",
+    "한준호측",
+    "항의"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3cad53713eecf13df51a4e79199635a1dbe12a7d",
+   "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+   "simhash": "0cc719cf7de0dde1",
+   "event_key": "29d240c1bf49aa76c1740e7aff50b0cf83b5c5ec",
+   "title": "Venezuela being ‘reborn’, Rodríguez tells UN; Trump greets Xi Jinping ahead of high-stakes US-China summit – live",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "greets",
+    "jinping",
+    "reborn",
+    "stakes",
+    "summit",
+    "venezuela"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ec6b784699b54fda8ea4ba80e3a4c795ce70c97b",
+   "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
+   "simhash": "d92d587050bd2142",
+   "event_key": "db5d48a2b89cd3d64f991f1ba0574c10a1ee493b",
+   "title": "Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "albanese",
+    "australia",
+    "generic",
+    "hacked",
+    "medicare",
+    "openai"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "baec8d5d3884691f528a2435f99a734524f0d597",
+   "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+   "simhash": "2bd472df4c0667b2",
+   "event_key": "19bbe1c4110104352b3b2e77ef3277bcbcc66cf8",
+   "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "begin",
+    "board",
+    "peace",
+    "plan",
+    "reconstruction",
+    "unveils"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b16d2d4d4baade5e6c4d9729d5f35edd8b79dac4",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_trump-hosts-xi-amid-rising-tensions-1-230926?traffic_source=rss",
+   "simhash": "6ea25d1b930e55b5",
+   "event_key": "0884cf6cd3ae23ec3a68ec64d7be7c78038a0b09",
+   "title": "China’s Xi visits US as Trump bets on stabilising global relations",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "bets",
+    "china",
+    "global",
+    "relations",
+    "stabilising",
+    "visits"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "56f368964368934c45fcd623c9d141f60973358b",
+   "url": "https://www.yna.co.kr/view/AKR20260924017500071",
+   "simhash": "1c01b66c23c7628e",
+   "event_key": "164cd2c499eb43ed255f668eadaf8f5574395d7e",
+   "title": "넉달 만에 마주앉는 미중 정상…무역휴전 연장·AI 합의 주목",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "넉달",
+    "마주앉",
+    "만에",
+    "무역휴전",
+    "미중",
+    "정상"
+   ],
+   "sent_at": "2026-09-24T09:58:21+09:00",
    "followup_count": 0
   }
  ]
