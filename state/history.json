@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-09-24T09:58:21+09:00",
+ "updated_at": "2026-09-25T10:01:25+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -2252,6 +2252,384 @@
     "정상"
    ],
    "sent_at": "2026-09-24T09:58:21+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5b7f2728c5fa6983f7c46a2c3fcba5d7fca3e55b",
+   "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+   "simhash": "c7cedd5af06568c5",
+   "event_key": "02bbbc64511dd3918bc0e99f04b307c8ee48c644",
+   "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "8217",
+    "avatar",
+    "gemini",
+    "gives",
+    "google",
+    "live"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1c18de282b50389e766913218a200fbfc1d1242d",
+   "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+   "simhash": "b90d76ad2eccdc02",
+   "event_key": "51f66ac5c71a428f481a134bbe26f6695eb313ca",
+   "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "brings",
+    "glasses",
+    "powered",
+    "prismml",
+    "qualcomm",
+    "smart"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6bce2f972fae51c2cc7c9c1f4f36698d4439de2a",
+   "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+   "simhash": "73d0bfb357563549",
+   "event_key": "72f7734d44449740850b3c2081e3c35bb0452d20",
+   "title": "Muse sure looks a lot like OpenClaw",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "like",
+    "looks",
+    "lot",
+    "muse",
+    "openclaw",
+    "sure"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "07efbab25e4d7fb726700b15d72f104b8aa7eacd",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1saGZZWnpSWlVQaTk1SkFHTGdVaTY1VHVFeDB1aDgxcWN6RG5TWXRCXzFKRFRwbmZGLUNEM095Xy1kYWd1eEZtb282OG5KSW5ja3dldkRqV1F0ZEdvbVhUSlRYcHRodFE?oc=5",
+   "simhash": "e3e41b5645c5d223",
+   "event_key": "9e71e8b9d89ce5ca8d1c59684650a3e32fdf0677",
+   "title": "트럼프 “AI는 슈퍼 인텔리전스, 추가 가드레일 원하지 않아”…시진핑 “미·중, 경쟁보다 협력할 이유 더 많아”",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "가드레일",
+    "경쟁보다",
+    "슈퍼",
+    "원하지",
+    "인텔리전스",
+    "협력할"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "592e22f534f39f4cda2990c444ca73b8213c6c8f",
+   "url": "https://www.etnews.com/20260925000004",
+   "simhash": "97ed14c593c131af",
+   "event_key": "32fa876efad43abc11c772ccd85f69a58c1e7cb9",
+   "title": "'6억 성과급' 삼성 반도체의 클라스…300만원짜리 의자에 앉아 일한다",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "만원짜리",
+    "삼성",
+    "성과급",
+    "의자",
+    "일한다",
+    "클라스"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "278b519baf62cf0730a0e1e7188c1f1de47679f3",
+   "url": "https://www.venturesquare.net/1116149/",
+   "simhash": "aeb682e8bd99f61c",
+   "event_key": "ecbe149569ed199df8121d0f346022b7b6057196",
+   "title": "IPO 못 했다고 투자조건 불리하게 바꾼다?…스타트업 투자계약 ‘갑을’ 관행에 법이 들어온다",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "ipo",
+    "들어온다",
+    "불리하게",
+    "투자계약",
+    "투자조건",
+    "했다고"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fb938abe629901d7f185b7f8df5a92e54614dab8",
+   "url": "https://www.venturesquare.net/1116143/",
+   "simhash": "73d3b070ed5b97c2",
+   "event_key": "c8028d78eb51429a058683da9136170580d593a4",
+   "title": "아폴론, 바늘 없이 혈당 재는 CGM 개발에 50억원 투자…네이버·대웅도 참여",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "cgm",
+    "네이버",
+    "바늘",
+    "아폴론",
+    "없이",
+    "혈당"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "69a599e416fb5ee224fed980c3a266db822bf27f",
+   "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+   "simhash": "af31593b559d2630",
+   "event_key": "4dfba09a9d6583fb8262b976901364b3453d7cb8",
+   "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "acquire",
+    "buys",
+    "databricks",
+    "scouting",
+    "startups",
+    "zero"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7b638a06a42d212ea10da5019fd87c1456edc6fb",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XNkVXUVFNRFlYNnJPMlY1STFvemRkZDVPVTh2VndYLXZpYU8xbFI0WG1GYjN2bHUxdE11bDFaejRYbHcxQWcyODhqRmtZNHdmUi1vc2dNYmk1THpHLURSc0ZoQTDSAWRBVV95cUxPVzZFV1FRTURZWDZyTzJWNUkxb3pkZGQ1T1U4dlZ3WC12aWFPMWxSNFhtRmIzdmx1MXRNdWwxWno0WGx3MUFnMjg4akZrWTR3ZlItb3NnTWJpNUx6Ry1EUnNGaEEw?oc=5",
+   "simhash": "1625a8b2045abc97",
+   "event_key": "7ca405579319e591fadc885ecc4b44f264bbb5a6",
+   "title": "우석대학교-진천군소상공인연합회, 청년 취·창업 지원 협약",
+   "source": "뉴스1",
+   "category": "biz",
+   "tokens": [
+    "우석대학교",
+    "진천군소상공인연",
+    "창업",
+    "청년",
+    "합회",
+    "협약"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "185ddb0abcfc6b08da60c0e454dca6b9220f67e5",
+   "url": "https://github.com/devdotfast/whiteboard",
+   "simhash": "0bd953430c1c8929",
+   "event_key": "cbe07111cc958a3ce3c49ad859c6d1d872182f1c",
+   "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "design",
+    "show",
+    "software",
+    "source",
+    "thoughtful",
+    "whiteboard"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9ffac89f68f6295c6c3c1f38a53572d116a4fa8f",
+   "url": "https://www.khan.co.kr/article/202609250928011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "b762b4456001b315",
+   "event_key": "083171995a9d75c92d20a482fb001a52d09d858f",
+   "title": "“법률이 허용하는 원칙”이라는 국회의원 ‘장관 겸직’…불변 법칙일까",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "국회의원",
+    "법률",
+    "법칙일까",
+    "원칙",
+    "이라",
+    "허용하"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "383a0e205411c4070660285fde8969779418e972",
+   "url": "https://www.yna.co.kr/view/AKR20260925012200001",
+   "simhash": "8581182e9f107fc8",
+   "event_key": "9a06ed720e728b6da84db4be52be04281d1d982b",
+   "title": "韓-멕시코 정상회담…'2026-2030 공동행동계획' 채택",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "2026",
+    "2030",
+    "공동행동계획",
+    "정상회담",
+    "채택"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2e1598386d7ceaf0a1bdc0c9319864f73a2c2259",
+   "url": "https://www.khan.co.kr/article/202609250957001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "4b8da12468eb402c",
+   "event_key": "318a9274bcf7aa578db194762d07347b501a9569",
+   "title": "[속보]이 대통령 “2030년 6월 2일 넘기는 일 절대 없어”…단임 재차 언급",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "2030",
+    "넘기",
+    "단임",
+    "없어",
+    "재차",
+    "절대"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d202543fe95a53f44d6d6a7f06e8c2c9d913ccb6",
+   "url": "https://www.yna.co.kr/view/AKR20260924027751504",
+   "simhash": "60088a1db01a7660",
+   "event_key": "db4ef57985397d394b2739054ee40231ba57115e",
+   "title": "北외무상 \"핵보유 의지는 백년·천년이 지나도 절대불변\"(종합)",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "백년",
+    "외무상",
+    "의지",
+    "절대불변",
+    "천년",
+    "핵보유"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "95d95da6d4b9434732cee55648c89af3ca207454",
+   "url": "https://www.mk.co.kr/news/stock/12161273",
+   "simhash": "3095b1fe41bc09c8",
+   "event_key": "70adfbf8a3ed815981dd1aecee00d1df3006630f",
+   "title": "페제시키안 “트럼프 대통령 암살 계획한 적 절대 없다”",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "계획한",
+    "암살",
+    "절대",
+    "트럼프",
+    "페제시키안"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bf7caacd3df3d9592ad74dde862d9dc4dfae65a2",
+   "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+   "simhash": "e800a09b551fc1a1",
+   "event_key": "46ec3a39250881aea81d4d0a2127070611ec3200",
+   "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "action",
+    "defends",
+    "delegates",
+    "israeli",
+    "military",
+    "netanyahu"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "64b35a17d8626eb0d5a2d0a18d3f02bb2adb09cd",
+   "url": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
+   "simhash": "3d38166f438d6499",
+   "event_key": "1717ffdc58a1b082abcb585c0cef9b3c203c0342",
+   "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "avoid",
+    "conflict",
+    "jinping",
+    "meeting",
+    "military",
+    "terms"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0538689b0e24c4ef48f0262a7f759d2e5f16a3b0",
+   "url": "https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-protests",
+   "simhash": "6a809b23c50071d8",
+   "event_key": "ca7360683d0e7d1994ae1e354616033dbf489d77",
+   "title": "Netanyahu’s speech at UN spurs protests in New York City: ‘Let Gaza live’",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "city",
+    "netanyahu",
+    "protests",
+    "speech",
+    "spurs",
+    "york"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e9122b678247aab4e526d4e3fdf9b7fb3ea58fab",
+   "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
+   "simhash": "2e322fafeb0c1efb",
+   "event_key": "29020f37e17a90963eb37ce812132bb0f62697c9",
+   "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "four",
+    "key",
+    "meeting",
+    "summit",
+    "takeaways",
+    "washington"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "413dc9de48ea40ea206dfecd896116d85fe80d28",
+   "url": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
+   "simhash": "35ee1b7b759c11a8",
+   "event_key": "563ffcbc5600806f72de84380dc1bc120b8591eb",
+   "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "costa",
+    "fired",
+    "meeting",
+    "minister",
+    "rica",
+    "unapproved"
+   ],
+   "sent_at": "2026-09-25T10:01:25+09:00",
    "followup_count": 0
   }
  ]
