@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-09-25T10:01:25+09:00",
+ "updated_at": "2026-09-26T10:04:02+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -2630,6 +2630,385 @@
     "unapproved"
    ],
    "sent_at": "2026-09-25T10:01:25+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a7fc94a8f10dc722d7f6010517a663c4b5fcde33",
+   "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+   "simhash": "7dcb1d2eb41da627",
+   "event_key": "f3e9f0f72e6713c331ee9bd1f2fc3f77c3cb0d77",
+   "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "agents",
+    "internet",
+    "knowledge",
+    "openai",
+    "unsecured",
+    "without"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fdba889df7cc1273cbe90f4a926e3e6161500c7d",
+   "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+   "simhash": "3ed1666a50d2ee28",
+   "event_key": "e133707b78f804d909295ca0b3d1245c0409cf5e",
+   "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "anthropic",
+    "meta",
+    "muse",
+    "openai",
+    "spotlight",
+    "stole"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "603ff4913948463e3ea5f1d074dd275f532d505f",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+   "simhash": "bb39223622d7940b",
+   "event_key": "f51151c84b3fe62c4278e35b331c586cda67f482",
+   "title": "One company is at the center of a wave of rogue AI attacks",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "attacks",
+    "center",
+    "company",
+    "rogue",
+    "wave"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cd767a130fe7387be6735d8a75303553c58be6c1",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uaEpIZlBaTnJKTFNnc05iaUtpUHZOMXVQVDM2SVlTYXJROThfTm45aWdfbVdIT2NFU3E3cEltSzFpejVrTkdSSWFqaFk1SGsxLXJiSzZPUzRqNkNXOUY5eXh4NkZpMWs?oc=5",
+   "simhash": "414135cd677c2723",
+   "event_key": "e87f36b06be42ee0991057ede70025b148f0b436",
+   "title": "‘제미나이 3.8 라이브’ 라이브 아바타 탑재…구글, 실시간 대화형 영상 AI 에이전트 시대 연다",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "대화형",
+    "라이브",
+    "실시간",
+    "아바타",
+    "에이전트",
+    "제미나"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5c1a1531a758c482233ca96d43cf0f947f7fc3f3",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wbGtId3BXZU9QNzNTTTdETFBSdjVVT1RKdmJFZnlmYXdnV1BQMlg4VWh0Xy1RSkdxRTJ3cy0xSTNvQ1JFcGFLYnczNHRPVWN0SUwwVFFpc1hXZHdYaGdwbtIBYEFVX3lxTE1wbGtId3BXZU9QNzNTTTdETFBSdjVVT1RKdmJFZnlmYXdnV1BQMlg4VWh0Xy1RSkdxRTJ3cy0xSTNvQ1JFcGFLYnczNHRPVWN0SUwwVFFpc1hXZHdYaGdwbg?oc=5",
+   "simhash": "737cc55cf3cc1f43",
+   "event_key": "887bef7c18d42d6c7183299aead7207a69b8a444",
+   "title": "오픈AI 에이전트, 챗GPT 이용자 이미지 53장 무단 유출",
+   "source": "연합뉴스",
+   "category": "ai",
+   "tokens": [
+    "gpt",
+    "무단",
+    "에이전트",
+    "오픈",
+    "이미지",
+    "이용자"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1ccafde232a60526c6716e159f9f35590d05e09b",
+   "url": "https://platum.kr/archives/295172?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25ac%25ed%2595%25b4%25ec%259d%2598-k-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25b3%25b8%25ec%2584%25a0%25ec%2597%2590-%25ec%2598%25a4%25eb%25a5%25b8-%25ea%25b2%25bd%25ea%25b8%25b0%25ec%25b0%25bd%25ec%25a1%25b0%25ea%25b2%25bd%25ec%25a0%259c%25ed%2598%2581%25ec%258b%25a0%25ec%2584%25bc",
+   "simhash": "c173845ce5fa48a3",
+   "event_key": "0ceb7352f4326eee689ef9b9c3a29d196c5ba68e",
+   "title": "올해의 K-스타트업 본선에 오른 경기창조경제혁신센터 출신 기업들",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "경기창조경제혁신",
+    "기업들",
+    "본선",
+    "센터",
+    "오른",
+    "출신"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8d98cf1df9da50449c4220c69508e4828c082316",
+   "url": "https://platum.kr/archives/295153?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a3%25bc%25eb%25b0%25a9-%25eb%25a1%259c%25eb%25b4%2587%25ea%25b3%25bc-%25ec%25a0%2584%25ec%259e%2590%25ec%2595%25bd-%25ec%259d%25bc%25eb%25b3%25b8-%25eb%25ac%25b4%25eb%259d%25bc%25ed%2583%2580%25ec%2599%2580-%25ed%2598%2591%25ec%2597%2585-%25ed%259b%2584%25eb%25b3%25b4%25eb%25a1%259c-%25eb%25bd%2591%25ed%2598%2594",
+   "simhash": "849221209260f0e1",
+   "event_key": "57d99e6c61b45dddafeeea43f635ed8008e17286",
+   "title": "주방 로봇과 전자약, 일본 무라타와 협업 후보로 뽑혔다",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "로봇",
+    "무라타",
+    "뽑혔다",
+    "일본",
+    "전자약",
+    "주방"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "460e4015904309597081dfe739dd6009c5f00a08",
+   "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+   "simhash": "dafd74fa2ed2b8ba",
+   "event_key": "c93ad7a2820cb42e9b04f8584ae946c6657b2a30",
+   "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "automate",
+    "dangerous",
+    "hard",
+    "nexterity",
+    "pipefitting",
+    "wants"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e0dcdf27773817252f1b93d040e7742bdb215503",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JQWFPWVotWjc1akNEaGRhQ2NBVmxNNF9zeWdvbVpHQmdMWlpoX2JwMWxxZEYzN3YxV19UdEVlQ0V3QjV3b0ZVZ1M3VVI5R1ViWk9OTnEya3E3Zw?oc=5",
+   "simhash": "0b77fc9b07597ff4",
+   "event_key": "2f51eaa22927d9fbdf386ec3db63783a5ed93463",
+   "title": "“자금부터 채무·재창업까지”… 부산 소상공인 맞춤형 1:1 상담 열린다",
+   "source": "브릿지경제",
+   "category": "biz",
+   "tokens": [
+    "맞춤형",
+    "부산",
+    "열린다",
+    "자금",
+    "재창업",
+    "채무"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d1defbaf4de8e0ab8e4da3a822241d1fa67250a7",
+   "url": "https://ollaya.dev/",
+   "simhash": "4586873bf0ccb9b0",
+   "event_key": "51bc1021096216ca7e115bd55820c3bc4f9b15d2",
+   "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "decision",
+    "models",
+    "ollama",
+    "ollaya",
+    "source",
+    "style"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "95451c256ca5e8d16381cf77558d4bca7a411795",
+   "url": "https://www.yna.co.kr/view/AKR20260926014400002",
+   "simhash": "21c0ec1888ad1be7",
+   "event_key": "730387adbfe1a553ae2d4ab7b4f682bba3989c98",
+   "title": "[다음주 경제] 반도체 생산 얼마나 늘었나…물가·금리 지표도 발표",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "금리",
+    "늘었나",
+    "물가",
+    "반도체",
+    "생산",
+    "얼마나"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1a3bd1d2295651e1ef634aef0617166117d8f84d",
+   "url": "https://www.khan.co.kr/article/202609260935001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "ae15c17451fa39b4",
+   "event_key": "1079b11753d0e39f6f128fdf5e06564f4d9fe9ef",
+   "title": "트럼프  “중국도 만족할 것”, 시진핑 “안정 관계 발전”···무역 휴전 2달 연장",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "관계",
+    "만족할",
+    "시진핑",
+    "안정",
+    "중국",
+    "트럼프"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a3de22aaf5ba11a4a29d64f44a706823a830eb36",
+   "url": "https://www.yna.co.kr/view/AKR20260922140900001",
+   "simhash": "c32fad1ec8723cd0",
+   "event_key": "bf191640a85f3bbbf518d86dcc78f40245beac66",
+   "title": "與, 내달초 민주유공자법안 본회의 처리 추진…국힘, 필버 검토",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "내달초",
+    "민주유공자법안",
+    "본회",
+    "처리",
+    "추진"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e57710a0b0bd81a07d4b905f5a225d9d7517cc34",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008770118",
+   "simhash": "c96f80835207297e",
+   "event_key": "7b84e4e632e1429892d7bebe6c592d0a823f958e",
+   "title": "\"김정은 눈치\" \"흑막 없다\"…지뢰폭발 사고 두고 '대립'",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "김정",
+    "눈치",
+    "두고",
+    "사고",
+    "지뢰폭발",
+    "흑막"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2d4082a1cd8cddf456a2f2ec3d52087710fbe230",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008770307",
+   "simhash": "0777cc1883c087aa",
+   "event_key": "9ad539928ace0286502568d292afd030286f9d30",
+   "title": "\"한-멕시코 무역협정 필요\"…'국보법 논란' 언급, 왜?",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "국보법",
+    "논란",
+    "멕시코",
+    "무역협정",
+    "언급",
+    "필요"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2b8049ac6e7306aec2febc17f366f0cdc0443e2a",
+   "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+   "simhash": "ed7e141b9473a331",
+   "event_key": "7ae32200ba9c85355337186de557eec1ab45a9d0",
+   "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "attacks",
+    "centres",
+    "ordinary",
+    "targeting",
+    "ukraine",
+    "zelensky"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ebe8471b9ad5f7f967df6e0887d378b469e3c238",
+   "url": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
+   "simhash": "238dc75fb30ff725",
+   "event_key": "4a7bd2e9788eb9179ef639df0c10a7cd977b2973",
+   "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "america",
+    "family",
+    "loses",
+    "michigan",
+    "posting",
+    "sweaters"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "faa494846c0b57ac6ba4a62272fdde55c3e822bf",
+   "url": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
+   "simhash": "ad6d581643140729",
+   "event_key": "4b133cef34512f81d6e3252d92b3d390443a5275",
+   "title": "Trump and Chinese president Xi end summit without major agreement on AI",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "agreement",
+    "chinese",
+    "major",
+    "president",
+    "summit",
+    "without"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ca92b0b2e4ae6f52a470679e1ed770faa54eb8a9",
+   "url": "https://www.yna.co.kr/view/AKR20260926017500083",
+   "simhash": "c80c5389e7d50394",
+   "event_key": "e31d8d12b2c7607e0a6d11fd673fcab4ea45253e",
+   "title": "[미중정상회담] 인민복 내세운 中복식외교…\"멜라니아·이방카도 중국풍 의상\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "내세운",
+    "멜라니아",
+    "복식외교",
+    "이방카",
+    "인민복",
+    "중국풍"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6d7a0cb5f8b60ad856b3f33b7786dbb35b299f0e",
+   "url": "https://www.yna.co.kr/view/AKR20260926018100009",
+   "simhash": "2890607c09281a0a",
+   "event_key": "cd6ef71cda59f13b26c2ef6f6839cab13592576a",
+   "title": "[미중 정상회담] 뉴욕 패싱하고 트럼프 만난 시진핑…유엔 위상 약화",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "뉴욕",
+    "만난",
+    "약화",
+    "위상",
+    "유엔",
+    "패싱하고"
+   ],
+   "sent_at": "2026-09-26T10:04:02+09:00",
    "followup_count": 0
   }
  ]
