@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-09-27T10:01:18+09:00",
+ "updated_at": "2026-09-28T10:19:14+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -3389,6 +3389,384 @@
     "welcome"
    ],
    "sent_at": "2026-09-27T10:01:18+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "39e6d83733f34b5b3da60c069adc5d5c47def3ac",
+   "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+   "simhash": "e5bb1eae5228ada8",
+   "event_key": "fd28b561a20f3b0580d10976aabdd7062f9a40dd",
+   "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "amodei",
+    "anthropic",
+    "dario",
+    "gets",
+    "snl",
+    "treatment"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "22ab58996da913bbdabd9423dc1861948edd305b",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ROXNSUmtERDlNVXZ6VHFINGtvMF9LSVRLYlhkeDBQVkpIcGsyMDdad0lwdmZVN0NQSnhCa01LbUpHZVpQR3lQTGZqZF9VNFNfbjQ1X3lZcXNKenI4SnpMM0FoVUVWd00?oc=5",
+   "simhash": "5f61428c7e8c69c5",
+   "event_key": "a061f63d7a221591986ad343e2721e4305b4c1ae",
+   "title": "“AI 아바타가 인력 공백 채운다”...딥브레인AI, 중소기업용 ‘고객 응대 AI 아바타’ 도입 추진",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "공백",
+    "딥브레인",
+    "아바타",
+    "인력",
+    "중소기업용",
+    "채운다"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6cd30e9bd63915c5a2875e8e337d85057580bca6",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44QWpRUnA1cFEwdlk2S1d5YXc0ODRxMTBGNGRwbVZoTHBrM0xDbXduQ2VCUGxNVE1OYm9nZl9pMnFEZjJLYlBhWDl6SG52VXNLbk1OWmVn?oc=5",
+   "simhash": "eb2392c7b2dd67aa",
+   "event_key": "6d854b62f0cbfb6cfc33f5f74957c1f2ceb465d4",
+   "title": "마키나락스, 군 전장망에 생성형 AI 적용…UFS서 운용 검증",
+   "source": "지디넷코리아",
+   "category": "ai",
+   "tokens": [
+    "ufs",
+    "검증",
+    "마키나락스",
+    "운용",
+    "적용",
+    "전장망"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9cd11d41c77c57cd9ced44ec21b37a34cd5f8b69",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFUnNRampTZGUzei1iWUg5dVdHVWk4cUVva2RZYmREaEFXWVlQSnRSLXhIcjlpYzRqTGNuYTRKTVFWbUFxTDBYMXhoV0JPb1pDa1FZOWplN2E3WTVwbmZmNUhEYlVLMEk?oc=5",
+   "simhash": "6542c1f32130e4ac",
+   "event_key": "45bccdf82ce7b9c13d8237ff7b94a476bf8ebcbb",
+   "title": "Arm, 클라우드·엣지·피지컬 AI 아우르는 ‘AI 포털’ 공개",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "arm",
+    "아우르",
+    "엣지",
+    "클라우드",
+    "포털",
+    "피지컬"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "59c55247634f0d67390eb6f320a62455ce5aa346",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ld1ppWHdoQVhRVHZhQi14bGdwNHphVXRwWEhxSjNUOXlsOGI2Z3pZTGUtSFN1NTJsNEdNWDZCelZKeTJXMU1HUHNrOWI3aFNBVGJ3dGFMU1ZiOWFWQmdwMkZXc2s2V3NkMjlJUi1pU05wV2dTdHfSAXtBVV95cUxQQjdhRG9vMk40YW9LQmtzUXB4Mi15TkdmeTREVFcxMWhKdGx4dzF6ZTZQYjczUjhSYjlfUlRqNXY4VVJiX0dfc2NydlRWM2pxLVNWUGpZN0liamUyd2NFVW5JSDhmVnd1a2NiRnpwUVJBUU83MnQ5bWxYdE0?oc=5",
+   "simhash": "c44e3b025d3d0a10",
+   "event_key": "8532c3ea0a0406073a32578879e3709d53e9621e",
+   "title": "의료AI주, 인공지능 모멘텀 계속…쓰리빌리언 23%↑ - 머니투데이",
+   "source": "머니투데이",
+   "category": "ai",
+   "tokens": [
+    "계속",
+    "머니투데",
+    "모멘텀",
+    "쓰리빌리언",
+    "의료",
+    "인공지능"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f837ada40382a0106a01c39b46ab4b5a8ca14908",
+   "url": "https://www.venturesquare.net/1116329/",
+   "simhash": "18b4b4400454e8d1",
+   "event_key": "5c2c06a4a0e4b22530df849d256acaf4fdf9a9aa",
+   "title": "서울대기술지주, 엔비디아 밖에서도 로봇 AI 돌린다…바이스트라타 투자",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "돌린다",
+    "로봇",
+    "바이스트라타",
+    "밖에서",
+    "서울대기술지주",
+    "엔비디아"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b9da2ce9cbe641b8b06583a61d9598b8d7b33605",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KblJRY3p5ZVhRRkp4UXk1Q1lYU19Uc1pJNU1lOXVadzhnLVBqVTl6WlF3dTVVS2RCUUZYRUZtcEZDaFV3Rl80ZEFjTTFJM3VqcnFLOVdIdmRXNUlK?oc=5",
+   "simhash": "91712b1d3d84b502",
+   "event_key": "61a6628f337a40fa0ca093c9e23955ae727e76f0",
+   "title": "경남도, 스타트업 55곳 고용·투자 성과…AI·콘텐츠 기업 33억원 투자 유치",
+   "source": "뉴스핌",
+   "category": "biz",
+   "tokens": [
+    "경남",
+    "고용",
+    "기업",
+    "성과",
+    "억원",
+    "콘텐츠"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6ea8349a2ba2eefd4cf46d7a5cdfc731630bf314",
+   "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+   "simhash": "a86e8fa331164263",
+   "event_key": "e168f8fb13e85e28e27a6a3ef12f2ea403cbd48b",
+   "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "android",
+    "building",
+    "developers",
+    "feather",
+    "robotics",
+    "startup"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2aea7194e7cdbffc1840de48218d57ebfa8daf53",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EMHNkeTdaU2dZRHRvM3NmQWY0WW5Kemd6S0FUOGpVTWp1U3lsRUgxZ2o4dFVoSTF2Zmo0dlRMZjVaVHJOeEVmNnZZeW1ldWRuVXc0Xzc4T0hBQmhQRU8tY2NWczZmbDlNdmlkS3VoSGpqQXphOHd3?oc=5",
+   "simhash": "2de87b76f562734e",
+   "event_key": "8da1f909fd1f17b95446ace775ddd7d8e53afc0f",
+   "title": "캐나다 | BC주 사장님 절반 \"지금 창업 권하지 않는다\"",
+   "source": "밴쿠버 중앙일보",
+   "category": "biz",
+   "tokens": [
+    "권하지",
+    "사장님",
+    "않는다",
+    "절반",
+    "지금",
+    "캐나다"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3bd40c5dcc31f1689cdcee0bd64a92d01fdf5b55",
+   "url": "https://sancho.bearblog.dev/google-weird/",
+   "simhash": "0c407c2ed221dbfe",
+   "event_key": "f5a7464904f6a49c19ebd63eb7bf08bbbef2aa79",
+   "title": "When did Google get so weird?",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "did",
+    "get",
+    "google",
+    "weird"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ffcb52f8aaedc00017112348a06a0aaeb8096507",
+   "url": "https://www.khan.co.kr/article/202609280843001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "676aba49fdc8ad4e",
+   "event_key": "8ebfcd609855b8dcb045312a745f64dcf6fbcd14",
+   "title": "국힘, 영화 ‘암살자(들)’ 비판 “표현의 자유는 좌파의 전유물인가”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "비판",
+    "암살자",
+    "영화",
+    "전유물인",
+    "표현"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3a4692fb05ac0246323381f08679f90bbcc11d7f",
+   "url": "https://www.khan.co.kr/article/202609280828001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "849ffdaa06b89727",
+   "event_key": "c88873cd21f37b819393fabaae0bf0d55b6d9998",
+   "title": "[리얼미터]이 대통령 지지율 37.9%, 2주 연속 상승…국민의힘 39.4%, 민주당 38.7% 오차범위 내 역전",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "국민의힘",
+    "민주당",
+    "상승",
+    "연속",
+    "오차범위",
+    "지지율"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f7cac9b915cde73871dbaf8d097e8b9ab0b0b8d0",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008772165",
+   "simhash": "681eeab283577877",
+   "event_key": "9cf7e68fc62cad0acd4ae7d13ee9a24a40219c3d",
+   "title": "[정치쇼] 조갑제 \"이 대통령, 공소취소서 헤어나면 인재 많이 보일 것\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "공소취소서",
+    "많이",
+    "보일",
+    "인재",
+    "조갑제",
+    "헤어나면"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "96d61f8255d569f0cacf1c9b8f35ae68e8737268",
+   "url": "https://www.yna.co.kr/view/AKR20260928025651001",
+   "simhash": "cf59abab29829ca6",
+   "event_key": "7cf5d377ee38c95a460e6b88c12ebc197ab1cfb0",
+   "title": "당정 \"반복 담합하면 '등록취소·영업정지' 가능하게 법 개정\"(종합)",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "가능하게",
+    "담합하면",
+    "당정",
+    "등록취소",
+    "반복",
+    "영업정지"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "583db7ba343a8aa02711e055ab922663fe20c126",
+   "url": "https://www.yna.co.kr/view/AKR20260928047400001",
+   "simhash": "d0f09584a1ae42a4",
+   "event_key": "9982a984cbb02a10343e6412a3813d40e42b07c4",
+   "title": "김민석, '재제청 거부' 曺에 \"헌법위반 시정이 K민주주의 기본\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "거부",
+    "김민석",
+    "민주주",
+    "시정",
+    "재제청",
+    "헌법위반"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f18d5a3ca3dbba2f29c80828536c59a40f442b6c",
+   "url": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons",
+   "simhash": "441b847113b21fa4",
+   "event_key": "74b37537c74ebeda9de347dd2210e022f156318d",
+   "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "ambassador",
+    "american",
+    "asked",
+    "jinping",
+    "trump",
+    "weapons"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a4b56403c557cf660d51df19cc961c76a36d7701",
+   "url": "https://www.theguardian.com/us-news/2026/sep/27/john-kennedy-white-house-trump-ad-tax-money",
+   "simhash": "47c65a1310329a98",
+   "event_key": "9fadd5d7d921f5e4cc1e874203a15a7ec599aca5",
+   "title": "Republican senator criticizes White House for taxpayer-funded Trump ads",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "criticizes",
+    "funded",
+    "republican",
+    "senator",
+    "taxpayer",
+    "white"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f12c8f61500d2703ab3e4a0ee47090cc10d81c17",
+   "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+   "simhash": "cde2729741378984",
+   "event_key": "3f6fbdd60a646248038600caa5bc843967c51cd5",
+   "title": "Embattled Serbian president resigns, paving way for early elections",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "elections",
+    "embattled",
+    "paving",
+    "president",
+    "resigns",
+    "serbian"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8ec1432dee52de78aeddb5f3026671159f7dfe2a",
+   "url": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
+   "simhash": "ca8464cfb32b52d0",
+   "event_key": "05ef1ad0fbb46ac05cd2bd2d92765d25bdc6a413",
+   "title": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "action",
+    "atrocious",
+    "decries",
+    "military",
+    "official",
+    "possibility"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6aed4740a80970b03aa7e2e97224d51fe9868139",
+   "url": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
+   "simhash": "e7aa1958cd80d048",
+   "event_key": "541c38a2cebd2dc83b1aac1da80acedfa5439d6d",
+   "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "genocide",
+    "ireland",
+    "israel",
+    "protest",
+    "refuse",
+    "screen"
+   ],
+   "sent_at": "2026-09-28T10:19:14+09:00",
    "followup_count": 0
   }
  ]
