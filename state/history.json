@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-09-28T10:19:14+09:00",
+ "updated_at": "2026-09-29T11:24:49+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -3767,6 +3767,378 @@
     "screen"
    ],
    "sent_at": "2026-09-28T10:19:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "39067a424f034e73e74aa68319de49ab7a9709c4",
+   "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+   "simhash": "0c025eda9d98a495",
+   "event_key": "7876700636d11b129d9445f5d1e09e68929b4eb6",
+   "title": "OpenAI reportedly ditches model over safety concerns",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "concerns",
+    "ditches",
+    "model",
+    "openai",
+    "reportedly",
+    "safety"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "32712da4bf898a6e3556dab7229292d4e577ee90",
+   "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+   "simhash": "fee8945925ccd760",
+   "event_key": "c7e1d9a8c17206be72dd06431ce61832cef61855",
+   "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "favor",
+    "gemini",
+    "gems",
+    "google",
+    "killing",
+    "skills"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "eea3badab1c03a5d7092d320044f2d8ceb9f77dc",
+   "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+   "simhash": "417c615d3c8a1421",
+   "event_key": "3551cfaf033426184f57c8b71396736ceb38a67d",
+   "title": "When can we say AI made a scientific discovery?",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "tokens": [
+    "discovery",
+    "made",
+    "say",
+    "scientific"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b863c76c49f22710cfe5f38bab6ccd09a66e2be0",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+   "simhash": "5667f9995c568c23",
+   "event_key": "f5ca547587b30394ee6090f5697a618b155ddcc4",
+   "title": "OpenAI’s AI agents need to catch up",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "agents",
+    "catch",
+    "need",
+    "openai"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c7778bb70327bc40ee02ef84c2cd4c42083405ed",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+   "simhash": "05784a515bf40373",
+   "event_key": "fd58f5ec0157cf11438c54ba29ba9a1783a357a8",
+   "title": "Florida seeks a ban on ChatGPT acting like a person",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "acting",
+    "chatgpt",
+    "florida",
+    "like",
+    "person",
+    "seeks"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e15a40e5730e367a36d2b158fdb72e88c89dab81",
+   "url": "https://www.venturesquare.net/1116582/",
+   "simhash": "5c1320f8f9380600",
+   "event_key": "0df7cf2fd3e84242fbe09e2c4f94ad9f10c228b4",
+   "title": "와디즈파트너스, 환동해 소셜벤처 10곳 키운다…최소 1곳에 1억원 이상 투자",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "곳에",
+    "소셜벤처",
+    "와디즈파트너스",
+    "최소",
+    "키운다",
+    "환동해"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "76b58c265f2f6c7d7eca80a19b0d510b5a960c47",
+   "url": "https://platum.kr/archives/295220?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b2%2588%25ec%2595%2584%25ec%259b%2583-%25ec%2598%2588%25eb%25b0%25a9-%25ea%25b0%2595%25ec%259d%2598%25eb%25b6%2580%25ed%2584%25b0-%25eb%25a0%2588%25ed%2581%25ac%25eb%25a6%25ac%25ec%2597%2590%25ec%259d%25b4%25ec%2585%2598%25ea%25b9%258c%25ec%25a7%2580-%25ea%25b2%25bd%25ea%25b8%25b0%25eb%25b6%2581%25eb%25b6%2580",
+   "simhash": "77112959c16edde0",
+   "event_key": "d517a6eb4c05f57c9111269fe996923aa345f654",
+   "title": "번아웃 예방 강의부터 레크리에이션까지, 경기북부 청년창업사관학교 입교생 네트워킹",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "경기북부",
+    "네트워킹",
+    "레크리에이션",
+    "번아웃",
+    "입교생",
+    "청년창업사관학교"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c1275cf8b6c3c1720a797442455d73ba840f9801",
+   "url": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
+   "simhash": "b4750f7a9c3ec6b3",
+   "event_key": "7fa2e6d331d03d3e414c4637b53b1ab718d380da",
+   "title": "Maritime intelligence startup Quartermaster raises another $140M",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "another",
+    "intelligence",
+    "maritime",
+    "quartermaster",
+    "raises",
+    "startup"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d13c7a09817eb46093e177fea5213fafb34a98f5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GN1NTQVg2bHIzd3d3djZ3a0ZveWhXdEZNX29ITVoyejlZamMzSUQ3VERqLWliMDFCSUdqY2w4dkFPcG02UGRINERoV2pUTDdlTkNWVU9Hd1gtekgybTBjZXBteFYzckFxcjJN?oc=5",
+   "simhash": "bf6aa8bccfea39e2",
+   "event_key": "dbfc8002f5c8d2738e82e7fe2d080c7e5b2caf86",
+   "title": "김신웅 의원 “대전 소상공인, 창업만큼 폐업…실질 지원 필요”",
+   "source": "동양일보",
+   "category": "biz",
+   "tokens": [
+    "김신웅",
+    "대전",
+    "실질",
+    "의원",
+    "창업만큼",
+    "폐업"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ab99fcb83c356b6b22c47d7bcf16cfab5323da0d",
+   "url": "https://www.worldlabs.ai/blog/amd-announcement",
+   "simhash": "2900f81773573f35",
+   "event_key": "0fc8a23a451b45752e355d07e1c9e2f25931a3dc",
+   "title": "World Labs Is Joining AMD",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "amd",
+    "joining",
+    "labs",
+    "world"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9c8010ac2d46d7cbfcb4b5b42360426d8dbb4ffb",
+   "url": "https://www.yna.co.kr/view/AKR20260929031800001",
+   "simhash": "0db1e08c68484a0b",
+   "event_key": "13a4cc2eb9aac9aa8fa872c5537a54d6ca1e3fad",
+   "title": "자택 출퇴근을 출장 처리…지방정부 협력사무소 '허위근무' 적발",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "자택",
+    "지방정부",
+    "출장",
+    "출퇴근",
+    "허위근무",
+    "협력사무소"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f6a52b36fd4a27b5e2975b013a498eb1a6d85ea9",
+   "url": "https://www.yna.co.kr/view/AKR20260929050400001",
+   "simhash": "aa0bdeaa24a0b905",
+   "event_key": "914a98b0cd063bdb83d123d551960ba1a5f4f5b6",
+   "title": "국힘, 與 '曺 국감 증인채택'에 \"李대통령도 불러 대질신문해야\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국감",
+    "국힘",
+    "대질신문해야",
+    "불러",
+    "증인채택"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "dbd50146a62482cd1fc7b1e5a701f74af118fa83",
+   "url": "https://www.khan.co.kr/article/202609291111001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "533bc52c9be259a2",
+   "event_key": "1f9cf1a0bad2a6f9453df903c6a637062e5769a6",
+   "title": "“북한 지뢰 가능성 높다” 군 발표에 공세 높이는 보수 야권…“대북 확성기 방송 재개하라”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "가능성",
+    "높다",
+    "발표",
+    "북한",
+    "재개하라",
+    "확성기"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d9763010e3bd9650488b59a21d41c7340ed81829",
+   "url": "https://www.khan.co.kr/article/202609291101001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "a64a251fcb82e67a",
+   "event_key": "b00f610971e6bcb3bfe441599512137793338e88",
+   "title": "추미애 “경기도 청년기본소득 국가 시범사업으로 도입해야···청년 모두에 공평한 출발선”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "공평한",
+    "도입해야",
+    "시범사업",
+    "청년기본소득",
+    "추미애",
+    "출발선"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3099996d3daa5c77a0c25ec45ae7ccae9e6fb33f",
+   "url": "https://www.mk.co.kr/news/world/12163518",
+   "simhash": "f94025e7a38d2a96",
+   "event_key": "a01a0a4ee707f547998283686ef263b302f5cad4",
+   "title": "“韓 무기 지원 못받자 보복?”…러 칼럼니스트, 젤렌스키 ‘北 포로 공개’ 이유 해석",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "못받자",
+    "무기",
+    "보복",
+    "젤렌스키",
+    "지원",
+    "칼럼니스트"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c2c828724a33bc17b0a5e8a9cf1597273edcb111",
+   "url": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+   "simhash": "23b1a7c7a12fd407",
+   "event_key": "86a4e91fb21ea17833e5d77c2b0750f66dab0e2e",
+   "title": "French PM warns against escalation of school protests after 164 arrested",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "against",
+    "arrested",
+    "escalation",
+    "french",
+    "protests",
+    "school"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "30b59eeb145c1148a944051de9ee9a5741675c2a",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
+   "simhash": "4774c050533fdf6b",
+   "event_key": "1cbd520829f5277d892007e12be5fced75d65d21",
+   "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "iran",
+    "offer",
+    "relief",
+    "sanctions",
+    "tehran",
+    "trump"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ede681f31ca57050fffe442dfb2a4d6af3d2e789",
+   "url": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
+   "simhash": "46f979ec840a674c",
+   "event_key": "818b18e14e47de245b91e9731825b15766d6855c",
+   "title": "The Frenemy: How Australia navigates superpower rivalry",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "australia",
+    "frenemy",
+    "navigates",
+    "rivalry",
+    "superpower"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d0ad1ffb72378bebd493c8945d4e4537a03bb48b",
+   "url": "https://www.yna.co.kr/view/AKR20260929005351071",
+   "simhash": "02951052405089c2",
+   "event_key": "b82299ce3df64846185a8494dbab5255afa18127",
+   "title": "트럼프 \"中에 무기판매, 좋은 생각이지만 시진핑과 논의 안해\"(종합)",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "논의",
+    "무기판매",
+    "생각이지",
+    "시진핑",
+    "좋은",
+    "트럼프"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ac997d15de9471c119f2d3464a1f054024573170",
+   "url": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
+   "simhash": "fcfa8d2e913ee77d",
+   "event_key": "e65b27722fdebdcb7237af07bb0a1c1ec96c700a",
+   "title": "Trump doubles down on claims US will win war with Iran ‘one way or another’ as talks are in doubt – as it happened",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "another",
+    "claims",
+    "doubles",
+    "happened",
+    "talks",
+    "trump"
+   ],
+   "sent_at": "2026-09-29T11:24:49+09:00",
    "followup_count": 0
   }
  ]
