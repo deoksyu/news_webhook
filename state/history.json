@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-09-29T11:24:49+09:00",
+ "updated_at": "2026-09-30T10:45:02+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -4139,6 +4139,382 @@
     "trump"
    ],
    "sent_at": "2026-09-29T11:24:49+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e57a9bcca7dc2b2aad860722060962febf638b10",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+   "simhash": "e506bdab369592fb",
+   "event_key": "84f8ef6bd12e905af5b3e91718c06f5791b85eb5",
+   "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "altman",
+    "models",
+    "public",
+    "safe",
+    "sam",
+    "until"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8000c8f00f46ee6273a4807791943d1cad862258",
+   "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+   "simhash": "d8d409389c96a309",
+   "event_key": "a33937e9443495cfa79152325fb930b9147ddcb9",
+   "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "convinced",
+    "elon",
+    "internet",
+    "launch",
+    "musk",
+    "trolled"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d219cdb2cc726b7857ab746b7139150139947e07",
+   "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+   "simhash": "c96ecf2611993d21",
+   "event_key": "0184d93501667f0f11de9229fde842ee151138c9",
+   "title": "OpenAI’s latest features take direct aim at the app store model",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "direct",
+    "features",
+    "latest",
+    "model",
+    "store",
+    "take"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "be61da09e9eff62572ed70b1e04624b060efd40c",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+   "simhash": "f400bb49f22a1583",
+   "event_key": "730653aa3dc73a410613c829fff3154d6fa1e1d0",
+   "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "dangerous",
+    "exactly",
+    "researchers",
+    "saying",
+    "superintelligence",
+    "videos"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ce26da60a3b7c605483ea166d7621f8895bb37c3",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUUFNseGRUd1JOX3dyUlNLMkd0R1Q4anZ1d0hqSjBYNE9vVW1Na2MwVVdDeWVuT2JKWlpUN1JWQlJ3NFFvbndQZGhNSGI2Z3dzSEJpbU9vdHlMSkZ6cWRCcdIBeEFVX3lxTFBUaTVIREJBb3hQSWJnNWVSRmhweHJmU0xDaWtJcEYydElzZEh4NWN3OUdYUTNucUxPbUlLd2FxU0YzTWlhZ2lLUzBmb3Uwd3FSZnVOaE9ua2dkRXZ4Y3BxQ0U2V3BqSU5xa1VEd3NmSzJWZDZrbFpweg?oc=5",
+   "simhash": "e5cc951e53f00172",
+   "event_key": "01917a32251412482c28b2995128e062a05db774",
+   "title": "\"전력이 반도체·AI 핵심 경쟁력\"…삼성, 에너지 연구 인력 확보 나서",
+   "source": "뉴시스",
+   "category": "ai",
+   "tokens": [
+    "경쟁력",
+    "삼성",
+    "에너지",
+    "연구",
+    "전력",
+    "핵심"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "544ee31399208316e003388f28af324ba379ed6e",
+   "url": "https://www.venturesquare.net/1116862/",
+   "simhash": "ece6e412b3fb0f7a",
+   "event_key": "c706728f733b7b413686b6252a6bea77084347b7",
+   "title": "시마AI, 2036억원 시리즈C 유치…휴머노이드·드론 겨냥 ‘1000 TOPS’ 피지컬 AI 칩 개발",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "1000",
+    "2036",
+    "tops",
+    "시리즈",
+    "피지컬",
+    "휴머노이드"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "30cf0a2381b495b5002959be57c1eba09a4512cc",
+   "url": "https://platum.kr/archives/295394?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b8%25ec%25b2%259c-%25ec%25b0%25bd%25ec%2597%2585%25ec%2583%259d%25ed%2583%259c%25ea%25b3%2584%25ea%25b0%2580-%25ec%2586%25a1%25eb%258f%2584%25ec%2597%2590-%25eb%25aa%25a8%25ec%259d%25b8%25eb%258b%25a4-surf-2026-incheon-%25ea%25b0%259c%25eb%25a7%2589-%25ec%2598%2588%25ea%25b3%25a0",
+   "simhash": "61782daec95065b9",
+   "event_key": "67d5146d2aba17247c60a73ce8b856a3fbd3f6f7",
+   "title": "인천 창업생태계가 송도에 모인다, ‘SURF 2026 INCHEON’ 개막 예고",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "incheon",
+    "surf",
+    "모인다",
+    "송도",
+    "인천",
+    "창업생태계"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "dfa350bf635d1b3601fd4c365187185d68ea6239",
+   "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+   "simhash": "4226df9d07087412",
+   "event_key": "19bde0d3a8e881434951b6744e9f10bcd0770f15",
+   "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "building",
+    "cancer",
+    "founder",
+    "glasses",
+    "losing",
+    "voice"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "621b012cdaccf4cadbf9d3ca723e2754b42d54b5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sVDkyZ0dONHE2N0NONGxIS0FPTVpPaGtnR2NBTVhDZ21PcGNkTTNoR09ZdG5jcG8xT3A2b2d6LVp5ei1Kd3BkT000OFpyeldacjRKQm5uYnRkc3ZvQ3RZWNIBeEFVX3lxTFA5RXlkUE5QWkNXa3R2V0RxS0RMaDVMQ3lzR2Vaeks4TzA5MWYyWk5HNFNES1FjTUlybnZvSW55N3UwZW53N3dHa0tlMF9CaVRoRGh6WUpPbHVkV3h5eVNZaFoxanNObE5ZYXRKN2ZsZzN6M3c1V1dlOA?oc=5",
+   "simhash": "5737582b871c89c4",
+   "event_key": "7e55f568d9bfedd5666dd0c27938c36fe5043a2f",
+   "title": "제주 소상공인 1805억 특별보증…연 1% 생활대출도",
+   "source": "뉴시스",
+   "category": "biz",
+   "tokens": [
+    "1805",
+    "생활대출",
+    "제주",
+    "특별보증"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bf2e738d2e1af5fff3125dd9d41442804012d9b1",
+   "url": "https://github.com/ninjahawk/livenerf",
+   "simhash": "8847b2797155c1cb",
+   "event_key": "bc992216ba43d719d7ed091c5177c48c363a8e0f",
+   "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "livenerf",
+    "nerfed",
+    "opus",
+    "yet"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "064e00fcf584d9968d6c325d4f00a46f81f12ec8",
+   "url": "https://www.yna.co.kr/view/AKR20260930058200001",
+   "simhash": "d20f65065a18e56c",
+   "event_key": "c6bdd08e1dbf7c6a4e4b469840d25340636f1148",
+   "title": "국힘 \"北 지뢰 부인, 정부가 눈치 본 결과…뻔뻔함 응징해야\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "눈치",
+    "부인",
+    "뻔뻔함",
+    "응징해야",
+    "정부"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0373633e309adadab477d78587d10d3b55b0e606",
+   "url": "https://www.yna.co.kr/view/AKR20260930069800062",
+   "simhash": "10552598815cb634",
+   "event_key": "e0728dd4df29c86168b0efc57f20f6abc1fa92bd",
+   "title": "강릉시민 1인당 10만원…11월 중순부터 강릉페이 지급",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "강릉시민",
+    "강릉페",
+    "만원",
+    "인당",
+    "중순",
+    "지급"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "950b25731381dc3c3ec4ff74f965d6df14800915",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008776320",
+   "simhash": "4545002c7490e9c0",
+   "event_key": "52f93781ca0855f469f812d1da071380d01cb45f",
+   "title": "한병도 \"내일 주택공급·재해예방법 처리…야당 필버 종결 안 하겠다\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "야당",
+    "재해예방법",
+    "주택공급",
+    "처리",
+    "하겠다",
+    "한병"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0464d55a6ee3d47b14179c10504ffa79c9af23dc",
+   "url": "https://www.khan.co.kr/article/202609300851001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "faa9a01ba500455a",
+   "event_key": "5f078ea71ecd91dfa3280b0cbd77e51ce27e6555",
+   "title": "김병주 “젤렌스키, 코미디언 출신이라 쇼한 것…포로 공개 배은망덕”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "김병주",
+    "배은망덕",
+    "쇼한",
+    "젤렌스키",
+    "출신",
+    "코미디언"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "aecf426a02db9a4b1dc53d1eb7516f3435ed8474",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008776264",
+   "simhash": "3c6ba00891d98404",
+   "event_key": "ea723ac5f0b02ddbdbaedccaae9de7370d7d8f99",
+   "title": "김민석, DMZ 지뢰 사고에 \"북한 자작극 운운 규탄…반드시 사과해야\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "dmz",
+    "김민석",
+    "반드시",
+    "사고",
+    "사과해야",
+    "자작극"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "820a1521498342ccd367fbf10b7dd6ebb9b3672f",
+   "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+   "simhash": "6d364988434c54c5",
+   "event_key": "af408fe462a4de339c18a49cea7851ca4398162b",
+   "title": "Trump rules out joint US-China venture to develop AI",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "china",
+    "develop",
+    "joint",
+    "rules",
+    "trump",
+    "venture"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "447ba4cb2b7d8614ac6114a26e1e945631a5729d",
+   "url": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
+   "simhash": "25b59118512ffa21",
+   "event_key": "1d52db0c0b918b94de7a30098e76c5aaf19d0f05",
+   "title": "Trump says he plans to campaign for 32 days before midterm elections",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "before",
+    "campaign",
+    "elections",
+    "midterm",
+    "plans",
+    "trump"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "07315f3132902d93b516d1259b5cc2925c4621f6",
+   "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+   "simhash": "c0f2d683a55643d3",
+   "event_key": "3b46d14f37b5009bc497293ffaca44bf3c7298f2",
+   "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "blames",
+    "company",
+    "defence",
+    "estonia",
+    "supplying",
+    "ukraine"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fbed1d0635ca4569e61e9de648e5cb6dbced5123",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss",
+   "simhash": "735880331dc7a1ff",
+   "event_key": "52421231cd14aa0d48122967d4e549450a120a4e",
+   "title": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "crimes",
+    "deflect",
+    "gaza",
+    "netanyahu",
+    "qatar",
+    "targets"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d859b0f756018b5e14b5a5a4be80979553160cfc",
+   "url": "https://www.yna.co.kr/view/AKR20260930062100083",
+   "simhash": "ce512aede4062c4d",
+   "event_key": "be5bc081b98f2ed1f22edb05348a193088c92a37",
+   "title": "中, 日'유엔 적국조항 삭제' 요구 반대…\"재군사화 현실적 위협\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "삭제",
+    "요구",
+    "유엔",
+    "재군사화",
+    "적국조항",
+    "현실적"
+   ],
+   "sent_at": "2026-09-30T10:45:02+09:00",
    "followup_count": 0
   }
  ]
