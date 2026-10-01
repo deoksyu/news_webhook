@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-09-30T10:45:02+09:00",
+ "updated_at": "2026-10-01T10:42:14+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -4515,6 +4515,381 @@
     "현실적"
    ],
    "sent_at": "2026-09-30T10:45:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "aff29b282932e65dd233d2ced84683a5f5bb9731",
+   "url": "https://www.etnews.com/20261001000026",
+   "simhash": "2304758c4540d843",
+   "event_key": "c9da1907d4c7cfa5ff132da3dce0beb9a73b8fb9",
+   "title": "오픈AI, '불량 AI 에이전트 해킹' 첫 피소…FTC 조사도 본격화",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "ftc",
+    "본격화",
+    "불량",
+    "에이전트",
+    "오픈",
+    "해킹"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c3eee3e3173d07fc491f9dfc449528b56f5300ed",
+   "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+   "simhash": "4f3d9e59d00f7225",
+   "event_key": "b26a611709e6e6272bf8f88833788ff699a93621",
+   "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "announces",
+    "capable",
+    "defenders",
+    "gemini",
+    "google",
+    "trusted"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 1
+  },
+  {
+   "url_hash": "6f006fe781027c9fafa72878491cf905c56fe770",
+   "url": "https://www.etnews.com/20261001000025",
+   "simhash": "b08fb40e45c5f18e",
+   "event_key": "753996c7ffb799f6601a9972019227d9f07d8f84",
+   "title": "구글, '제미나이 4 아르곤' 공개…100만 토큰·사이버보안 강화",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "공개",
+    "구글",
+    "사이버보안",
+    "아르곤",
+    "제미나",
+    "토큰"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e3838e76c6681de7238872588342fbe85bf978a1",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+   "simhash": "ad4aa93ab0df2b07",
+   "event_key": "d148ffed1d6fe00d4f8b825d7fab4af31b27b0c7",
+   "title": "The AI Tamagotchis are coming",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "coming",
+    "tamagotchis"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3c77ad158ad189e22bbd6828a458595d13adb04f",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0WFJtUTR6X0kxdWNJUjh4dWttRGE5Z043b2lhdFBrTlljUmVHRzh6ZXpjU010Y2VLUE9kb0Rhem83cll6VGxlWVVaSmdxVlYwazJSS25JejYyanEyeHpGWndrb2ZsZW8?oc=5",
+   "simhash": "4dac358d406aeac3",
+   "event_key": "3db3f3c05a4f011abc474a3d199fe4778a64dc1d",
+   "title": "몽고DB, AI 에이전트 프로덕션 전환 위한 ‘아틀라스 에이전트 엔진’ 출시",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "몽고",
+    "아틀라스",
+    "에이전트",
+    "위한",
+    "전환",
+    "프로덕션"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bf8530d25f81ca1b2503c302f474277aa4dfdbc5",
+   "url": "https://www.venturesquare.net/1117115/",
+   "simhash": "5127f03807d82ca3",
+   "event_key": "779f94403b1e6f5ff4485a6a9671375644b7370b",
+   "title": "“성장 멈추지 않게 다리 놓겠다”…센디에 10억 투자한 강종수 콜즈다이나믹스 대표, ‘성장 공백’ 메운다",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "강종수",
+    "놓겠다",
+    "멈추지",
+    "메운다",
+    "콜즈다이나믹스",
+    "투자한"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "39ef86d8a8297c010e2b22b5e40146aa4605ab40",
+   "url": "https://platum.kr/archives/295486?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258c%2580%25ea%25b8%25b0%25ec%2597%2585-25%25ea%25b3%25b3%25c2%25b7%25ed%2588%25ac%25ec%259e%2590%25ec%2582%25ac-30%25ea%25b3%25b3%25ea%25b3%25bc-1%25eb%258c%25801-%25ec%2583%2581%25eb%258b%25b4-%25eb%25b6%2580%25ec%2582%25b0-%25ec%25b0%25bd%25ec%2597%2585-%25ed%258e%2598%25ec%258a%25a4%25ed%258b%25b0%25eb%25b2%258c",
+   "simhash": "2afd4d51208567cd",
+   "event_key": "daa85f9e7aa126b414a9538f6d56e2faac59012c",
+   "title": "대기업 25곳·투자사 30곳과 1대1 상담, 부산 창업 페스티벌 ‘바운스 2026’ 열린다",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "곳과",
+    "대기업",
+    "바운스",
+    "열린다",
+    "투자사",
+    "페스티벌"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d2afb1f2beff4772f1dfdaf58f9b3b6d51d4c6dd",
+   "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+   "simhash": "cb4f40131f128220",
+   "event_key": "ad91bf4a1f83a267a6fdfa3b753438d8be256d14",
+   "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "america",
+    "billionaire",
+    "health",
+    "spotify",
+    "startup",
+    "worth"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c9e47e3296cf89f576aaf8dba7df53154c2f707f",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQZVhYWG1uQi1BQVdrY0lPQVpXWDd2THk1NTJRQjZHNWdFZUl2ZE5OSzlobUN5cXhFcGU2ZmdjU2hVcE9ySEJrdmdnenNjalBUU0hIUzQzODBzdFRKeXp5Qk41TlQwQzZVXzFZSzNvbHRuUdIBckFVX3lxTFBQZVhYWG1uQi1BQVdrY0lPQVpXWDd2THk1NTJRQjZHNWdFZUl2ZE5OSzlobUN5cXhFcGU2ZmdjU2hVcE9ySEJrdmdnenNjalBUU0hIUzQzODBzdFRKeXp5Qk41TlQwQzZVXzFZSzNvbHRuUQ?oc=5",
+   "simhash": "3ac7f8d4220e0397",
+   "event_key": "8746160c06d71e1ef43071bbf5e30c7ed4b432c6",
+   "title": "울산 소상공인 채무·폐업·재창업 한자리서 상담",
+   "source": "울산신문",
+   "category": "biz",
+   "tokens": [
+    "상담",
+    "울산",
+    "재창업",
+    "채무",
+    "폐업",
+    "한자리서"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 1
+  },
+  {
+   "url_hash": "92c6d6bc5292567b1e66329f62dd842b6a0160f3",
+   "url": "https://www.reddit.com/r/Entrepreneur/comments/1wu9gko/founders_currently_fundraising_hows_it_going/",
+   "simhash": "8378cf4eea445612",
+   "event_key": "050009a26cc1e94869ba1000fd7fe13028f9e448",
+   "title": "Founders currently fundraising, hows it going?",
+   "source": "r/Entrepreneur",
+   "category": "biz",
+   "tokens": [
+    "currently",
+    "founders",
+    "fundraising",
+    "going",
+    "hows"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e3ee8eb6945cfbd909d2b5c7209bf8718c3d8943",
+   "url": "https://www.yna.co.kr/view/AKR20261001057300001",
+   "simhash": "7339b96618c3a952",
+   "event_key": "a3137091d128a4c99e3f3a4af9a443300bd86db5",
+   "title": "국힘 \"참담한 국군의날…대북 저자세 노선이 안보 무너뜨려\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국군의날",
+    "국힘",
+    "대북",
+    "무너뜨려",
+    "저자세",
+    "참담한"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d3a9ce51d087067955692f660b3e3f88b35fabe5",
+   "url": "https://www.yna.co.kr/view/AKR20261001049800060",
+   "simhash": "010a17d1052dcf7a",
+   "event_key": "4b19f89f376478835c31827473e70827079d5f7b",
+   "title": "고양시장, 국회 예결위원장에 내년 국비 증액 건의",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "건의",
+    "고양시장",
+    "국비",
+    "국회",
+    "예결위원장",
+    "증액"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "329ddded763d522ec49758f3c6b677383ba79740",
+   "url": "https://www.mk.co.kr/news/stock/12165684",
+   "simhash": "37535d8f6227592a",
+   "event_key": "10728e7c730d1886b78a36e478796392aa44457f",
+   "title": "“경제 너무 잘 나가니 증시 긴장 모드”…美 10년물 5.3% 돌파, 24년 만에 최고",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "경제",
+    "긴장",
+    "나가니",
+    "너무",
+    "모드",
+    "증시"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fd614e72f312cbc3ca49aa4c81233e2c99dbd4b1",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008778078",
+   "simhash": "2f29c7725148cd34",
+   "event_key": "9584f5c1ee5f1fe98d362f23f6336181555d6fca",
+   "title": "김민석, '김지용 중수청장 후보자 반대'에 \"대통령 설명에도 계속 프레이밍\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "김민석",
+    "김지용",
+    "설명에",
+    "중수청장",
+    "프레이밍",
+    "후보자"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0b7db57e46934fca23dc851cf74c527e5f324d40",
+   "url": "https://www.khan.co.kr/article/202610010635001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "9f5b185439036dbf",
+   "event_key": "703898c3719424fb30d329a18019bfd3b73c112a",
+   "title": "김정관 장관은 “상업적 합리성 없으면 안 한다” 했는데…‘알래스카 LNG’ 떠맡은 한국",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "김정관",
+    "상업적",
+    "알래스카",
+    "없으면",
+    "합리성",
+    "했는데"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9581fd877bf8ab8786bedd32232e762f0da71f76",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+   "simhash": "4436cf321deca63b",
+   "event_key": "38aba6eb9facba4e1e7e582f4db0faf170efb09f",
+   "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "doubles",
+    "putin",
+    "russia",
+    "shows",
+    "stopping",
+    "ukraine"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "692f5f59e5ece401b93ab85a356dc286fe425621",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
+   "simhash": "2dcf515dd15e124d",
+   "event_key": "893bd9a1152de3b01669802033e384bf3187dab7",
+   "title": "Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "amazed",
+    "flight",
+    "flydubai",
+    "helped",
+    "israeli",
+    "plumber"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "42dc542451d74501e059319d9c1363fc301258fb",
+   "url": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+   "simhash": "f136c5b300dbebe3",
+   "event_key": "9faa26444f6ddb9b98029dfea74680c06e532854",
+   "title": "Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "bound",
+    "israel",
+    "netanyahu",
+    "pilot",
+    "plane",
+    "stabbed"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e4a3fca9626ec49febbd375a8dd35ce0e9995615",
+   "url": "https://www.yna.co.kr/view/AKR20261001015700071",
+   "simhash": "1276f74273d71d09",
+   "event_key": "4d2c06991e761f71039668d297c0ad86291a204d",
+   "title": "美USTR 대표, 中 철강 과잉생산 겨냥 \"각국 적절 조치를\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "ustr",
+    "각국",
+    "겨냥",
+    "과잉생산",
+    "대표",
+    "철강"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "44fbad3922f1faa97972d3d4c03dcaa3c2d5876c",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
+   "simhash": "6be25e3ce2a67317",
+   "event_key": "82d5bb3644234b5da27e2f03673c731deabc03de",
+   "title": "Russian drone crashes into Kyiv playground without exploding",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "crashes",
+    "drone",
+    "exploding",
+    "playground",
+    "russian",
+    "without"
+   ],
+   "sent_at": "2026-10-01T10:42:14+09:00",
    "followup_count": 0
   }
  ]
