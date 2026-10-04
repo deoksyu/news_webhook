@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-03T10:34:18+09:00",
+ "updated_at": "2026-10-04T11:15:22+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -5635,6 +5635,381 @@
     "triple"
    ],
    "sent_at": "2026-10-03T10:34:18+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d0cd774a279590e9e67a7be890d6f4c8816a06f5",
+   "url": "https://www.etnews.com/20261003000040",
+   "simhash": "6e6d805758e5b129",
+   "event_key": "7a4693f30e296f37826a64c7ace618b753ad7519",
+   "title": "“연봉 2억도 가능” 한마디에…日 청년들 몰린 '의외의 직업'",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "몰린",
+    "억도",
+    "연봉",
+    "의외",
+    "청년들",
+    "한마디"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "75f138bd7f9342edd7cd8ab28986cb7f47ecff0b",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84X3poMW5NQV9iaGdub3hWMU1UU2NJRVhUQllDUFZZbzloaEdiSi1jdjZJSlF0QnBlMl8wYV9XT091Y043LTRYTldhRG1yMXYwRjAtZERR?oc=5",
+   "simhash": "8e1b028a03c03edb",
+   "event_key": "1d5b2a4196f4eabf8ee64804865ec123fb474171",
+   "title": "[소외된 SW ㊦] GPU·모델만으론 부족…AI 투자, '돈 버는 SW'로 이어져야",
+   "source": "지디넷코리아",
+   "category": "ai",
+   "tokens": [
+    "gpu",
+    "모델만으론",
+    "버는",
+    "부족",
+    "이어져야",
+    "투자"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "73cf1fef21e2d4df629c3eee07b22f30e6329ba3",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+   "simhash": "096709289d00ce22",
+   "event_key": "227a470ad0486e036e14610a7d13e0fcfa927511",
+   "title": "An OpenAI safety employee has quit and is sounding the alarm",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "alarm",
+    "employee",
+    "openai",
+    "quit",
+    "safety",
+    "sounding"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "632dba3bf0e6d5b6efac28dc0c2e55318db185ff",
+   "url": "https://www.etnews.com/20261002000159",
+   "simhash": "041c66280c8ced42",
+   "event_key": "33f343c1058c9a4c2d306ca0387a727a83f35ae0",
+   "title": "“AI가 말하는 줄”…챗GPT 쓰더니 직장인 말투까지 변했다",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "gpt",
+    "말투",
+    "말하",
+    "변했다",
+    "쓰더니",
+    "직장인"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2e9519763bd2b71e2c0ea6abda29ee57fd2a4e1a",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yeGVtRml2M3d2YzA4Z3J3UDF0cVA1UGZaaUtPNmFnVkhVNGprMVZDZHJ4NG9PV000aThHU0p6NE9EdTNnalFYSmlIQU1MVlB3eWk5SjZHcmEwQzFFT3pfc0Q5TVN3dXVJQ0JPWW1CWTh6TUV3dFBDMNIBfkFVX3lxTE9MWDduam5SaTNZOGwzWGtLYkdlVzlCT3BwU1JYUzNGbEl6X2FtaktidWtRbjllME16WGVHRnp0Qjh0LTBPWVZjb0ZXV1U4N2dpTGlJTENSTUk5SVIzaHQ1cFhreU1LMTlRaFk1UDZPeXVxUFctbWY4cnA0Ty00QQ?oc=5",
+   "simhash": "cde0c00478620a40",
+   "event_key": "e8d42d5f0723ef5bc668bca1292c30d2bedfb26a",
+   "title": "AI로 지인 나체 합성 400개 제작·유포… 텔레그램방 '그놈' 잡고 보니 현직 경찰 - 머니투데이",
+   "source": "머니투데이",
+   "category": "ai",
+   "tokens": [
+    "나체",
+    "머니투데",
+    "제작",
+    "지인",
+    "텔레그램방",
+    "합성"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9a6ceca24d21a748264f23dda82d79f8d4b0aa90",
+   "url": "https://platum.kr/archives/295689?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25ac%25b4%25ec%259d%25b8-%25ec%2584%25b8%25ec%25b0%25a8%25eb%25b6%2580%25ed%2584%25b0-%25ec%25a0%2580%25ec%2588%2598%25ec%25a7%2580-%25ec%25a7%2584%25eb%258b%25a8%25ea%25b9%258c%25ec%25a7%2580-%25eb%258c%2580%25ea%25b5%25ac-%25eb%25a1%259c%25eb%25b4%2587%25c2%25b7%25ea%25b3%25b5%25ea%25b0%2584%25ec%25bb%25b4",
+   "simhash": "82e67da484025982",
+   "event_key": "634fe5e52410035b4f6bda080949edc23b275e85",
+   "title": "무인 세차부터 저수지 진단까지, 대구 로봇·공간컴퓨팅 스타트업 11곳 IR 무대에",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "공간컴퓨팅",
+    "대구",
+    "무인",
+    "세차",
+    "저수지",
+    "진단"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "56903d0b73ca04a5d871acceece3d7eae5f0b8b8",
+   "url": "https://platum.kr/archives/295714?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b1%2585%25ed%2581%25ac%25ec%2583%2590%25eb%259f%25ac%25eb%2593%259c-%25ec%25bd%2594%25ec%258a%25a4%25eb%258b%25a5-%25ec%2583%2581%25ec%259e%25a5%25ec%2598%2588%25eb%25b9%2584%25ec%258b%25ac%25ec%2582%25ac-%25ec%25b2%25ad%25ea%25b5%25ac-%25ec%25a7%2580%25eb%2582%259c%25ed%2595%25b4-%25eb%25a7%25a4",
+   "simhash": "b9facc4c6639bce1",
+   "event_key": "c688b38f941a2c4e120aca2c41f360a618b9ee4b",
+   "title": "뱅크샐러드, 코스닥 상장예비심사 청구… 지난해 매출 77% 늘어 260억원",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "매출",
+    "뱅크샐러드",
+    "상장예비심사",
+    "지난해",
+    "청구",
+    "코스닥"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2781adb3b1564d1c49dbd07bc365c33b5c81443d",
+   "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+   "simhash": "cee29f2285ba27e9",
+   "event_key": "4b76ceec6c0d537f60cd506db4e3db0fc2ff2f59",
+   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "agents",
+    "funeral",
+    "held",
+    "mobile",
+    "photon",
+    "replace"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "df0298eaa50ee4a2d602c8e711fc05fc307b561e",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wOTE3blhLWWpkQlJZYjFQb0FNMUVsMEZEVzZ4RmVaMlBUbUdzSWx1QnhOVi1jN1p0aHBLMFFEQXVqZHU3aUE5VGtfMW5tQk9mMWNHQjBITjRIYTlqYWNUTXpveS1salFfNGVz?oc=5",
+   "simhash": "bd138834271c1899",
+   "event_key": "35cfd66ac750649d3bdff827263b4b2a4383f8ef",
+   "title": "이소영號 중기부 4대 방향…규제개혁·코스닥·창업 후속지원·소상공인 비용",
+   "source": "issueon.co.kr",
+   "category": "biz",
+   "tokens": [
+    "규제개혁",
+    "방향",
+    "이소영",
+    "중기부",
+    "코스닥",
+    "후속지원"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3ba89625595d441660969d2fe678f22c0efbe6fa",
+   "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+   "simhash": "8d5cdc778ee0cde3",
+   "event_key": "38a771dd3cbe7fa9d8b1152c082d96ba22b655b9",
+   "title": "We're going to need default hard budget caps on pretty much everything",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "budget",
+    "default",
+    "everything",
+    "going",
+    "need",
+    "pretty"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ccd92437bf394817458d46f9dd3fa435657f7b61",
+   "url": "https://www.yna.co.kr/view/AKR20261003039000001",
+   "simhash": "dc83f836ce5fef34",
+   "event_key": "32d8b4bae8b930193a57e55aaaa74ccf1fbbd055",
+   "title": "李대통령 반박에도 與일각 회의론…김지용 청문절차 내홍 기로",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "김지용",
+    "대통령",
+    "반박에",
+    "일각",
+    "청문절차",
+    "회의론"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0df757d9a52019fa972a79dfc8d08f2f85694f77",
+   "url": "https://www.yna.co.kr/view/AKR20261003032900030",
+   "simhash": "acd2989924fa3206",
+   "event_key": "e432f15ce62665bfbb8e247d6bfad79b7b53b3ab",
+   "title": "정부, 농축산물 할인 지원에 6년간 1조3천억…예산 25배 급증",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "년간",
+    "농축산물",
+    "정부",
+    "지원",
+    "천억",
+    "할인"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d3be86305ab55802eadf1df02b583dca55dc4635",
+   "url": "https://www.khan.co.kr/article/202610041053001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "e391a6422a064136",
+   "event_key": "e69b4a0f573ce564aac92fbbfa5c1e0635482701",
+   "title": "“무혐의 나오면 책임져야 할 것”···‘성매매 의혹’ 고발당한 김상욱, 경찰 출석",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "고발당한",
+    "김상욱",
+    "나오면",
+    "무혐",
+    "성매매",
+    "책임져야"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1ac4a95994f62c62989bcc4530a96d996f3513cd",
+   "url": "https://www.khan.co.kr/article/202610041049001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "19efd676ea165e8d",
+   "event_key": "8e53f18ee2806cf9dbca06a886282cdd76602088",
+   "title": "해경 함정 5척 중 1척 ‘20년 이상 노후’…“고장·수리로 출동에 차질”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "고장",
+    "노후",
+    "수리",
+    "이상",
+    "함정",
+    "해경"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "62b083fa020184a6d7e4661ab98dc8dee1c6751b",
+   "url": "https://www.mk.co.kr/news/world/12167951",
+   "simhash": "b122b1f180b60285",
+   "event_key": "d273185eda1f98860a4b508af1e17dda1cb12722",
+   "title": "“미국에 공장 안 지으면 관세 300%”…트럼프, 중간선거 격전지서 또 협박",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "격전지서",
+    "공장",
+    "미국",
+    "중간선거",
+    "지으면",
+    "트럼프"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "faf547d0e8f7e4dbd58b6a59be13a0e1921be705",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+   "simhash": "a3f4facf850ce202",
+   "event_key": "c7fdc992bea04d819af911e82bf2e1d0014ae066",
+   "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "anger",
+    "crisis",
+    "housing",
+    "protest",
+    "streets",
+    "thousands"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0bcbc989ecb57639b14d996cdfb5136f38fce787",
+   "url": "https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss",
+   "simhash": "959d3039c38d938c",
+   "event_key": "6d500549dd2ab080a0d56db0b3a8b7f4f19fda15",
+   "title": "Serbian populist leader Vucic launches campaign for prime minister",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "campaign",
+    "launches",
+    "leader",
+    "minister",
+    "populist",
+    "serbian"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "670029a2b39a9441deabbc2f85a12723d595f2c2",
+   "url": "https://www.theguardian.com/us-news/2026/oct/03/trump-tom-cotton-daylight-saving-time",
+   "simhash": "c5f2ec8bf21e5f3b",
+   "event_key": "40777eacbc33461a8c184b4f1b671e690c1a08e3",
+   "title": "Trump appears to share personal phone number of US senator in ploy to push permanent daylight savings",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "appears",
+    "daylight",
+    "permanent",
+    "personal",
+    "savings",
+    "senator"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5fd0f08962b498c867488a1e919b0e4bbe5f01fe",
+   "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+   "simhash": "23f4c35624428127",
+   "event_key": "8f51abead708b0f97ff9b3d26da614c8b5972aef",
+   "title": "Why Canada is preparing for a (long shot) US invasion",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "canada",
+    "invasion",
+    "preparing"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7332fdc4d486ea7e9a461e7b986671a33ab51fbb",
+   "url": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump",
+   "simhash": "6cb41091e11d11dd",
+   "event_key": "145684ed0245069921cd7bc85cf01e6a1efc04ec",
+   "title": "For some Brazilians, this election is a vote on Trump",
+   "source": "NPR",
+   "category": "world",
+   "tokens": [
+    "brazilians",
+    "election",
+    "trump",
+    "vote"
+   ],
+   "sent_at": "2026-10-04T11:15:22+09:00",
    "followup_count": 0
   }
  ]
