@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-04T11:15:22+09:00",
+ "updated_at": "2026-10-05T10:24:57+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -6010,6 +6010,377 @@
     "vote"
    ],
    "sent_at": "2026-10-04T11:15:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "82766b523787d79ce50f5a117a501eb11a6bfcd3",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+   "simhash": "a50cd816950db32a",
+   "event_key": "12aeec4043174cd99fe16f7b9beeade6f74a1448",
+   "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "beat",
+    "cheat",
+    "couldn",
+    "decided",
+    "humans",
+    "starcraft"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "44c33f7757de2f1cd5f8f9e665c2af0689ecf2cc",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aazl6S0Y1eFdaUzhsTXVQcVNmVHlCQnVJTVBoZV85dzNQYU5XQzZSam5mYkpQOE9fTlZPZk1VaWFwWWRzUTJjbllVUzNPUQ?oc=5",
+   "simhash": "a6b020ead0dc654d",
+   "event_key": "9f6595e4293ddec7692f117daf1fc853c9d84c46",
+   "title": "[반도체 라이징 스타]엑시나, 스스로 계산하는 메모리로 AI 인프라 비용 낮춘다",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "계산하",
+    "낮춘다",
+    "메모리",
+    "스스",
+    "엑시나",
+    "인프라"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "71b92d7d124804e826ae9850830a356ceef5cc18",
+   "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+   "simhash": "b7de9cc90d294d01",
+   "event_key": "a52fdb7dbbad4b18495d587d78a56d5980ccbe41",
+   "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "bounty",
+    "google",
+    "program",
+    "significant",
+    "source",
+    "submissions"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "21f995d375c0cf79daccbb8fe9adaf040b9bd213",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ORzVhTmxtNGZZWXBsMGVpUVMwVUtLaEI5bHljSkFYT2JSbmw0aW43WnFhX1hxLTJrWWNKT0tLMDNxYUdvMXM2MmlLQzFwdw?oc=5",
+   "simhash": "fc98309b4d6db5e0",
+   "event_key": "b047c62f880b5cb847f0781287b302c9c3ed690f",
+   "title": "경북도, 美 유타주정부·유타대학교와 AI·반도체산업 협력 협약체결",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "경북",
+    "반도체산업",
+    "유타대학교",
+    "유타주정부",
+    "협력",
+    "협약체결"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a19eb8eb72d1d83fdb146bc4ef15dd17a790875d",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yZUVxdjI0bmNlNmt4QlFjNllJLVp1UzZ3TGRXOUJTTmhiWGNUaGVtRlJrYzViZ0I3Rkl1UlE5alM1eUN3VmgzQkZnb01PZGlWemxRT1Ytb3hITFVTenhMdw?oc=5",
+   "simhash": "02e163814542726f",
+   "event_key": "51adc4620646d79bb8b8c06fa63f179b131d4b75",
+   "title": "샘 올트먼 \"AI 혜택 위해 일부 위험 감수해야\"",
+   "source": "아시아경제",
+   "category": "ai",
+   "tokens": [
+    "감수해야",
+    "올트먼",
+    "위험",
+    "일부",
+    "혜택"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8e9a5290d118a2b1d92021027d64bdef749e076b",
+   "url": "https://platum.kr/archives/295708?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%25b4%25ec%2599%25b8-%25eb%25b0%2594%25ec%259d%25b4%25ec%2596%25b4-%25eb%25af%25b8%25ed%258c%2585%25ea%25b9%258c%25ec%25a7%2580-%25ec%259e%25a1%25ec%2595%2584%25ec%25a4%2580%25eb%258b%25a4-%25eb%25b9%2584%25ec%25a6%2588%25eb%258b%2588%25ec%258a%25a4%25ec%25ba%2594%25eb%25b2%2584%25ec%258a%25a4-ai-%25ea%25b8%2580",
+   "simhash": "86a0612682cd5533",
+   "event_key": "107071c4e7564fc8cd124956e44e759770901fcf",
+   "title": "해외 바이어 미팅까지 잡아준다, 비즈니스캔버스 AI 글로벌 영업 서비스 ‘아테나’ 출시",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "글로벌",
+    "바이어",
+    "비즈니스캔버스",
+    "서비스",
+    "아테나",
+    "잡아준다"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d5e0c9b9a794ca7828db6e2802846c0dc1d25f7a",
+   "url": "https://outstanding.kr/startupdbiporeport20261001/",
+   "simhash": "ca51005baa484220",
+   "event_key": "7d1e30b9f4e8b81ec633a1b3eef9f171deed1e4f",
+   "title": "[스타트업 DB 9월 IPO 리포트] 10조 대어 무신사부터 상장 후 주가 반토막 난 기업까지.. 주목할 IPO 17곳",
+   "source": "아웃스탠딩",
+   "category": "biz",
+   "tokens": [
+    "ipo",
+    "대어",
+    "리포트",
+    "무신사",
+    "반토막",
+    "주목할"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7fef29b81ea3474f14d2009f2ee29ebb4b1510f9",
+   "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+   "simhash": "5b2f3d6359ec73c0",
+   "event_key": "e6744db5fc81ab6beb885e9d65a7ca29ff52ff61",
+   "title": "TechCrunch Mobility: Reining in robotaxis",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "mobility",
+    "reining",
+    "robotaxis",
+    "techcrunch"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "024034a0d5c201493760293ddb0932556acf065b",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zSkM4cF9YUTY1TXFnUnh3dWp2WWV5UXNQbjhfT2I1OTdtMm9WV0F3cG4teG1CWWd3ZllncEEtZUc1WjNMd1o4OExmdG1EWkIzZjFTeEJZMUtkZnZFNUdoU0Rtbkc0UQ?oc=5",
+   "simhash": "e9043d5180ab665c",
+   "event_key": "75c55872d39166cdcd0f1cfdb6c765d5551de147",
+   "title": "[소상공인 창업가정신 Ⅴ] 단골에서 팬으로",
+   "source": "이로운넷",
+   "category": "biz",
+   "tokens": [
+    "단골",
+    "팬으로"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fb514e83ae1ccc16c8e526a58a7d93a8176e118d",
+   "url": "https://github.com/omlahore/RemoveMacAI",
+   "simhash": "fcfa5a793fd4d72a",
+   "event_key": "255d48365ae59fb2bd2cf936c72033577564ed50",
+   "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "apple",
+    "disk",
+    "intelligence",
+    "macos",
+    "space",
+    "turn"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e41098bed294416223331538d4ff5e33419ec1f2",
+   "url": "https://www.mk.co.kr/news/world/12168253",
+   "simhash": "bce78f4a0b8c3ee4",
+   "event_key": "bda79c1acee93e16dbe6ba7f8bef44efeca6d59b",
+   "title": "美 민주당 “트럼프 선거 개입 막자”…150가지 시나리오로 대비",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "개입",
+    "막자",
+    "민주당",
+    "선거",
+    "시나리오",
+    "트럼프"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e4403bcda72df8faed3e871387cb9409d733cbea",
+   "url": "https://www.yna.co.kr/view/AKR20261005003900003",
+   "simhash": "6c63d3118bd5502e",
+   "event_key": "c1d6718dd398c02094dd23821583dbb467209d3d",
+   "title": "'리츠 활성화 대책' 2년'…\"제도개선, 기대보다 속도 느려\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "기대보다",
+    "대책",
+    "리츠",
+    "속도",
+    "제도개선",
+    "활성화"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9037fcd12ba67c374208b2335c8234c870827af9",
+   "url": "https://www.khan.co.kr/article/202610051008001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "dec9c1952b5ae8c7",
+   "event_key": "bbea22ac8e2a972e6ec4895d36bb9b7b3177aaf1",
+   "title": "이 대통령 “무책임 극단주의 ‘무극파’ 경계…근거없이 혹세무민”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "경계",
+    "극단주",
+    "근거없",
+    "무극파",
+    "무책임",
+    "혹세무민"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6c0c5f16b692eebc0758c97356daba5c57c15f43",
+   "url": "https://www.khan.co.kr/article/202610050957001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "496b88ae1010073f",
+   "event_key": "fe9736a24b36b8ca42034ca7e6c80edd1c63d080",
+   "title": "이 대통령 지지율 ‘37.4%’ 3주 만에 소폭 하락···“김지용·DMZ 지뢰 폭발 사건 영향”[리얼미터]",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "dmz",
+    "김지용",
+    "만에",
+    "소폭",
+    "지지율",
+    "하락"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "72ce772d85d62be91d5914bbf884ce170cca070e",
+   "url": "https://www.yna.co.kr/view/AKR20261004015100060",
+   "simhash": "d0203563ab56e0eb",
+   "event_key": "f2a52335e443ab07534971273b962ef9b1b660dc",
+   "title": "추미애, 국토장관에 40개 사업 국가철도망 구축계획 반영 요청",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "구축계획",
+    "국가철도망",
+    "국토장관",
+    "반영",
+    "사업",
+    "추미애"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "98288b91334ef145e5c08846e7f56b0be6efb49f",
+   "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+   "simhash": "f37273c7212157af",
+   "event_key": "89be28a644dc142144ead7fe1ebce11e02ceec92",
+   "title": "Brazil presidential election 2026: first-round live results",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "2026",
+    "election",
+    "first",
+    "presidential",
+    "results",
+    "round"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b61e805bad75764a1fab1e7da04728833da2e44a",
+   "url": "https://www.yna.co.kr/view/AKR20261005006600091",
+   "simhash": "6351c541cdfc0ddc",
+   "event_key": "e7d7c7d57b701f7cd5ae8ffea7961a2ff0518217",
+   "title": "美-中·러, 이번엔 달 원전 경쟁…NASA, 2030년까지 건설 추진",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "2030",
+    "nasa",
+    "경쟁",
+    "년까지",
+    "원전",
+    "이번엔"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "202e56b541018448c34eeb4c4adfafacd952c6ec",
+   "url": "https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election",
+   "simhash": "9605389f65bb8ff2",
+   "event_key": "94809c3df415e0ed99580e47a0efc7dbf18f48e1",
+   "title": "Bosnian Serb nationalist Dodik declares party victory in Bosnia election",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "bosnia",
+    "bosnian",
+    "declares",
+    "election",
+    "nationalist",
+    "victory"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "931fd577ab47058862fc516daa97e466e6fe90ca",
+   "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+   "simhash": "9512d5cad00b0b21",
+   "event_key": "140caf8a79bf11d5ec4843aca59fc0c7905f6be3",
+   "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "announces",
+    "government",
+    "houthis",
+    "land",
+    "reclaim",
+    "yemen"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c2220c3ccfc4564a7a20ec7e08fb55067bc0e913",
+   "url": "https://www.npr.org/2026/10/04/nx-s1-5989593/brazils-election-could-shift-its-ties-with-the-u-s-and-china",
+   "simhash": "a7fa5f3aa5b955f6",
+   "event_key": "00c7282f897a5a11a41f7136255a2f86cdb96a95",
+   "title": "Brazil's election could shift its ties with the U.S. and China",
+   "source": "NPR",
+   "category": "world",
+   "tokens": [
+    "china",
+    "election",
+    "shift",
+    "ties"
+   ],
+   "sent_at": "2026-10-05T10:24:57+09:00",
    "followup_count": 0
   }
  ]
