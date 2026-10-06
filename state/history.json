@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-05T10:24:57+09:00",
+ "updated_at": "2026-10-06T11:35:48+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -6381,6 +6381,377 @@
     "ties"
    ],
    "sent_at": "2026-10-05T10:24:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8dc6e37ab1237cb3a9996b21feda90d5ade0d585",
+   "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+   "simhash": "b8888deb96f7a640",
+   "event_key": "6d2c6a65f8d91d69c0582423425996334c6becb9",
+   "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "chatgpt",
+    "openai",
+    "start",
+    "text",
+    "watermarking"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8e0790a2334982def653a1ee384164f92084c61e",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+   "simhash": "0273dbdb3cbefa21",
+   "event_key": "a2be071b02910fe3678a1a3d87b73ba2340d416a",
+   "title": "All the drama around AI&#8217;s takeover of mathematics",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "8217",
+    "around",
+    "drama",
+    "mathematics",
+    "takeover"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "dc307354fb1faa42cb1a7aed382f521c1787f070",
+   "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+   "simhash": "2707f416c45fe841",
+   "event_key": "fb15f9b2e773a7eb838d6f629d8025764e14e421",
+   "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "linked",
+    "openai",
+    "operator",
+    "outage",
+    "rogue",
+    "wikipedia"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1d28d12072be0171c1dada30ba6b6dd1a1f69c3d",
+   "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+   "simhash": "cc798c862d380b37",
+   "event_key": "a44d3f87bafa461499fcc8d42e1409c559a0facc",
+   "title": "Bringing predictive analytics to the agentic AI era",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "tokens": [
+    "agentic",
+    "analytics",
+    "bringing",
+    "era",
+    "predictive"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bf66a7ac51a3f0ef2bbd630c89739105bd183a31",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaRHRRdU1QT096TldqZTdWenlLWmFFeDJCSkw3aWNhTW9Pb0xwUEFKSzVvTWwzV25qNUVSUzIxZnZFYzJLVElXWnpaMl9PWUZPMkJJcDhOVmM5WU9nS09lQg?oc=5",
+   "simhash": "2d8c855ec1f9ee60",
+   "event_key": "616bedd12f72110aa683405c6b4f64674d95f9de",
+   "title": "두산로보틱스, 국산 AI 반도체로 '피지컬 AI' 협동로봇 개발",
+   "source": "아시아경제",
+   "category": "ai",
+   "tokens": [
+    "국산",
+    "협동로봇"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a13daed34491952236d5cb2958f53fd4335192a0",
+   "url": "https://www.venturesquare.net/1117871/",
+   "simhash": "a5141d3f3eecdc20",
+   "event_key": "a89706396b0cab038c7bebda828e1bf4260a363d",
+   "title": "네이버페이·하나은행·서울신보, 골목상권에 687.5억원 보증…청년 사업자 한도 130% 우대",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "골목상권",
+    "네이버페",
+    "사업자",
+    "서울신보",
+    "억원",
+    "하나은행"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6d464b738e0881920e5638dab67d7d96595aba3b",
+   "url": "https://www.venturesquare.net/1117839/",
+   "simhash": "94f4d6fb98ead5a4",
+   "event_key": "776464946f5a875d16ec605b4d4bb9e011723c3c",
+   "title": "‘모두의 IR’ 다음은 진짜 투자…6만3000명 ‘모두의 창업’의 두 번째 시험대",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "3000",
+    "다음",
+    "번째",
+    "시험대",
+    "진짜",
+    "창업"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "264a175055b0301dd83b2f75e3021dd3e4cc8cf8",
+   "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+   "simhash": "0f98fc124f2fc130",
+   "event_key": "a421becf8073ba3f55cfd1be5859d993d99a6e8a",
+   "title": "Etched fields funding offers at $40B+ valuation, sources say",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "etched",
+    "fields",
+    "funding",
+    "offers",
+    "sources",
+    "valuation"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5aa8870fc5d6660a44556a31d2a73a332387b465",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMTnNUUmVSR0tZMlAtd1RiV3NnOHY4Q0RtV0EwYlpfaE5PWjJsbEFFX2lwSGNhODB3Wi1FZDFpa3F3dm9YSzVNSU56bGJUTzNY?oc=5",
+   "simhash": "e965fcb15cba23b0",
+   "event_key": "25630d17d662423647d4429406e94cd7d2c28acd",
+   "title": "용산구, 창업 준비부터 사업 운영까지 돕는 ‘창업아카데미’ 개최",
+   "source": "문화일보",
+   "category": "biz",
+   "tokens": [
+    "사업",
+    "용산구",
+    "운영",
+    "준비",
+    "창업",
+    "창업아카데미"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ed62d7055b56886e491abb7c0e79364372a2545d",
+   "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+   "simhash": "323716b158d94f4c",
+   "event_key": "bf756ed4a421dee3fee3e21adc858e5e8a5f2d52",
+   "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "adding",
+    "cartoonists",
+    "cartoons",
+    "chatgpt",
+    "signatures",
+    "yorker"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cb04ed0b152d0d27b373e5385ba56102243d4b26",
+   "url": "https://www.yna.co.kr/view/AKR20261006073200001",
+   "simhash": "327a0f0d661f4d23",
+   "event_key": "c4cc3a92cd32dc15f9410586561a8e8892b15613",
+   "title": "외통위, 국감 시작부터 '대북제재 결의안' 채택 놓고 대립",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "결의안",
+    "국감",
+    "대북제재",
+    "시작",
+    "외통위",
+    "채택"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "70e069c9b5007c938e6ee57a92da1591d2f45484",
+   "url": "https://www.yna.co.kr/view/AKR20261006060100001",
+   "simhash": "58040356b4a6338f",
+   "event_key": "6717df10c820e8559a5bfc20427f235886235bb8",
+   "title": "국힘, '김재섭 소환'에 \"정치경찰, 보복 수사로 李정부에 조공\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "김재섭",
+    "보복",
+    "소환",
+    "수사",
+    "정치경찰"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9e31ee2fc1dc522b9f2f80254de7dc8b7a6a4ac7",
+   "url": "https://www.khan.co.kr/article/202610061124001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "b00abacbedd50fc1",
+   "event_key": "92e41eb802a9a87c4d8a1e97a9ac8993e19ffded",
+   "title": "김민석 “과한 주장으로 대통령 리더십 훼손 우려시 당에서 제어”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "과한",
+    "김민석",
+    "당에서",
+    "대통령",
+    "리더십",
+    "우려시"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0ea10e1faaf29b5029ad5e81375f4dd8bd00ee4b",
+   "url": "https://www.mk.co.kr/news/economy/12169003",
+   "simhash": "a4c202d549e5159d",
+   "event_key": "11d6f7d6e4a78267e9fd4c6ca9f3f1608c538aa1",
+   "title": "“정부, 美원전사업에 14조 백지수표 써줬다”…국힘 임이자 의혹제기",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "백지수표",
+    "써줬다",
+    "원전사업",
+    "의혹제기",
+    "임이자",
+    "정부"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fa9239b3e9cb16a29e92dba2d70a43e350f95f86",
+   "url": "https://www.khan.co.kr/article/202610061112001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "8b32d71008c3ee02",
+   "event_key": "a0f35bbfb84a9070fb5c0f1ebdb39019ed3ea8d2",
+   "title": "국민의힘 소속 지자체장도 대북 확성기 반대…“접경지역 주민 안전 우려”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "국민의힘",
+    "대북",
+    "소속",
+    "접경지역",
+    "지자체장",
+    "확성기"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "306b4db3b4e433b47c7cc03af7776a4635195342",
+   "url": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
+   "simhash": "8e23c4a3f1570db2",
+   "event_key": "03768738a4dcae5b9dad7787608fc4a0536e67e7",
+   "title": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "grinds",
+    "korea",
+    "russia",
+    "shipped",
+    "south",
+    "ukraine"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "36392f742a1d168f686974ab090f67ca7bc9b7d3",
+   "url": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss",
+   "simhash": "bc9bf4365b1db437",
+   "event_key": "46e999723377b0d8b5fdb0cc2c6f808d43abe0cc",
+   "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "clash",
+    "crimes",
+    "hague",
+    "kosovo",
+    "police",
+    "protesters"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f048b852d785ce0a6837839329f2cd7965931843",
+   "url": "https://www.theguardian.com/politics/2026/oct/05/conservatives-britannia-shield-israel-iron-dome",
+   "simhash": "81cfa02f0a086921",
+   "event_key": "a9f63bf5f443ad7e52efbb4cce2f7465760895d3",
+   "title": "Conservatives propose £10bn ‘Britannia Shield’ inspired by Israel’s Iron Dome",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "britannia",
+    "conservatives",
+    "inspired",
+    "israel",
+    "propose",
+    "shield"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9078b0406e944d86ed97e90934d8c43dee1d9b02",
+   "url": "https://www.aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia?traffic_source=rss",
+   "simhash": "2c05d33a52040718",
+   "event_key": "e3e1b6e93a796c5476a944ad0a9ec062dc669289",
+   "title": "Trump says US ready to aid Russia with plague outbreak in Siberia",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "outbreak",
+    "plague",
+    "ready",
+    "russia",
+    "siberia",
+    "trump"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a29aa3a1bada25bbbb452b062aa9598a05fc2e7f",
+   "url": "https://www.yna.co.kr/view/AKR20261006034200009",
+   "simhash": "91218508f7790c01",
+   "event_key": "0e3ade1f70751790c13c29736f04400202a46563",
+   "title": "리플렉션AI, 첫 오픈소스 AI 모델 '빔' 공개",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "공개",
+    "리플렉션",
+    "모델",
+    "오픈소스"
+   ],
+   "sent_at": "2026-10-06T11:35:48+09:00",
    "followup_count": 0
   }
  ]
