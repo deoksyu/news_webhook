@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-06T11:35:48+09:00",
+ "updated_at": "2026-10-07T10:54:19+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -6752,6 +6752,384 @@
     "오픈소스"
    ],
    "sent_at": "2026-10-06T11:35:48+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5d271e9a031f7c76f96de14ad8044bbf7f96bba2",
+   "url": "https://www.etnews.com/20261007000126",
+   "simhash": "e1a681841d213221",
+   "event_key": "0555e548a9dc7211cbeca2263c10735804ebe6c9",
+   "title": "어플라이드, 인텔과 AI 반도체 공정·3D 패키징 개발 협력",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "개발",
+    "공정",
+    "어플라이드",
+    "인텔",
+    "패키징"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e423af57c98a2cfc9a69d55e51152ef5d2a0b570",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+   "simhash": "2c781b3b713ce029",
+   "event_key": "71851540fb353c899afae3d34227a2f22036e3ad",
+   "title": "OpenAI drops another batch of mathematical breakthroughs",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "another",
+    "batch",
+    "breakthroughs",
+    "drops",
+    "mathematical",
+    "openai"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3431b8c92c96f7c705220e9dca3328d3f617df76",
+   "url": "https://www.etnews.com/20261007000094",
+   "simhash": "69dae41979b920c7",
+   "event_key": "3b82ea496bd97970ac328b5e1c48b11e3469c2ba",
+   "title": "보스턴다이나믹스, 피지컬 AI 힘싣는다…로히트 프라사드 신임 CEO 영입",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "ceo",
+    "로히트",
+    "보스턴다이나믹스",
+    "신임",
+    "프라사드",
+    "힘싣는다"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5ca9c0ebb6f5947b25e1ec94185634a7f064b411",
+   "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+   "simhash": "3cb912be5f4085a1",
+   "event_key": "cf4337c980402c8bb029610cb0ce55634b73742f",
+   "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "anthropic",
+    "claude",
+    "credits",
+    "free",
+    "giving",
+    "startups"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f5dc996c9bc2dc87ed1f8c2ea9eb09fdc528d23b",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zNngxUVotRnVqc19yanNnamZ6ZTVEM0VkX0I3WUpPSkdabFpvWnZsbmhJQ1VNSUFPNW5SSnJCQW56aXk5d2VieWctRUt2TU5JNFBSM21wV2hoYkQtYUhDX2NGS095dU0?oc=5",
+   "simhash": "6549892cceb15e60",
+   "event_key": "1deeae6b19f1f718daa90897380df619024567a5",
+   "title": "리플렉션AI, 5010억 파라미터 오픈웨이트 모델 ‘빔’ 공개…‘더 오래 생각하는 AI’가 아니라 ‘효율적으로 생각하는 AI’",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "5010",
+    "리플렉션",
+    "생각하",
+    "아니라",
+    "오픈웨이트",
+    "파라미터"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "364b7e425eb0cc06bfebb9078bcf5f6ef970e314",
+   "url": "https://www.venturesquare.net/1118289/",
+   "simhash": "a8c996deb84ee9b2",
+   "event_key": "0de03b08fb21f196939ca2e3af7b85c28f73f88e",
+   "title": "부산창조경제혁신센터, 매주 수요일 창업 실무 푼다…콘텐츠·마케팅·HR까지 ‘W-DAY’",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "day",
+    "마케팅",
+    "부산창조경제혁신",
+    "센터",
+    "수요일",
+    "콘텐츠"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cfa974cfa77728cab238176f2ca36214bb9d884d",
+   "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+   "simhash": "4b14c5bedb3c2d67",
+   "event_key": "3ca3a06ced4529c16858afdca9a06fd22a614379",
+   "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "appointments",
+    "booking",
+    "dealership",
+    "flai",
+    "month",
+    "software"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cf9f500a27124ddeaf6ce8251d37ee2a16a1fae3",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HMm5aQmcxLWwwVFBfbVZiZkJic0xOWGxrZmZZUTQzWXNEWW9SSWk2WnNQZTAwdWxMb3RXQ2dtb3BVUXppcnphQTlMQ3h5dw?oc=5",
+   "simhash": "1c26b0f4238aada0",
+   "event_key": "e7789d81e9b84d964b1c221c5d2c843e7766ced3",
+   "title": "'첫 국감' 이소영 “소상공인 비용부담 지표로 관리…'창업벤처규제혁신위원회' 신설”",
+   "source": "전자신문",
+   "category": "biz",
+   "tokens": [
+    "국감",
+    "비용부담",
+    "위원회",
+    "이소영",
+    "지표",
+    "창업벤처규제혁신"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "232920737ce217dd4e58ea44a382c53cdb034682",
+   "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+   "simhash": "4136e3501d79c491",
+   "event_key": "269383b75c2344b22fb768d157bbaf4370382724",
+   "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "completed",
+    "discovery",
+    "merger",
+    "paramount",
+    "skydance",
+    "warner"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d410787001a6ac08409d56637933be9e746d8cbd",
+   "url": "https://www.venturesquare.net/1118126/",
+   "simhash": "ff9e29a8bb4f2a98",
+   "event_key": "f57b58a3b289b1d085e08e5e20ee1f3b80d5b3fb",
+   "title": "기보·서울대기술지주, 대학 딥테크 발굴해 보증부터 후속투자·IPO까지 잇는다",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "ipo",
+    "딥테크",
+    "발굴해",
+    "서울대기술지주",
+    "잇는다",
+    "후속투자"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 1
+  },
+  {
+   "url_hash": "824807ccdcce8067457bdf45e442bfd1ae2dde23",
+   "url": "https://www.yna.co.kr/view/AKR20261007046400001",
+   "simhash": "615e8c88291fa588",
+   "event_key": "0e9b32152892d55e66c7bb15bacce70eab6f8336",
+   "title": "한병도 \"국힘 막말·고성에 국민 눈살…국감 망가뜨리지 말아야\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "고성",
+    "국힘",
+    "막말",
+    "말아야",
+    "망가뜨리지",
+    "한병"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e41f89fd4306ba590d36821fb57c75bd6cf86a7e",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008786536",
+   "simhash": "5f5c920a66a74d63",
+   "event_key": "64e5ccf8a3100c8fe456f733e89d6c1ff112b6be",
+   "title": "국방부 \"북 MDL 침범, 유엔사 공동조사 후 정전협정 위반 통지 추진\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "mdl",
+    "공동조사",
+    "국방부",
+    "유엔사",
+    "정전협정",
+    "침범"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a56ce8fd98a1a3e403b047da7d293abdb41e2157",
+   "url": "https://www.khan.co.kr/article/202610070826001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "10307822518580aa",
+   "event_key": "45b0960dd921b7e43d513d1b5d0af10d43376bc7",
+   "title": "트럼프 “LA·샌디에이고 파괴하게 놔둬라”···이란전 ‘작은 대가’ 발언 파장",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "놔둬라",
+    "샌디에이고",
+    "이란전",
+    "작은",
+    "트럼프",
+    "파괴하게"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c381406613e14a5ab938ce9f98abde36ff590927",
+   "url": "https://www.yna.co.kr/view/AKR20261007063700001",
+   "simhash": "2f9681549986e34c",
+   "event_key": "658f6277c7c3a3b86cc4ac8a7b2d12fbc113e9be",
+   "title": "정부, 유엔에 대북의료지원 보고…\"내달까지 北남포항으로 운송\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "남포항",
+    "내달",
+    "대북의료지원",
+    "보고",
+    "유엔",
+    "정부"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c7595154fd9d4d4a74a5e2d198b7adcd64af21bd",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008786185",
+   "simhash": "d6bd552ea4033c6e",
+   "event_key": "96d214453e25f2087fbeff2f2fe8fa93b557d231",
+   "title": "김민석 \"대법원장, 재제청 문제 처리 못하면 그만두는 것이 낫다\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "그만두",
+    "김민석",
+    "대법원장",
+    "못하면",
+    "문제",
+    "재제청"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3b73869db7e3a635751bf1421c686185f7d9d9be",
+   "url": "https://www.aljazeera.com/news/longform/2026/10/6/we-are-desperate-venezuelas-power-cuts-fuel-growing-public-anger?traffic_source=rss",
+   "simhash": "8faf52cfbe747701",
+   "event_key": "ec955ef95a0c125d2f5ffbed3dc978dea3a29aa2",
+   "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "anger",
+    "desperate",
+    "growing",
+    "power",
+    "public",
+    "venezuela"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3780aa8b93d1baad9e6f7b8a8088a94591adda76",
+   "url": "https://www.aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case?traffic_source=rss",
+   "simhash": "2e71da3a840e1678",
+   "event_key": "d248963b4044450f06a4e8f768612a74b109b095",
+   "title": "US CDC says it’s ‘aware of and closely monitoring’ Russian plague case",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "aware",
+    "case",
+    "closely",
+    "monitoring",
+    "plague",
+    "russian"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a3ce80c71630f55651ceb7906ea110518693d7c4",
+   "url": "https://www.yna.co.kr/view/AKR20261007004000071",
+   "simhash": "ea39be7fb7660042",
+   "event_key": "f2c610b5fbd88ac07014fa5ee836a47b587ce229",
+   "title": "美, 그린란드 이어 아이슬란드로 中·러 견제 '전초기지' 확장",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "견제",
+    "그린란드",
+    "아이슬란드",
+    "이어",
+    "전초기지",
+    "확장"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cc6e2c36881da78498a03e38330fc0c9e9510e07",
+   "url": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
+   "simhash": "297ad15792d0c2cb",
+   "event_key": "0e2871d841f705d829f0aca8a687181fd79f0da0",
+   "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "handed",
+    "policing",
+    "politicians",
+    "state",
+    "students",
+    "violence"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "24a3d985904312513718df0eb8f732786cf89189",
+   "url": "https://www.yna.co.kr/view/AKR20261007049500083",
+   "simhash": "370a992b010f9694",
+   "event_key": "4bb9e2b1d4d1ea71bd9f426a7deb2fa6fe08cf8b",
+   "title": "中, 대만 F-16V 첫 인수에 \"美, 대만 무기판매 단호히 반대\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "단호히",
+    "대만",
+    "무기판매",
+    "반대",
+    "인수"
+   ],
+   "sent_at": "2026-10-07T10:54:19+09:00",
    "followup_count": 0
   }
  ]
