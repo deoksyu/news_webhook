@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-07T10:54:19+09:00",
+ "updated_at": "2026-10-08T11:22:20+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -7130,6 +7130,380 @@
     "인수"
    ],
    "sent_at": "2026-10-07T10:54:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "54da693e6cb24610fb6597b0df333c39e5dddd44",
+   "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+   "simhash": "33b4d9b30071ecd4",
+   "event_key": "e1c810f3229576981135ec8fa91ff7720b42c080",
+   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "chip",
+    "microsoft",
+    "nvidia",
+    "releases",
+    "revamped",
+    "windows"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "610b12eb506990c2daa4c5d96602abcac85f39b6",
+   "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+   "simhash": "a531990745f91321",
+   "event_key": "2b6a700e9497ceca741d02b0d21f12127b73e046",
+   "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "chatgpt",
+    "crises",
+    "during",
+    "health",
+    "mental",
+    "talking"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b2d1fdcc50f22fa232df49c5006dd7de9a21a445",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+   "simhash": "a54f7a7654366121",
+   "event_key": "9ee1b1f2c3b61110856ea5368ea6d7c5cddc7441",
+   "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "buttons",
+    "chatgpt",
+    "intelligent",
+    "pictures",
+    "responses",
+    "update"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4e9b092e050474bb21857ce9b52273b27fc64002",
+   "url": "https://www.etnews.com/20261008000087",
+   "simhash": "113a55d2121834b4",
+   "event_key": "2ae13f34cc6a276644053fd87209d6cc68c3fb03",
+   "title": "신한·KB 노린 해킹범 정체는 '광둥성 거주 26세 중국인'?…AI 흔적서 개인정보 포착",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "개인정보",
+    "광둥성",
+    "신한",
+    "중국인",
+    "해킹범",
+    "흔적서"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "405e19568b95d02e1f4d73066a2ad8962cf6a128",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGTVN6cnBVTkNCbjFBSmVKUlREd2dTZmowNGNYQWk1OThzRXpETUw1Z092bWNWenpvV2psWi1LdE9CcnJsbjZ3RllaVU12ZUtNTm1aSFpJenZWazMzV0JaMjBQNmdTd2s?oc=5",
+   "simhash": "35e732a41ebf1f59",
+   "event_key": "f43f78d4dd8f69ea29d7ec494c227da614832cef",
+   "title": "삼성전자, 3분기 영업익 107조 ‘사상 최대급’…AI 반도체가 실적 판 바꿨다",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "바꿨다",
+    "사상",
+    "실적",
+    "영업익",
+    "최대급"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "695e309a3b4f017d9f791d14c2c4ae98cc1f293f",
+   "url": "https://www.venturesquare.net/1118473/",
+   "simhash": "1f1fdcbb98c8378e",
+   "event_key": "1754a313767f2f03a4f36e49a6ab6ddb6b817f71",
+   "title": "부산에서 아시아로, 세계로…‘FLY ASIA 2026’, 해양 AI·투자·협력의 장 열었다",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "2026",
+    "asia",
+    "fly",
+    "부산",
+    "아시아",
+    "열었다"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3a21712d2f6890d28f8a33bb2bc3ed263e448aa0",
+   "url": "https://platum.kr/archives/295847?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2599%2588%25ed%258a%25b8-%25ea%25b8%25b0%25ea%25b5%25ac-%25ed%2595%258f%25ec%2597%2590%25ec%259d%25b4%25eb%25b8%2594-%25ec%259a%25b4%25ec%2598%2581%25ec%2582%25ac-%25ed%258e%2598%25ec%2585%2594%25eb%2584%25a4%25ec%259d%25b4%25ed%258a%25b8-%25ec%2594%25a8%25ec%2597%2594%25ed%258b%25b0%25ed%2585%258c%25ed%2581%25ac",
+   "simhash": "348821d0136a26f5",
+   "event_key": "3e7aa67b568267c19ef6419cc78138e4d6813563",
+   "title": "홈트 기구 ‘핏에이블’ 운영사 페셔네이트, 씨엔티테크서 투자 유치",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "기구",
+    "씨엔티테크서",
+    "운영사",
+    "페셔네이트",
+    "핏에이블",
+    "홈트"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d8ea58b3c06ce6ad715574dd72755321c5f396c8",
+   "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+   "simhash": "ce0bc6158f72173a",
+   "event_key": "aa06241d1e9ff23bb1ef3703afd57d2fca330891",
+   "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "alibaba",
+    "american",
+    "become",
+    "bloom",
+    "manufacturing",
+    "raises"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "18a94e9784e34e2b89bddd4c0bd3e660b265e332",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnJKczRINnM0X1p4VHdEaDh5N0F2ZjB1WGtnV251azU1ZVMtaWpzS1RmNWxuN0M3amVDYU1Qb1IxQUVSVEhXRDBicWliOWI5VVFXSU5aUEN0cDU3a3d0SzlUN0dKREFKRnpMYk40cndBb05PeFVMSWI5Z2NMZ0V2Y3hsdV9aME4xV2stb056M0gzZi0tcmFycWl3SFB6T3liSkl2R2hLcGJGQnRiSWFXNA?oc=5",
+   "simhash": "1e14f85e4ba8d320",
+   "event_key": "2f46d1797f0eeb59911fd3af5d8c339757dcacd2",
+   "title": "이소영 \"소상공인 안전망 강화…창업벤처규제혁신위 신설\"",
+   "source": "노컷뉴스",
+   "category": "biz",
+   "tokens": [
+    "강화",
+    "신설",
+    "안전망",
+    "창업벤처규제혁신"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ffaeefda6df4a38864b15dfdc5bc81056807ef88",
+   "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+   "simhash": "dd2118e24e8fafbe",
+   "event_key": "a270660d19af8477e0fc186ec2d1ac9b62da90cf",
+   "title": "Margaret Hamilton has died",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "died",
+    "hamilton",
+    "margaret"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "914ce735fe6cec8dc19e8cbb6d49494ecabf07ea",
+   "url": "https://www.yna.co.kr/view/AKR20261008040200001",
+   "simhash": "46600ba2c1e5802a",
+   "event_key": "f43ed407abb94fe5e8401acce271b79342a61ad8",
+   "title": "장동혁 \"與, 조희대에 모욕적 질문하며 국감장 감금…의회 내란\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "감금",
+    "국감장",
+    "모욕적",
+    "장동혁",
+    "조희대",
+    "질문"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a80eaa9ed934aca2f0495cd8762c5bc6c60d4d76",
+   "url": "https://www.khan.co.kr/article/202610081100001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "21d181a665d3fd4b",
+   "event_key": "1305a0b321e0b1de0c44608fba0b871955e092cb",
+   "title": "[속보]정부, 농민들 반발에 농지조사 큰 폭 후퇴···관행적 임대·휴경, 농지은행 안 맡겨도 처분 안 한다",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "관행적",
+    "농민들",
+    "농지은행",
+    "농지조사",
+    "반발",
+    "정부"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "948cae00268ceec6011430469ad9a5bb358b0c90",
+   "url": "https://www.yna.co.kr/view/AKR20261008032600002",
+   "simhash": "a56c0c49822ec2c2",
+   "event_key": "7eb23516342a4286aacf4df5af862798fa118524",
+   "title": "정부, 일자리TF회의…\"양질 일자리·훈련 기회 제공 방안 마련\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "기회",
+    "양질",
+    "일자리",
+    "정부",
+    "회의",
+    "훈련"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "450295aac83b4064824f57df19738db63dccefe1",
+   "url": "https://www.khan.co.kr/article/202610080952001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "f501531d03e62e41",
+   "event_key": "fdb3050a67a653c1684ff35b18c2ecc1b098d848",
+   "title": "환자 잇단 사망, “살려달라” SOS 쪽지 날린 정신병원…정부·인천시 현장점검 나선다",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "sos",
+    "나선다",
+    "살려달라",
+    "인천시",
+    "정신병원",
+    "현장점검"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "08a60aa9f91b2d79653becdeac52a41c0fb93ee2",
+   "url": "https://www.mk.co.kr/news/politics/12171318",
+   "simhash": "74efd84f268a35a3",
+   "event_key": "0e079a710b178fa42d04ee81cf18b2a462f7f4f2",
+   "title": "한병도 “5·18 유공자 명단 공개는 비열한 정치…국힘 법안 철회하라”",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "공개",
+    "명단",
+    "비열한",
+    "유공자",
+    "철회하라",
+    "한병"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "32b4b9d095936461800146a02c3276eee8b480b1",
+   "url": "https://www.yna.co.kr/view/AKR20261008061800089",
+   "simhash": "39fd5acfbfe3a98a",
+   "event_key": "510e16e533c3b4a9477305711599f1a13cca1614",
+   "title": "푸틴 측근, APEC 앞두고 방중…'미중러 정상회담' 논의 가능성",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "apec",
+    "가능성",
+    "미중러",
+    "앞두고",
+    "정상회담",
+    "푸틴"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9c565d55abc04d8a8b7864d2cf7c28cbff05ab01",
+   "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+   "simhash": "dc8bd2d96a73936a",
+   "event_key": "0e1c0ec26ad4914a962ce7f2d9f4b30872f9f63a",
+   "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "attack",
+    "deadly",
+    "israelis",
+    "mourn",
+    "october",
+    "victims"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "79ea472cc39e678b8af47027103b74c2bc3d4822",
+   "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
+   "simhash": "0c1f7cd415cf0faf",
+   "event_key": "e1288fc900eaae5e7777baf8ca49e43a11964b78",
+   "title": "EU-China trade talks begin in Beijing amid escalating pressure",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "beijing",
+    "china",
+    "escalating",
+    "pressure",
+    "talks",
+    "trade"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "35daf79b50ec64cc7222cc657fdb99936832aa7d",
+   "url": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins",
+   "simhash": "2850f776eda2ecbf",
+   "event_key": "8b5b5e1a8d49b9d2edc9466f0af8ab22625c5db3",
+   "title": "‘Neither war nor peace’: Palestinians in Gaza on existing amid disease, despair and ruins",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "despair",
+    "disease",
+    "existing",
+    "neither",
+    "palestinians",
+    "peace"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3ca6ed97cad1c4ba59bf17e7589538347a9241ee",
+   "url": "https://www.theguardian.com/world/2026/oct/07/maria-del-carmen-abascal-spain-housing-protests-dies",
+   "simhash": "8101008cd0da4f60",
+   "event_key": "9f258422f198655c81b4555117460380ffa6aa3d",
+   "title": "María del Carmen Abascal, symbol of Spain’s housing protests, dies aged 87",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "abascal",
+    "carmen",
+    "housing",
+    "protests",
+    "spain",
+    "symbol"
+   ],
+   "sent_at": "2026-10-08T11:22:20+09:00",
    "followup_count": 0
   }
  ]
