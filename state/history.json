@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-09T11:39:55+09:00",
+ "updated_at": "2026-10-10T10:59:46+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -7883,6 +7883,381 @@
     "pancras"
    ],
    "sent_at": "2026-10-09T11:39:55+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6cd6f5cc677d305a1a62e63c5e7f64075a42fc73",
+   "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+   "simhash": "fdd0db7a5f64e68b",
+   "event_key": "11e4891a01aeb71f4cf8571148892cb36bbf318d",
+   "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "anthropic",
+    "control",
+    "cutting",
+    "internal",
+    "internet",
+    "reliably"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b0e83be7355ca090da9e9842565bf6ba9847c01c",
+   "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+   "simhash": "4e3b9d105d00aa09",
+   "event_key": "7cd57b0dcc1d141d93485d17477c9d14dc4c49fa",
+   "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "launch",
+    "maker",
+    "model",
+    "text",
+    "valued",
+    "weeks"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "789e2cdb0f49bf6d513997e4ae20d55bcad42533",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+   "simhash": "4eea981a505db629",
+   "event_key": "2d40963aa5d3f3771fea113b17d8f52ebc4b0628",
+   "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "insanity",
+    "latest",
+    "mathematicians",
+    "openai",
+    "sense",
+    "years"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d3b53431bb5370371f9c959d44987accf9e9bd6e",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HaDJTbkFkVnB3NDRYLTRRTkh5Tjk3bHZWenFZTEhaWmxRai1zdFM5NWJDZzZjb1VUbnJOY2x0amFfcmNheWlBTkhILU9QaEJ0THV3MmNqNEw3VTZ2VzlTYjBXUjdYc1hndFRWbXFGaE1leFYzS1ZLN9IBeEFVX3lxTE9HaDJTbkFkVnB3NDRYLTRRTkh5Tjk3bHZWenFZTEhaWmxRai1zdFM5NWJDZzZjb1VUbnJOY2x0amFfcmNheWlBTkhILU9QaEJ0THV3MmNqNEw3VTZ2VzlTYjBXUjdYc1hndFRWbXFGaE1leFYzS1ZLNw?oc=5",
+   "simhash": "d552e39f0f01fde0",
+   "event_key": "2595f6b1b42ed65079beb5a5d6986d504813b332",
+   "title": "앤트로픽 인공지능, 미 정부 웹사이트들에 무단 접근",
+   "source": "뉴시스",
+   "category": "ai",
+   "tokens": [
+    "무단",
+    "앤트로픽",
+    "웹사이트들",
+    "인공지능",
+    "접근",
+    "정부"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8b3f2c22c3e4728f1329281b884a605335fef935",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yTjA2Tk5sWE1CUHVic0ptQ2pJQzVwVlNFUnJ2Rk15NHpSWG9CdFVGeGRoM1d2SlBudHZwbGpud0FSMGlGT25NenoydlA3Mkd4R1HSAVNBVV95cUxPc0djZFYxR25hb2U1dlJxb3hNYXdxei1ES3JzVkRYczVCbXpacjZfS0JsQ25EaGFlS0VFdTdITk5XVzJBZ1p5OHZtUkx1VVUyQ3QwYw?oc=5",
+   "simhash": "98284e1bf2d28984",
+   "event_key": "254f6ed663b90985263c3afd1955f34e2dcda17b",
+   "title": "해커보다 빠르게 위협 찾는다…차세대 AI 보안 전략은[빛이 나는 비즈]",
+   "source": "서울경제",
+   "category": "ai",
+   "tokens": [
+    "보안",
+    "빠르게",
+    "위협",
+    "차세대",
+    "찾는다",
+    "해커보다"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c5e7c801414dba617dc2f543149bb8a5d27ccad8",
+   "url": "https://platum.kr/archives/295982?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%25b1%25ea%25b0%2580%25ed%258f%25ac%25eb%25a5%25b4%25eb%25a1%259c-%25ec%2598%25ae%25ea%25b2%25a8%25eb%258f%2584-%25eb%2582%25a8%25ec%259d%2580-%25ec%25a4%2591%25ea%25b5%25ad%25ec%259d%2598-%25ec%2597%25b0%25ea%25b2%25b0%25ea%25b3%25a0%25eb%25a6%25ac-%25eb%25a7%2588%25eb%2588%2584%25ec%258a%25a4%25ea%25b0%2580",
+   "simhash": "fa45ee3d3c4402fa",
+   "event_key": "761cc53e201a58a5e9cb7a69bda599457f1628d3",
+   "title": "싱가포르로 옮겨도 남은 중국의 연결고리, 마누스가 걸어온 길",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "걸어온",
+    "남은",
+    "마누스",
+    "싱가포르",
+    "연결고리",
+    "옮겨"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "53ae0ec869c6762993bade323219fabca1133197",
+   "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+   "simhash": "4936bc58d85b7fa1",
+   "event_key": "2e24d4020fdd411a4e2fd58e0f8763493df352bc",
+   "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "china",
+    "first",
+    "funding",
+    "manus",
+    "raises",
+    "round"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cb77efc8e8f20cdfb4a968914bbd0491bda5cd03",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lUnN2a2psSUREeWFsaU5hNVBIZGdzaGFzV1NfV21xWElYZ2ZGaEpyUEZIb3hiX0dxN2djdlA4c3hnSGNrUHk2WUlQV1dJQmJXZEHSAVNBVV95cUxNUUhwZ0dEMFRQYlZheVR6RE9oTDdTVG5iTzNKRHgzUUxPWGtTNFFBSHA3WlRWOVdKZS1ESWF3RXA4LVNPaGsxV2lmelJfOG9hQ0hkMA?oc=5",
+   "simhash": "7dd468b209703008",
+   "event_key": "42f47478d349986039165c40fd4457f963f2f262",
+   "title": "이소영 중기장관 “창업규제혁신위 신설…국책사업서 中企 역할 찾을 것”",
+   "source": "서울경제",
+   "category": "biz",
+   "tokens": [
+    "국책사업서",
+    "신설",
+    "역할",
+    "중기장관",
+    "창업규제혁신위",
+    "찾을"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "04902b83f5b9f29562e468fa5c4c3bd40f8485bd",
+   "url": "https://typesafe.ai/blog/series-ai",
+   "simhash": "cb7d738382b9ac5b",
+   "event_key": "ef4cc17bc317c13e5d60c1dbcd130c164f690ef3",
+   "title": "Typesafe AI raises $870M at $7.5B",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "raises",
+    "typesafe"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f826d83e353b190e49c7b6a615eaa642f70d4770",
+   "url": "https://www.venturesquare.net/1118409/",
+   "simhash": "3099de68b47dc467",
+   "event_key": "4fcbf8400b38b17616b274685fc4f68b3f739e38",
+   "title": "경기창조경제혁신센터, 기후테크 ‘기술력’을 투자 가치로 바꾸려면…밸류에이션·IR 해법 공유",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "경기창조경제혁신",
+    "기술력",
+    "기후테크",
+    "바꾸려면",
+    "밸류에이션",
+    "센터"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4b06c38aae0571f0cd3d3e6e3ef20fd20b33a1fe",
+   "url": "https://www.yna.co.kr/view/AKR20261010002300001",
+   "simhash": "a21f99badef63b0f",
+   "event_key": "d2e0ab1a1c97b93116adb84d93213d512cb0c451",
+   "title": "조의장, 크로아 대통령·총리 면담…경제협력·인적교류 논의",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "경제협력",
+    "면담",
+    "인적교류",
+    "조의장",
+    "총리",
+    "크로아"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "32465782f7b0197272977a525e01471b38a3887c",
+   "url": "https://www.khan.co.kr/article/202610101012001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "d665922c2075ce51",
+   "event_key": "b84c41237214144de99e19187cb3e47e1ccb87de",
+   "title": "[속보] 박기창 주우크라이나 한국 대사 결국 귀국···정부 ‘본국 소환’ 결정 이틀 만",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "결국",
+    "귀국",
+    "대사",
+    "박기창",
+    "주우크라이나",
+    "한국"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "90172dd65d4edd47e167b01fff9cdccd4c9dbbc8",
+   "url": "https://www.mk.co.kr/news/world/12172673",
+   "simhash": "a6b76e2e59af8039",
+   "event_key": "974e5f8b7e40263406a37cb353c687de89a2aa6d",
+   "title": "“카드값 1억 내달라”…측근·가족 구설에 곤혹스러운 트럼프",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "가족",
+    "곤혹스러운",
+    "내달라",
+    "측근",
+    "카드값",
+    "트럼프"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d4a893064658c653864021f596afa1f1a8deca5f",
+   "url": "https://www.yna.co.kr/view/AKR20261010020000001",
+   "simhash": "b6f1623c768b2b03",
+   "event_key": "ef72e92c0cc398d2107b9c6eb2381d9ec930b712",
+   "title": "與김한규 \"이화영은 개인 비리도 있어…李대통령 사건과 달라\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "개인",
+    "김한규",
+    "비리",
+    "사건",
+    "이화영",
+    "있어"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "835a147ee352a69d5bbf87adcfd9903177dc88b0",
+   "url": "https://www.khan.co.kr/article/202610100911001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "08678674251ca441",
+   "event_key": "3bfdf3bf73bd48359be96e02b413b6fd1f8dd08a",
+   "title": "트럼프 “푸틴과 러 경유 공급 합의”…중간선거 전 제재 완화",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "경유",
+    "공급",
+    "중간선거",
+    "트럼프",
+    "푸틴",
+    "합의"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "eca558b7ae6553b6a3f6b266c8b606d5522b160e",
+   "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+   "simhash": "0925e5aaf69aa315",
+   "event_key": "11f0a4919af4b2e39b83af96cd5442bacbb6247a",
+   "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "announces",
+    "calls",
+    "diesel",
+    "putin",
+    "russian",
+    "zelensky"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4aa5dc443b240de670b3eb11e83c7254f2dea6dd",
+   "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+   "simhash": "a777054a75d20321",
+   "event_key": "da9398270efa73ca0bd921954b4400de84b524cc",
+   "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "analysis",
+    "highlights",
+    "mounting",
+    "pressure",
+    "prices",
+    "russia"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2fe460c935cf6203ca4b2e0afa86469d9d602b93",
+   "url": "https://www.yna.co.kr/view/AKR20261010019100009",
+   "simhash": "e122cafffbdbf144",
+   "event_key": "eec02832cd61cc1b52365a0c78a95e1f9f4e20e7",
+   "title": "젤렌스키, 트럼프·푸틴 '경유딜' 맹비난…\"푸틴 생일선물\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "경유딜",
+    "맹비난",
+    "생일선물",
+    "젤렌스키",
+    "푸틴"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f4c89a793c354b033af700f09268bdf4193d3ce0",
+   "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+   "simhash": "07306017506b5660",
+   "event_key": "641c727f83e4565e04ba70b4d54dc7815cbc13be",
+   "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "against",
+    "canada",
+    "european",
+    "japan",
+    "sanctions",
+    "states"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "16e1475140318ddd6b180e9188c9e3c2c0335f25",
+   "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+   "simhash": "f94579f25e4f2878",
+   "event_key": "8b3b015fb10435ebce8124e73a3bc809f55ef986",
+   "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "international",
+    "judge",
+    "nobel",
+    "peace",
+    "pillay",
+    "promoting"
+   ],
+   "sent_at": "2026-10-10T10:59:46+09:00",
    "followup_count": 0
   }
  ]
