@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-10T10:59:46+09:00",
+ "updated_at": "2026-10-11T10:25:03+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -8258,6 +8258,377 @@
     "promoting"
    ],
    "sent_at": "2026-10-10T10:59:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "87ebbd4b9709235085324c9aa66daca117b92db6",
+   "url": "https://www.etnews.com/20261008000266",
+   "simhash": "38466801d19a0251",
+   "event_key": "86dfd0f919c6e0af11483a48a13b378d39e6e777",
+   "title": "'AI 해킹'에 통신사 비상태세 돌입…전사 취약점 점검",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "돌입",
+    "비상태세",
+    "전사",
+    "점검",
+    "취약점",
+    "통신사"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c760623ac90d6ec242c9e059e5849f5b7c9049b1",
+   "url": "https://www.etnews.com/20261008000207",
+   "simhash": "2304104e43e105ec",
+   "event_key": "c929c838639e1245b62c461011fa7ba113294ab3",
+   "title": "구글과 손잡은 日 파나소닉…불붙는 '스마트 홈 경쟁'",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "경쟁",
+    "구글",
+    "불붙",
+    "손잡",
+    "스마트",
+    "파나소닉"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2c9728d3318bed23628c85911ba40b59de81514d",
+   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+   "simhash": "452ba1133c7c1e12",
+   "event_key": "cb448e69b3ef68ffd65436583a473826868d9551",
+   "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "brake",
+    "emergency",
+    "microsoft",
+    "models",
+    "nadella",
+    "satya"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "50bdc14666b3c2b58ba1f1d0fcb7e93d9dfa4a91",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+   "simhash": "750bf1aadf56df2b",
+   "event_key": "20389b7c1e42f5ed3391e234f3bad5d25927dda3",
+   "title": "AI agent makers are promising privacy — will they deliver?",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "agent",
+    "deliver",
+    "makers",
+    "privacy",
+    "promising"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a4e3b698d4f53e08d2298896476600e107f30d76",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4bmtZWGltaHRWQjBSc1JyaFNzVEI3eWsweldXeFRGYXo3bTlGZmNPTGpGQ1F1WDJlOHhLaG9la3FlakZ5bUFnMFFTOGt4dy11U3N6dFdTUzVkWTFVT2ppNGUxcEhvQWdpRVJrNEU4eWbSAXRBVV95cUxQU0lBU21LZXRlWXhHQnBYX3p0LWdfdW9rVHNRQUY0REpJRzJQekp3SXR5V3ZJUW9VQkgtRE54RnNQT1J6ZlFfQ2RZLWJFa3lFaWd6Yldqd1VSWmJRcnEyVWxwVTdrT1ljZy13RmQ3eW9CeUFtdQ?oc=5",
+   "simhash": "d596f59d4168ff74",
+   "event_key": "978cd633c0027f0d248488bafb89ec72a17cd55d",
+   "title": "MLCC·AI반도체·회사채액티브·AI에이전트 [이주의 상장ETF]",
+   "source": "IT조선",
+   "category": "ai",
+   "tokens": [
+    "mlcc",
+    "에이전트",
+    "회사채액티브"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "666078f52645c046d8f48376ecf57a66f628c36c",
+   "url": "https://www.venturesquare.net/1117960/",
+   "simhash": "8a7e17a565ce20ee",
+   "event_key": "b4af9c38d473cd497d4dd89ac075d7ece4e6b9f4",
+   "title": "[최앤리의 스타트업 법률 가이드] SAFE는 간단하고 RCPS는 복잡하다? 스타트업 첫 투자계약에서 놓치기 쉬운 것들",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "rcps",
+    "safe",
+    "간단하고",
+    "복잡하다",
+    "최앤리",
+    "투자계약"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "37ab2828e2dbffd9119ff1212277619060589aa7",
+   "url": "https://platum.kr/archives/295980?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25ed%2583%2580-%25ec%259d%25b8%25ec%2588%2598-%25eb%25ac%25b4%25ec%2582%25b0%25eb%2590%259c-%25eb%25a7%2588%25eb%2588%2584%25ec%258a%25a4-%25eb%258f%2585%25eb%25a6%25bd-%25ed%259b%2584-%25ec%25b2%25ab-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598",
+   "simhash": "21ad05169060c0a0",
+   "event_key": "5ad733522af563f4402dbfd9ecdb8eb670b719ed",
+   "title": "메타 인수 무산된 마누스, 독립 후 첫 투자 유치",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "독립",
+    "마누스",
+    "메타",
+    "무산된",
+    "인수"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a9ac27256d24f09f4457d6a322b83513b9727798",
+   "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+   "simhash": "0cd5981a18e20633",
+   "event_key": "bffec613845dbca44ba61f0bc13bd5cbe880ce71",
+   "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "centers",
+    "defense",
+    "energy",
+    "modernize",
+    "petra",
+    "vehicles"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2a36e2b5fafe41c4efa8a0f12f219900334af3c6",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfdW1kcWl2QXB6cjF3WWRPTXRLdUoxcEQwMFFDMTl6azBWQm5oclM2SE0xU1UyM1hxOEhvVU5YMEMxd1FHampndFlhM1IwZmd4akwxRmlaaHVJbVE?oc=5",
+   "simhash": "b406bc5402abd5e9",
+   "event_key": "f840c72dd9a3e8d38bf9237984c798c506293315",
+   "title": "[이상헌의 성공창업경제학] '치킨값 논란' 소상공인의 생존 문제다",
+   "source": "위메이크뉴스",
+   "category": "biz",
+   "tokens": [
+    "논란",
+    "문제다",
+    "생존",
+    "치킨값"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1f4b55400949c0bc51121c4d45fe577a0c5ceb9c",
+   "url": "https://housing.over.pizza/",
+   "simhash": "0eac93a495b4769a",
+   "event_key": "46fc081332abb51a7fc050f03e8778a63c8684ee",
+   "title": "A city-building game in which the city would prefer you didn't",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "building",
+    "city",
+    "didn",
+    "game",
+    "prefer"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "350899628f2e8254d866a135e9ccd137ff06a477",
+   "url": "https://www.yna.co.kr/view/AKR20261010028200001",
+   "simhash": "98d89acd48716a25",
+   "event_key": "37c94f364581a68bc9272688a111f63790056989",
+   "title": "與하락세에도 국힘 지지율 횡보…반사이익 부재에 엇갈린 진단",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "반사이익",
+    "엇갈린",
+    "지지율",
+    "하락세에",
+    "횡보"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bd6c7d2d2d0cfa9c3a82912946300d309c2ecef1",
+   "url": "https://www.yna.co.kr/view/AKR20261010024800530",
+   "simhash": "5e08e13b487c2f7d",
+   "event_key": "d75cfb92fafe9cc2e80ddf9dbb0fbefe18b0094d",
+   "title": "김영훈 \"민주노총, 경사노위 들어와야…복귀조건에 정부도 공감\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "경사노위",
+    "김영훈",
+    "들어와야",
+    "민주노총",
+    "복귀조건",
+    "정부"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e23f64d15339eb0f12e771db1bc15bd237896bc5",
+   "url": "https://www.mk.co.kr/news/world/12172833",
+   "simhash": "2720d02ee8810be7",
+   "event_key": "90671dd88bb5636d5332ef163dc3be6535c3a2c7",
+   "title": "“야당 인사 대통령선거 출마 막으려 개헌하나?”…비판여론 커진 멕시코",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "개헌하나",
+    "대통령선거",
+    "막으려",
+    "멕시코",
+    "비판여론",
+    "야당"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "da10f797c25cdbea033905004198f0591b7d9512",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791619",
+   "simhash": "4121e283aa265efe",
+   "event_key": "955849ba8bf9deef8b4e35221e88ab6e2402b5d3",
+   "title": "김정은, 대외 메시지 없이…당 창건 81주년 공연 관람",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "김정",
+    "대외",
+    "메시지",
+    "없이",
+    "주년",
+    "창건"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1f157bb04550206311729fc17adcd8f9b5d86ff4",
+   "url": "https://www.khan.co.kr/article/202610111013001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "f12a23362dc94882",
+   "event_key": "727ad8dbb02e46beb531f2eab289f0a664525718",
+   "title": "이 대통령 “품격 없다 비난해도 SNS 소통 계속할 것···조롱 당한 노무현 전 대통령 떠올라”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "sns",
+    "계속할",
+    "노무현",
+    "대통령",
+    "떠올라",
+    "비난해"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7ed1120d7944b9f3cbb3f31b0694d579dd7a2605",
+   "url": "https://www.yna.co.kr/view/AKR20261011011400009",
+   "simhash": "e67192dba08ddcc4",
+   "event_key": "ae28cf123970663922367cb2dbf3c66f9e6506c7",
+   "title": "\"美, 러 정유소 공격 멈추라며 우크라에 정보공유 중단 경고\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "공격",
+    "멈추",
+    "우크라",
+    "정보공유",
+    "정유소",
+    "중단"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fc08051d6b1e75fb8637541f58d9d56715de9ce6",
+   "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+   "simhash": "6da773901814dd19",
+   "event_key": "6c4e7d46ff7e0c300d24a71352a2366cf44e9680",
+   "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "get",
+    "president",
+    "time",
+    "ukraine",
+    "watch"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "332fe26b99a2c8da54713021d00b12650437805f",
+   "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+   "simhash": "0da68633ee1eb3c4",
+   "event_key": "eb6d2b3d6f3d88020f9718bf682536078f3aec76",
+   "title": "Trump says Ukraine needs a new leader after diesel deal with Russia",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "deal",
+    "diesel",
+    "leader",
+    "needs",
+    "russia",
+    "ukraine"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "17e9ab0c2e1c0fc966ee5fa149c1b81ae04395db",
+   "url": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
+   "simhash": "e70518161c56239a",
+   "event_key": "ed17ab47f49efb048f0a67522876baa49be1705f",
+   "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "across",
+    "demand",
+    "europe",
+    "israel",
+    "photos",
+    "thousands"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "934b53dd1a5f47ec3832f28b65fcd8c7052dad9f",
+   "url": "https://www.yna.co.kr/view/AKR20261011000651085",
+   "simhash": "62164ee238a31c5b",
+   "event_key": "a4b6529118fd0fe41f1d48caaf7cf45621b4a112",
+   "title": "미러 '경유딜'에 EU \"전쟁자금 대는 것\"…영국 \"우크라와 연대\"(종합)",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "경유딜",
+    "대는",
+    "미러",
+    "영국",
+    "우크라",
+    "전쟁자금"
+   ],
+   "sent_at": "2026-10-11T10:25:03+09:00",
    "followup_count": 0
   }
  ]
