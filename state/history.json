@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-11T10:25:03+09:00",
+ "updated_at": "2026-10-12T10:55:07+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -8629,6 +8629,382 @@
     "전쟁자금"
    ],
    "sent_at": "2026-10-11T10:25:03+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f59b334c6fab621b9995b935289754a697ff5bcd",
+   "url": "https://www.etnews.com/20261012000006",
+   "simhash": "e218e39ec34041e4",
+   "event_key": "bca87c0775ba112964c7811bac928e0673404e5f",
+   "title": "일본 반도체 연봉도 뛰었다…디스코 평균 1억6000만원 육박",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "6000",
+    "디스코",
+    "뛰었다",
+    "연봉",
+    "일본",
+    "평균"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2f9364ff7c6cd2de6877fa5a1e8a3d16f6e428fe",
+   "url": "https://www.etnews.com/20261012000001",
+   "simhash": "993f2d19628ee73a",
+   "event_key": "33b6e9ecb49153050ec816399db1614dbe25cf5d",
+   "title": "MS CEO “AI 비상장치 마련 필요...언제든 종료할 수 있어야”",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "ceo",
+    "마련",
+    "비상장치",
+    "언제든",
+    "있어야",
+    "종료할"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "778ab122b6ef9260b6e465550fb532d73d5724a8",
+   "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+   "simhash": "ccec52df18d80c0c",
+   "event_key": "fd2d693bc4e6a9e32ffc7b23265f2ea3d156c8ba",
+   "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "chatgpt",
+    "execs",
+    "moment",
+    "reached",
+    "these",
+    "think"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "28493bb7cbd7196dbc9ddfbe50b4ec5144782613",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaER6ejFQZXN0X0g5ZUhCRDc3dGFwRFRma01mSXFmNkxCeTZKbWdiTlhfS0NKSFcycXg0TnBGdkNLODVtRXVlRUZDUUkxZGk4RmY2TkVRUDN1TDkzdXM2UjZsdFpVR1c4YlhJa2hXazJJUGc1ZndvTVFfZUtXd2FQNA?oc=5",
+   "simhash": "a9da9fece18e77e3",
+   "event_key": "02abe8124a9b25abdd6deb5e88bac2177e84b48a",
+   "title": "오픈AI 투자한 a16z 라구람 방한…한국 AI 반도체·로봇 기업 만난다",
+   "source": "이데일리",
+   "category": "ai",
+   "tokens": [
+    "a16z",
+    "라구람",
+    "만난다",
+    "방한",
+    "오픈",
+    "투자한"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "218e2f3c907f350c980d36db9357e2e2ffcc65cd",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aZHNQMkdRZTlUVU9SczNTRXdTWEswR21lcmQwVlNwZFEwLVdWdjNBdTh5RVlZSjNKeXhGYm1aaGl6VlpfTU9TRkdOZlFoU3N0dkxkclI3MldJZw?oc=5",
+   "simhash": "a8988024a5265cc1",
+   "event_key": "965670fef6508491bf63b8962b8e39a8a67ca0c3",
+   "title": "'1.5조 AI 실탄' 확보한 a16z, 韓 반도체·로봇 투자 기회 모색",
+   "source": "파이낸셜뉴스",
+   "category": "ai",
+   "tokens": [
+    "a16z",
+    "기회",
+    "로봇",
+    "모색",
+    "실탄",
+    "확보한"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1679ec131da30e6b42a08eeeb3931a7bf4556fc2",
+   "url": "https://outstanding.kr/theblacklabbel20261012/",
+   "simhash": "04310729b45e851f",
+   "event_key": "21ccdb03530971532b488ebdbe7de8c5e1a85692",
+   "title": "로제 ‘아파트’에 ‘케데헌’까지 터졌는데, 유니콘 더블랙레이블은 왜 적자일까",
+   "source": "아웃스탠딩",
+   "category": "biz",
+   "tokens": [
+    "더블랙레이블",
+    "아파트",
+    "유니콘",
+    "적자일까",
+    "케데헌",
+    "터졌는데"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a41a09d478d0953ceda85484e9597cac473bf0df",
+   "url": "https://www.venturesquare.net/1118763/",
+   "simhash": "88a43a4c8217c203",
+   "event_key": "ed93464da29a6b5ec9f1da13a1f2973698709c78",
+   "title": "중기부·국세청, AI 스타트업 2559곳에 R&D부터 세무조사 유예까지 연계 지원한다",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "2559",
+    "곳에",
+    "국세청",
+    "세무조사",
+    "유예",
+    "중기부"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ac1984a6a99cfe3b964a065d2c4b31be39721b37",
+   "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+   "simhash": "b760d33aa4149105",
+   "event_key": "a5f299bc691d3376fcc993de51b81b1f9e5ec26d",
+   "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "apple",
+    "discloses",
+    "license",
+    "personalized",
+    "podcast",
+    "startup"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4a863720ab235cdef30393eeb1c8f1280a86f69d",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzY3RpMXRmcVdvUmJZOFozMlF1TUo0WFBXSmxiaTUtQmZEUEt0NWVZaXczS3BMQnZVaXhEYllIRzl4OUxxalVoM3hiZlRPVVVZS0RRMXFkSXJMTnlKNEU1VzZxRzFNazhRTGh5UVJpRnjSAXBBVV95cUxQc2N0aTF0ZnFXb1JiWThaMzJRdU1KNFhQV0psYmk1LUJmRFBLdDVlWWl3M0twTEJ2VWl4RGJZSEc5eDlMcWpVaDN4YmZUT1VVWUtEUTFxZElyTE55SjRFNVc2cUcxTWs4UUxoeVFSaUZ4?oc=5",
+   "simhash": "9544af4080ea9db5",
+   "event_key": "93cd8edae329b0e0384bc036925c7e64973afcd8",
+   "title": "전남광주 동구, 소상공인 온라인 홍보 교육 운영",
+   "source": "남도일보",
+   "category": "biz",
+   "tokens": [
+    "교육",
+    "동구",
+    "온라인",
+    "운영",
+    "전남광주",
+    "홍보"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5947d794c16d80ca7ef584704a14c3efa68c78fe",
+   "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+   "simhash": "9140246c8aad9ba6",
+   "event_key": "cb44edec2d350de6ca843f8a94452919cdeb104c",
+   "title": "Passkeys are a trap",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "passkeys",
+    "trap"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2d2c537654166fa3de03c842a163120d983ccdf2",
+   "url": "https://www.yna.co.kr/view/AKR20261012060100001",
+   "simhash": "377eed0139ff2dfe",
+   "event_key": "54b101180b25a4c279f563ba6027b9bf0254c971",
+   "title": "한병도 \"국힘, 盧서거 조롱에 대통령 부모 묘소까지 정쟁소재로\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "부모",
+    "서거",
+    "정쟁소재",
+    "조롱",
+    "한병"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "25e3176ec0de13938bf421b5be631e350d8bee32",
+   "url": "https://www.yna.co.kr/view/AKR20261012043100001",
+   "simhash": "0fd29e7baecf6f7b",
+   "event_key": "683f333f5df8f0a0ca5991da1e186da2c57d4b32",
+   "title": "與 김의겸 \"조희대, 격려금 현금지급 관여 안 했다고 거짓말\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "거짓말",
+    "격려금",
+    "김의겸",
+    "조희대",
+    "했다고",
+    "현금지급"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e6502a3baef730b62125add888af7e75da6810b9",
+   "url": "https://www.khan.co.kr/article/202610120836001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "2871b0b2a1c8ae2a",
+   "event_key": "31ee25c7d31320613223afb2b7419b70c22a2118",
+   "title": "이 대통령 지지율 2주 연속 하락해 35.2%···민주당 35.5%, 국민의힘 41.3% 오차 범위 내 접전",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "국민의힘",
+    "민주당",
+    "연속",
+    "오차",
+    "지지율",
+    "하락해"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2ee944e8ba7cdff213d299530ae165ec7d6f4f01",
+   "url": "https://www.mk.co.kr/news/politics/12173368",
+   "simhash": "a4a87845d0ddad27",
+   "event_key": "ee5eb6b9d48138d589bc4e6ece9db12327a2934f",
+   "title": "장동혁 “낮엔 잔디, 밤엔 스마트폰”…이재명 대통령 소통 방식 직격",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "낮엔",
+    "밤엔",
+    "스마트폰",
+    "이재명",
+    "잔디",
+    "장동혁"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1547b71cd5e7e5a7e8171358a33a751619c36ff6",
+   "url": "https://www.khan.co.kr/article/202610120810001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "614392e7b826ce42",
+   "event_key": "8bf73b1e86b5b06250973035f8f8c09630be747c",
+   "title": "인터넷 막히니 로컬망까지 썼다···업무 중 ‘스타크래프트’ 접속 90시간, 국보연 직원 5명 적발",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "국보연",
+    "로컬망",
+    "막히니",
+    "스타크래프트",
+    "썼다",
+    "인터넷"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "60deea00686433d560941c5ab64ce7647e34d33f",
+   "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+   "simhash": "387781908132e751",
+   "event_key": "430577325bd1986b93a07d782b28285eac86173d",
+   "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "ceasefire",
+    "energy",
+    "russia",
+    "silent",
+    "welcomed",
+    "zelensky"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d9dbba8ab4d33b2f34b9182c21384c1ba6241c72",
+   "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
+   "simhash": "88830731f48e1aca",
+   "event_key": "dbcc5b723b99299f21a28b7b1625a5613d312f12",
+   "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "andy",
+    "brexit",
+    "burnham",
+    "clear",
+    "interfered",
+    "russia"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "35878d6c8fa80d5f1b9d4049ca675e578fa78d02",
+   "url": "https://www.yna.co.kr/view/AKR20261011054752071",
+   "simhash": "821f1adf84d08000",
+   "event_key": "d09251d7f729799672dc037f4cf960203f509115",
+   "title": "트럼프, '러·우 에너지 휴전합의' 했다는데…러는 공습 계속(종합2보)",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "공습",
+    "러는",
+    "에너지",
+    "트럼프",
+    "했다는데",
+    "휴전합"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e897093af2b83825a0f6198c23c47cc136440da5",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+   "simhash": "5b57c41ac6b8ad17",
+   "event_key": "e5efff7d9bbf6f6bf3e8e0b78114bc6994e6785a",
+   "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – as it happened",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "ceasefire",
+    "happened",
+    "signals",
+    "surprise",
+    "ukraine",
+    "zelenskyy"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5a35354721ae4433944cc52d9ab4c9f61298b459",
+   "url": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
+   "simhash": "a665cb56ddcab928",
+   "event_key": "f9c808d44d41f105856a112cb4a44bba44b3e3d2",
+   "title": "Imran Khan’s party decries ‘coup’ after Pakistan suspends provincial government",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "decries",
+    "government",
+    "imran",
+    "pakistan",
+    "provincial",
+    "suspends"
+   ],
+   "sent_at": "2026-10-12T10:55:07+09:00",
    "followup_count": 0
   }
  ]
