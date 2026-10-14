@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-13T12:16:43+09:00",
+ "updated_at": "2026-10-14T10:29:11+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -9377,6 +9377,385 @@
     "warns"
    ],
    "sent_at": "2026-10-13T12:16:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6fc9bef61e022edeab9871c8859f4fbe570d3ac8",
+   "url": "https://www.etnews.com/20261014000063",
+   "simhash": "635cbfed79b9c056",
+   "event_key": "ec8f79df3ba98686221f9705e4817cf34bed1d29",
+   "title": "카카오, 인적분할 후 성장전략 공개…스테이블코인·AI 콘텐츠 확대",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "성장전략",
+    "스테이블코인",
+    "인적분할",
+    "카카오",
+    "콘텐츠",
+    "확대"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "85e37809c5c8dbe79dd7e668e01fd359d1a407a4",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+   "simhash": "e5aefbaa7129fd5d",
+   "event_key": "6e16f5b8a44b5245923551c82ead600f392742c7",
+   "title": "Google finally releases Gemini 4 Argon",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "argon",
+    "finally",
+    "gemini",
+    "google",
+    "releases"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "491287490246a16f6f5c903cd094d3ba5faca8c0",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9La3U5U25wb3l6RlEyTC1KRnViVkJZei1MVG5WMmpJSkNBVDdURV9qMmp5dG10RjVHR2J3S204d0NocEFSLTFLaDdCaWVPN1F3Qmh3dURqcllMOENwVkJZc9IBeEFVX3lxTE1kUXJ0eGh3dGZCMWE5Z3dWWnRMcEZIel84eHdHMWI0QjVJWEZBTUlHTTlrYUVIX2hja193Q2NrMnhvVklfNDNTTWVUcVZpZktOUlZUTG00ckpsMjZLRnplNUZQVjVZWnpIaTc2MHJZLUt5My02cUVNbA?oc=5",
+   "simhash": "884996a82888716c",
+   "event_key": "76f403b80d1f30c813a413ac747db0a898ea4721",
+   "title": "AI 응용처별 반도체 솔루션 총집합…삼성전자, SEDEX 2026 참가",
+   "source": "뉴시스",
+   "category": "ai",
+   "tokens": [
+    "2026",
+    "sedex",
+    "삼성전자",
+    "솔루션",
+    "응용처별",
+    "총집합"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "70093601d1461d3d21781434ce38e0fa76b4dd98",
+   "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+   "simhash": "9da1dd1b898d0c35",
+   "event_key": "196fdd487462791daf89588c94a687f5657fba9c",
+   "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "hiring",
+    "judge",
+    "openai",
+    "orders",
+    "records",
+    "secrets"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f608394757dec8f6f8bce96c1fa367364d215995",
+   "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+   "simhash": "2db2dcb4044ad461",
+   "event_key": "4e0b9ba02b8e90c186418029fa4537473a221123",
+   "title": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "accelerated",
+    "development",
+    "disney",
+    "epic",
+    "shifts",
+    "upcoming"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fcb778963e56067d5c14f7432aabfed859c0c4dd",
+   "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
+   "simhash": "eb108a5b1db07123",
+   "event_key": "7e522ce21c65e4718c36d4b5df28f4d9ffad9c33",
+   "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "battlefield",
+    "between",
+    "everything",
+    "orbit",
+    "organs",
+    "startup"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b1c075723b3567b20611cc62e18f051b9557c5c1",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nbGhSMy05dWhFRTVDdFE1STltSE4wa0FKbnAxbXFGQnhOVnNzeXBTZWs2QTNCbkFJNjZaSmhXSVJuYmNLcXJXbUo0dVJMZmd4NXJPaGxqT29IR01SLW80?oc=5",
+   "simhash": "dda6ae90f3a29c82",
+   "event_key": "4aaa6f6b402e7b88b0cf142325584c9da1d71b7c",
+   "title": "충북도 민생경제 대전환 추진…소상공인 성장 등 9750억 투입",
+   "source": "뉴스1",
+   "category": "biz",
+   "tokens": [
+    "9750",
+    "대전환",
+    "민생경제",
+    "성장",
+    "추진",
+    "충북"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a8983c3740ba20e7c940b5600a401a4a962f909c",
+   "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+   "simhash": "89f84e4bdf1c4715",
+   "event_key": "f1ad3cb1bb30a6f29e50141f76548e1dc0b5fd01",
+   "title": "OpenAI engineer arrested in bugging of executive conference room",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "arrested",
+    "bugging",
+    "conference",
+    "engineer",
+    "executive",
+    "openai"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2769992f87723218d0d121be97c264b240aeb566",
+   "url": "https://www.venturesquare.net/1119520/",
+   "simhash": "062e6fa44b54ec27",
+   "event_key": "9157fa18c52489a430727c7a4df4eb452ed41d8e",
+   "title": "동승, 신사업·M&A 전담 ‘동승글로벌’ 설립…VC 출신 박혁진 대표 영입",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "동승",
+    "동승글로벌",
+    "박혁진",
+    "설립",
+    "신사업",
+    "전담"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "84271c1a6b7cf562d07a207e991ac4ecd4d83f79",
+   "url": "https://outstanding.kr/iambox20261013/",
+   "simhash": "959f09a2844c980a",
+   "event_key": "39ef4b0e4615c93b7abee305a5d286ab9e664716",
+   "title": "투자 없이 300호점까지.. 공실을 창고로 바꾼 아이엠박스의 성장기",
+   "source": "아웃스탠딩",
+   "category": "biz",
+   "tokens": [
+    "공실",
+    "성장기",
+    "아이엠박스",
+    "없이",
+    "창고",
+    "호점"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0c4a05d79d579ce5ef394416dad240d197e48fac",
+   "url": "https://www.yna.co.kr/view/AKR20261013189300001",
+   "simhash": "2633367c60b8f489",
+   "event_key": "df6a930e25835ccd807d1c4123fad5836f25800c",
+   "title": "조의장, 그리스서 경제협력 간담회…방산·첨단산업 세일즈외교",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "간담회",
+    "경제협력",
+    "그리스서",
+    "세일즈외교",
+    "조의장",
+    "첨단산업"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3d52ee95fe0a1e090707a6ff0eba8a0a3811d32d",
+   "url": "https://www.yna.co.kr/view/AKR20261014029000002",
+   "simhash": "f1f32d9d3564708e",
+   "event_key": "3eaf804064ec63f247e79da920c6691c3a64c19b",
+   "title": "이형일 \"반도체 다음은 서비스산업…입법 협조 요청드린다\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "다음",
+    "반도체",
+    "서비스산업",
+    "요청드린다",
+    "이형일",
+    "입법"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ea4ab1f8b15f6ca52b0ed6df3ac3f25265861da5",
+   "url": "https://www.khan.co.kr/article/202610140824001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "fb156083a42766ef",
+   "event_key": "0a284f66aad8776ec1f4e5334bee3a831825b786",
+   "title": "안철수, 외교·통일·국방부 ‘세종 이전’ 발표에 “북한에 수도 헌납할 건가”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "국방부",
+    "세종",
+    "안철수",
+    "외교",
+    "통일",
+    "헌납할"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e6036f001e6ebe556fc1d590d128fe7ef23bcbce",
+   "url": "https://www.khan.co.kr/article/202610140718001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "a84cefe30a7cdefe",
+   "event_key": "d82f08833271270cecece966ed9f049f28312416",
+   "title": "김지용 중수청장 후보자 오늘 인사청문회…여당 내에서도 검증 예고",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "김지용",
+    "내에서",
+    "여당",
+    "인사청문회",
+    "중수청장",
+    "후보자"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "09f81f411329b4451a94c0f53604dfb8fc8e5053",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008796379",
+   "simhash": "7d76666867f05f1e",
+   "event_key": "622a1ce7871aaa3cb65db0fb97ac4fc9833b8645",
+   "title": "주미대사관 \"강경화 'DMZ 지뢰 발언', 정전협정 위반 강조 취지\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "dmz",
+    "강경화",
+    "발언",
+    "정전협정",
+    "주미대사관",
+    "지뢰"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b768a7655aeed280c928775fc76f4db36bfc46f4",
+   "url": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
+   "simhash": "8c38c3166f4a56b6",
+   "event_key": "319447b50193d619eb7409d7f8c27e95ebcc6dc4",
+   "title": "Russia detains Japanese journalist, accusing him of alleged spying",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "accusing",
+    "alleged",
+    "detains",
+    "japanese",
+    "journalist",
+    "russia"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f3bef0edc2ce22793fcb54ce8f1275cd5933becf",
+   "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+   "simhash": "6a90c595f4e277ae",
+   "event_key": "32fdce3f4eaed78ecb2fc0ddb64dc4de395469a7",
+   "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "kyiv",
+    "plant",
+    "power",
+    "russian",
+    "strikes",
+    "zelensky"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ee3e6474303a28fd67d5acd9a6e8c8df75b8568e",
+   "url": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
+   "simhash": "248a110548c281b1",
+   "event_key": "f2dddfe31715783146e35ea562f1b1ab1f243787",
+   "title": "Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "burnham",
+    "host",
+    "show",
+    "solid",
+    "support",
+    "zelenskyy"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5b3def2aa099a679128627128493f80545f1e948",
+   "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
+   "simhash": "ae665318619f2f7d",
+   "event_key": "7d1d8caf27d2eeb35dab7a7d00be74b57c8606ec",
+   "title": "Trump says Houthis trying to increase oil prices before US elections",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "before",
+    "elections",
+    "houthis",
+    "increase",
+    "prices",
+    "trying"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6aeb75a31dc6fdb5d13d1d9743fbeedbcd651241",
+   "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+   "simhash": "069a244680650397",
+   "event_key": "c04ade795f82c79a4be643f8374e5fe3e8147a32",
+   "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "bringing",
+    "china",
+    "companions",
+    "lonely",
+    "talk",
+    "warmth"
+   ],
+   "sent_at": "2026-10-14T10:29:11+09:00",
    "followup_count": 0
   }
  ]
