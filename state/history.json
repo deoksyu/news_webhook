@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-14T10:29:11+09:00",
+ "updated_at": "2026-10-15T10:06:35+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -9756,6 +9756,379 @@
     "warmth"
    ],
    "sent_at": "2026-10-14T10:29:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e422d5ed36814fbc0b7ef8ba7849d220df092706",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+   "simhash": "1ab55cda14cd2cc9",
+   "event_key": "230fa63a22b5090448e865d0a0e2749c1ce8f715",
+   "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "8217",
+    "chatgpt",
+    "eight",
+    "openai",
+    "saying",
+    "states"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b6bd47056c632c5224503b20b055c9a53d40da5d",
+   "url": "https://www.etnews.com/20261015000007",
+   "simhash": "b56d7f3089d9aec0",
+   "event_key": "f4d068d424caf67cd3a734e5926cdcedb7af1c8d",
+   "title": "구글 딥마인드 “2년 내 대형 AI 보안사고 우려…국제 표준 시급”",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "구글",
+    "국제",
+    "대형",
+    "딥마인드",
+    "보안사고",
+    "우려"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3744c8a0ebdee2ce762839c5cc788b14e9a3532e",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+   "simhash": "6c19915fb89b8441",
+   "event_key": "7e27c2e765d5c7f5b8a9f2da2c4bfbf178bcbdc7",
+   "title": "The AI race is back on",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "back",
+    "race"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "65fb8694d0b07959a65db0572dd449704d0e17e8",
+   "url": "https://www.etnews.com/20261015000001",
+   "simhash": "12a8bc31843515a4",
+   "event_key": "a6f4b84e4e0ca32b4f5720429b29871000d89528",
+   "title": "엔비디아·지멘스, 차세대 AI 칩 노광 연산 최대 12배 가속… '칼리버·큐리소' 결합",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "노광",
+    "엔비디아",
+    "지멘스",
+    "차세대",
+    "칼리버",
+    "큐리소"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b27442e632625b3f357c94f4f6475683daf342fe",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LNVNpQ1lDS0NrUlF0dTZyVGJBWnkzaWRyQWRDV0JRdlI4R2pjYmtmNHBuYXJqd2NKb3d6M3htV3pZQ3llOEgycTk1MTJKS0lFSmdIcVROSDdWRU80VFAyTzlxOUVxUU0?oc=5",
+   "simhash": "4508d408678d8b81",
+   "event_key": "1c0636433d3a94ca9ee873f4139e38db87faad06",
+   "title": "델, 기업 데이터에 ‘의미와 관계’ 입힌다…AI 에이전트 신뢰성 높이는 플랫폼 확장",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "기업",
+    "데이터",
+    "신뢰성",
+    "에이전트",
+    "입힌다",
+    "플랫폼"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3858fc4bb8b080e89b4dfd774755859fca846b15",
+   "url": "https://www.venturesquare.net/1120108/",
+   "simhash": "79120507bc1a1062",
+   "event_key": "ce4fbb757f1cb11fa9287c1fc08af9acb623f8ac",
+   "title": "케어닥, 누적 1500억원대 자금 확보…시니어하우징 중심으로 돌봄 사업 확장",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "1500",
+    "누적",
+    "시니어하우징",
+    "억원대",
+    "자금",
+    "케어닥"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9988e4987f0c5675c91571e2bced8a4fa5735fc2",
+   "url": "https://www.venturesquare.net/1120018/",
+   "simhash": "d91b1d40402a293f",
+   "event_key": "cba91cf028b51085c69dcd0ab224c6cae37bea1e",
+   "title": "씨엔티테크·경기북부 청년창업사관학교, 수도·강원권 스타트업 10개사 투자 IR 개최",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "강원권",
+    "경기북부",
+    "수도",
+    "씨엔티테크",
+    "청년창업사관학교"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1339a48cc831d181a85d5c435bc7fc086bc90e9c",
+   "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+   "simhash": "85bec2cbc824527b",
+   "event_key": "d540266594f769dcd6c82068030f72bc9047fd0b",
+   "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "accelerate",
+    "announces",
+    "biosciences",
+    "colossal",
+    "extinction",
+    "platform"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "94c72a7e5925fb3c93c705e2a0619d1b189a741b",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55QWlqN25Kb3dqUTByYWE3WHRzcHRYY3FLOGExeHE4ajlrR0FXXzE0dGxJYU96Mkw4bVpjQ2VHa1hPSm1nd012SEI0Y0l0TE90ejhIcEl3MW_SAVhBVV95cUxOeUFpajduSm93alEwcmFhN1h0c3B0WGNxSzhhMXhxOGo5a0dBV18xNHRsSWFPejJMOG1aY0NlR2tYT0ptZ3dNdkhCNGNJdExPdHo4SHBJdzFv?oc=5",
+   "simhash": "dea54cd3f2e54dc9",
+   "event_key": "edcf957fa311d709038c431a7ba42cee7fba8dae",
+   "title": "속초시 상반기 사업체·청년 창업기업 매월 증가…신규 등록이 폐업 웃돌아",
+   "source": "아주경제",
+   "category": "biz",
+   "tokens": [
+    "사업체",
+    "상반기",
+    "속초시",
+    "웃돌아",
+    "창업기업",
+    "청년"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f6cba501345f0b730f2efecb7a6cd7157ac95917",
+   "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+   "simhash": "24ba030a08fbaf02",
+   "event_key": "d38007b3214fc3e28efcdbc96e2c77420956938c",
+   "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "banks",
+    "center",
+    "data",
+    "offload",
+    "trying",
+    "underwrote"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "510d0a54fd3b3b97865cdbe1b4228851b8c2dd08",
+   "url": "https://www.yna.co.kr/view/AKR20261014183900001",
+   "simhash": "228450902444e861",
+   "event_key": "db2a930c63da217625009be13cbd6d75a0b34ffb",
+   "title": "趙의장 \"법사위 통과한 민생법안 회기 내 처리…필버 발목안돼\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "민생법안",
+    "발목안돼",
+    "법사위",
+    "의장",
+    "통과한",
+    "회기"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e15b276bd83c5f85dcb3379eeea50c791f408ddc",
+   "url": "https://www.khan.co.kr/article/202610150906001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "a47bf3edd954bc41",
+   "event_key": "4a207366684c1f1c52a64ec63ddb70ec56b27b4d",
+   "title": "김민석, ‘강훈식 서울시장 후보설’에 “역량 검증된 전국적 인물···가능성 열려 있어”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "강훈식",
+    "검증된",
+    "김민석",
+    "서울시장",
+    "전국적",
+    "후보설"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e0d911661644c2231e7556f6b1d1e54340139aa1",
+   "url": "https://www.khan.co.kr/article/202610150802001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "1e2de23db98bc2b9",
+   "event_key": "c64323699ea8e940c56b4b8c39d555783b101ad4",
+   "title": "반환점 돈 국정감사…오세훈 2심 선고 앞두고 서울시 국감",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "국정감사",
+    "반환점",
+    "서울시",
+    "선고",
+    "앞두고",
+    "오세훈"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "748a933ea85afda4a9a3dd8728353a61f63fe956",
+   "url": "https://www.mk.co.kr/news/politics/12176422",
+   "simhash": "3b3cd971a738480a",
+   "event_key": "3423e960eba24452faf80341f9d5d17f39a36ca1",
+   "title": "김영진 “김지용, ‘친윤검사’ 아닌 것 증명…중수청 이끌 자질 있다”",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "김영진",
+    "김지용",
+    "아닌",
+    "중수청",
+    "증명",
+    "친윤검사"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a04aca3506559b0f5f9bd02891f08ad798241c21",
+   "url": "https://www.yna.co.kr/view/AKR20261015022600371",
+   "simhash": "fed9d2c0c3514101",
+   "event_key": "4be675cb87ebf42c75fec4cfa2de1376ceeac813",
+   "title": "김영채 이사장 \"한·아프리카재단-KF 통합해도 전문성 유지돼야\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "김영채",
+    "아프리카재단",
+    "유지돼야",
+    "이사장",
+    "전문성",
+    "통합해"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e5ac291b75fcdeadf37b9e57482fa692022e5fcf",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+   "simhash": "e6fb50da861416f1",
+   "event_key": "7691ff41f4bdfc50bde40630f2101e3fbb90b3fc",
+   "title": "Trump tries to rally support for Republican candidates as top Super Pac for Senate Democrats pours millions into key races – live",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "candidates",
+    "democrats",
+    "millions",
+    "republican",
+    "senate",
+    "support"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "92ca44d19efab30e008989101e66748a7437ac60",
+   "url": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access",
+   "simhash": "1dbab1c8c03ba618",
+   "event_key": "8268942ee83bf76e59433b7723b289e861582b6d",
+   "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "access",
+    "betrayed",
+    "donald",
+    "starlink",
+    "volodymyr",
+    "zelenskyy"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4d0d5712ed55e97512045db646513d596c066eeb",
+   "url": "https://www.yna.co.kr/view/AKR20261015042100009",
+   "simhash": "85592541cbe98571",
+   "event_key": "a7e0184757b7b7a6c448b25369a13b5be88766db",
+   "title": "\"美, 우크라 협상 재개하려 러 동결자산 일부 해제 제안\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "동결자산",
+    "우크라",
+    "일부",
+    "재개하려",
+    "해제",
+    "협상"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6ccaedef1ca292db21f3e351c400f120e4f903bf",
+   "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+   "simhash": "3c87ad3feb90a71f",
+   "event_key": "4f89097c94b50666dc04192bebd11b70c5004afb",
+   "title": "Why Zelensky's meeting with Burnham matters",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "burnham",
+    "matters",
+    "meeting",
+    "zelensky"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0232cd208afcda2f482339e0486bd49aec565689",
+   "url": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
+   "simhash": "02a4290b190ea413",
+   "event_key": "059b3fb598bfe50456cef58293c9e6795412c8f1",
+   "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "against",
+    "colombia",
+    "espriella",
+    "groups",
+    "opposition",
+    "protest"
+   ],
+   "sent_at": "2026-10-15T10:06:35+09:00",
    "followup_count": 0
   }
  ]
