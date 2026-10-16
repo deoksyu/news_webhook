@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-15T10:06:35+09:00",
+ "updated_at": "2026-10-16T09:54:22+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -10129,6 +10129,380 @@
     "protest"
    ],
    "sent_at": "2026-10-15T10:06:35+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "090e3a2ea56614e95508467893967fc195358a3f",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+   "simhash": "ef185213d46e3471",
+   "event_key": "fb7c499917e002e5e9e682c3637973c877d2ce1c",
+   "title": "ChatGPT can peek at your Chrome tabs now",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "chatgpt",
+    "chrome",
+    "peek",
+    "tabs",
+    "your"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e925c3137a8af8ad4b86cdc573df0a8e88ba79b3",
+   "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+   "simhash": "9dfc931400283e5c",
+   "event_key": "8e8bf9da4713d596483adf6a86b6460494ec9fb7",
+   "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "access",
+    "anthropic",
+    "employee",
+    "letting",
+    "researchers",
+    "under"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d5bac5a69bce90a0a930f42b78047fcdacbf44c1",
+   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+   "simhash": "0d5b1d2dd59cd9a5",
+   "event_key": "1fb26a27a2eab48e879012e107aa355205d6b942",
+   "title": "Meta launches an open-weight AI model that runs on Macs",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "launches",
+    "meta",
+    "model",
+    "open",
+    "runs",
+    "weight"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a4975bebfd36893f3dfb4aa4b7361688b57edab7",
+   "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+   "simhash": "c149affb7654d539",
+   "event_key": "1186ec977090f141a7e7b1fcbaf56d9ff81fe0d0",
+   "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "apple",
+    "better",
+    "make",
+    "meta",
+    "models",
+    "team"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0f4dae5230ac49743e59a4715690d14ddd67ee3e",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45Zk83SjRIdFZSX3h4QXQ3SEpLWW9MT1VKVjJER1c0VWg1YzBKelNIQnREVlF1QUNQLU9vVXlUWFh0RExrVzh4R2RkWnNsQTZuQzB3YlEwXzFEWXNzSVpKUC0weGNyMk0?oc=5",
+   "simhash": "839236ce902c2114",
+   "event_key": "2c261cd73338a1321489102adcc76d8a59b751cb",
+   "title": "악재 겹친 글로벌 AI·반도체…나흘간 시총 1조 달러 사라져",
+   "source": "연합뉴스TV",
+   "category": "ai",
+   "tokens": [
+    "겹친",
+    "글로벌",
+    "나흘간",
+    "사라져",
+    "시총",
+    "악재"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6d7629d5e417fafb7ee425527be8049560b2ec61",
+   "url": "https://www.venturesquare.net/1120379/",
+   "simhash": "f83f994f196fc251",
+   "event_key": "1b7a1c7e9a8a9354552940fd7a19db4f70eade1a",
+   "title": "대전시, 국무총리·중기부 장관과 딥테크 창업 생태계 논의…실증·투자·청년 정주 지원 강화",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "국무총리",
+    "대전시",
+    "딥테크",
+    "생태계",
+    "장관",
+    "중기부"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c18d29b19557380045f55c7eb87925dd22ce25a6",
+   "url": "https://www.venturesquare.net/1118746/",
+   "simhash": "f8288d6627940129",
+   "event_key": "92a224acf454e9e74f0092e9b79ac613c2bac803",
+   "title": "[VS 현장] “투자자도, 고객도 한자리에서”…인천 SuRF 2026, 스타트업 성장 기회 잇다",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "surf",
+    "고객",
+    "성장",
+    "인천",
+    "투자자",
+    "한자리"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "76647e634b64fcfb2f8bd8d1cb6472b5ee1b27c1",
+   "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+   "simhash": "826a3819d7adc766",
+   "event_key": "e9605a410d039e1e32d9924f9eb528e13b114962",
+   "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "deeper",
+    "pushes",
+    "ramp",
+    "reaches",
+    "valuation"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "49366622121676f00020f36362851580c625a242",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TblF2c3hwWW5XbFJVVlo0N3FLdWM5Xzk4R0FzbWVIMjAyWWxPdnozQWtLaGpXZjBJZGhITUZGREVTT1Z4QlljcGNoaXk5NVNJSlpzS0ZSZ3XSAVhBVV95cUxNU25RdnN4cFluV2xSVVZaNDdxS3VjOV85OEdBc21lSDIwMllsT3Z6M0FrS2hqV2YwSWRoSE1GRkRFU09WeEJZY3BjaGl5OTVTSUpac0tGUmd1?oc=5",
+   "simhash": "b6e73cbf22d7bf9f",
+   "event_key": "a5db77aa099049453b0553cb6a78b07d6fd9bf83",
+   "title": "신용한 충북지사, 소상공인·전통시장 현장 목소리 청취...성장단계별 지원",
+   "source": "아주경제",
+   "category": "biz",
+   "tokens": [
+    "목소리",
+    "성장단계별",
+    "신용한",
+    "전통시장",
+    "충북지사",
+    "현장"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "34bf133078de58bf25dce317eec6455575fe6c35",
+   "url": "https://research.meta.ai/blog/muse-spark-open",
+   "simhash": "bed00727b654b9fc",
+   "event_key": "f4c723577f73f6c2aae7798df8feaa944af4bf4a",
+   "title": "Muse Spark Open",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "muse",
+    "open",
+    "spark"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d809f39931802f98bfe14da337a6817b48dd6e4c",
+   "url": "https://www.yna.co.kr/view/AKR20261016034200001",
+   "simhash": "8750731f937c0d81",
+   "event_key": "e018232449ee8d2ecb359c71fca34ca9cadf3308",
+   "title": "정점식 \"曺탄핵안 발의 순간 국민이 '이재명 탄핵' 외칠 것\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국민",
+    "발의",
+    "순간",
+    "이재명",
+    "정점식",
+    "탄핵안"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4694aa9144538b032787dbbee2dc602e37351215",
+   "url": "https://www.khan.co.kr/article/202610160757001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "5175a33ca306cf1c",
+   "event_key": "97daa96d5edb2b50bb55d6048a7e7dd97756260c",
+   "title": "조희대 탄핵의 ‘ㅌ’자 꺼냈다···김민석 “광범위한 요구 나와, 모든 방법 논의 시작”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "광범위한",
+    "김민석",
+    "꺼냈다",
+    "요구",
+    "조희대",
+    "탄핵"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "56653e44d5d06e9c4ddb0e74f389f0988686c66d",
+   "url": "https://www.khan.co.kr/article/202610160751001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "03eacaa071cc52ae",
+   "event_key": "31695fae86bc5d651090a237a6fdeab541ab0c95",
+   "title": "미 전문가들 “우크라 북 포로 송환 공개는 이 대통령 대북·대러 전략 훼손”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "공개",
+    "대북",
+    "송환",
+    "우크라",
+    "전문가들",
+    "포로"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "de4bc23cc3ba92bf015eaf0e090a11bed61773b1",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800257",
+   "simhash": "f52e680462f7cc8b",
+   "event_key": "54a62e9fae9521ca312a0fa6a50c24da906e52a3",
+   "title": "'경기 성남 라인' 낙하산 논란 도마에…자소서 제출 공방",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "경기",
+    "낙하산",
+    "논란",
+    "라인",
+    "성남",
+    "자소서"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4b016b479ab4e43c4e2be5ba38b303d5e43548ec",
+   "url": "https://www.yna.co.kr/view/AKR20261015163700001",
+   "simhash": "96b81209e5c1587e",
+   "event_key": "6aa7b467bd4ef98b861a43103c54db90ac8ec64a",
+   "title": "국회, 법사위 등 11개 국감…대법관 재제청·농협 개혁 등 쟁점",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국감",
+    "국회",
+    "농협",
+    "대법관",
+    "법사위",
+    "재제청"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bb642cdc36579f554f420737c1a581f6692f8690",
+   "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+   "simhash": "c972f2c679355369",
+   "event_key": "c57d7e6501597dd6b249ab4a4bd0dd6ef8213798",
+   "title": "Are student protests being manipulated ahead of France's presidential election?",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "election",
+    "france",
+    "manipulated",
+    "presidential",
+    "protests",
+    "student"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8482db4e1c896aa0e40c6bc997e4293c94f77a78",
+   "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+   "simhash": "3e56c713c11f4f77",
+   "event_key": "63eec5730c623ae71b400d38132a3882f4b1fb3f",
+   "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "ceasefire",
+    "collapses",
+    "energy",
+    "russia",
+    "strikes",
+    "trade"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "52c2008371d35ed7293322ca652102d088b0cb37",
+   "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
+   "simhash": "7d10507aa6147131",
+   "event_key": "20b6ea2ccbf3c51b6c618d6b2f34843a5d52b942",
+   "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "approves",
+    "cabinet",
+    "concerns",
+    "economic",
+    "growing",
+    "parliament"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "899358c773e781392c7284596ef1663a0e0b4723",
+   "url": "https://www.yna.co.kr/view/AKR20261016029900009",
+   "simhash": "a40c12dcd89a0a0c",
+   "event_key": "150c6fba06500fa5110ad6ce9f377e26958a0ac5",
+   "title": "트럼프 '에너지 휴전' 붕괴…젤렌스키, 러 정유시설 공습 재개",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "붕괴",
+    "에너지",
+    "정유시설",
+    "젤렌스키",
+    "트럼프",
+    "휴전"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0ce725e730325d7e92645d874da38a03ca9c1126",
+   "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+   "simhash": "6ae6c1131558bc16",
+   "event_key": "6edc0e8593dd8f0ff7acb3d0e36245f6075f92cd",
+   "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "does",
+    "russia",
+    "starlink",
+    "war",
+    "watch"
+   ],
+   "sent_at": "2026-10-16T09:54:22+09:00",
    "followup_count": 0
   }
  ]
