@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-16T09:54:22+09:00",
+ "updated_at": "2026-10-17T09:54:30+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -10503,6 +10503,382 @@
     "watch"
    ],
    "sent_at": "2026-10-16T09:54:22+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "18f9fd0105553a047098e98b4ed860192a96060c",
+   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "simhash": "7f95b64043288ad8",
+   "event_key": "970b5640beb026367fe405cfa9a23f4bf6b369b3",
+   "title": "Replit is no longer working with Anthropic, CEO says",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "anthropic",
+    "ceo",
+    "longer",
+    "replit",
+    "working"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e86f92efb2651db53d684299bf466ba2775c2d91",
+   "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+   "simhash": "412cc97ed81c4c10",
+   "event_key": "0ea9d43d7d2563fc8def7cff782fdfe3151be7b2",
+   "title": "OpenAI models hacked a crypto wallet and breached more websites",
+   "source": "Ars Technica",
+   "category": "ai",
+   "tokens": [
+    "breached",
+    "crypto",
+    "hacked",
+    "models",
+    "openai",
+    "websites"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "84c2c565c396ae83e605db987f544eac54cf869f",
+   "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+   "simhash": "8de6538715791a68",
+   "event_key": "df16bf1841872273d87c72504f065777f3606b50",
+   "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "chatgpt",
+    "insider",
+    "moment",
+    "nvidia",
+    "robotics",
+    "turned"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "61baa7c2d36993da683745e42a70bd28ea338bf5",
+   "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+   "simhash": "cf96512ea919df25",
+   "event_key": "c30ed70fcbc805b8fcfaed72c2317351dc2efef3",
+   "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "tokens": [
+    "conversation",
+    "creator",
+    "designed",
+    "roundtables",
+    "viruses"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bda1b023ca34131f3a9c2e5e039ec617d3a197a3",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVT29zcUNyZTkyRzY3OE9PYjY4SWg0RXUteVBqaERWMGxaemJ1VXRSbmtzNzZWR2MwSnNWWTlpSlJ0TmtLSndzYzZfRzdZWDlUeE0zTjI3M2FGdC11MDdWZndlX2dHMUVZV0Fv0gFwQVVfeXFMTjQ0MW9fNHZhSFc1QU5HWVBTVTQ1bkVsY2ExbDJJR3V5eTlEYUdzQmJXcTBUdUpYMUNVdjItMy0yNFZvSWM0S1UzOVRrZXlSNGhfczBCR2VtUTFCMzJ1UUU0YUM3TTYxTGNBak1QdUFPYw?oc=5",
+   "simhash": "d1402e45a24f49c1",
+   "event_key": "a80e5fbec2a533c8fac298c6d294c97cbbd575c2",
+   "title": "AI가 답하는 시대… 연세대, '질문하는 엔지니어' 교육모델 발표 - 머니투데이",
+   "source": "머니투데이",
+   "category": "ai",
+   "tokens": [
+    "교육모델",
+    "답하",
+    "머니투데",
+    "엔지니어",
+    "연세대",
+    "질문하"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a624322b80c23d58d7879e3e36631645f1b7da69",
+   "url": "https://www.venturesquare.net/1120701/",
+   "simhash": "dffdce340c5275ec",
+   "event_key": "28b01098ebe8c8d909217b4cf50a13e159516db0",
+   "title": "키뮤스튜디오, 파리 스테이션 F서 임팩트 투자유치 추진…발달장애인 디자이너 육성 모델 유럽에 소개",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "디자이너",
+    "발달장애인",
+    "스테이션",
+    "임팩트",
+    "키뮤스튜디오",
+    "파리"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b819c2e01fc46243882a3e878c26594f3fa04dca",
+   "url": "https://www.venturesquare.net/1120697/",
+   "simhash": "a91fa3ec9caa5b82",
+   "event_key": "730b843feca148127809d0327bacf29cc88df2d3",
+   "title": "충남콘텐츠진흥원, FLY ASIA서 AI 콘텐츠 스타트업 투자유치 지원…헬로웍스 최우수상",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "asia",
+    "fly",
+    "최우수상",
+    "충남콘텐츠진흥원",
+    "콘텐츠",
+    "헬로웍스"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "aae90d6b2dab6fff163fe59285c9969a63208f76",
+   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+   "simhash": "e31376ce4d423428",
+   "event_key": "b75d89212506fad1a40d809dd638d9f30cd7e949",
+   "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "army",
+    "came",
+    "influencers",
+    "small",
+    "success",
+    "viral"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d3b25334e171a08fe02581056e7792398c86dfe9",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BZTdIQmJvWXp5Y2VvbG1hNnoySlpjZTY0djg2TDNNUWpIQVF3UkttODdVcFBzZ3dwZUJSMnByR2ZCdi02ejl6MnRFTlF5WDB6NmJ2RmtlY3DSAVhBVV95cUxPQWU3SEJib1l6eWNlb2xtYTZ6MkpaY2U2NHY4NkwzTVFqSEFRd1JLbTg3VXBQc2d3cGVCUjJwckdmQnYtNno5ejJ0RU5ReVgwejZidkZrZWNw?oc=5",
+   "simhash": "691d7b62a4e280e2",
+   "event_key": "3fe18fd9069a3673b9e048ccb51c2b1f3d4da750",
+   "title": "경남정보대, 창업 해법 공유 골목상권에서 살아남기",
+   "source": "아주경제",
+   "category": "biz",
+   "tokens": [
+    "경남정보대",
+    "골목상권",
+    "공유",
+    "살아남기",
+    "해법"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9ec937773b41d922eaaba958c827225c05fed311",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "simhash": "b9530f19101490e0",
+   "event_key": "05531217d3e305153a33e566f5cbfa6287814906",
+   "title": "Claude reveals ECDSA curve origins",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "claude",
+    "curve",
+    "ecdsa",
+    "origins",
+    "reveals"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b3a9c5e0ec06f09f2709620bb454325e5ac50291",
+   "url": "https://www.yna.co.kr/view/AKR20261017011700002",
+   "simhash": "4c42f6128202af86",
+   "event_key": "4eb16c2d8d28d61dec44ee4be5c076b899a93033",
+   "title": "[다음주 경제] 기준금리 3연속 인상할까…생산자 물가도 발표",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "기준금리",
+    "물가",
+    "발표",
+    "생산자",
+    "연속",
+    "인상할까"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e710c8ad41f9aa128f314d8f188995c7b9a6ddb8",
+   "url": "https://www.khan.co.kr/article/202610170904001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "e6109c224ff12b20",
+   "event_key": "98a2ce7ddedb0f3f18658c9673f4506d2eea3a04",
+   "title": "트럼프 “현대, &#32654; 조지아 공장에 7500억 투자”…경제성과 강조",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "32654",
+    "7500",
+    "경제성",
+    "조지아",
+    "트럼프",
+    "현대"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ea3916b751e89275074f064613f752bb2b92e4d7",
+   "url": "https://www.mk.co.kr/news/world/12178389",
+   "simhash": "9c1f3cf6269d320b",
+   "event_key": "cf1c55cecfaccec2f52e64a9cbed7f19388668b6",
+   "title": "“여자보다 화장에 돈 많이 써”…야당의원 외모 조롱한 트럼프",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "많이",
+    "야당의원",
+    "여자보다",
+    "조롱한",
+    "트럼프",
+    "화장"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "68f196dc093d0bf6cc96d1cfe638d555a444304c",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801814",
+   "simhash": "7163000100114626",
+   "event_key": "8540c6722bc8b84f6b11f44b8eb06fdfa087bda9",
+   "title": "'이진숙 제척' 놓고 충돌…과방위 국감 파행",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "과방위",
+    "국감",
+    "놓고",
+    "이진숙",
+    "제척",
+    "충돌"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "966f578efbf87e5ada66e656d75969d59c372373",
+   "url": "https://www.yna.co.kr/view/AKR20261016022300030",
+   "simhash": "ad25007a99e18c98",
+   "event_key": "78d6bf24cbd0c9627fee3a59a369199ff56d1a41",
+   "title": "'속도전' 멈춘 CPTPP…'수출영토'·'식량안보'에 타협점 찾을까",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "cptpp",
+    "속도전",
+    "수출영토",
+    "식량안보",
+    "찾을까",
+    "타협점"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0337c17a4aa20668923bf7743b4fd2e92f4e4243",
+   "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+   "simhash": "24ae3b1c1818d2b8",
+   "event_key": "51476e58fcf7fd0b08e2663dc65e459a02a26521",
+   "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "completely",
+    "italian",
+    "minister",
+    "restrict",
+    "support",
+    "ukraine"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "95b7adaa360d420f3851169d084f75dc3403069a",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
+   "simhash": "0d23c5e5f8073049",
+   "event_key": "fda1597db79216b1f9ebe54c8fae9de65b7820ce",
+   "title": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters – US politics live",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "appearance",
+    "disrupted",
+    "georgia",
+    "politics",
+    "protesters",
+    "trump"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "94ed6bed739c767e1b59ada832d366b1486b2f0d",
+   "url": "https://www.theguardian.com/us-news/2026/oct/16/trump-georgia-rally-jon-ossoff",
+   "simhash": "2cf077192bf17d53",
+   "event_key": "b5d68414dd3c760cafa38465162509428ea7cb48",
+   "title": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "claims",
+    "election",
+    "falsely",
+    "georgia",
+    "illegitimate",
+    "ossoff"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3f44b024889979d0665fdd8e03e105b845430c3b",
+   "url": "https://www.yna.co.kr/view/AKR20261017004700071",
+   "simhash": "90d9272081742c00",
+   "event_key": "40b6fe6e29cf4ca310d184ef7d0fc312379071ad",
+   "title": "트럼프, 우크라 스타실드 장애에 \"내가 한일 아냐…누군지 몰라\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "내가",
+    "누군지",
+    "스타실드",
+    "우크라",
+    "장애",
+    "트럼프"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e369298b0b94905f523c11192751b14d14fb7013",
+   "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+   "simhash": "ce3c5e03d2b9be1b",
+   "event_key": "b3ff92d5a6c7b300eb6559aeaf921b5b81354c1f",
+   "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "inside",
+    "offensive",
+    "playing",
+    "pushing",
+    "starlink",
+    "ukrainian"
+   ],
+   "sent_at": "2026-10-17T09:54:30+09:00",
    "followup_count": 0
   }
  ]
