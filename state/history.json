@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-17T09:54:30+09:00",
+ "updated_at": "2026-10-18T09:30:30+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -10879,6 +10879,382 @@
     "ukrainian"
    ],
    "sent_at": "2026-10-17T09:54:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f155d49d3345aeb54c3ec25d23d05d86572a924e",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "simhash": "4860883c8c941ade",
+   "event_key": "66dddc94d2bb4854c60c60183f2eea61698b6842",
+   "title": "Websites are closing their doors to AI agents",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "agents",
+    "closing",
+    "doors",
+    "websites"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d4d8a21bd9972e11394c29470a79b7d15cd8916b",
+   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "simhash": "cb37fc4babb2e61b",
+   "event_key": "a3a423c6ea2d998c2f0452b9aa754f94bb7a7339",
+   "title": "Meta removes language that raised scraping and AI training concerns",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "concerns",
+    "language",
+    "raised",
+    "removes",
+    "scraping",
+    "training"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0dabc6c10b97c37b5111d1bc15962486a0b5583a",
+   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "simhash": "2d515632750ee8b3",
+   "event_key": "4a35814ef0f8794f560c6e4393c96e0fb37ffe98",
+   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "anthropic",
+    "become",
+    "junior",
+    "meetings",
+    "spending",
+    "workforce"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c6ff27a79218c6e76e4dcb1a8a3762f3029adb10",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVEpmZWNEZDhHNEtwamZvMFN1UGFXSTI1azBIMTlMd2JLMlBiNHVtU3lxaXl1TXRkdVFLTTFVYWdKM0x4bnlvUHVTbUFTTkZTMGZYZlZPcnJwQQ?oc=5",
+   "simhash": "e5acc82d2255f440",
+   "event_key": "588d5867bc70a6281901566a21b715c8d84ef9c0",
+   "title": "현대차·기아, 제조 AI 내재화 속도…로봇부터 공장 운영까지 혁신",
+   "source": "한국경제",
+   "category": "ai",
+   "tokens": [
+    "공장",
+    "기아",
+    "내재화",
+    "속도",
+    "제조",
+    "현대차"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "814da18b8bf7a4b483a81e9c300d24a759857b2f",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ndUdGZkJzSUJYV1lubHdnRHNhc0tlQWZGMGJmalBpNkhmS2NVeVNwLW1oOEFnUXJrTFFkRmZVdFo1N1NyN2pka0MxUWFVTHRfYnl4UjR2X0dDQWIzSFp6cQ?oc=5",
+   "simhash": "f395a2609b58b537",
+   "event_key": "2c703965296fec272eb1242ea2537abdfc43143a",
+   "title": "AI가 판단하고 로봇이 움직여 車만든다…현대차·기아 2032년 자율공장 도입",
+   "source": "아시아경제",
+   "category": "ai",
+   "tokens": [
+    "2032",
+    "만든다",
+    "움직여",
+    "자율공장",
+    "판단하고",
+    "현대차"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3c37cbd55a5cc3b40ae448eb011800414885341b",
+   "url": "https://www.venturesquare.net/1120640/",
+   "simhash": "0228280c0cc20900",
+   "event_key": "da89a20d1caf751f0a7de2ce3a7e6192729780ad",
+   "title": "경남창조경제혁신센터, 지역 스타트업 수출 실무부터 AI 마케팅까지…글로벌 진출 역량 강화",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "경남창조경제혁신",
+    "글로벌",
+    "마케팅",
+    "센터",
+    "수출",
+    "지역"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d19785cb8ecea6e530fd89410e9caf30c7b20d01",
+   "url": "https://www.venturesquare.net/1120771/",
+   "simhash": "a8351c31174b2207",
+   "event_key": "15dad64da7187720830c7d2704b3a049fd68be85",
+   "title": "[김지현의 Scale-Up Note]  스타트업은 언제 ‘꼰대 조직’이 되는가",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "note",
+    "scale",
+    "김지현",
+    "꼰대",
+    "언제",
+    "조직"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f0fe7c9aa7b833420c7eed566b1b40d7b2c2ca30",
+   "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+   "simhash": "d17a857a89a454a1",
+   "event_key": "99d1cba18afd41a3dd028dfe13efb5e8c9707aa7",
+   "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "betting",
+    "compute",
+    "crisis",
+    "designed",
+    "intelligence",
+    "ricursive"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "af9d3ddd43384eb889446dcfd97437dd53027f14",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TQXhGbkJWbmVfdncyR0tDOGlvSk5aaW5NQTNfTWVaOXJyS3B0YTJna1QxU2ctSk9FQWRrR054V3lJTXlWbVlpdDBsVi1TbDJ0cjRXSmhkUkhRRjc0R1JXcdIBeEFVX3lxTE9GQ0Jia1RwbVp3T05tUkxmWGxCQnpQMUVMV2szaFAxbkhicHdlUUdvTXgydEYyX25Sd3JTcklJNjRrc3paX2tncVMtYjRfYlVmaGFaUUJsV2xZdHY2MEMzdzZNWGdQbV9YVm1VNlc1VURtaUdlVy1XYQ?oc=5",
+   "simhash": "e90318b7c9a31ef2",
+   "event_key": "04b316def807a23d8308d391c6fdb1da3bf68b04",
+   "title": "[교육소식]대전대, AI로 시작 나만의 브랜드 창업교육 등",
+   "source": "뉴시스",
+   "category": "biz",
+   "tokens": [
+    "나만",
+    "대전대",
+    "브랜드",
+    "시작",
+    "창업교육"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "49b49c1c440ebc796b6b099adc26ba6bc62e3540",
+   "url": "https://twitter.com/opencode/status/2111516673953935833",
+   "simhash": "c07a3ff75858b5e1",
+   "event_key": "92228bb34fb23aa5a0ce5c43cbc41d44020cee55",
+   "title": "OpenCode Hacked: User credentials leaked",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "credentials",
+    "hacked",
+    "leaked",
+    "opencode",
+    "user"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b9f797ed8130610d27f15023e97c59b508beaa99",
+   "url": "https://www.yna.co.kr/view/AKR20261017043600001",
+   "simhash": "a8380eeda8e32c00",
+   "event_key": "c027ce2a1bdf1e36b009f0d66377d233e75592fe",
+   "title": "집토끼 결집 노린 與…'조작 특검'에 '曺탄핵 논의' 동시 시동",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "결집",
+    "노린",
+    "조작",
+    "집토끼",
+    "탄핵",
+    "특검"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fe74c0ed69fcf17bfacec09550217ab0de374d3a",
+   "url": "https://www.yna.co.kr/view/AKR20261016157700061",
+   "simhash": "5c9e91e4b6380449",
+   "event_key": "83bf46db9aa40ec4704a30b0d424e2a412fdea30",
+   "title": "국토위 경기도 국감, '토허제·경기남부광역철도' 쟁점 전망",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "경기",
+    "경기남부광역철",
+    "국감",
+    "국토위",
+    "쟁점",
+    "토허제"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "421685c922ab26c6fb93820f355399dff9badea2",
+   "url": "https://www.chosun.com/weekly/politics/2026/10/18/A5XZZDCAUNCRTOEWAHZOZMQHNQ/",
+   "simhash": "bb23bdff34ddeb87",
+   "event_key": "98ecd439c3f3d3455e941150cbde0878f92d35f2",
+   "title": "선관위 개혁 외쳤지만 4개월째 제자리…국회 계류 법안만 103건 [창간특집]",
+   "source": "조선일보",
+   "category": "kr",
+   "tokens": [
+    "개월째",
+    "개혁",
+    "국회",
+    "선관위",
+    "외쳤지",
+    "제자리"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0c29ee1092b34a5f0ab2584bf1c087587593de14",
+   "url": "https://www.khan.co.kr/article/202610171802001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "f5b989e72426dc38",
+   "event_key": "29ba8481c8a2976fa0d937431cee5144efb2405d",
+   "title": "여·야, 부천 순직 소방관 조문 행렬···추미애 ‘빨대’ 발언 사과 놓고 야당 “장황한 자기변명” 비판",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "발언",
+    "빨대",
+    "자기변명",
+    "장황한",
+    "조문",
+    "행렬"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "775e00c5fc3eea41eecd3c050c2c1e4ef7fb385b",
+   "url": "https://www.khan.co.kr/article/202610171641001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "41c4b674ae1d0fee",
+   "event_key": "962ae24bf031335f8a136c8f4e30bb4594a5205b",
+   "title": "일본은행 총재 “더 이상의 물가 상승 용납 못해”…금리 인상 지속 방침",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "물가",
+    "상승",
+    "용납",
+    "이상",
+    "일본은행",
+    "총재"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "aa7c4ce10e6ad39ac86d7bc425d086a92d00a79e",
+   "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+   "simhash": "a07c155441511381",
+   "event_key": "0e0959f2e86700a18db47bb479114b29662e13dc",
+   "title": "European diplomats attacked by Israeli settlers in West Bank",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "attacked",
+    "diplomats",
+    "european",
+    "israeli",
+    "settlers",
+    "west"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ddb23a7d98fe1cece3db160ee65f2e5aa582add6",
+   "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+   "simhash": "2577c11ae43a1673",
+   "event_key": "15d8dc5d8d8fc80de99bfb173408204a79c3b017",
+   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "intensifies",
+    "russia",
+    "sanctions",
+    "several",
+    "waives",
+    "zelensky"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6ccb1aac6f1bf6ba6345711412d0214a5f6e5203",
+   "url": "https://www.yna.co.kr/view/AKR20261017035600083",
+   "simhash": "31aaf9acd1ffb940",
+   "event_key": "77212a37a4004d69377d9f05a24a3cc74ae162f7",
+   "title": "中선전 APEC 한달 앞으로…미중러 3자 회담·북미 접촉 주목",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "apec",
+    "미중러",
+    "선전",
+    "앞으로",
+    "한달",
+    "회담"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f69fd61fe54384741e83d4fc6cc1094c6b31165d",
+   "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+   "simhash": "a89ad0771a1197c0",
+   "event_key": "02175d9deea5e3daf40fec8618640e3666621ab4",
+   "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "ambassador",
+    "american",
+    "attackers",
+    "israel",
+    "journalist",
+    "prosecute"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "94882e13d67b2722fda041aec5025e997f267dae",
+   "url": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
+   "simhash": "2280f05d4f2bd4ba",
+   "event_key": "40a9703362dceab779197bac97f7c49f5b1c0d7d",
+   "title": "No action to be taken against wife of PM’s aide over Palestine Action post",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "action",
+    "against",
+    "aide",
+    "palestine",
+    "taken",
+    "wife"
+   ],
+   "sent_at": "2026-10-18T09:30:30+09:00",
    "followup_count": 0
   }
  ]
