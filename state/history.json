@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-18T09:30:30+09:00",
+ "updated_at": "2026-10-19T09:36:51+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -11255,6 +11255,382 @@
     "wife"
    ],
    "sent_at": "2026-10-18T09:30:30+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "efeb3746fdd37d801674c72b785de49682be6da8",
+   "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+   "simhash": "9d80d73a2205f2da",
+   "event_key": "f10cd6fe473547c116ad3977397a7b1afd6c2450",
+   "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "anthropic",
+    "benefit",
+    "committing",
+    "fund",
+    "public",
+    "shares"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "66c17caaae4415f168753fc0cfbef498389530d9",
+   "url": "https://www.etnews.com/20261019000013",
+   "simhash": "21922a82c2705098",
+   "event_key": "4d291d8e190167474dc4654997b56de78463694e",
+   "title": "구글, 양자컴퓨터 핵심 연산 오류 40분의 1로 줄였다",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "구글",
+    "양자컴퓨터",
+    "연산",
+    "오류",
+    "줄였다",
+    "핵심"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6274dc232ca5852eb6c88902ac8facbdc6bef819",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xWWFVcnpTcThfOEpEbHlWNXNfbGg4NEpLRVRJWHo3NHhYb3NnTjhYa3Z3bjN2bXkxMnpRaHNOampvN3pYcmVrVG1rbGN1ZGpCa1dMRS0tcDJURkZqQVJGZzRDRGk?oc=5",
+   "simhash": "3eb6eb9f47ed5fd7",
+   "event_key": "e201b36e3bd85e7f1129d3ec5e5b33aa6ab03fd2",
+   "title": "가온칩스, KAI와 무인기용 AI반도체 국산화…삼성 8나노 공정 활용",
+   "source": "디지털데일리",
+   "category": "ai",
+   "tokens": [
+    "kai",
+    "가온칩스",
+    "국산화",
+    "나노",
+    "무인기용",
+    "삼성"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ff4761c8d4fa9c7c589b372f411d3cfc4730be64",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zX3pCRGhYYjJVaDJpNlNMWXdhazcwNmw5T0ZScFJtenlvSVBPcjE5YWNJQ2p5RFR6MWFjaHJyS2NXeWhoZ2JHZE9tc3F3UQ?oc=5",
+   "simhash": "13d2fe94a43debd6",
+   "event_key": "48e78d6e299f54e3f62638f6c4872b995cfc1e12",
+   "title": "“경북 AI선별과 로봇 자동화 앞당긴다”…경북도, 스마트 APC 지원사업 공모 선정…",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "apc",
+    "경북",
+    "스마트",
+    "앞당긴다",
+    "자동화",
+    "지원사업"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2666f9bc21b9e39bfa80d5165189450f54171af2",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51MlJjd0ZUNWFUUUlhcUpyMGdhUXRvbDB3WTBlXzBITnJxa1ZzWnlseldoNnc4SVVUVWh5OEpTbmVFZVZVZmhoWGMwTGFkaExudllwVzQzbG1RUnRYYnpjaw?oc=5",
+   "simhash": "992505b22980b460",
+   "event_key": "6bd35e3907198bce87e9ec421a9b7a1abbb1cbb3",
+   "title": "'AI쇼크'에 반도체 관련株 일제히 약세…파두 8% 급락",
+   "source": "뉴시스",
+   "category": "ai",
+   "tokens": [
+    "쇼크",
+    "약세",
+    "일제히",
+    "파두"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4c955ed926278842af34e806006de2c87fbeb6c6",
+   "url": "https://platum.kr/archives/296485?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%25a0%25eb%25a5%25b5%25ec%2582%25ac%25c2%25b7%25ec%2584%25b8%25ec%25a2%2585%25eb%258c%2580%25ec%2599%2595%25eb%25a6%2589%25ec%2597%2590%25ec%2584%259c-%25ec%25b0%25bd%25ec%2597%2585-%25ec%2595%2584%25ec%259d%25b4%25ed%2585%259c-%25ec%25b0%25be%25eb%258a%2594%25eb%258b%25a4-%25ec%25b2%25ad%25eb%2585%2584-22",
+   "simhash": "777348113610ddce",
+   "event_key": "ec1f7cfabe8c24235d948e97e2ffad6cb5cfcf31",
+   "title": "신륵사·세종대왕릉에서 창업 아이템 찾는다, 청년 22명 여주 로컬 창업 답사",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "세종대왕릉",
+    "신륵사",
+    "아이템",
+    "여주",
+    "찾는다",
+    "청년"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "908c585da8efbc8165b0a62b45acd6cd2473276c",
+   "url": "https://www.venturesquare.net/1120792/",
+   "simhash": "125be114956a093c",
+   "event_key": "c3279e841b0b7ef8c6b8de6d9a7e84d53bf58b8e",
+   "title": "서울투자진흥재단, 프랑스 AI·딥테크 기업 서울 유치 나선다…한·불 기술협력 확대",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "기술협력",
+    "기업",
+    "나선다",
+    "딥테크",
+    "서울투자진흥재단",
+    "프랑스"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "311fa86942b350f533df27234a467ccf7f820663",
+   "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+   "simhash": "a775bb4f792c57eb",
+   "event_key": "36ab45abe5949d9e77741a9d09928047530a4bee",
+   "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "counterfeit",
+    "expands",
+    "fragrance",
+    "jewelry",
+    "trophies",
+    "veritas"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5f7e9db965855bae791d6470914209a4014e8e0b",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QYjNVWXJ1bnZiUHp4UEJnQjBzQnFjcGpVLWgtaWNwSEhVZkJVM0psQkotTkdKaTFNVkgxelZ1V2htTHFGWWwwUUdUSGIxeDE2?oc=5",
+   "simhash": "f033abd4899c144b",
+   "event_key": "fbe9893f148981cec4b4f3d0c722ae43c5e14078",
+   "title": "관악구, 골목상권 지원군 ‘동네상권지킴이’ 운영…“소상공인 경영 고민 해결”",
+   "source": "문화일보",
+   "category": "biz",
+   "tokens": [
+    "경영",
+    "골목상권",
+    "관악구",
+    "동네상권지킴",
+    "운영",
+    "지원군"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8c457426b5a4dbf5879703f3ccbf0cc244c80536",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qODV3Y3ZGcjRTSUpxT1FNV2laa1I2YXhCZ3hpTmZHTGpwcXNnU3FFbXUwQmFtdlRNN3E4T1ZrQTRoUDNFSnJCZTE0Vm1fUEd6QWhrNi1n?oc=5",
+   "simhash": "7569769d044a8581",
+   "event_key": "42b035b3b306a95bb65e25ffc91607cb4a9aaf97",
+   "title": "최태원 “20대 돌아간다면 반도체 안했을것”…그의 창업 아이템은",
+   "source": "매일경제",
+   "category": "biz",
+   "tokens": [
+    "그의",
+    "돌아간다면",
+    "반도체",
+    "아이템",
+    "안했을것",
+    "최태원"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cb4c8b3e05bfb534a2808551a4b0c130becd901a",
+   "url": "https://www.yna.co.kr/view/AKR20261018025000001",
+   "simhash": "94380f20c1f36ad8",
+   "event_key": "0388e126c3172e377b0c0b013499fbc93359bb63",
+   "title": "3주차 진입한 국감…검찰개혁·금융권 해킹사태 등 쟁점 예상",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "검찰개혁",
+    "국감",
+    "금융권",
+    "주차",
+    "진입한",
+    "해킹사태"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9d0f535033ef2500f8c1c03e4fc7c1bc11519271",
+   "url": "https://www.khan.co.kr/article/202610190829001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "8d1d4a1f1b95aca2",
+   "event_key": "242fc155c67a14925a8525e92f0c122a589d31c6",
+   "title": "이재명 대통령 지지율 37.3%, 3주만에 반등…민주당 36.2%, 국민의힘 40.9%",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "국민의힘",
+    "대통령",
+    "민주당",
+    "이재명",
+    "주만",
+    "지지율"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "234d2bf6413230ad34f4222e2f950d91ec91ca1c",
+   "url": "https://www.khan.co.kr/article/202610190731011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "26c08d34ad660d01",
+   "event_key": "fb5c7ca0fc8b571fa62415fe4ade6cff7767332f",
+   "title": "트럼프, 이스라엘 총선 앞 네타냐후 전폭 지지 선언 “위대한 전쟁 지도자”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "네타냐후",
+    "위대한",
+    "이스라엘",
+    "지도자",
+    "총선",
+    "트럼프"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ab34fa57e7e660fd7718ab51721323c73fceeb94",
+   "url": "https://www.yna.co.kr/view/AKR20261019038500051",
+   "simhash": "1610b0751acb0d1c",
+   "event_key": "b54c241a9985fa2577cb8ef3d2128586265f9a68",
+   "title": "박수영 의원, 부산시청 앞 1인 시위…퐁피두 백지화 항의",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "박수영",
+    "백지화",
+    "부산시청",
+    "시위",
+    "의원",
+    "퐁피두"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0333c8f3b01cd7e0a5735b1ef0c9c3460c1e9214",
+   "url": "https://www.mk.co.kr/news/politics/12179229",
+   "simhash": "c18f9584a4baa0a5",
+   "event_key": "f5b36510791411884777798eff35d503e1583a0a",
+   "title": "더불어민주당 최고위원회의 입장하는 김민석 당대표",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "당대표",
+    "더불어민주당",
+    "입장하",
+    "최고위원회"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2f2531852d06186aacf6919868a1a64d6e6fbd0b",
+   "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+   "simhash": "848a94d0ac4cb891",
+   "event_key": "6d39b23f1b927414cdbce0e0d59bbcc3109805ff",
+   "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "aimed",
+    "china",
+    "hitting",
+    "steel",
+    "tariffs",
+    "ukraine"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b3bbe3ca27103d36a0db856920b95113be8b3021",
+   "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
+   "simhash": "4290e09b997ab2ea",
+   "event_key": "a4bcd7e8e7069153f03a1510223ccf46823029a1",
+   "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "against",
+    "costs",
+    "electricity",
+    "position",
+    "rivals",
+    "steelmakers"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bbe268422028e072ba4f3a9147ae8d1f30e0af37",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+   "simhash": "4a50b4fd45d9d06a",
+   "event_key": "4d6a032f2f9cc617e881f22d9bef8db4a1278af8",
+   "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "fighting",
+    "flares",
+    "netanyahu",
+    "seeks",
+    "tehran",
+    "yemen"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "345576ad4b8431afee18648bd445d255e488e991",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
+   "simhash": "a9329c5eff9cf42f",
+   "event_key": "6b5b416737b5c516dcfae44df17c8d4a17e7fac7",
+   "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "disrupt",
+    "event",
+    "forcing",
+    "gvir",
+    "protesters",
+    "stage"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "47dc8d1dd0ccb5adb02588550374fc86ac35adb0",
+   "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+   "simhash": "2ec7e793b7909f16",
+   "event_key": "353aa8c9a15fceae7ec1a569f467c7b88991c53a",
+   "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "inside",
+    "russia",
+    "sabotage",
+    "shadowy",
+    "within",
+    "world"
+   ],
+   "sent_at": "2026-10-19T09:36:51+09:00",
    "followup_count": 0
   }
  ]
