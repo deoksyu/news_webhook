@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-19T09:36:51+09:00",
+ "updated_at": "2026-10-20T10:21:46+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -11631,6 +11631,386 @@
     "world"
    ],
    "sent_at": "2026-10-19T09:36:51+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0e19bec78e364455f491b685a07a59716d399135",
+   "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+   "simhash": "65bf911e1e341e0f",
+   "event_key": "da19dd0b770771294b46ada3928554b3c5cd58dd",
+   "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "agents",
+    "frontier",
+    "insider",
+    "microsoft",
+    "threats",
+    "trusted"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bdf125d2211872f3cc68af210b9be1e6f52139eb",
+   "url": "https://www.etnews.com/20261020000020",
+   "simhash": "4bd43504f50cf270",
+   "event_key": "221da5962cdd408ea8f203946731d9479e8a7d84",
+   "title": "MS, AI 에이전트 내부자 위협 대응 강화…실시간 감시·권한 통제",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "강화",
+    "내부자",
+    "대응",
+    "실시간",
+    "에이전트",
+    "위협"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "141841bfba33c1b9aa6a1f5a87e3521c64e988e9",
+   "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+   "simhash": "b93aaf9b5d586cd1",
+   "event_key": "6ea8d319cf83da19f4d799ba1ae8026231425e9e",
+   "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "accounts",
+    "charges",
+    "coding",
+    "hackers",
+    "opencode",
+    "running"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "34e3380a24681e5351d159be8b76f01897ecb141",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4bkJOV3o5ZVNmWGgwa1BCZVppVGRfYmFXLWVxM2xoRzc5Njh0UGNOWEZWZFpqVmRqR0ZPVkpuOGNkYWNKUGgyQmdMZkFsY3ZkZk13QTdyRVVFQnJMTjMtdQ?oc=5",
+   "simhash": "816cd10b6fc87de3",
+   "event_key": "de91c80ceaf65fec1da53316fea75ef7dff34ea3",
+   "title": "李대통령, 반도체·AI·로봇 규제 손질…23일 범정부 규제합리화 회의",
+   "source": "아시아경제",
+   "category": "ai",
+   "tokens": [
+    "규제",
+    "규제합리화",
+    "대통령",
+    "로봇",
+    "범정부",
+    "손질"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fce96817697ab621f3b17caf768814e9fbb640cb",
+   "url": "https://www.etnews.com/20261020000002",
+   "simhash": "33f191c07364af5d",
+   "event_key": "59db6279d4aeeeef55994470363777592768149b",
+   "title": "오픈AI 회의실 도청 혐의자, 사우디 왕족 AI 프로젝트 합류 타진",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "도청",
+    "사우디",
+    "오픈",
+    "프로젝트",
+    "혐의자",
+    "회의실"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b6e05ef72beb3a2b84d9ce22b845e3e6e99cbed4",
+   "url": "https://platum.kr/archives/296538?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25ac%25ec%258f%2598%25ec%25bc%2580%25ec%2596%25b4-34%25ec%2596%25b5%25ec%259b%2590-%25ed%2594%2584%25eb%25a6%25aca-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598%25ec%25b9%25b4%25eb%25a9%2594%25eb%259d%25bc%25eb%25a1%259c-%25ea%25b4%2580%25ec%25a0%2588-%25ec%259e%25ac%25eb%258a%2594",
+   "simhash": "180156006211bac9",
+   "event_key": "4cb7bbe19a72fd18df79667217bb53a78d90f3f8",
+   "title": "올쏘케어, 34억원 프리A 투자 유치…카메라로 관절 재는 재활 AI 확증임상 착수",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "억원",
+    "올쏘케어",
+    "유치",
+    "카메라",
+    "프리",
+    "확증임상"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "78900e996773aeb5701859dcab207e6880a27ac2",
+   "url": "https://platum.kr/archives/296521?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b4-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%25a7%2580%25ec%259b%2590%25ed%2595%25b4%25eb%258f%2584-%25eb%2590%25a0%25ea%25b9%258c%25eb%25a7%25a4%25ec%25b6%259c%25c2%25b7%25ea%25b3%25a0%25ec%259a%25a9-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25eb%25a1%259c",
+   "simhash": "683b30e927eba259",
+   "event_key": "7e1b2546d270d3191e635e82ce9dc92ec51a7c3b",
+   "title": "이 스타트업, 지원해도 될까…매출·고용 데이터로 채용 공고 분석하는 ‘혁신의숲 career’",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "career",
+    "데이터",
+    "될까",
+    "분석하",
+    "지원해",
+    "혁신의숲"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8a61882c5d2faa281d33683faa309c1df71e993a",
+   "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+   "simhash": "0abe19535fa5a460",
+   "event_key": "63b0433fd53a4b3756be7024d3520fd1f8c77358",
+   "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "assistant",
+    "launch",
+    "months",
+    "startup",
+    "unicorn",
+    "valuation"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8e039ae7d55f6de60f92030fb9e08e0d41c80f16",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQc1Rlc0Q1d0ZhWWViZmNxR0h0MFhwbW00bVlheF84dXJDWHRLckhlcDY4U0tBZjJwdHBGY0Rualo3S1hmV3lmY1RnUHBqMGlFLVdjSEMwcHFRM0lEWjB0RjdBOE03ZTdMVFVzem9aWUNXc2xXRUx4OTZpLUVsVUdhd0hmcVU1bmc3cWpDR2lwZzhmT0VaU2lFdnBoLTVKUGZ5cWxSYW50NWFvLVpyT3Q2M094andFeWxGRllxdF9NNkFseklGN1BVWmpCTkpnT25tTV9CQm10VHdyb3Vza3ZHN0U3YzlnemQ2dGlibWxXcU1ydDlJRFVITkNwX09BdUowLV82NXZvSHlWOXgyZVRXTG1lZi0wVVZ6?oc=5",
+   "simhash": "ae656e9e1f0ebab1",
+   "event_key": "141d8d1d52d4c4f0fcbbcca97d5c277fbf689a3d",
+   "title": "서울 강남구, 소상공인 지원 플랫폼 출시…맞춤형 사업 추천·상권 분석 제공",
+   "source": "데일리안",
+   "category": "biz",
+   "tokens": [
+    "강남구",
+    "맞춤형",
+    "사업",
+    "서울",
+    "출시",
+    "플랫폼"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e3ef569967110d0cce9be6a2ab255bbd9fec29a5",
+   "url": "https://josie.lol/blog/linux-rtx-spark",
+   "simhash": "f3380df77fecaeb7",
+   "event_key": "631e99b8ba8d8200e58da42e4c4749dd8370ef7f",
+   "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "account",
+    "because",
+    "laptop",
+    "linux",
+    "microsoft",
+    "putting"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "588e17d4090de8aa6000960191b2b7be3af35e13",
+   "url": "https://www.yna.co.kr/view/AKR20261020055600001",
+   "simhash": "ce4e500198e63377",
+   "event_key": "822a7737b261fb14c0d97583cf36c900e3e43638",
+   "title": "국힘 \"與, 추미애 '빨대' 부승찬 '쭉쭉' 망언 최고징계해야\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "부승찬",
+    "빨대",
+    "쭉쭉",
+    "최고징계해야",
+    "추미애"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ded6cfa48a1339b35fe89021926e4dde4c16b508",
+   "url": "https://www.khan.co.kr/article/202610200947001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "119a2e4e84946881",
+   "event_key": "c24a202cf768cf895246983151ba8eb7a4b11b41",
+   "title": "[속보] 합참의장 “북, 적반하장식 전가 용납 못해…추가 도발시 단호히 대응”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "단호히",
+    "도발시",
+    "용납",
+    "적반하장식",
+    "전가",
+    "합참의장"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "34513ba10065e2bbef3edf3c2f3fcc0c596e027b",
+   "url": "https://www.khan.co.kr/article/202610200845001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "0aa0a9804b8f446a",
+   "event_key": "bef2b8f57483390e49c4d0da514678d1433a5997",
+   "title": "유튜브 세계도 ‘승자독식’···상위 10%가 전체 수입 76% 챙겨",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "상위",
+    "세계",
+    "수입",
+    "승자독식",
+    "유튜브",
+    "전체"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4d7208d0d49572f76cca52cb11ea00f620dc0bbf",
+   "url": "https://www.yna.co.kr/view/AKR20261019173500001",
+   "simhash": "b9e9750bcab91240",
+   "event_key": "31daac512e1c2589c105b1f743ceadf22ff09a9c",
+   "title": "김민석, 강릉 ITS 세계총회 방문…내년 보선 앞두고 민심공략",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "강릉",
+    "김민석",
+    "민심공략",
+    "방문",
+    "세계총회",
+    "앞두고"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f56e24add5d549f5612bd65f37534d82fc0d9f59",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805495",
+   "simhash": "4a72d130bdd589d6",
+   "event_key": "ca5b2197b5f427f21cee47efa8183a69e4fbc4b1",
+   "title": "[정치쇼] 신장식 \"구조적 다수? 그렇게 가기로 했다면 조국혁신당에 서운해하지 말라\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "구조적",
+    "그렇게",
+    "서운해하지",
+    "신장식",
+    "조국혁신당",
+    "했다면"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1f04ac3ba57cc6dfe7d40046465769543aefe6bc",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+   "simhash": "0ac1424695629a5b",
+   "event_key": "8341fd9b867d1cb80efc107815573a29103257f1",
+   "title": "At Kansas rally, Trump focuses closing midterm message on anti-Muslim racism – US politics live",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "closing",
+    "focuses",
+    "kansas",
+    "message",
+    "midterm",
+    "politics"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "22d0ca62b6ca3d56adf8529e632fce6a6c8ea5cb",
+   "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+   "simhash": "2fa4811ad59ef393",
+   "event_key": "2858ee7d4e67e5877880a7df7c88bffe1bc9f956",
+   "title": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "deploy",
+    "luxury",
+    "milan",
+    "prepares",
+    "protests",
+    "troops"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8160725fecce15ab3db36f6355897480110a11ff",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+   "simhash": "6679d0eff85e656a",
+   "event_key": "1274c3b8ab9504493f1402dd83217e9bacdf3b8d",
+   "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "economically",
+    "hits",
+    "iran",
+    "live",
+    "militarily",
+    "trump"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "da0daa90beed7dc8849025e2aa44f2ac857c7d71",
+   "url": "https://www.yna.co.kr/view/AKR20261020025800009",
+   "simhash": "20d657fa69573ae0",
+   "event_key": "eabf385fd3b7248fc1049d307ff0822c6c13bd00",
+   "title": "트럼프의 압박수단일까…우크라 \"위성통신·정보공유 제한 여전\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "압박수단일까",
+    "우크라",
+    "위성통신",
+    "정보공유",
+    "제한",
+    "트럼프"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "13f0ac9bb12133f881a46928d238ac97e0949dfa",
+   "url": "https://www.yna.co.kr/view/AKR20261020006900071",
+   "simhash": "b014484751800743",
+   "event_key": "fbabd5534c75ab8f8508071ccb1b0f8893cd1d93",
+   "title": "트럼프, '젤렌스키 배제' 종전협상론…\"푸틴·시진핑과 회담 용의\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "배제",
+    "시진핑",
+    "젤렌스키",
+    "종전협상론",
+    "트럼프",
+    "푸틴"
+   ],
+   "sent_at": "2026-10-20T10:21:46+09:00",
    "followup_count": 0
   }
  ]
