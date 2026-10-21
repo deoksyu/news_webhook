@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-20T10:21:46+09:00",
+ "updated_at": "2026-10-21T10:08:45+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -12011,6 +12011,377 @@
     "푸틴"
    ],
    "sent_at": "2026-10-20T10:21:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b6629abae55b8c83edc91fa400f5ef26eebb92ca",
+   "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+   "simhash": "713f3597cf99a4f6",
+   "event_key": "3a38473d02f2f6e75f7f5ed3df4755c3ee333890",
+   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "anthropic",
+    "block",
+    "killed",
+    "people",
+    "pitches",
+    "safety"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "aeaa448f66c5e86ea1656d089968836d1f404b17",
+   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+   "simhash": "893a391bb3df0038",
+   "event_key": "7f679ca42bbc084baf7ed2ed679a051feccc7c5d",
+   "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "acquires",
+    "biotech",
+    "business",
+    "openai",
+    "orchestra",
+    "startup"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ec31e6fc5c0ba3934e701f7b8cad40feb6e2c5a0",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+   "simhash": "a9f7dbb3efab076a",
+   "event_key": "1bf49cf2773e289b660f142ad819f98ba017dc7c",
+   "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "altman",
+    "dismisses",
+    "judge",
+    "lawsuit",
+    "sexual",
+    "sister"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "42ee40efa03786400b00f81c6584a1757ff3293a",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiSE45SGtxZTVlSDRpUG4zdWdzaUdVNW92a0o1OU1TYkZ4Vk4tTm5IR1NHdnZHMjNFMm5rX3A5SlcxYXR0Uk1vMDJSaF9rMTQzR25WUFktRXM3OWNkNGJKV0UyWmI5Z3c?oc=5",
+   "simhash": "8f2981c1816b9b30",
+   "event_key": "6556cb5104c7f0f029f43159729598efe2304f21",
+   "title": "고객에게 먼저 전화하는 AI 에이전트...채널톡, AI 전화 상담 ‘보이스 알프’ 정식 출시",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "고객",
+    "먼저",
+    "보이스",
+    "에이전트",
+    "전화하",
+    "채널톡"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5ed43860b2e69fceb1ed0656a310aaf5277732e9",
+   "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+   "simhash": "95e4163b38a15e6d",
+   "event_key": "c40a19fc779727bb093f8e6a2eff3edd39946806",
+   "title": "Google’s more personalized Gemini AI is heading to your car",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "car",
+    "gemini",
+    "google",
+    "heading",
+    "personalized",
+    "your"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "71cf1cd6b4bb450d73d2e607c912aa1cdf597d22",
+   "url": "https://www.venturesquare.net/1121490/",
+   "simhash": "3e4163164f8112d1",
+   "event_key": "c2cdf51cd65f4db6098bceaaf00f1274085a7e6b",
+   "title": "엔지틴, 단백질 기반 스킨케어 ‘더마튠’ 피부과 입점…시술 후 관리 시장 진출",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "기반",
+    "단백질",
+    "더마튠",
+    "스킨케어",
+    "엔지틴",
+    "피부"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7c70e2659721cbfb137867ac9d6fe6e7a8f07739",
+   "url": "https://byline.network/2026/10/20-661/",
+   "simhash": "8d56e8189f5c6350",
+   "event_key": "9b4979fc9117abb9a691862c50e5f3da102b30aa",
+   "title": "SAP코리아 “유망 중소・중견기업 ERP 도입 파격 지원한다”",
+   "source": "바이라인네트워크",
+   "category": "biz",
+   "tokens": [
+    "erp",
+    "sap",
+    "유망",
+    "중견기업",
+    "중소",
+    "코리아"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a8d6030b440a267722dd6c4cfc5d10ebbd7ec528",
+   "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+   "simhash": "02b3bd180d243d72",
+   "event_key": "37ea23198e1ad78067b1378d5d907dfef0ae2d56",
+   "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "assistant",
+    "built",
+    "disrupt",
+    "founder",
+    "pitched",
+    "replika"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c6fd953819ac6af1b8c6b296f0bbb5910ffa7fe0",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OZFF1Mmw2SHc0dXNHSmo5SWhTejdrQ1pTZkRQLVFrQklaTU5sVHRHeWhLQVE0b0tQcy1rZW4waXRBLXhsdnlnRnRsdDBvRjBTbVRaWk5DOXItNDRhT0RfYdIBeEFVX3lxTE8xM1M3NEo1ZGt4aU55VEsxcWF6T3BUeWR3U1VBZmVFUVpGb0pTZ21LSE1mMnlsRmtiYl8xYW5adzR1R2d5aWZpX1o0Q3hIQ0Y3M1RhUnk5MDhId2c1TDd3ODc5c0x4ZXZHMjFFNEFRVHRPNkt5TGEtTQ?oc=5",
+   "simhash": "83770f5c3fba789b",
+   "event_key": "4e5d549bc00748e473531a2f5e2e997797657b12",
+   "title": "\"소상공인 사업 절반가량은 실집행률 70% ↓\"",
+   "source": "뉴시스",
+   "category": "biz",
+   "tokens": [
+    "사업",
+    "실집행률",
+    "절반가량"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3e2f3407495458f5a1e8e188d50d894e0ddb22a0",
+   "url": "https://permit.petercai.com/",
+   "simhash": "77649a8a660c9d6c",
+   "event_key": "c5ddcc88542eef8f4b81204fea744aeaa1c13dec",
+   "title": "SimCity, but with Permits",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "permits",
+    "simcity"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a4e4097058620daa494909e9c444b48d992f0289",
+   "url": "https://www.khan.co.kr/article/202610210828001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "30605850d5272f20",
+   "event_key": "12a8cf2dcb53428357e6395a0b29ef3bd2bb7870",
+   "title": "미 재무 “민주당은 ‘트럼프 관세’ 막을 방법 없어”···중간선거 결과 무관 관세 유지 시사",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "관세",
+    "막을",
+    "민주당",
+    "재무",
+    "중간선거",
+    "트럼프"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bf6a1c95d0223b3fdc5ba1db193f3c760e9406eb",
+   "url": "https://www.mk.co.kr/news/politics/12181404",
+   "simhash": "817753a829507d22",
+   "event_key": "b98b3a9253dbedb844f7c188c9a8b144a8c69831",
+   "title": "김민석 “정권 재창출이 성적표”…이 대통령 ‘구조적 다수론’ 힘 싣기",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "구조적",
+    "김민석",
+    "다수론",
+    "성적표",
+    "재창출",
+    "정권"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5667ad25e80862c1f1f9762ab099a6bb6468e026",
+   "url": "https://www.khan.co.kr/article/202610210741001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "df55be48bd24bd04",
+   "event_key": "af7011c56977d354d259bbb5388d04ddba03ec0d",
+   "title": "‘우크라 스타실드 속도 제한’ 머스크 지시였나···헤그세스 “우리는 지시 안내렸다” 부인",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "머스크",
+    "스타실드",
+    "안내렸다",
+    "우크라",
+    "지시였나",
+    "헤그세스"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b2ab0cd4b3ce83e291303ae297a6a36cd77bfb16",
+   "url": "https://www.yna.co.kr/view/AKR20261021045000001",
+   "simhash": "6ba1ac86a338e729",
+   "event_key": "a83b18a2c93bf49603c8826cc08f39235b11f207",
+   "title": "정점식 \"경찰 질타하며 개혁 부르짖지만 말고 청장 임명해야\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "개혁",
+    "경찰",
+    "부르짖지",
+    "임명해야",
+    "정점식",
+    "질타"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "62c6e725adf3a7d0463eea5a22f568f19fcf4f71",
+   "url": "https://www.yna.co.kr/view/AKR20261021039100001",
+   "simhash": "0921d5c2f2525028",
+   "event_key": "8f8e0e98228d8ab82c1dca945ee3aff35026f4a9",
+   "title": "김민석 \"초광역특구법 최우선 입법…52시간제 합리적 대안 도출\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "김민석",
+    "시간제",
+    "입법",
+    "초광역특구법",
+    "최우선",
+    "합리적"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f104bcff40114c9efced185f35ca57ced1d59eb4",
+   "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+   "simhash": "94265802114e8590",
+   "event_key": "55f76c07ee0884107f347bcb2992c9d7d0302844",
+   "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "care",
+    "deal",
+    "done",
+    "peace",
+    "pressures",
+    "ukraine"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4f5288a2a6bd8182512bcbc2d529952770f3ce55",
+   "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+   "simhash": "2625f5df7fbd9daf",
+   "event_key": "522b9fc08c698845a87ffd95bd6d5fe9cca86ef9",
+   "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "ahead",
+    "commits",
+    "elections",
+    "high",
+    "midterm",
+    "stakes"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "21db982e4de728247c2d6c3164b948df77925903",
+   "url": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
+   "simhash": "78626512c4ba4328",
+   "event_key": "c6bb3b2b1ba0a894dd24c076d115468b1e824839",
+   "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "intelligence",
+    "resumed",
+    "russian",
+    "sharing",
+    "ukraine",
+    "zelenskyy"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "96c8799ef79ca2fda496b1daae79958cf409139f",
+   "url": "https://www.yna.co.kr/view/AKR20261021004751071",
+   "simhash": "2801d376d7c80503",
+   "event_key": "a680c6569ae78f1c48fc11561d68f723ba15c01b",
+   "title": "트럼프 \"러시아는 거대한 나라…젤렌스키, 종전 합의해야\"(종합)",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "거대한",
+    "나라",
+    "러시아",
+    "젤렌스키",
+    "종전",
+    "합의해야"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d53aa0e76c50bfbb613272f01b9fe57cb828ed61",
+   "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+   "simhash": "03205038470716b8",
+   "event_key": "a1a97e4a79091d4b4f1afb826a077bf8bf5b2a42",
+   "title": "Is Donald Trump ready to do business with Myanmar?",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "business",
+    "donald",
+    "myanmar",
+    "ready"
+   ],
+   "sent_at": "2026-10-21T10:08:45+09:00",
    "followup_count": 0
   }
  ]
