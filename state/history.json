@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-21T10:08:45+09:00",
+ "updated_at": "2026-10-22T10:05:47+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -12382,6 +12382,385 @@
     "ready"
    ],
    "sent_at": "2026-10-21T10:08:45+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3045f0c286fabaa783fdc4f66f92b7fe1ce9ba70",
+   "url": "https://www.etnews.com/20261022000024",
+   "simhash": "77d3ce2dfa73614e",
+   "event_key": "eda75f55d5b3ec940bfce503ab189d59ba0d714a",
+   "title": "테슬라, 3분기 매출 37조원…FSD 급증 속 AI 투자로 비용 부담",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "fsd",
+    "급증",
+    "매출",
+    "분기",
+    "조원",
+    "테슬라"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1f413756a0cb052595fadb94475181bf01be91db",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+   "simhash": "fdf13e2a505936e4",
+   "event_key": "d48062fed029ea9b8e27c8cccd4e8ecf855fd9da",
+   "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "agent",
+    "anthropic",
+    "claude",
+    "duet",
+    "muse",
+    "takes"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d777d785a3acdbe6277f29b211ef34a4e2ecd38e",
+   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+   "simhash": "01dc1b4d3d64dd9f",
+   "event_key": "8d61a5c082325cbae5d6cf12219d9792e16b0a7d",
+   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "coding",
+    "flint",
+    "laptop",
+    "largely",
+    "launches",
+    "recursive"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "663f3957485dcfd2d910c84d6bc14bf0899b2588",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0STJFWFZpN3A0N3BzM29hS2pQU2huZU9GZjg3Y2o1WmhfNGptZGxRV2NsOC1HR2JlYjB3c1ZsM19BNWp5c3M5VE1XMllOTGotT2Y0a2p1TlR5bnNEdXRYTDZkNW9Kc3RDZWd6cw?oc=5",
+   "simhash": "290954f2798078ca",
+   "event_key": "07eaf7507f79813c6c3311139d5efb42791d0546",
+   "title": "시선AI, 의료·바이오 본격 진출…AI 원격의료 플랫폼으로 45조원 日 시장 공략",
+   "source": "로봇신문",
+   "category": "ai",
+   "tokens": [
+    "바이오",
+    "본격",
+    "시선",
+    "원격의료",
+    "의료",
+    "플랫폼"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "70777960dbb39366c0dd305ec158138504e568c9",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03dVdBTml4VXlCX2ZUZW1DZW5QeUxOSnVJc2UtSWJxTUt2X2xCR3hteHp3R2traGtOVUxELUZjOVg1M29XRWVhejA2V2l4TkNIcUN5M2FhNUMyeFJXMzgyQlFVYi1xZGs?oc=5",
+   "simhash": "1fe04ce8084369b0",
+   "event_key": "78195d31b8856ac8fbc3c6b5cdb5de404ae4c68e",
+   "title": "엔비디아, 휴머노이드·AI 학습 기술 확대...범용 로봇 개발 위한 아이작 플랫폼 고도화",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "고도화",
+    "기술",
+    "아이작",
+    "플랫폼",
+    "학습",
+    "휴머노이드"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e5ef844a7e69de29427e0b9e0f2f1e6cba3f5038",
+   "url": "https://www.venturesquare.net/1121809/",
+   "simhash": "08d91c4e0e8e6366",
+   "event_key": "1641291d56ffe692b7d95893929a9f251d4a2814",
+   "title": "네이션에이, 85억원 시리즈A 투자 유치…AI 영상 제작 플랫폼 통합·글로벌 확장 추진",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "네이션에",
+    "시리즈",
+    "억원",
+    "제작",
+    "통합",
+    "플랫폼"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b788a70c0d6f1932f674168d67532aaa9cbde76e",
+   "url": "https://platum.kr/archives/296783?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a7%2581%25eb%25b0%25a9-%25ec%258a%25a4%25eb%25a7%2588%25ed%258a%25b8%25ed%2599%2588-%25eb%25b8%258c%25eb%259e%259c%25eb%2593%259c-%25ec%2586%258c%25eb%25a7%2588-%25ec%25b6%259c%25eb%25b2%2594-%25ec%25b2%25ab-%25ec%25a0%259c%25ed%2592%2588%25ec%259d%2580-%25ec%259e%2590%25eb%2585%2580-%25ea%25b7%2580",
+   "simhash": "4151e253c56f88ac",
+   "event_key": "8636ce20a86e53b315eaebb1cf176bd9e6fedca3",
+   "title": "직방, 스마트홈 브랜드 ‘소마’ 출범, 첫 제품은 자녀 귀가 알리는 도어록",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "도어록",
+    "브랜드",
+    "소마",
+    "스마트홈",
+    "직방",
+    "출범"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c600bafa0bd3b3336c04da9e8d89c5c44e40bbb4",
+   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+   "simhash": "029312dfd5384700",
+   "event_key": "9c9c55d398fb1b86317ad2910f47a5474983fa03",
+   "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "airplanes",
+    "flapping",
+    "old",
+    "raises",
+    "valuation",
+    "year"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1c8ffa56b07ec2faabddc9af6468cb1e2c9ffadc",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5kZUFNb016SWlYYkMta0cyNm1MenBJNGNUUHZ0Y1VXcktDNTNEUUNiNm1OaUhUbTd2aEtKcFR2MHFUOGJYSlE?oc=5",
+   "simhash": "8c64dc9a832d3b41",
+   "event_key": "81dbfe6d6a9da25700285b4f67bd9f20046daf9a",
+   "title": "한유원, 상품개선 지원사업 참여 소상공인 간담회 개최",
+   "source": "매일경제",
+   "category": "biz",
+   "tokens": [
+    "간담회",
+    "상품개선",
+    "지원사업",
+    "참여",
+    "한유원"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e8e6c93b5ae60bc6aa720c597ab7bf5e6b25bed0",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfYWhNTlVxTjdaSlpqSFU0YU8tSTR1SzIydGVMVVUyRHFqM2VTemUyWjZnNngzRkNYR1BXZVFjWDhacUt5dUVKRVBGcW9WbEFhRnFGVGIzbXRMdWZsTWlVVtIBYEFVX3lxTFBfYWhNTlVxTjdaSlpqSFU0YU8tSTR1SzIydGVMVVUyRHFqM2VTemUyWjZnNngzRkNYR1BXZVFjWDhacUt5dUVKRVBGcW9WbEFhRnFGVGIzbXRMdWZsTWlVVg?oc=5",
+   "simhash": "61bd22020cce29cf",
+   "event_key": "7075cdf4501389836c4ad0c451f659c84cf56695",
+   "title": "폴리텍대, 벤처창업아이템 경진대회…AI·바이오 창업기술 경쟁",
+   "source": "연합뉴스",
+   "category": "biz",
+   "tokens": [
+    "경쟁",
+    "경진대회",
+    "바이오",
+    "벤처창업아이템",
+    "창업기술",
+    "폴리텍대"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bb3e45ef39285d5360f4e7335c63631e3b247d72",
+   "url": "https://www.khan.co.kr/article/202610220858001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "d9b5d41fe4cce908",
+   "event_key": "6f927d84f0aa12a40a2afb2ad99e86bbca3e48db",
+   "title": "정점식 “확성기 북한이 하면 로맨스 대한민국이 하면 불륜인가”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "대한민국",
+    "로맨스",
+    "북한",
+    "불륜인",
+    "정점식",
+    "확성기"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6722544898bf379eb23484c6a7c74edc4071594a",
+   "url": "https://www.mk.co.kr/news/economy/12182564",
+   "simhash": "d50a934acb3de588",
+   "event_key": "e4b76d6e1d1ae0c6eaa046341568f37ce5b18674",
+   "title": "[속보] 한은, 기준금리 연 3.00% ‘매파적 동결’…11월 인상 가시화",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "가시화",
+    "기준금리",
+    "동결",
+    "매파적",
+    "인상",
+    "한은"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3d030636ad1b4bf4498bd7dd826d1ec23c124bc6",
+   "url": "https://www.mk.co.kr/news/economy/12182545",
+   "simhash": "357c1a60721ec302",
+   "event_key": "e5bbdcfda956ead4a0c174071d3bf6632903a792",
+   "title": "5년간 법인세 증가분 90%가 수도권에서…서울 쏠림 심해",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "년간",
+    "법인세",
+    "서울",
+    "수도권",
+    "쏠림",
+    "증가분"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "474eb49034074c13694949ed95365142c34d7b3a",
+   "url": "https://www.khan.co.kr/article/202610220725001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "b0a8061a1cb9af31",
+   "event_key": "1942d116df14c16c33b939f794714641b2e8b3f9",
+   "title": "국회, 종합감사 본격화…‘공소취소·레버리지’ 재공방 전망",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "공소취소",
+    "국회",
+    "레버리지",
+    "본격화",
+    "재공방",
+    "종합감사"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b00d8f9c33f855f79c46751aca53bbfef922ddb4",
+   "url": "https://www.yna.co.kr/view/AKR20261022047400001",
+   "simhash": "680174874e538bf4",
+   "event_key": "e717b1899f84cea68abd3648f8c1ffe0f000f0ce",
+   "title": "與권칠승 \"공급 지연초래 살필것…국힘, 국민연금 매도·정쟁\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "공급",
+    "국민연금",
+    "국힘",
+    "권칠승",
+    "살필것",
+    "지연초래"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6ae3048a2cf74111a77f5c821f2ff164a9aa863b",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+   "simhash": "24b25b42d908cc34",
+   "event_key": "f78ee92057092ce093c21994332268cc0df03ebd",
+   "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – live",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "allegedly",
+    "carolina",
+    "praises",
+    "protester",
+    "punching",
+    "supporter"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "78496e8dd51838d935aed2c66fde1d8528dded04",
+   "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+   "simhash": "08b1e6bb0759d3ef",
+   "event_key": "b04777e42e715d0278569ed3795c49b95a100e46",
+   "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "agrees",
+    "missiles",
+    "peace",
+    "resume",
+    "russia",
+    "ukraine"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 1
+  },
+  {
+   "url_hash": "e67fda87a229e3f2b7ac79977372c1696c37257f",
+   "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+   "simhash": "b5faf25b735c8735",
+   "event_key": "7ed04bbb310f7781cf3d292ca84c7689f981d04e",
+   "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "accuses",
+    "comments",
+    "foreign",
+    "leaders",
+    "macron",
+    "stupid"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "80fb761d758029854f3bc6c64c7b67a2cf48f7a3",
+   "url": "https://www.yna.co.kr/view/AKR20261022036600009",
+   "simhash": "b2e1abcb19b78d79",
+   "event_key": "bf2c2ce16cb0981eac398df1315e6655edfe5c18",
+   "title": "러시아, 美중간선거 개입 의혹…\"딥페이크 퍼트려 온라인 공작\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "개입",
+    "딥페이크",
+    "러시아",
+    "온라인",
+    "중간선거",
+    "퍼트려"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ede3a1b32fd141808ac56e07e626f6b6ebbbb901",
+   "url": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
+   "simhash": "b311270a35491143",
+   "event_key": "b60e7e2aa1b43b6e8c70bd111662570a88521710",
+   "title": "US accuses Canada of election interference ahead of midterms",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "accuses",
+    "ahead",
+    "canada",
+    "election",
+    "interference",
+    "midterms"
+   ],
+   "sent_at": "2026-10-22T10:05:47+09:00",
    "followup_count": 0
   }
  ]
