@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-22T10:05:47+09:00",
+ "updated_at": "2026-10-23T10:06:23+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -12761,6 +12761,377 @@
     "midterms"
    ],
    "sent_at": "2026-10-22T10:05:47+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "09c9f9d097fbda6f1ce1011d58660a136b8bf024",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "simhash": "45ad4a7b1d186509",
+   "event_key": "b05832b4dfcb4163a6091a06650265570760f272",
+   "title": "Canva’s first AI image model plans designs before generating them",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "before",
+    "canva",
+    "designs",
+    "first",
+    "generating",
+    "image"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "85432a28f8271d4fda2e1ba84f7e696943416ab2",
+   "url": "https://www.etnews.com/20261023000004",
+   "simhash": "49d285d461b0054c",
+   "event_key": "b470d10786774d3659127b309bf522ded88f8606",
+   "title": "AI 투자 우려에 나스닥 2.6% 급락…반도체지수 6.7%↓",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "반도체지수",
+    "우려"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5d204276414bcfa2eeff25d54ee5e294f63a8c5c",
+   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "simhash": "7587391fd08c5c30",
+   "event_key": "2b857d0b317de1ea5a7d81ea6ce94358c5b9de6b",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "available",
+    "competition",
+    "competitor",
+    "decision",
+    "openai",
+    "widely"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3ecc8fb58c56cee90732d224c3871cb419be6018",
+   "url": "https://www.etnews.com/20261023000003",
+   "simhash": "8a963504224ae387",
+   "event_key": "85273ec6532e1e915e6cf22faa8b61ae4cc66243",
+   "title": "앤트로픽도 AI 에이전트 경쟁 뛰어든다…'클로드 듀엣' 공개",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "경쟁",
+    "듀엣",
+    "뛰어든다",
+    "앤트로픽",
+    "에이전트",
+    "클로드"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ab838d8755d52b2368ff034d3d2aa6168c9f2bf3",
+   "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+   "simhash": "0b170d89080f6d1d",
+   "event_key": "6fd94a446def04497f2b5a0ed76837fbd8c0aaa6",
+   "title": "The Foundations of Scalable AI",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "tokens": [
+    "foundations",
+    "scalable"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a1b4d790cfe938796712f68b330e8c011936b9a5",
+   "url": "https://www.venturesquare.net/1122251/",
+   "simhash": "89340660802442d9",
+   "event_key": "9389afe6ab3417752f02a6dea1c03cb2f269fa47",
+   "title": "KAIA·벤처스퀘어, 김난도·목승환·전화성과 함께 2027 스타트업 생태계 전망한다",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "2027",
+    "kaia",
+    "목승환",
+    "벤처스퀘어",
+    "생태계",
+    "전화성"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3cdf5cb3e65c6a76de1e598dc1f4810fd6b62306",
+   "url": "https://platum.kr/archives/296860?utm_source=rss&utm_medium=rss&utm_campaign=kaist-%25ea%25b5%2590%25ec%2588%2598-%25ec%25b0%25bd%25ec%2597%2585-%25ec%2595%25a0%25eb%258b%2588%25eb%25b8%258c%25eb%25a6%25bf%25ec%25a7%2580-%25eb%258d%2594%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-%25ec%258b%259c%25eb%2593%259c-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598-gpu",
+   "simhash": "2abfa0d7e08efd60",
+   "event_key": "930de0c15a0b2be976266726ea8fe4d661e24e9c",
+   "title": "KAIST 교수 창업 애니브릿지, 더벤처스 시드 투자 유치… GPU·NPU 함께 써 AI 추론 비용 낮춘다",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "gpu",
+    "kaist",
+    "npu",
+    "낮춘다",
+    "더벤처스",
+    "애니브릿지"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8fc1a4ef75d0e67f0df523f74734fa5e02043fd8",
+   "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+   "simhash": "f864d61a97dba6e3",
+   "event_key": "d300e98ad3621fb4807547946101f673275608bc",
+   "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "early",
+    "growth",
+    "names",
+    "sales",
+    "secret",
+    "startup"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cecdc23aa5e1a0af8787e1c22dbf2a414923b68b",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XeWJZdEtvNjRRUEpJSWxGRmlpU25TU0lvaTR0bzBfczZUa09YMy0wT2wzVm5oTTU0M01jOWp5ajdTZURwbDBudEktSFFOMlNKTE1yU3AtbjViLXdxVFA0Zg?oc=5",
+   "simhash": "a8762c2493f25ea5",
+   "event_key": "7e1630d4e64c413c861aba2f643a110c3dbbbe87",
+   "title": "계룡시, 소상공인 우수상품 홍보·상권혁신 행사 연다",
+   "source": "뉴스1",
+   "category": "biz",
+   "tokens": [
+    "계룡시",
+    "상권혁신",
+    "연다",
+    "우수상품",
+    "행사",
+    "홍보"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c549db63579c1ee0d0814a97588bafca7c0fcda9",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IQWJaTFFSZmxHZ0hZMWs1SW0xUmtOMWlMXzFvMjVBNFNxNFBzbGE4ZzR4X2w1WW1GQ2M5OW9BLWR0WGlmS2ZmamVwd3ZIU2FuOV94VkQwSm9LMEnSAWBBVV95cUxNdjJLTXdhTFA2akNlTXU2Q0VQbzFfQXZ3bEFpaUxaekVSWjR2X2ZmX2VfWWN5WUJDSTAtNkFhRlhSc2FHeUZ5QU44YmNTc3RCZjY4YmE5THMzTzZXUDJyX3c?oc=5",
+   "simhash": "2ff6c64d8d7523b8",
+   "event_key": "c17bf61d52059e62cd3ee451160ec39452bcf6a3",
+   "title": "프랜차이즈 창업 박람회 사흘간 코엑스서 개최…200여개사 참여",
+   "source": "연합뉴스",
+   "category": "biz",
+   "tokens": [
+    "박람회",
+    "사흘간",
+    "여개사",
+    "참여",
+    "코엑스서",
+    "프랜차이즈"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e13b7fc5cf47de1518f0c8020305041a7bcb1bdc",
+   "url": "https://www.yna.co.kr/view/AKR20261023020200504",
+   "simhash": "90170731e8a22eb3",
+   "event_key": "cd52c91caba28c0f60057554a79deb4c0501543a",
+   "title": "조현 \"한일 포괄적 경제협력 제도적 틀 마련 위해 긴밀 소통\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "경제협력",
+    "마련",
+    "제도적",
+    "조현",
+    "포괄적",
+    "한일"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e429787af0bb09de47785a73bc8e88597996ab32",
+   "url": "https://www.yna.co.kr/view/AKR20261022181800001",
+   "simhash": "34813608b221ed2e",
+   "event_key": "b1b6715aeb726eebd56c64c73707de3d90cad66e",
+   "title": "상임위 8곳 국정감사…미래기금·초광역특구법 등 공방 전망",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "공방",
+    "국정감사",
+    "미래기금",
+    "상임위",
+    "초광역특구법"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f0c272fb7cb8d8271d6bfbef79e2720d3b8b416e",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810978",
+   "simhash": "aac48004f8b0320b",
+   "event_key": "303e4c27a764c56ab3d3821126253c98e285b06c",
+   "title": "문체부 \"김혜경 여사 위한 별도 예산 없다\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "김혜경",
+    "문체부",
+    "별도",
+    "여사",
+    "예산",
+    "위한"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "986fcc9955ff535704cb408eac7447e03536fc17",
+   "url": "https://www.khan.co.kr/article/202610230600021/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "728520a0b751fc90",
+   "event_key": "f1d0c3b67f39ec04670cf3b8532d9c78c94c16af",
+   "title": "[단독] 교사 60% “노동인권 교육 안 한다”는데 국교위는 “지금도 충분”···국정과제 엇박자",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "교사",
+    "교육",
+    "국교위",
+    "국정과제",
+    "노동인권",
+    "엇박자"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8530890f8c5296b4e79c62478810d6f3820dd051",
+   "url": "https://www.khan.co.kr/article/202610230850001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "420ea011aa9a8639",
+   "event_key": "beb219e76448425accf41090d3d779a85759b98c",
+   "title": "‘운명의 날’ 오세훈 2심 선고…촉각 곤두세우는 여야",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "곤두세우",
+    "선고",
+    "여야",
+    "오세훈",
+    "운명",
+    "촉각"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1934d3152bbc2580c7bcf03079e8226353d83ede",
+   "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+   "simhash": "a2692dfa9e37a023",
+   "event_key": "dd5838203010bfbf14892e2cbc415e7b83d8d7a1",
+   "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "constant",
+    "diplomats",
+    "moscow",
+    "paranoia",
+    "surveillance",
+    "western"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "30eb5fc3240e71a3f8e32613e22d29181a6c8c12",
+   "url": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
+   "simhash": "cff15eb7d30eef40",
+   "event_key": "ca76740d734587081fcf1226f1920d8259db8fad",
+   "title": "Department of Justice opens criminal investigation into Corey Lewandowski",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "criminal",
+    "department",
+    "investigation",
+    "justice",
+    "lewandowski",
+    "opens"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fb89e5a6d5ce555603d87eec5657079aa89f0178",
+   "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+   "simhash": "8d36d1a09d0f9e00",
+   "event_key": "0e6ad9d857e1adeed0aa6ecd063d0e3e0fcbcbe6",
+   "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "access",
+    "network",
+    "restored",
+    "starlink",
+    "trump",
+    "ukraine"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0a4df33ef9d1e511f310ccd8481635e353afcd35",
+   "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
+   "simhash": "16a0e8128e361521",
+   "event_key": "24647aec4bad19f2c5a7e7d832298f75e6caa8d2",
+   "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "award",
+    "human",
+    "prize",
+    "rights",
+    "sakharov",
+    "sanctioned"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c0a116359b208875c123fa713155e79b5d6fd443",
+   "url": "https://www.yna.co.kr/view/AKR20261023013200071",
+   "simhash": "bb718488c11ab956",
+   "event_key": "d64a11045590a711e643ee3c6b39aa5f98b5a91c",
+   "title": "젤렌스키 \"美 정보공유 재개…스타실드 속도 여전히 제한\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "속도",
+    "스타실드",
+    "여전히",
+    "재개",
+    "정보공유",
+    "젤렌스키"
+   ],
+   "sent_at": "2026-10-23T10:06:23+09:00",
    "followup_count": 0
   }
  ]
