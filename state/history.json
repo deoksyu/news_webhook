@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-23T10:06:23+09:00",
+ "updated_at": "2026-10-24T10:15:19+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -13132,6 +13132,384 @@
     "젤렌스키"
    ],
    "sent_at": "2026-10-23T10:06:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f699a3e5cdaf492915584e366379490fa9928321",
+   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+   "simhash": "d57fb1519e62a64a",
+   "event_key": "5c57c7c290d7ea92c6e6fe804ad34f39b28dd3b7",
+   "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "citing",
+    "internet",
+    "longer",
+    "models",
+    "openai",
+    "significant"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "298c8de07d18f423dad39eb2358f85464fd4cd53",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "simhash": "c4fa0a1dc8b6ba24",
+   "event_key": "9a9b29053eebc29c39080e29fc9c9b1cbc7d2290",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "source": "OpenAI News",
+   "category": "ai",
+   "tokens": [
+    "billion",
+    "chatgpt",
+    "online",
+    "rapidly",
+    "scaling",
+    "storage"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4f1a69c73f385be7802ecd46cb2baf47e8ec0bf0",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+   "simhash": "6f1da81713d49a1f",
+   "event_key": "118324d4640c50564eb1de4e142ed7339d4fb898",
+   "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "awkward",
+    "block",
+    "dorsey",
+    "friend",
+    "model",
+    "talks"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0d399edae01448dd72ade9bdd1218a75c17eeb2c",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpbGNtUFZPVDhfYTlsUmJvd2FlUml5S0NNUE0wajRNeDQtVTNYaWFPZlI2eDJuYl9MZmJQYnNndXk5SWVWMkhVRXdKRXVaUThVcDcxQVpn?oc=5",
+   "simhash": "28439bdca069fe88",
+   "event_key": "57d622a9c2442b525813efc25cc892c9ce347d29",
+   "title": "LLM '명령'에 두 글자 추가했더니…로봇이 한 섬뜩한 행동",
+   "source": "지디넷코리아",
+   "category": "ai",
+   "tokens": [
+    "llm",
+    "글자",
+    "로봇",
+    "명령",
+    "섬뜩한",
+    "추가했더니"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4f8bba4990b7ebd92ac7b6d3ea0512ce940fe453",
+   "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+   "simhash": "3a62afd2a115379b",
+   "event_key": "167702ddfb1b000fc238f94cf5ba44198ec77344",
+   "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "bessemer",
+    "founder",
+    "founders",
+    "summit",
+    "techcrunch",
+    "toast"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "35cb973c8a3cbc53fc815138d1b593ad984341c4",
+   "url": "https://www.venturesquare.net/1122489/",
+   "simhash": "b8121ed34ce66473",
+   "event_key": "fc7a3f86839e44cf56dffa0a0157660a0d9c8f1e",
+   "title": "대전창조경제혁신센터, 제조 스타트업 사업화 지원 ‘제조파트너스 매칭데이’ 개최",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "대전창조경제혁신",
+    "매칭데",
+    "사업화",
+    "센터",
+    "제조",
+    "제조파트너스"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7d95f98d267c41006ce14b6ed31fc3d94a13d924",
+   "url": "https://www.venturesquare.net/1122456/",
+   "simhash": "2e7b14451e2a7451",
+   "event_key": "140c4cd39b620d4c9b386842995348ddfe33f25e",
+   "title": "IBK기업은행, IBK창공 대전 10기 데모데이 개최…스타트업 12개사 투자유치 나서",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "ibk",
+    "개사",
+    "기업은행",
+    "대전",
+    "데모데",
+    "창공"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ae826c96ec6cdcd11ec7a97175792757064374a5",
+   "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+   "simhash": "8cbf844b155c31f0",
+   "event_key": "c5d0ac10143aa2ef4aeb906ad9830ac017d9964f",
+   "title": "Startups don’t need to go viral to win customers",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "customers",
+    "don",
+    "need",
+    "startups",
+    "viral",
+    "win"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "12e696e797ece8af1dae2181f0bbdf9270baafb5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tYkc0b2JQSnlqWkFfbnVpcUlOckV0Z3JUbXdOT1hmY0R2UUo4cEF1QVVYSE91WUN6SWgyRkJzWDV3WlZGSDdnZjdxd04xWEtqeEtQNEN6ekhPbWNYTlNjZjBjUGt1Y2pfRWNqUUhtVjBnX3EyX1ZlYtIBeEFVX3lxTE8tYkc0b2JQSnlqWkFfbnVpcUlOckV0Z3JUbXdOT1hmY0R2UUo4cEF1QVVYSE91WUN6SWgyRkJzWDV3WlZGSDdnZjdxd04xWEtqeEtQNEN6ekhPbWNYTlNjZjBjUGt1Y2pfRWNqUUhtVjBnX3EyX1ZlYg?oc=5",
+   "simhash": "82e68c3e01580917",
+   "event_key": "d462fd6748ed51d2028572ea1235591598461bee",
+   "title": "가게 홍보부터 AI 창업까지…카카오, 소상공인 지원사업 알린다",
+   "source": "뉴시스",
+   "category": "biz",
+   "tokens": [
+    "가게",
+    "알린다",
+    "지원사업",
+    "카카오",
+    "홍보"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "04f2ec6760f27a362efd1711845d5b9a3510020d",
+   "url": "https://byline.network/2026/10/22-628/",
+   "simhash": "086835e643d7c96b",
+   "event_key": "892d26f45589bdecf29eeb1a59337e5463ade6e1",
+   "title": "IP 활용 넘어 투자까지…가까워지는 게임·웹툰",
+   "source": "바이라인네트워크",
+   "category": "biz",
+   "tokens": [
+    "가까워지",
+    "게임",
+    "넘어",
+    "웹툰",
+    "활용"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d0db6fff6e269ff605beac92ff5f720d69d09e8e",
+   "url": "https://www.yna.co.kr/view/AKR20261023177600002",
+   "simhash": "677306cf36f635d4",
+   "event_key": "3405e60df6910612911d420f30a1b085ba82cf80",
+   "title": "\"수출호황·확장재정에 수요측 물가압력↑…긴축 장기화 가능성\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "가능성",
+    "물가압력",
+    "수요측",
+    "수출호황",
+    "장기화",
+    "확장재정"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b582bf0307593413a7d4ddc1705dbb74c239d7ff",
+   "url": "https://www.khan.co.kr/article/202610240948001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "f827a4018b7177b6",
+   "event_key": "84e339cbbfa77418233f896591e2de2f5f072c0c",
+   "title": "사망설 돌던 김정은, 공개석상 재등장···군 수뇌부 앞에서 “최강의 군대 건설”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "공개석상",
+    "돌던",
+    "사망설",
+    "수뇌부",
+    "앞에서",
+    "재등장"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2a7bf79a74572a1dff11137334559f1e240c7537",
+   "url": "https://www.mk.co.kr/news/politics/12184752",
+   "simhash": "5084837614508d01",
+   "event_key": "de161996c5840a6d534522b8e9c42c9636efffa0",
+   "title": "‘별의 순간’ 표현까지 나왔다…‘기사회생’ 오세훈, 대권 가도 탄력받나",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "기사회생",
+    "나왔다",
+    "별의",
+    "순간",
+    "오세훈",
+    "탄력받나"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "110303b3bbdf5de1473a32173768fff600f6b461",
+   "url": "https://www.khan.co.kr/article/202610240801001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "07fecfc39954021d",
+   "event_key": "7aa00ab710eaabfc68c59eecc3dcc44d364d7115",
+   "title": "[반도 앨리스] 북한 조선중앙통신의 오보, 요즘 바빠서?…김여정 군사분계선 시찰 날짜 틀린 듯",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "군사분계선",
+    "김여정",
+    "바빠서",
+    "북한",
+    "오보",
+    "조선중앙통신"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ebbd9c4d7b893d24bb45810a72204714e8afcfed",
+   "url": "https://www.mk.co.kr/news/world/12184748",
+   "simhash": "824c6622cc2eada2",
+   "event_key": "f5274f83ae1539f8625c400df422ad3ae6766a49",
+   "title": "선거 다급한 트럼프, 일부 캐나다 제품 관세 철회…접전지 지원",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "다급한",
+    "선거",
+    "일부",
+    "접전지",
+    "캐나다",
+    "트럼프"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e1061a2a9b174e2c2501863b18397a7a47a5c7c7",
+   "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+   "simhash": "c6fa907b91123033",
+   "event_key": "54c8b3771d908202bdf9268d37488154a48ac844",
+   "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "boost",
+    "canada",
+    "collins",
+    "drops",
+    "embattled",
+    "tariffs"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3f541637fad0a5f27e19a37e45e44767e28e041f",
+   "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+   "simhash": "ada77003c42b30ba",
+   "event_key": "ed23a65c327d086aa04923f77504ce9c9fc85b0c",
+   "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "brokered",
+    "disaster",
+    "house",
+    "melania",
+    "ukraine",
+    "white"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "81d5784b5cf4370e6f7b55048e973be3126ad052",
+   "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+   "simhash": "8c46331fd552aa97",
+   "event_key": "e3d393851889ea6693af5920a73df354af818a70",
+   "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – as it happened",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "ceasefire",
+    "happened",
+    "melania",
+    "occupied",
+    "russian",
+    "ukrainian"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "284d4089990f2df43b1394f542fd07f398bc8742",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
+   "simhash": "80e45ddf06dc6b29",
+   "event_key": "b046ee06184a4ff0fe0f7884ceba59d15c5eb6b6",
+   "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "heights",
+    "incursions",
+    "israel",
+    "occupied",
+    "protest",
+    "syrians"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "91f4573a5c4fb225d04947c1cd724c96bb9fca88",
+   "url": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss",
+   "simhash": "c5c7913d1a8fdc1d",
+   "event_key": "418b9382351f96eaa2644ae200e465882b784968",
+   "title": "Trump administration sues to block possible Democratic win in Alaska",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "administration",
+    "alaska",
+    "block",
+    "democratic",
+    "possible",
+    "sues"
+   ],
+   "sent_at": "2026-10-24T10:15:19+09:00",
    "followup_count": 0
   }
  ]
