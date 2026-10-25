@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-24T10:15:19+09:00",
+ "updated_at": "2026-10-25T09:41:12+09:00",
  "entries": [
   {
    "url_hash": "8f271a83801d7b8260c95ff5010140784025ee1d",
@@ -13510,6 +13510,384 @@
     "sues"
    ],
    "sent_at": "2026-10-24T10:15:19+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e4ac1d3f295acd6002b61261949e9040b5dc3cd2",
+   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "simhash": "84c6d91714dc9481",
+   "event_key": "5b5e90d162fc3d08adf0a3fb54e57aebd2f4aad3",
+   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "chooses",
+    "democrats",
+    "forced",
+    "model",
+    "openai",
+    "republicans"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "291ce9d20d65f8ff5e35622b2f18c5a33f662293",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qQ212WDZ6S01oZ1AzNEZiYlpKTEVXeVRjZEpiWmhQbHdTVEdBUmxraHltV3c3VEp5NHlFeW80YzhhbVBmUzliT0NlUXh4TkFKZHg3dndIRjViRklpVHRBdtIBeEFVX3lxTE5YeUluaWppZjREX0tMV1hLeUtIeUFpSlBQamdMU0xCTjJYV3RhN0ZYb25OY1o3QTBGc2lYdUxjXzNfYXVDQloyVENXZFBCSEpoWi03QTkyT0JQZEEyblVCN24zNmFLVDN1RTkwZnFhV0l6SnVMMmlTSw?oc=5",
+   "simhash": "75b2850e64f92dcd",
+   "event_key": "c2de0a1a40d6981f63a01c0e19dfffeb88b47ea0",
+   "title": "\"GPU 아닌 메모리가 발목 잡는다\"…AI가 바꾼 반도체 판도 변화",
+   "source": "뉴시스",
+   "category": "ai",
+   "tokens": [
+    "gpu",
+    "메모리",
+    "바꾼",
+    "발목",
+    "아닌",
+    "잡는다"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "dbe76530e9896fc9916adb72c771caca0b8db0a3",
+   "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "simhash": "633d8d1375ce6aa5",
+   "event_key": "b51334b9bb36ae07b8f92bcff1f457f6ef4521e8",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "didn",
+    "graveyard",
+    "list",
+    "projects",
+    "running",
+    "startups"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9b8120e0fa72918c6be6762f34a977da953f0cda",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVREE1RHI5WTJFVXNEWHVHUkNrQkZxZ2dMdnBtREtFVnR3WDhzMElTOFUtdlJrWDh4Y2xGNkNXc0RfV2w4X0hNbkZUTWF5NjBCcEV3eEVIVEZ6TVVpTHBqMXE3Y21tWVE?oc=5",
+   "simhash": "85a1909742cf4b6f",
+   "event_key": "a75d823342474f52989869786ea11f87791f1def",
+   "title": "반도체 소부장, AI 타고 ’훨훨’…글로벌 진출 확대",
+   "source": "연합뉴스TV",
+   "category": "ai",
+   "tokens": [
+    "글로벌",
+    "소부장",
+    "진출",
+    "타고",
+    "확대",
+    "훨훨"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "415c1fc18c354ec6a508fabb55c6d5296ac968fb",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQVTNzSkZUQnFFU3l0VmdyVmNOeUliOEMwaklCYlMxOWN0WS1mMXIzNmxpMGx5NGxUY0pjdUJKaDAzWXZvWHBFSFJHckotVkNrNFHSAVNBVV95cUxORl9MeTRNMktDM0F2MjlCRnprel85ZUFKUWhyWGNxdWJLVlhfLXNJSzdQdlVZLXl1WUMzb3Z1UjRxT3k0WmlHSjM1ckNUTGJ6aWw3UQ?oc=5",
+   "simhash": "f6d6b3e26bd887db",
+   "event_key": "5d86f36e479870b7e25f779efd5c7fd9d332cec4",
+   "title": "美, 중국 AI·첨단 반도체 투자 옥죈다…생명공학까지 규제 확대",
+   "source": "서울경제",
+   "category": "ai",
+   "tokens": [
+    "규제",
+    "생명공학",
+    "옥죈다",
+    "중국",
+    "첨단",
+    "확대"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0759a7f4986928415b0db965359514a56e79a292",
+   "url": "https://www.venturesquare.net/1122608/",
+   "simhash": "d6f27ed64767b607",
+   "event_key": "85fc6dcdafb3683f491ee288c3863c3a845a1abb",
+   "title": "지역 이전 스타트업에 최대 6억원…창업도시 10곳, 기업 정착까지 이끌 수 있을까",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "기업",
+    "억원",
+    "있을까",
+    "지역",
+    "창업도시",
+    "최대"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2dbfe6b5456951beb2ad941cdc2b7c629ee1f2a0",
+   "url": "https://platum.kr/archives/296915?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b3%25bc%25ec%2588%2598%25ec%259b%2590-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%25b4-%25eb%25ac%25bc%25eb%25a5%2598%25eb%25a1%259c-%25ea%25b0%2584-%25ec%259d%25b4%25ec%259c%25a0-%25ec%25a0%2584%25ed%2599%2594%25ec%2584%25b1-%25eb%258c%2580%25ed%2591%259c-%25ec%258b%25a0%25ea%25b0%2584%25ec%259d%25b4-%25ec%25a7%259a",
+   "simhash": "883b0c4c1a0264ee",
+   "event_key": "956a7d335ed500fcb8f812af5a6f960fccc2e540",
+   "title": "과수원 로봇이 물류로 간 이유, 전화성 대표 신간이 짚은 농식품 스타트업 92곳의 사업화",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "과수원",
+    "농식품",
+    "로봇",
+    "물류",
+    "사업화",
+    "전화성"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2203bd1a772ab1e2b9393af5d51e360dfc54175b",
+   "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+   "simhash": "a5ff7fcb3430fa2d",
+   "event_key": "6ccf912147ad471e6cc1e0f09cab24c000086ca1",
+   "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "automate",
+    "former",
+    "launches",
+    "openai",
+    "robots",
+    "science"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "524cd08eca42e99e6e5d2fcf001032696c94995f",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWHJKN3pSeFJ5LUE4WmlreTFrZEZzSFJ2eGV1Y21OWDRRN0ZUTVpTWllHb3FLWlNkNWRLWDNsZE51RVluVXlPaldwbmpncE52Y0RLQ19EeUpScVRJeHFRX2hTeE1kTzNZaTYxYmF0V0g1RVpxcHBnc2lUb1VEN2o0Yg?oc=5",
+   "simhash": "8e230cac22029337",
+   "event_key": "e62b77e23695346198f025c1bf4392b115c4c226",
+   "title": "“대출·상환유예만으론 부족”…소상공인대회서 정책 전환 촉구",
+   "source": "이데일리",
+   "category": "biz",
+   "tokens": [
+    "대출",
+    "부족",
+    "상환유예만으론",
+    "소상공인대회서",
+    "전환",
+    "정책"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f80c4bbdb8d6f14796b2ac73993c90b835082432",
+   "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+   "simhash": "1435cad1b039565b",
+   "event_key": "6d12112ea137a96ec73d10f699b083e7e0a6d81d",
+   "title": "Twelve years of distributed SQLite",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "distributed",
+    "sqlite",
+    "twelve",
+    "years"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8912df83a8373cf557e5e447a638e259be592a97",
+   "url": "https://www.yna.co.kr/view/AKR20261024053200001",
+   "simhash": "8eb7c2a59fddc930",
+   "event_key": "baabacb3a386c09634b072b5cfa7bee1e49e85fa",
+   "title": "법무장관 檢출신 박균택·양부남 2인 압축…李대통령 막판 고심",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "대통령",
+    "박균택",
+    "법무장관",
+    "압축",
+    "양부남",
+    "출신"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ff4e323de18477147093b4bc1cbc21f08179e90a",
+   "url": "https://www.yna.co.kr/view/AKR20261024040400001",
+   "simhash": "1889c6249403fb6f",
+   "event_key": "10e20e7a64232972109f4876744b83a32c8b1f73",
+   "title": "조작기소 특검법안 처리 시동거는 與…'曺문제'도 연내매듭 목표",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "문제",
+    "시동거",
+    "연내매듭",
+    "조작기소",
+    "처리",
+    "특검법안"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b583b277a0ab25636748efd35f097d0a6cc625b9",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813212",
+   "simhash": "0387b2941be04faf",
+   "event_key": "cab0d87f0040597ecd9728bf2cd075a03355b2f7",
+   "title": "윤건영 \"김정은, 왕후닝 만남…당초 리창 계획 변경\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "계획",
+    "당초",
+    "리창",
+    "만남",
+    "왕후닝",
+    "윤건영"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1a87b239933b698f10604bf22295ddba575bb9bd",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813587",
+   "simhash": "06a1fc72ca9d8448",
+   "event_key": "69919aa6ee1ffb84302f7bf853451745dd100385",
+   "title": "북한 \"한국, 자체 핵무기 개발하겠다는 건가\"…유엔서 남북 설전",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "개발하겠다",
+    "북한",
+    "유엔서",
+    "자체",
+    "한국",
+    "핵무기"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3f8acb8f163e07c882d226f297ce60e9c5c34323",
+   "url": "https://www.mk.co.kr/news/politics/12184887",
+   "simhash": "f253cca209d0c850",
+   "event_key": "3e65fec419bb8a85e04e250c2c372a42a689e256",
+   "title": "[속보] 여당 정보위 간사 “김정은, 중국서 리창 아닌 왕후닝 만났다…계획변경”",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "계획변경",
+    "만났다",
+    "여당",
+    "왕후닝",
+    "정보위",
+    "중국서"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cec8687397fb1db8d9b154ba9c599bf2dffc7acf",
+   "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
+   "simhash": "96433c28c1a80d00",
+   "event_key": "9df0bb6fc3fd92dc8412f17297501570bf5d3265",
+   "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "burnham",
+    "discussion",
+    "freedom",
+    "honest",
+    "movement",
+    "wants"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8869d0c82143ba0cf671b1896374ad3a07ace95d",
+   "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+   "simhash": "76e2cbdb8ddc1691",
+   "event_key": "6f319f667568631de130c444df576b273be2c6cd",
+   "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "brazilian",
+    "election",
+    "million",
+    "rally",
+    "runoff",
+    "supporters"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a410ce36da580d888db1ea9eb07a28edebc89874",
+   "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+   "simhash": "8abac79b22991111",
+   "event_key": "9b4a55a5457e11e8905c0dc50b177901475b65ae",
+   "title": "How have Democrats’ policies shifted since the last major US election?",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "democrats",
+    "election",
+    "major",
+    "policies",
+    "shifted",
+    "since"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bc0af080b9e19bbd738e7a673dfe65c26e243447",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+   "simhash": "a42e6d9b11b952d0",
+   "event_key": "cacbe10d1182e287cf9bf9b5958934e88ed6be50",
+   "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "crackdown",
+    "election",
+    "influence",
+    "israel",
+    "military",
+    "tuesday"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5743e620e8f94d9424d55ffbb36ae536f0194fd3",
+   "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+   "simhash": "b4a2d090c909c4d9",
+   "event_key": "b2478a4736454446a5c37a936f43c8ab942e0991",
+   "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "demolish",
+    "displaced",
+    "families",
+    "forces",
+    "israeli",
+    "palestinian"
+   ],
+   "sent_at": "2026-10-25T09:41:12+09:00",
    "followup_count": 0
   }
  ]
