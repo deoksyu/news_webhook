@@ -1,385 +1,7 @@
 {
  "version": 1,
- "updated_at": "2026-10-27T10:43:39+09:00",
+ "updated_at": "2026-10-28T10:55:50+09:00",
  "entries": [
-  {
-   "url_hash": "b31a42e189d6854fa3170fa41f33fdf48ed0376c",
-   "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-   "simhash": "0a0c5b5375ab6f21",
-   "event_key": "7ba6f2f1b410832d744e2bf5a8f4662de1a0545c",
-   "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "boasting",
-    "fewer",
-    "launches",
-    "lower",
-    "mistakes",
-    "openai"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "122c91126b73b6495167f08ec10d21ffad4a9874",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-   "simhash": "6c406911153ffe0d",
-   "event_key": "110ed0b021bf61bba28ea30c86e9449947a4705f",
-   "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "consult",
-    "elite",
-    "fumble",
-    "mathematicians",
-    "openai",
-    "wants"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "55764e08c6695542c6d9f6fe11085134be6fb5cf",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-   "simhash": "27dd1eb2151c1f10",
-   "event_key": "06987b67c0579506b0ea4cedc59ee0d5bf0c7a02",
-   "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "andreessen",
-    "homework",
-    "horowitz",
-    "launching",
-    "palantir",
-    "partnerships"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "3a67f6fa3e511994651c1111f44af8c269763df0",
-   "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-   "simhash": "3dfa1c0411fc9d82",
-   "event_key": "d5f24fa43cb0db236ae6faf48a0cea276b3efda2",
-   "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "chips",
-    "emphasis",
-    "launches",
-    "qualcomm",
-    "smartphone"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "391073439087f816ed540610677349b61416e5e5",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBidEdtSWRFbmwxNmtiOE9zaUdLRnFzR3BBZGptZnB4dERwcWNsR2NrMVZ5eFN1aUVRMzR0YWl3d05nbkY1TzI5a2p6WmhhcVlZQUE?oc=5",
-   "simhash": "bc6bcec5574b144d",
-   "event_key": "6cb43fcd0716f950e593837080e0c53f203228a4",
-   "title": "오픈AI, 모델 개발 초기부터 외부 안전성 검증",
-   "source": "매일경제 마켓",
-   "category": "ai",
-   "tokens": [
-    "개발",
-    "모델",
-    "안전성",
-    "오픈",
-    "외부",
-    "초기"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "5dcaab9b1c2085052828fd5c5efa9d28ff230276",
-   "url": "https://www.venturesquare.net/1115882/",
-   "simhash": "bb342d65cc0bf790",
-   "event_key": "edb870e0d0153182fae0633ad8bfc1a9881f1306",
-   "title": "코리아스타트업포럼, 컴업 2026에 AI 매칭 도입…투자자·대기업 파트너 찾아준다",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "2026",
-    "대기업",
-    "찾아준다",
-    "코리아스타트업포",
-    "투자자",
-    "파트너"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "df76873a6381519d96d31cd4d0a3708002d994a7",
-   "url": "https://www.venturesquare.net/1115781/",
-   "simhash": "84733802274a1336",
-   "event_key": "394eebde20f77cedbf7269e039024de64d06237b",
-   "title": "씨엔티테크, 콘텐츠·플랫폼 스타트업 투자 연결…로켓십 IR 2회차 모집",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "로켓십",
-    "씨엔티테크",
-    "연결",
-    "콘텐츠",
-    "플랫폼",
-    "회차"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f4686059b250260c73fc871e129042194a97758a",
-   "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-   "simhash": "dba5e87d9902025a",
-   "event_key": "2fa6efda77cd1716f40b12182fd6dc368132424e",
-   "title": "ScrollEd wants to turn textbooks into TikTok",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "scrolled",
-    "textbooks",
-    "tiktok",
-    "turn",
-    "wants"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "14529c9867b054bc15a8baf9ac6af7bfb58aad9a",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUdtY2dPRm4yNGk2OE50WUluV0czM0lmWktXbTladEVXMkx0VHc3R0pyeVpwZl9ZS0lTRDVzRHdMWTFqTjMzVXpWallNQlgxTFAzeUJyTDcyMVZLcFBNdERGVEJaQjVUUUNXdFBETnplMlZUblFZeGlNdGZLLVFyYVlVV0t0bjZrN3Z0dTFn?oc=5",
-   "simhash": "749b98c984236245",
-   "event_key": "41b90c8fc28508b875de616cf237a4f6cd7c8f4d",
-   "title": "은퇴 후 창업? 기대 수익 높이는 것보다 투자비 낮추는 게 중요",
-   "source": "조선일보",
-   "category": "biz",
-   "tokens": [
-    "것보다",
-    "기대",
-    "수익",
-    "은퇴",
-    "창업",
-    "투자비"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "24770b0f6f62dad92e0717dc522569cd99857e8f",
-   "url": "https://www.reddit.com/r/Entrepreneur/comments/1wnej8p/why_do_people_sell_startups_that_are_already/",
-   "simhash": "4d39190bf7dc03aa",
-   "event_key": "acf32b6cd6927ccc54f6249e3c5d999d45998098",
-   "title": "Why do people sell startups that are already making decent money?",
-   "source": "r/Entrepreneur",
-   "category": "biz",
-   "tokens": [
-    "already",
-    "decent",
-    "making",
-    "money",
-    "people",
-    "startups"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "cd5c335225955a1ec544a8fe8714082347ce456a",
-   "url": "https://www.yna.co.kr/view/AKR20260923032100001",
-   "simhash": "307290c0a6955d9e",
-   "event_key": "c7170a3e73badd074b0da8a982f022449abd0b55",
-   "title": "정점식 \"대통령이 대법원장 제청권 유린…靑유감표명, 적반하장\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "대법원장",
-    "유감표명",
-    "유린",
-    "적반하장",
-    "정점식",
-    "제청권"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "dd2417819c4c2f85900497d2b191a3b8acc93969",
-   "url": "https://www.yna.co.kr/view/AKR20260923026500001",
-   "simhash": "b1c79548c4a640c5",
-   "event_key": "5b4609d3dc46020c5a4ac8e518a018f138ea24bb",
-   "title": "김민석, '재제청 거부'曺에 \"대통령과 권력다툼 놀이·내란성격\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "거부",
-    "권력다툼",
-    "김민석",
-    "내란성격",
-    "놀이",
-    "재제청"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "7c72a94af8d83334bc1574b7d11c5e9af84c1dd1",
-   "url": "https://www.khan.co.kr/article/202609230816001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "80f1b34611c82925",
-   "event_key": "88eb6c0fe32958d4fab741c9dc16f6b9bbd6584c",
-   "title": "트럼프 ‘쿠바 공개 비난’에···디아스카넬 “쿠바 아닌 미국의 봉쇄가 위협”",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "공개",
-    "디아스카넬",
-    "비난",
-    "아닌",
-    "쿠바",
-    "트럼프"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b1a83106aa3877bfb37d6fd154e20959a83406ed",
-   "url": "https://www.khan.co.kr/article/202609230748001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "1df1c2d882129af4",
-   "event_key": "4b8429647ab06b6084b296c21d53d15963c1f139",
-   "title": "김민석 “조희대 행위, 내란적 성격 있다”···제기되는 탄핵론엔 “국민 이해와 설득 중요”",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "김민석",
-    "내란적",
-    "제기되",
-    "조희대",
-    "탄핵론엔",
-    "행위"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "2139ecdb11ed3e51402e3cd0212fdd5848736585",
-   "url": "https://www.chosun.com/politics/assembly/2026/09/23/MRB24FHPQBG3VK6NERRLXIYTYU/",
-   "simhash": "8e0aa9cc00987601",
-   "event_key": "0208adc4e817937b694405e7181d33a1d129ed20",
-   "title": "안철수 “曺대법원장, 李대통령 ‘제청 불개입’ 선언 전까지 대법관 제청 말아야”",
-   "source": "조선일보",
-   "category": "kr",
-   "tokens": [
-    "대법관",
-    "대법원장",
-    "말아야",
-    "불개입",
-    "안철수",
-    "전까지"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b7038a87529d992ce8808bf68a69bd7962e7f6f4",
-   "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-   "simhash": "2f06e1cb3d0a9e2d",
-   "event_key": "47f4f5f2c42a41b6d11637701a6580789017b924",
-   "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "annihilate",
-    "countries",
-    "officials",
-    "sidelines",
-    "speech",
-    "threatens"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "79e54b72b00e3e66d80bca2deceb26dde03a7669",
-   "url": "https://www.yna.co.kr/view/AKR20260923031800071",
-   "simhash": "7e6482661840d100",
-   "event_key": "0c2da7c674f3c03c6da6fbce2a6f9e66f9b6e3ca",
-   "title": "선거앞 트럼프, 안방 다자무대서 종전론…미중회담前 中견제구",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "견제구",
-    "다자무대서",
-    "미중회담",
-    "선거앞",
-    "안방",
-    "종전론"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "dde69df9d1a98675ed6767c6ac48a0122313c009",
-   "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-   "simhash": "a3e2d37a858953ea",
-   "event_key": "54b1376ec3458cc8b31f6e755e4c11d1968b868a",
-   "title": "How Ceuta, football and Israel are shaping Morocco's election",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "ceuta",
-    "election",
-    "football",
-    "israel",
-    "morocco",
-    "shaping"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "fabc78400367b44cc1080adb26e79404fb5a554a",
-   "url": "https://www.theguardian.com/us-news/2026/sep/22/kamala-harris-abdul-el-sayed-campaign-michigan",
-   "simhash": "02dff947060623ac",
-   "event_key": "da6221544a00fa50626d6bc9e5101d3f363ba1c7",
-   "title": "Kamala Harris returns to Michigan to campaign for Abdul El-Sayed for Senate",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "campaign",
-    "harris",
-    "kamala",
-    "michigan",
-    "returns",
-    "senate"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ccf8774b9f2a1e339c0439a677548a9b048a14a3",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
-   "simhash": "6b76047f721a9de1",
-   "event_key": "61a88b922322af19300cbe352f73397dc5c79b7f",
-   "title": "Iran war live: Trump confirms ‘very good’ meeting with Iran at UN",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "confirms",
-    "good",
-    "iran",
-    "live",
-    "meeting",
-    "very"
-   ],
-   "sent_at": "2026-09-23T10:04:19+09:00",
-   "followup_count": 0
-  },
   {
    "url_hash": "b2d1f3b8c0c378980a751e260aaba43fee0ab063",
    "url": "https://www.etnews.com/20260922000449",
@@ -13142,6 +12764,383 @@
     "하이브리드차"
    ],
    "sent_at": "2026-10-27T10:43:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a2f907c053dad857c45d188e32d412297851d431",
+   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "simhash": "c70a49be0d7c7d67",
+   "event_key": "b9f30ae9979dc57ce59da0bd099d9bd72665bfb8",
+   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "alleging",
+    "coached",
+    "daughter",
+    "medication",
+    "parents",
+    "seizure"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8a93bec2dc7c3bc2bd34406ffc697f94b5a16072",
+   "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+   "simhash": "6dc2a267bc753123",
+   "event_key": "4052c8532d45102bb3365cc2f6c76e9928ccac8a",
+   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "exponential",
+    "frontier",
+    "hypothesis",
+    "labs",
+    "models",
+    "refuted"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "40066215b8c106a9ed7a7662d21de9e3ed85926c",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+   "simhash": "a7fb732c92222ea2",
+   "event_key": "5e0ffb15b50d81d5dd15b6ee64ce0a59ca62dc69",
+   "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "anthropic",
+    "elaborate",
+    "keep",
+    "plan",
+    "street",
+    "wall"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2620ce7bbbd86f8946271da2d0f6a898252708f3",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lZzY4X2thSEhRQTA2dktyTnV6MUYtUmRFR2lFa1lONUIyWGY0UF91d1ZQTkEwUUFSNHFMOE53UnYtS2UxQlZONVBhLU9VdUdqek8wRTVKWGo0VGptS0hxVzA2U3J5R2c?oc=5",
+   "simhash": "bd05fafd727de007",
+   "event_key": "bc3bae6f6b589fa1ccdb5e52b87a08750c6541ac",
+   "title": "“말 한마디에 세상이 바뀐다”...구글, 현실세계 시뮬레이션하는 월드모델 ‘제니 4’ 공개",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "바뀐다",
+    "세상",
+    "시뮬레이션하",
+    "월드모델",
+    "한마디",
+    "현실세계"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7de7788a86fe88ecb346d6fd8ff29873945320b3",
+   "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+   "simhash": "cda69fcf10185b0d",
+   "event_key": "de80da4cd64db11d58ea280bf1f6c3cacfc62f06",
+   "title": "Google’s next Genie AI model generates more realistic experiences",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "experiences",
+    "generates",
+    "genie",
+    "google",
+    "model",
+    "realistic"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0d3879c91e71c08fe83dfecd1ac5cac6347eebe8",
+   "url": "https://platum.kr/archives/297074?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b4%25eb%258b%25ac%25ec%259d%2598-tips-%25ed%2595%2584%25eb%25a6%25ac%25eb%258d%25b0%25ec%259d%25b4-%25ec%25a0%259c%25ec%25a0%259c%25eb%25af%25b8%25eb%25af%25b8-%25ed%2594%2584%25eb%25a1%259c%25eb%25b3%25b4%25ed%258b%25b0%25eb%25b8%258c-%25ec%2594%25a8%25ec%25bc%2580%25ec%259d%25b4%25eb%25a6%25ac",
+   "simhash": "f30bbfcf279d150d",
+   "event_key": "a1d253150fad506c7e4689c6ffa04f22d566a166",
+   "title": "[이달의 TIPS] 필리데이, 제제미미, 프로보티브, 씨케이리제온",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "씨케이리제온",
+    "제제미미",
+    "프로보티브",
+    "필리데"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "af4efc6e8b43efec0903707598b3d52a1f2c376a",
+   "url": "https://platum.kr/archives/297068?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258b%2588%25ec%2596%25b4%25eb%259e%25a9%25ec%258a%25a4-%25ea%25b2%25bd%25ea%25b8%25b0%25ec%25b0%25bd%25ec%25a1%25b0%25ea%25b2%25bd%25ec%25a0%259c%25ed%2598%2581%25ec%258b%25a0%25ec%2584%25bc%25ed%2584%25b0%25ec%2584%259c-%25ec%258b%259c%25eb%2593%259c-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598",
+   "simhash": "3506d45baccfc8b4",
+   "event_key": "e531e039983af0224a99fa990836e5df0f361ae4",
+   "title": "니어랩스, 경기창조경제혁신센터서 시드 투자 유치, 크리에이터 추천 맛집을 할인권 매출로",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "경기창조경제혁신",
+    "니어랩스",
+    "센터서",
+    "시드",
+    "크리에이터",
+    "할인권"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "17e23f6bdae7a25a976b6d1e08bdc0a06f210255",
+   "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+   "simhash": "35b919951b906b27",
+   "event_key": "d361ad3bedd5cca5ee2e84d43bbb715625e19d8c",
+   "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "anduril",
+    "bluechip",
+    "kind",
+    "laptop",
+    "launch",
+    "qualcomm"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0602e713b714bf0a92632967f222a2c82e46346d",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tdm1oVnNZMm9wNVU3T1oyM0ItS2EtcmpreFhDZGJXcUtQR2hfZ08xcl91M3diOVZxSVV5bmpraDktQ1U2SHVGVnhEU2tobmF4OENVQ0NBb2xOdGVPM1hSRnVGZG5yb2_SAWdBVV95cUxPbXZtaFZzWTJvcDVVN09aMjNCLUthLXJqa3hYQ2RiV3FLUEdoX2dPMXJfdTN3YjlWcUlVeW5qa2g5LUNVNkh1RlZ4RFNraG5heDhDVUNDQW9sTnRlTzNYUkZ1RmRucm9v?oc=5",
+   "simhash": "a4cb300c0923982c",
+   "event_key": "f1b48043f1cb291451eb8bec6c20563c7bac4938",
+   "title": "이천시, 청년소상공인 디지털 역량 강화… 인공지능(AI) 콘텐츠 교육으로 창업경쟁력 높인다",
+   "source": "경기연합뉴스",
+   "category": "biz",
+   "tokens": [
+    "디지털",
+    "이천시",
+    "인공지능",
+    "창업경쟁력",
+    "청년소상공인",
+    "콘텐츠"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2fb0f351f38405364daa1e0520141fa488c415a6",
+   "url": "https://tailscale.com/ssh-investigation-update",
+   "simhash": "020c7c1e851b4423",
+   "event_key": "a28b50cad1814f812fdd780d03bf64400ecab701",
+   "title": "Tailscale SSH: Investigation and remediation update",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "investigation",
+    "remediation",
+    "ssh",
+    "tailscale",
+    "update"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d1600e1d968cb27879ac094f821f4de9e7dc84b5",
+   "url": "https://www.yna.co.kr/view/AKR20261028057900001",
+   "simhash": "1c510222c3d6f025",
+   "event_key": "7bdde6b7269a4f44a7354496a9edcf585b15559a",
+   "title": "정점식 \"與 '조희대 휴대전화 교체내역' 조회, 악독한 폭력\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "교체내역",
+    "악독한",
+    "정점식",
+    "조회",
+    "조희대",
+    "휴대전화"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a04dcb4cdf81ee9a539282310c611e5edcfbdde6",
+   "url": "https://www.yna.co.kr/view/AKR20261028059700002",
+   "simhash": "92e4ca066a732ea7",
+   "event_key": "59f0fc90743c7337d6150a9000bb81e7cb4640dd",
+   "title": "이형일 \"성장 목표는 국민 삶 개선…양극화 완화에 역량 집중\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "개선",
+    "국민",
+    "목표",
+    "성장",
+    "양극화",
+    "이형일"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ca4773cd9098cf8cc78e538dd5b06c1cc52c5d9f",
+   "url": "https://www.khan.co.kr/article/202610281044001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "61e7afb8229563c9",
+   "event_key": "c250c6cab1bf8c27c1e890beb9a89fe5b95a81d8",
+   "title": "이형일 부총리 “2028년부터 퇴직급여 사외적립 단계적 의무화”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "2028",
+    "년부터",
+    "부총리",
+    "사외적립",
+    "이형일",
+    "퇴직급여"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "898d158eff013d40c2c2a980da58a71991dd70d2",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818278",
+   "simhash": "f6e2a57a21986f27",
+   "event_key": "53ce48fad0ec9116d35d96b35704051dba0fd51c",
+   "title": "이 대통령 \"자기만 개혁주체인 양 선동…무책임한 극단주의\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "개혁주체인",
+    "극단주",
+    "대통령",
+    "무책임한",
+    "선동",
+    "자기"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c0c4ed84fb827407ccc613e2afb7d43f372ec01a",
+   "url": "https://www.khan.co.kr/article/202610280832001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "2ae2f89f44804807",
+   "event_key": "9d5c6ffb1320426588b9173b83ff48fd6f04be79",
+   "title": "“브라질 대선 패배 보우소나루, 여권 제출 명령 어기고 미국 도피”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "대선",
+    "보우소나루",
+    "브라질",
+    "어기고",
+    "여권",
+    "패배"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fa08e4186f5935c32caba54d764b277860f6da6c",
+   "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+   "simhash": "2da754d9b6890fe5",
+   "event_key": "c20704769e3b6be3b67529694ae911c8e14a5142",
+   "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "biden",
+    "emissions",
+    "government",
+    "methane",
+    "terminate",
+    "trump"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0dff8bf9921d22481254cbcf66121425cc11530a",
+   "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
+   "simhash": "847552b28a1a1a9b",
+   "event_key": "20807ef59fd19f1e858c49de3bcb126b54875903",
+   "title": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "knesset",
+    "landscape",
+    "palestinian",
+    "parties",
+    "political",
+    "redraw"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d4d3a1208f752882efd25194847de92ac9958524",
+   "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+   "simhash": "e442591ac91f3041",
+   "event_key": "3eb72bfeedfd212ac70b64fe2d387e9a8938353c",
+   "title": "Arab parties projected to win 18 seats in Israeli parliamentary election",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "arab",
+    "israeli",
+    "parliamentary",
+    "parties",
+    "projected",
+    "seats"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4d34986b5725401c45b9992aebaa23bd7295187e",
+   "url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
+   "simhash": "af52511b4d3a5d82",
+   "event_key": "df30e7e798111894aa9368bfdd8506fa64929632",
+   "title": "Netanyahu, Eisenkot camps clash over Israeli election projections",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "camps",
+    "clash",
+    "eisenkot",
+    "israeli",
+    "netanyahu",
+    "projections"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3a15df9a4e4857965d3654f286390d18129c3acb",
+   "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+   "simhash": "bce2978ad42a239b",
+   "event_key": "6520a37e78e59f15dabe054b09e96129416fb997",
+   "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "brokered",
+    "melania",
+    "oleshky",
+    "russia",
+    "truce",
+    "ukraine"
+   ],
+   "sent_at": "2026-10-28T10:55:50+09:00",
    "followup_count": 0
   }
  ]
