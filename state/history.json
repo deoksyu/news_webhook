@@ -1,385 +1,7 @@
 {
  "version": 1,
- "updated_at": "2026-10-29T11:00:32+09:00",
+ "updated_at": "2026-10-30T11:16:31+09:00",
  "entries": [
-  {
-   "url_hash": "5b7f2728c5fa6983f7c46a2c3fcba5d7fca3e55b",
-   "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-   "simhash": "c7cedd5af06568c5",
-   "event_key": "02bbbc64511dd3918bc0e99f04b307c8ee48c644",
-   "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "8217",
-    "avatar",
-    "gemini",
-    "gives",
-    "google",
-    "live"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "1c18de282b50389e766913218a200fbfc1d1242d",
-   "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-   "simhash": "b90d76ad2eccdc02",
-   "event_key": "51f66ac5c71a428f481a134bbe26f6695eb313ca",
-   "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "brings",
-    "glasses",
-    "powered",
-    "prismml",
-    "qualcomm",
-    "smart"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "6bce2f972fae51c2cc7c9c1f4f36698d4439de2a",
-   "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-   "simhash": "73d0bfb357563549",
-   "event_key": "72f7734d44449740850b3c2081e3c35bb0452d20",
-   "title": "Muse sure looks a lot like OpenClaw",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "like",
-    "looks",
-    "lot",
-    "muse",
-    "openclaw",
-    "sure"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "07efbab25e4d7fb726700b15d72f104b8aa7eacd",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1saGZZWnpSWlVQaTk1SkFHTGdVaTY1VHVFeDB1aDgxcWN6RG5TWXRCXzFKRFRwbmZGLUNEM095Xy1kYWd1eEZtb282OG5KSW5ja3dldkRqV1F0ZEdvbVhUSlRYcHRodFE?oc=5",
-   "simhash": "e3e41b5645c5d223",
-   "event_key": "9e71e8b9d89ce5ca8d1c59684650a3e32fdf0677",
-   "title": "트럼프 “AI는 슈퍼 인텔리전스, 추가 가드레일 원하지 않아”…시진핑 “미·중, 경쟁보다 협력할 이유 더 많아”",
-   "source": "인공지능신문",
-   "category": "ai",
-   "tokens": [
-    "가드레일",
-    "경쟁보다",
-    "슈퍼",
-    "원하지",
-    "인텔리전스",
-    "협력할"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "592e22f534f39f4cda2990c444ca73b8213c6c8f",
-   "url": "https://www.etnews.com/20260925000004",
-   "simhash": "97ed14c593c131af",
-   "event_key": "32fa876efad43abc11c772ccd85f69a58c1e7cb9",
-   "title": "'6억 성과급' 삼성 반도체의 클라스…300만원짜리 의자에 앉아 일한다",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "만원짜리",
-    "삼성",
-    "성과급",
-    "의자",
-    "일한다",
-    "클라스"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "278b519baf62cf0730a0e1e7188c1f1de47679f3",
-   "url": "https://www.venturesquare.net/1116149/",
-   "simhash": "aeb682e8bd99f61c",
-   "event_key": "ecbe149569ed199df8121d0f346022b7b6057196",
-   "title": "IPO 못 했다고 투자조건 불리하게 바꾼다?…스타트업 투자계약 ‘갑을’ 관행에 법이 들어온다",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "ipo",
-    "들어온다",
-    "불리하게",
-    "투자계약",
-    "투자조건",
-    "했다고"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "fb938abe629901d7f185b7f8df5a92e54614dab8",
-   "url": "https://www.venturesquare.net/1116143/",
-   "simhash": "73d3b070ed5b97c2",
-   "event_key": "c8028d78eb51429a058683da9136170580d593a4",
-   "title": "아폴론, 바늘 없이 혈당 재는 CGM 개발에 50억원 투자…네이버·대웅도 참여",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "cgm",
-    "네이버",
-    "바늘",
-    "아폴론",
-    "없이",
-    "혈당"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "69a599e416fb5ee224fed980c3a266db822bf27f",
-   "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-   "simhash": "af31593b559d2630",
-   "event_key": "4dfba09a9d6583fb8262b976901364b3453d7cb8",
-   "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "acquire",
-    "buys",
-    "databricks",
-    "scouting",
-    "startups",
-    "zero"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "7b638a06a42d212ea10da5019fd87c1456edc6fb",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XNkVXUVFNRFlYNnJPMlY1STFvemRkZDVPVTh2VndYLXZpYU8xbFI0WG1GYjN2bHUxdE11bDFaejRYbHcxQWcyODhqRmtZNHdmUi1vc2dNYmk1THpHLURSc0ZoQTDSAWRBVV95cUxPVzZFV1FRTURZWDZyTzJWNUkxb3pkZGQ1T1U4dlZ3WC12aWFPMWxSNFhtRmIzdmx1MXRNdWwxWno0WGx3MUFnMjg4akZrWTR3ZlItb3NnTWJpNUx6Ry1EUnNGaEEw?oc=5",
-   "simhash": "1625a8b2045abc97",
-   "event_key": "7ca405579319e591fadc885ecc4b44f264bbb5a6",
-   "title": "우석대학교-진천군소상공인연합회, 청년 취·창업 지원 협약",
-   "source": "뉴스1",
-   "category": "biz",
-   "tokens": [
-    "우석대학교",
-    "진천군소상공인연",
-    "창업",
-    "청년",
-    "합회",
-    "협약"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "185ddb0abcfc6b08da60c0e454dca6b9220f67e5",
-   "url": "https://github.com/devdotfast/whiteboard",
-   "simhash": "0bd953430c1c8929",
-   "event_key": "cbe07111cc958a3ce3c49ad859c6d1d872182f1c",
-   "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-   "source": "Hacker News",
-   "category": "biz",
-   "tokens": [
-    "design",
-    "show",
-    "software",
-    "source",
-    "thoughtful",
-    "whiteboard"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "9ffac89f68f6295c6c3c1f38a53572d116a4fa8f",
-   "url": "https://www.khan.co.kr/article/202609250928011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "b762b4456001b315",
-   "event_key": "083171995a9d75c92d20a482fb001a52d09d858f",
-   "title": "“법률이 허용하는 원칙”이라는 국회의원 ‘장관 겸직’…불변 법칙일까",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "국회의원",
-    "법률",
-    "법칙일까",
-    "원칙",
-    "이라",
-    "허용하"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "383a0e205411c4070660285fde8969779418e972",
-   "url": "https://www.yna.co.kr/view/AKR20260925012200001",
-   "simhash": "8581182e9f107fc8",
-   "event_key": "9a06ed720e728b6da84db4be52be04281d1d982b",
-   "title": "韓-멕시코 정상회담…'2026-2030 공동행동계획' 채택",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "2026",
-    "2030",
-    "공동행동계획",
-    "정상회담",
-    "채택"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "2e1598386d7ceaf0a1bdc0c9319864f73a2c2259",
-   "url": "https://www.khan.co.kr/article/202609250957001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "4b8da12468eb402c",
-   "event_key": "318a9274bcf7aa578db194762d07347b501a9569",
-   "title": "[속보]이 대통령 “2030년 6월 2일 넘기는 일 절대 없어”…단임 재차 언급",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "2030",
-    "넘기",
-    "단임",
-    "없어",
-    "재차",
-    "절대"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "d202543fe95a53f44d6d6a7f06e8c2c9d913ccb6",
-   "url": "https://www.yna.co.kr/view/AKR20260924027751504",
-   "simhash": "60088a1db01a7660",
-   "event_key": "db4ef57985397d394b2739054ee40231ba57115e",
-   "title": "北외무상 \"핵보유 의지는 백년·천년이 지나도 절대불변\"(종합)",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "백년",
-    "외무상",
-    "의지",
-    "절대불변",
-    "천년",
-    "핵보유"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "95d95da6d4b9434732cee55648c89af3ca207454",
-   "url": "https://www.mk.co.kr/news/stock/12161273",
-   "simhash": "3095b1fe41bc09c8",
-   "event_key": "70adfbf8a3ed815981dd1aecee00d1df3006630f",
-   "title": "페제시키안 “트럼프 대통령 암살 계획한 적 절대 없다”",
-   "source": "매일경제",
-   "category": "kr",
-   "tokens": [
-    "계획한",
-    "암살",
-    "절대",
-    "트럼프",
-    "페제시키안"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "bf7caacd3df3d9592ad74dde862d9dc4dfae65a2",
-   "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-   "simhash": "e800a09b551fc1a1",
-   "event_key": "46ec3a39250881aea81d4d0a2127070611ec3200",
-   "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "action",
-    "defends",
-    "delegates",
-    "israeli",
-    "military",
-    "netanyahu"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "64b35a17d8626eb0d5a2d0a18d3f02bb2adb09cd",
-   "url": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
-   "simhash": "3d38166f438d6499",
-   "event_key": "1717ffdc58a1b082abcb585c0cef9b3c203c0342",
-   "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "avoid",
-    "conflict",
-    "jinping",
-    "meeting",
-    "military",
-    "terms"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "0538689b0e24c4ef48f0262a7f759d2e5f16a3b0",
-   "url": "https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-protests",
-   "simhash": "6a809b23c50071d8",
-   "event_key": "ca7360683d0e7d1994ae1e354616033dbf489d77",
-   "title": "Netanyahu’s speech at UN spurs protests in New York City: ‘Let Gaza live’",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "city",
-    "netanyahu",
-    "protests",
-    "speech",
-    "spurs",
-    "york"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "e9122b678247aab4e526d4e3fdf9b7fb3ea58fab",
-   "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
-   "simhash": "2e322fafeb0c1efb",
-   "event_key": "29020f37e17a90963eb37ce812132bb0f62697c9",
-   "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "four",
-    "key",
-    "meeting",
-    "summit",
-    "takeaways",
-    "washington"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "413dc9de48ea40ea206dfecd896116d85fe80d28",
-   "url": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
-   "simhash": "35ee1b7b759c11a8",
-   "event_key": "563ffcbc5600806f72de84380dc1bc120b8591eb",
-   "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "costa",
-    "fired",
-    "meeting",
-    "minister",
-    "rica",
-    "unapproved"
-   ],
-   "sent_at": "2026-09-25T10:01:25+09:00",
-   "followup_count": 0
-  },
   {
    "url_hash": "a7fc94a8f10dc722d7f6010517a663c4b5fcde33",
    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
@@ -13143,6 +12765,382 @@
     "젤렌스키"
    ],
    "sent_at": "2026-10-29T11:00:32+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a6e2fad10a786f9125bd73acff2fb5e12d744970",
+   "url": "https://www.etnews.com/20261030000043",
+   "simhash": "668a29db60721ca9",
+   "event_key": "7456aa345b4cd0c707f22ddd23ea50b082304e19",
+   "title": "SK하이닉스, 11월 1일부로 사장단 인사 단행…안현 개발총괄 사장 '미주총괄'로",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "개발총괄",
+    "미주총괄",
+    "사장단",
+    "인사",
+    "일부",
+    "하이닉스"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7f7a241901577a00d2a7bbbfbb8e4ccfd1cb1c0d",
+   "url": "https://www.etnews.com/20261030000002",
+   "simhash": "21aa8d78a30bbb27",
+   "event_key": "bb56170a620a373d0758a17e47e9562a706908f5",
+   "title": "오픈AI·앤트로픽·구글 “AI 에이전트 확산에 보안·권한 관리 문제 커져”",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "구글",
+    "보안",
+    "앤트로픽",
+    "에이전트",
+    "오픈",
+    "확산"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4dcfcc0d194323eb6d43206a9947da4afb65f2f5",
+   "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+   "simhash": "01a332bb41109fb9",
+   "event_key": "86360bc9dd08513df5e351f581145b54be5a5896",
+   "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "construction",
+    "dream",
+    "execs",
+    "launch",
+    "models",
+    "palantir"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "722b5950d4c37bcdd20ffee2f2ba4f41988061d2",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSdzVLeTJRUUZrQ1ZuUENyTXJVV2pRQ1FBeVh6YkU0MzloMFY4M2U4bEVSRzM0dHJOVkEtcFV4cTRKaGhGdnkxT0lKNFNJVWgtWjVCY1Y3ZXZSQXlVeDBhV2lKX3A?oc=5",
+   "simhash": "01440648f0efc33f",
+   "event_key": "38f33eb9add35b7211c820408df71d4997c05f6a",
+   "title": "트릴리온랩스, 자사모델 기반 해커톤 개최…AI 에이전트·OCR 최적화 겨룬다",
+   "source": "디지털데일리",
+   "category": "ai",
+   "tokens": [
+    "ocr",
+    "에이전트",
+    "자사모델",
+    "최적화",
+    "트릴리온랩스",
+    "해커톤"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f7d01843aa05976be078d2c8d4e45c2f17a93e20",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rUHllMlVqVVN6VC1jQUtOM1VXRGRHWWxmenMzNF9wcFdDZm05dHgycmx6SUFWMVFxUkZ0N0czU1ZyTGxFS3FjQmZRaFVJMUpVSGxUemdpcmhlbXpFWEJ1c2RUMGs3ZDA?oc=5",
+   "simhash": "4e2e1968aae6fb55",
+   "event_key": "0d401178a70a0470764fd94c3e1457d00ddfb294",
+   "title": "美 맥시모, 자율 AI 로봇 ‘맥스 4.0’ 태양광 건설 현장 30만건 작업 돌파…인력 생산성 2.5배 높였다",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "높였다",
+    "로봇",
+    "맥시모",
+    "생산성",
+    "자율",
+    "태양광"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1547f39ce7bcd0344ba3406b8b62770256525e2d",
+   "url": "https://platum.kr/archives/297293?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b0%2598%25eb%258f%2584%25ec%25b2%25b4-%25ea%25b3%25b5%25ec%25a0%2595-%25eb%2594%2594%25ec%25a7%2580%25ed%2584%25b8-%25ed%258a%25b8%25ec%259c%2588%25eb%25b6%2580%25ed%2584%25b0-%25ec%2595%25bd%25ea%25b5%25ad-ai%25ea%25b9%258c%25ec%25a7%2580-%25eb%258c%2580%25ea%25b5%25ac-c-lab-18%25ea%25b8%25b0-15",
+   "simhash": "74e18aa635cb177e",
+   "event_key": "4d3b71e445da22add6d20a393a054b1a544d6019",
+   "title": "반도체 공정 디지털 트윈부터 약국 AI까지, 대구 C-Lab 18기 15개사 데모데이",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "lab",
+    "공정",
+    "데모데",
+    "디지털",
+    "반도체",
+    "트윈"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fe14fdacdd64d612a323a7a0c9a6b4562d6d5356",
+   "url": "https://www.venturesquare.net/1124174/",
+   "simhash": "f6c0f68f2253ed2f",
+   "event_key": "4366fc3173f4a1dd70a608befc8dc118b2453eba",
+   "title": "부산창조경제혁신센터, 11월 W-DAY 운영…AI 자동화부터 브랜드 성장까지",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "day",
+    "부산창조경제혁신",
+    "브랜드",
+    "센터",
+    "운영",
+    "자동화"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "efca0b654d0c8b41e131147b5f1b0b24740e83bf",
+   "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+   "simhash": "58e22711ec25ad82",
+   "event_key": "d8ae49cf50fee4099403e3673b4218fb3059616c",
+   "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+   "source": "TechCrunch Venture",
+   "category": "biz",
+   "tokens": [
+    "before",
+    "doors",
+    "founder",
+    "summit",
+    "techcrunch",
+    "until"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d7c23b27bc40859d61a2876b92a45cc09b364046",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsR19nLTByR25lLUhBV3Y0MmR0SnozTjRiQU0wNEtHakdzOXEtc3lnTUFmOGN4Wm4zMWc3dXhWRWY1eW9oRHcyaEtDLVV1Qk0tM0E4azB0U3M0SW1BTXhKQ05JU1h3VFZNMUJmTdIBckFVX3lxTE9xSUxFSkRpU0o0S2hUWHZabWRHTk0yMGpCWllncXo5QXNWbVNLWkpYWUdLSDI5ZWdFNERSMnlYeFdRcjhqZmd0Vk9zcWNYTW5XMlJIbVpFOXVzYU1IMmU2NHBqQllpS0tqeXEwRjZLT2RYdw?oc=5",
+   "simhash": "944d6c1590eeba8d",
+   "event_key": "4ed4ac77dac1e55a442b43f010b4f0e515e3572d",
+   "title": "與오세희 \"소상공인 창업·경영·위기·폐업·재기, 단계별 지원 도울 것\" - 머니투데이",
+   "source": "머니투데이",
+   "category": "biz",
+   "tokens": [
+    "경영",
+    "단계별",
+    "머니투데",
+    "오세희",
+    "위기",
+    "창업"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7d7fff6eeb195b4fe5bc92456a8ae7b3bf4a5f73",
+   "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+   "simhash": "9a34780819392e94",
+   "event_key": "25a3106559e02b801c7b19d43200b38269833169",
+   "title": "DoorDash to acquire Instacart",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "acquire",
+    "doordash",
+    "instacart"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b57cf60fc69881287534678522cffe4ed5b574d6",
+   "url": "https://www.yna.co.kr/view/AKR20261030051300001",
+   "simhash": "a1b868545658cd15",
+   "event_key": "7c99d7e7b163b71e23418e7814c49256c098d512",
+   "title": "野유상범 \"내년 정부예산서 각종 신고포상금 8배 늘어 2천500억\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "각종",
+    "늘어",
+    "신고포상금",
+    "유상범",
+    "정부예산서"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d8328ae4f0078f6ccadf62c1735ce436aa400e51",
+   "url": "https://www.yna.co.kr/view/AKR20261030052500001",
+   "simhash": "b8c51d7e58de6582",
+   "event_key": "43d1fd82c3fe031aee662d78d2ef429a5d3c023f",
+   "title": "국힘, 與에 '3+3 부동산협의체' 제안…\"공급·전월세대책 논의\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "공급",
+    "국힘",
+    "논의",
+    "부동산협의체",
+    "전월세대책",
+    "제안"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bfd91ab78f199242cf7d24738f3d8abea35cf168",
+   "url": "https://www.khan.co.kr/article/202610301058001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "05049da403df1583",
+   "event_key": "7824256eea0d4a7743c2e5e4f1c7063c91012b85",
+   "title": "이 대통령 지지율 39%…민주당 35%·국힘 30% “정부 출범 후 최소 격차” [한국갤럽]",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "민주당",
+    "정부",
+    "지지율",
+    "최소",
+    "출범"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e36401332743cc22cc6637492295970fbaa602b4",
+   "url": "https://www.khan.co.kr/article/202610301011001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "beacb7e1d1289885",
+   "event_key": "ccb33049110177f9d2521c9af1792472fee74e75",
+   "title": "[속보]국힘 ‘397억 반환’ 달린 윤석열 2심…다음주 생중계한다",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "다음주",
+    "달린",
+    "반환",
+    "생중계",
+    "윤석열"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "de68a976dc70901ae80426bdeb27d923e8bb7df4",
+   "url": "https://www.mk.co.kr/news/politics/12191318",
+   "simhash": "1b2a34cd988ec520",
+   "event_key": "186f0ad65b8eff6bf94e8df9513359d74b72cf64",
+   "title": "김민석, 장동혁 겨냥 “부정선거 선동 멈추고 선관위 개혁 나서라”",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "김민석",
+    "나서라",
+    "멈추고",
+    "부정선거",
+    "선관위",
+    "장동혁"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8a9a0d09588ea7efc1706a4f76ec2a033ea9ef88",
+   "url": "https://www.yna.co.kr/view/AKR20261030067100009",
+   "simhash": "602192ca87800809",
+   "event_key": "584182c26e94fe2340bf61bf15aa94918143dfb0",
+   "title": "우크라, 트럼프 압박에 美중간선거까지 러 정유소 공습 중단",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "공습",
+    "압박",
+    "우크라",
+    "정유소",
+    "중간선거",
+    "트럼프"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7ad06ca3a66801212bf8de98a3a9955b5d369de6",
+   "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+   "simhash": "48937bbee5552585",
+   "event_key": "f7a56354b2a321eaf50a549169ddc450b14ac086",
+   "title": "Netanyahu accused of smearing Arab voters to hold on to power",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "accused",
+    "arab",
+    "netanyahu",
+    "power",
+    "smearing",
+    "voters"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "03c91a32fb728a836e88cfd591e2f65ae62d1803",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
+   "simhash": "2a5d522bb90f9ee1",
+   "event_key": "4694ea850499cb3405926cfa4c977be0652a11ef",
+   "title": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation – live",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "alaska",
+    "campaign",
+    "investigation",
+    "peltola",
+    "prosecution",
+    "turmoil"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "06ac5301c048e78887304de67299322477d3e054",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership?traffic_source=rss",
+   "simhash": "f99dc4bbfb9f766b",
+   "event_key": "aaac8c2e37706d6769915e10bc63f3a03eae009e",
+   "title": "Does Russia offer African countries an equal partnership?",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "african",
+    "countries",
+    "equal",
+    "offer",
+    "partnership",
+    "russia"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d0935ab8ee5612fbd8dcc61487c7d3b0d82ff1a5",
+   "url": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
+   "simhash": "27e6b15f09091461",
+   "event_key": "1c2ba2865b4e2bcb982396b8b2bcfea6c93aa0c2",
+   "title": "Trump administration renews bid to block Alaska election results",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "administration",
+    "alaska",
+    "election",
+    "renews",
+    "results",
+    "trump"
+   ],
+   "sent_at": "2026-10-30T11:16:31+09:00",
    "followup_count": 0
   }
  ]
