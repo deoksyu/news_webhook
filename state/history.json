@@ -1,387 +1,7 @@
 {
  "version": 1,
- "updated_at": "2026-10-31T10:56:02+09:00",
+ "updated_at": "2026-11-01T10:40:34+09:00",
  "entries": [
-  {
-   "url_hash": "4318b8af910ad944f6a43c4355f21ec1a1ac6e90",
-   "url": "https://www.etnews.com/20260927000031",
-   "simhash": "350cc5e968cc90c7",
-   "event_key": "b76d39c1f805ae3aa0ce546ee2d4456cef2095a6",
-   "title": "전북도, 현대차 투자 연계 '피지컬AI·청정수소·AI데이터센터' 3대 축 육성",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "데이터센터",
-    "전북",
-    "청정수소",
-    "투자",
-    "피지컬",
-    "현대차"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "dbea3c2af8e7e36d96b5aa715775c84acbd379d8",
-   "url": "https://www.etnews.com/20260925000040",
-   "simhash": "8ca5c9ba806dac04",
-   "event_key": "6b076f22be2dd85195b2a2fa150467df2056b645",
-   "title": "연휴 끝나면 '65만전자' 간다?…파격 근거 나왔다",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "간다",
-    "끝나면",
-    "나왔다",
-    "만전자",
-    "연휴",
-    "파격"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "60ac3b13679c37fdac9e51f712333410ac16569c",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-   "simhash": "d5049c13735edd12",
-   "event_key": "ec019a0f28a6a7dc68128119ece077aa8934bca5",
-   "title": "OpenAI pauses training of its ‘most capable models’",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "capable",
-    "models",
-    "most",
-    "openai",
-    "pauses",
-    "training"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "71b88d6b7195bace60f7799ffc42cb066d2a7d32",
-   "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-   "simhash": "f76d5b26f9687f3a",
-   "event_key": "eb7920bcef4b29ce1b6ccd27acf2f4410f7ba1f8",
-   "title": "Insurers claim AI is already increasing healthcare costs",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "already",
-    "claim",
-    "costs",
-    "healthcare",
-    "increasing",
-    "insurers"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "3c55146a57243bda75e94bf7cc7e27bfc655cadc",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VZVZwRlhtMjJ4R0VpcTFPZUNjWmxDdmJ4Rm5XczB4VjZwRFhPRFBiRjZaOTFhQWM4V1FIcXdXOENkZnZEaW9IR0NkdW1JVlJJVE1sTC1CLVl0OS1HcVg1VtIBeEFVX3lxTE9YcmxJNXRpUFJYbERUWHpWalJaVE5NWlVGc09tOWljRVBNcnozQTBhaHRGVFFGN3JkMm9OMTh3c2M4bVd6Z3REemhKMklJVEJJUFpFN3JSSklBTFM1TVhsQTlLRG43TFRoZ0Znd3VCZ3RoRjlZZE4tVw?oc=5",
-   "simhash": "a86e7cd1113d1735",
-   "event_key": "195599e730479be92cc48a5a2b35db5ca33eeac0",
-   "title": "\"번역엔 가성비, 분석엔 고성능\"…KT AI 모델 선택 기술 글로벌 2위",
-   "source": "뉴시스",
-   "category": "ai",
-   "tokens": [
-    "가성비",
-    "고성능",
-    "글로벌",
-    "모델",
-    "번역엔",
-    "분석엔"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "7c4a864ce733d09e462b36549b55d27a0602895a",
-   "url": "https://www.venturesquare.net/1116251/",
-   "simhash": "a94ccc1b4780d9ed",
-   "event_key": "00c31c84646ae34de79e38f48e1300312f5569a1",
-   "title": "‘착한 기업’에서 ‘성장 기업’으로…사회연대경제에 TIPS·투자·공공판로 붙인다",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "tips",
-    "공공판",
-    "기업",
-    "붙인다",
-    "사회연대경제",
-    "착한"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "109ebcbea34f1cec8a5115a72319b68ee316855e",
-   "url": "https://www.venturesquare.net/1116224/",
-   "simhash": "3554830e823f7e61",
-   "event_key": "6868d4cfb9d9c1e5f9cdbe5531f974bdeb8a8d0e",
-   "title": "데일리페이, 추석 대목 정산 기다리지 않는다…컬리 스몰브랜드에 판매대금 바로 지급",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "기다리지",
-    "데일리페",
-    "스몰브랜드",
-    "않는다",
-    "추석",
-    "판매대금"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "43fec3bf6a06e31289e914f867ada6bd695d5ec8",
-   "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-   "simhash": "64629577bc84f73f",
-   "event_key": "c19ecd1a87b260dcd21d627cb1e0f1839b00cc49",
-   "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-   "source": "TechCrunch Venture",
-   "category": "biz",
-   "tokens": [
-    "british",
-    "convertible",
-    "financing",
-    "neocloud",
-    "nscale",
-    "secures"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "7cd29292de16b1b93057e799d151fbd3e71d442b",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15VHljYnFyS3F4VTd3LWhBQmtBTE1ySFY1bDNabFRyS1BHRVdjcG8ycG5YNWdnZlp5cVV4MDBzOEVTR0MwaW9hMFUtUDRKR1NoTHZGVFZWSnBmWkRDTHhMbNIBeEFVX3lxTFBtRzhlSFh3bzhHakR1d0RlNnREU3M4V2pfVk94NXBvOG84VEdlVVdudWFxVS1EZmp4ZDBmYzg4MXV5Zk1IZWVWNHgyVGgzQ0EtcW5XTEEwUzlwanJWQmVwenlPeUJ5X0tLSWZsMWJnYXExTWNPTmtXTA?oc=5",
-   "simhash": "6a08f2ea4275e0d4",
-   "event_key": "dc4e699f012318e1b2c4a5374a27a0c33e455e36",
-   "title": "'될성부른 자영업' 찾는다…카페24, 총 6000만원 창업 경진대회",
-   "source": "뉴시스",
-   "category": "biz",
-   "tokens": [
-    "6000",
-    "경진대회",
-    "될성부른",
-    "자영업",
-    "찾는다",
-    "카페"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "36075cbc8c0c5413889f3752474bad29a3b50c47",
-   "url": "https://github.com/reladraw/reladraw",
-   "simhash": "f8d13dceb6202691",
-   "event_key": "88370089da8149061d803751a87fd39f204c4981",
-   "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-   "source": "Hacker News",
-   "category": "biz",
-   "tokens": [
-    "decide",
-    "diagram",
-    "language",
-    "place",
-    "reladraw",
-    "things"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "7d5693a4b14b3383df1424b2854cb70797429fb6",
-   "url": "https://www.yna.co.kr/view/AKR20260927016000002",
-   "simhash": "6603837881e1718d",
-   "event_key": "13028366f87b659164e46eb8d90bf4d8bb022b9c",
-   "title": "박홍근 \"호남 반도체, 기업 팔 비틀기 아냐…팹 증설도 구상\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "기업",
-    "박홍근",
-    "반도체",
-    "비틀기",
-    "아냐",
-    "호남"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "77454ecbb234edd7319485fc2da8643fc52d70c4",
-   "url": "https://www.yna.co.kr/view/AKR20260922148900001",
-   "simhash": "205aead0cdf1371c",
-   "event_key": "ffe15162777f6197efc9e25d6b953db11c6c5ed0",
-   "title": "최수진 \"한중 FTA 10년…경제적 효과는 정부예상치 4 분의 1\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "fta",
-    "경제적",
-    "정부예상치",
-    "최수진",
-    "한중",
-    "효과"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b09c999cb4a89a1aba35b154ccce49559f3fe0f1",
-   "url": "https://www.khan.co.kr/article/202609270730001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "c1c0cf65d24e7dcd",
-   "event_key": "3a2c6bb83d87fdaa894e08d7bbd657ff563fe156",
-   "title": "전쟁통에 ‘돈벼락’ 맞은 나라들···호황 뒤에 숨은 두 얼굴",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "나라들",
-    "돈벼락",
-    "뒤에",
-    "맞은",
-    "전쟁통",
-    "호황"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "469f060e80f4226fab55c371d9352e78e0f25c24",
-   "url": "https://www.khan.co.kr/article/202609270951001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "32d5b24c624f395e",
-   "event_key": "fca2b2266a3f088a4ea57acd1c92df295f56b0cc",
-   "title": "유엔서 다자협의 틀 제안·트럼프와 안보협상 물꼬…이 대통령 미국·멕시코 순방 마치고 귀국길",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "다자협",
-    "마치고",
-    "멕시코",
-    "안보협상",
-    "유엔서",
-    "트럼프"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "a373cc0bf82b7d86f14420653de1da0693fb4c6a",
-   "url": "https://www.mk.co.kr/news/society/12161778",
-   "simhash": "5e2a87e5c7d3339c",
-   "event_key": "d4406d3c4ab2265e309cce35d628dbc6d1b5a094",
-   "title": "“예산 1800억 쏟아붓고 이 모양?”…여수 세계섬박람회, 국감 도마 오른다",
-   "source": "매일경제",
-   "category": "kr",
-   "tokens": [
-    "1800",
-    "모양",
-    "세계섬박람회",
-    "쏟아붓고",
-    "예산",
-    "오른다"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "05a7794c915183abe1b632f6dd97b65f64e4c009",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
-   "simhash": "2f3e715798b0c1c5",
-   "event_key": "40292f4e6f49f3d4429d6a846d377b7bcd516b5e",
-   "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "awaits",
-    "hormuz",
-    "official",
-    "rejects",
-    "response",
-    "tehran"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "30fdbfe2c58ef9ccf0aab95983e80b8c514d3bc9",
-   "url": "https://www.yna.co.kr/view/AKR20260927006400009",
-   "simhash": "db25d4cd7db92c17",
-   "event_key": "ba0f7265c43d8ba8dd849b254275856884a57744",
-   "title": "[뉴욕증시-주간전망] 美中 정상회담 세부 결과는…물가·고용 지표 '촉각'",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "결과",
-    "고용",
-    "물가",
-    "세부",
-    "정상회담",
-    "지표"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "3bdad76edc516fa8389705ca6a15c23af7dbb1e6",
-   "url": "https://www.yna.co.kr/view/AKR20260927003400071",
-   "simhash": "2bea48090a58808c",
-   "event_key": "b23525b283cee0065c7f04395ad044f5c3413f53",
-   "title": "미중 나란히 '성과' 발표에도…희토류·AI·대만 등 곳곳 온도차",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "나란히",
-    "미중",
-    "발표에",
-    "성과",
-    "온도차",
-    "희토류"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "606b7f43bb36d59dc830fd4ab76d45dd4da9b03d",
-   "url": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
-   "simhash": "ebc19f1249522882",
-   "event_key": "4d052bb93bac285a9c901a4d8b8dff51a6cd0dfb",
-   "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "board",
-    "hamas",
-    "peace",
-    "refusal",
-    "slams",
-    "unrwa"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "8de49ef5e036a64ebdd984034a0c6451c5293438",
-   "url": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
-   "simhash": "251ab117974c92f9",
-   "event_key": "9f35c8008a40def5e79dacb91c921626bf5ed9a6",
-   "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
-   "source": "NPR",
-   "category": "world",
-   "tokens": [
-    "accomplish",
-    "gave",
-    "jinping",
-    "talks",
-    "warm",
-    "welcome"
-   ],
-   "sent_at": "2026-09-27T10:01:18+09:00",
-   "followup_count": 0
-  },
   {
    "url_hash": "39e6d83733f34b5b3da60c069adc5d5c47def3ac",
    "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
@@ -13137,6 +12757,380 @@
     "worsening"
    ],
    "sent_at": "2026-10-31T10:56:02+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0ed73e8b7e30b5d3bdbf27a269925c253f69cf50",
+   "url": "https://www.etnews.com/20261029000445",
+   "simhash": "3975049e4ee2578c",
+   "event_key": "1e8e88a017f8cec0ba59b45d23c99003e9809c17",
+   "title": "'2026 국제광융합엑스포' 성황리 폐막…광융합산업 미래 성장 가능성 확인",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "2026",
+    "가능성",
+    "광융합산업",
+    "국제광융합엑스포",
+    "성황리",
+    "폐막"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2806e252a77a59c01ee1a7196d10366a27c98e2b",
+   "url": "https://www.etnews.com/20261031000056",
+   "simhash": "14b4a5a3f771ba21",
+   "event_key": "f9cca979ee501ad3c2e2c6ab5069eedc06e6d95a",
+   "title": "샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "ceo",
+    "강화",
+    "회동"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "87c4ff42e68ce98eaa292a402d429108540138a9",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DaDhlZGptU3cwRWNKTkthX1F5cmJTd1hJRGpUc1RWSkhUS25leDRPVkd4ZkQ2Z2JKNkJlMndid091Y2I2ZmEzbHNJVkp1LTBkNEZ0aQ?oc=5",
+   "simhash": "65cbc4a2a9cf1689",
+   "event_key": "91fb9d1e5b66668000c76d9caf93b206ff195b1e",
+   "title": "美 연준 \"고금리, AI 투자에도 영향\"…반도체 기댄 韓경제 '시험대'",
+   "source": "뉴스1",
+   "category": "ai",
+   "tokens": [
+    "고금리",
+    "기댄",
+    "시험대",
+    "연준",
+    "영향",
+    "투자에"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c10fef6ec8169f8257315dbfd15371a70ecfbb0c",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "simhash": "6d6cdb119ca0cc2f",
+   "event_key": "3edc8d305a9f55cf656ecf91acf0417bb47cc2a4",
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "funding",
+    "lowers",
+    "openai",
+    "reportedly",
+    "round",
+    "target"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9f56e268b05ea69134d92ef78e09b3b78f4b6f63",
+   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "simhash": "3b11a359e18e0022",
+   "event_key": "991a90247b7562661e269705c9544f198a54c0b0",
+   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "apple",
+    "company",
+    "doesn",
+    "sake",
+    "ship",
+    "want"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8d6fe16a073f99aa5030c00959515b7bff090976",
+   "url": "https://www.venturesquare.net/1121115/",
+   "simhash": "29073e94258865fc",
+   "event_key": "00242a9337570b25e9570b520db87ff5e3077308",
+   "title": "[최앤리의 스타트업 법률 가이드] 벤처투자 계약의 기준이 바뀐다…RCPS·상장 의무·창업자 책임까지",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "rcps",
+    "가이드",
+    "바뀐다",
+    "벤처투자",
+    "창업자",
+    "최앤리"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7c0d4e6496126274c087b9eb8baeb98ef4912f7e",
+   "url": "https://www.venturesquare.net/1124197/",
+   "simhash": "71ca16277dbd410b",
+   "event_key": "9e57dfb78da7dad9f8e9a3efacf17d3658d3e6f1",
+   "title": "[VS 현장] 인천 스타트업의 다음 과제는 판로와 투자…‘붐업페스티벌 2026’ 가능성을 보여주다",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "가능성",
+    "과제",
+    "다음",
+    "보여주다",
+    "붐업페스티벌",
+    "인천"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5d6f84404e1c71413fed3b8994ceaa927431a0c7",
+   "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+   "simhash": "a4bbd271f499c52b",
+   "event_key": "69c2371e3e5e2872173c5ef27180c007ad89779c",
+   "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "assistant",
+    "down",
+    "focused",
+    "ollie",
+    "privacy",
+    "shutting"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "892b456182089636c875f142c8d6481d6ae3efff",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4aGNobHJSQ1RHbEdhTWFhMVpMM0dhMHRyM1hieTRvcWl2dWt2M2pBbHdHdkNIZFRUM0JOMTdMMlRERWlhbXRoaXFUZV9WZnZ5dkJyTEc2Zmx3SGM4YWMtb9IBeEFVX3lxTE13SlNJakctbk4zWTJPNV85a1ZjTHhQc0E2ajB5OWpqRUNUZmp4dU9jODEtQlhObTBMNjBjZmktclJTZTJiZlhodFpnb29pRVZCa0dkVjJTWTRLUjN2NkowRVNCMV9QR0xxQkpzYzVCR0dWem83UnZiTQ?oc=5",
+   "simhash": "0601640c462e3081",
+   "event_key": "609c01510f56b7944c8c1885caf1e6f3e7065d15",
+   "title": "\"1227억원 투자 유치\"…'로컬 소상공인' 성과보니",
+   "source": "뉴시스",
+   "category": "biz",
+   "tokens": [
+    "1227",
+    "로컬",
+    "성과보니"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c5e900d326b4e43e28a9c28b09269cde562874da",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zU21qMXBoaExqOUJEZlN0TVpSOF9PdHMyTXhiMVBJXzhzQUVFbkNqWllDbzFDanlNdE1KNUlPcGphYklfVTUwTU1IdmU4UE1aOEpvaUQzbUtnQi1YZWJmZlA1ZktzX2c2X2M5ZTdiUmtpbmxHQmtOVFlEQdIBe0FVX3lxTE5zU21qMXBoaExqOUJEZlN0TVpSOF9PdHMyTXhiMVBJXzhzQUVFbkNqWllDbzFDanlNdE1KNUlPcGphYklfVTUwTU1IdmU4UE1aOEpvaUQzbUtnQi1YZWJmZlA1ZktzX2c2X2M5ZTdiUmtpbmxHQmtOVFlEQQ?oc=5",
+   "simhash": "031344c9e9e60da9",
+   "event_key": "1cde240f8130883ac0d4127d4bc44865f45b97d7",
+   "title": "\"AI·SNS 시대 청년 창업, 핵심 무기는 지식재산\"…SBA, 'IP창업존 청년특화과정' 성료",
+   "source": "디지틀조선일보",
+   "category": "biz",
+   "tokens": [
+    "sba",
+    "sns",
+    "시대",
+    "지식재산",
+    "창업존",
+    "청년특화과정"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4517af11f83ecada91b6e7018f8966a82e0b2de4",
+   "url": "https://www.yna.co.kr/view/AKR20261031043800001",
+   "simhash": "d6099bdf4edab37c",
+   "event_key": "5f3c15fcbb08d0436771ce249b45edc94a882583",
+   "title": "與, 曺국조 임박 속 '계엄동조 의혹' 정조준…\"헌정문란 시작점\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "계엄동조",
+    "국조",
+    "시작점",
+    "임박",
+    "정조준",
+    "헌정문란"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "81160a142652d9526c52df0e053f17c6eeba3f7c",
+   "url": "https://www.yna.co.kr/view/AKR20261101016700504",
+   "simhash": "4029b6ad5004a82e",
+   "event_key": "135568345e3b7c597427c38497049abac58ab444",
+   "title": "김여정, 10월중 확성기 가동 예고했지만…軍 \"확인된 바 없어\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "가동",
+    "김여정",
+    "예고했지",
+    "월중",
+    "확성기",
+    "확인된"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3236df4432abdedf6f1c330ba79d273499c12bb9",
+   "url": "https://www.khan.co.kr/article/202611010643001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "ee88155c27f3fc63",
+   "event_key": "22a6b5b340e71543e31c311264772dc4003a361c",
+   "title": "루비오 “한국 의원 비자 지연은 20여 년 전 행적 때문, 양자 해결할 것···북·미 대화 일정 없어”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "루비오",
+    "비자",
+    "의원",
+    "지연",
+    "한국",
+    "해결할"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c552642369c6cfa61f760408c45c2bda5ea177ac",
+   "url": "https://www.khan.co.kr/article/202611011023001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "495832ca1b0e05e8",
+   "event_key": "c40cbb6feca87720b54934ff0711a290e1ed2511",
+   "title": "“월 15만원 기본소득 잡아라”···충남 5개 군, ‘농어촌 기본소득’ 사업 유치 나선다",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "기본소득",
+    "나선다",
+    "농어촌",
+    "만원",
+    "잡아라",
+    "충남"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c4ee691bafbe4a9c6f9ef2261c9d234b9ac36ee7",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824897",
+   "simhash": "020dd0a001704c20",
+   "event_key": "5b9205878c47b7f8b140715f3860e6299733de32",
+   "title": "국감 끝낸 여야, 820조 예산 정국 돌입…'미래기금' 최대 격전",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "국감",
+    "끝낸",
+    "미래기금",
+    "여야",
+    "예산",
+    "정국"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "523ba2b22a4fd8c8825f200b0944eb549b6045c6",
+   "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+   "simhash": "030b74abce356bd9",
+   "event_key": "0d5d380d2f12a634d720103fb5442216ebfc759e",
+   "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "election",
+    "india",
+    "opposition",
+    "rally",
+    "resignation",
+    "seeking"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "347f50bc8a597305f9fcd2517b5f5fb30131aaae",
+   "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
+   "simhash": "2ef1c64cdf3f5ffd",
+   "event_key": "400e1b8554d71feebf4ca6ff852a5bbdb3922f29",
+   "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "crossing",
+    "evacuees",
+    "families",
+    "oleshky",
+    "reunite",
+    "ukraine"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6b413be70d09fd898c2644b583badcdc77aade58",
+   "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+   "simhash": "58232117cc370fa1",
+   "event_key": "e91b1f63687d46027d0179007a18c36d3cb6ed7d",
+   "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "constitutional",
+    "defends",
+    "despite",
+    "overhaul",
+    "poland",
+    "protests"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1521a2e9ede762cfb010f58bca65e32c9159d311",
+   "url": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
+   "simhash": "ac36c41aebfaa612",
+   "event_key": "aea542173b3161639a5f4de558c1dcf7299261df",
+   "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "attacks",
+    "erdogan",
+    "russia",
+    "turkiye",
+    "ukraine",
+    "urges"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b51416c832845a4301e6623be40ba194f886c02f",
+   "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+   "simhash": "87f7190e3845271b",
+   "event_key": "67f6e634c29d0d208627cb371696e7d2fb99137d",
+   "title": "Thousands demonstrate in Paris as protests spread across Europe",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "across",
+    "demonstrate",
+    "europe",
+    "protests",
+    "spread",
+    "thousands"
+   ],
+   "sent_at": "2026-11-01T10:40:34+09:00",
    "followup_count": 0
   }
  ]
