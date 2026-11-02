@@ -1,385 +1,7 @@
 {
  "version": 1,
- "updated_at": "2026-11-01T10:40:34+09:00",
+ "updated_at": "2026-11-02T10:58:34+09:00",
  "entries": [
-  {
-   "url_hash": "39e6d83733f34b5b3da60c069adc5d5c47def3ac",
-   "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-   "simhash": "e5bb1eae5228ada8",
-   "event_key": "fd28b561a20f3b0580d10976aabdd7062f9a40dd",
-   "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "amodei",
-    "anthropic",
-    "dario",
-    "gets",
-    "snl",
-    "treatment"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "22ab58996da913bbdabd9423dc1861948edd305b",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ROXNSUmtERDlNVXZ6VHFINGtvMF9LSVRLYlhkeDBQVkpIcGsyMDdad0lwdmZVN0NQSnhCa01LbUpHZVpQR3lQTGZqZF9VNFNfbjQ1X3lZcXNKenI4SnpMM0FoVUVWd00?oc=5",
-   "simhash": "5f61428c7e8c69c5",
-   "event_key": "a061f63d7a221591986ad343e2721e4305b4c1ae",
-   "title": "“AI 아바타가 인력 공백 채운다”...딥브레인AI, 중소기업용 ‘고객 응대 AI 아바타’ 도입 추진",
-   "source": "인공지능신문",
-   "category": "ai",
-   "tokens": [
-    "공백",
-    "딥브레인",
-    "아바타",
-    "인력",
-    "중소기업용",
-    "채운다"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "6cd30e9bd63915c5a2875e8e337d85057580bca6",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44QWpRUnA1cFEwdlk2S1d5YXc0ODRxMTBGNGRwbVZoTHBrM0xDbXduQ2VCUGxNVE1OYm9nZl9pMnFEZjJLYlBhWDl6SG52VXNLbk1OWmVn?oc=5",
-   "simhash": "eb2392c7b2dd67aa",
-   "event_key": "6d854b62f0cbfb6cfc33f5f74957c1f2ceb465d4",
-   "title": "마키나락스, 군 전장망에 생성형 AI 적용…UFS서 운용 검증",
-   "source": "지디넷코리아",
-   "category": "ai",
-   "tokens": [
-    "ufs",
-    "검증",
-    "마키나락스",
-    "운용",
-    "적용",
-    "전장망"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "9cd11d41c77c57cd9ced44ec21b37a34cd5f8b69",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFUnNRampTZGUzei1iWUg5dVdHVWk4cUVva2RZYmREaEFXWVlQSnRSLXhIcjlpYzRqTGNuYTRKTVFWbUFxTDBYMXhoV0JPb1pDa1FZOWplN2E3WTVwbmZmNUhEYlVLMEk?oc=5",
-   "simhash": "6542c1f32130e4ac",
-   "event_key": "45bccdf82ce7b9c13d8237ff7b94a476bf8ebcbb",
-   "title": "Arm, 클라우드·엣지·피지컬 AI 아우르는 ‘AI 포털’ 공개",
-   "source": "인공지능신문",
-   "category": "ai",
-   "tokens": [
-    "arm",
-    "아우르",
-    "엣지",
-    "클라우드",
-    "포털",
-    "피지컬"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "59c55247634f0d67390eb6f320a62455ce5aa346",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ld1ppWHdoQVhRVHZhQi14bGdwNHphVXRwWEhxSjNUOXlsOGI2Z3pZTGUtSFN1NTJsNEdNWDZCelZKeTJXMU1HUHNrOWI3aFNBVGJ3dGFMU1ZiOWFWQmdwMkZXc2s2V3NkMjlJUi1pU05wV2dTdHfSAXtBVV95cUxQQjdhRG9vMk40YW9LQmtzUXB4Mi15TkdmeTREVFcxMWhKdGx4dzF6ZTZQYjczUjhSYjlfUlRqNXY4VVJiX0dfc2NydlRWM2pxLVNWUGpZN0liamUyd2NFVW5JSDhmVnd1a2NiRnpwUVJBUU83MnQ5bWxYdE0?oc=5",
-   "simhash": "c44e3b025d3d0a10",
-   "event_key": "8532c3ea0a0406073a32578879e3709d53e9621e",
-   "title": "의료AI주, 인공지능 모멘텀 계속…쓰리빌리언 23%↑ - 머니투데이",
-   "source": "머니투데이",
-   "category": "ai",
-   "tokens": [
-    "계속",
-    "머니투데",
-    "모멘텀",
-    "쓰리빌리언",
-    "의료",
-    "인공지능"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f837ada40382a0106a01c39b46ab4b5a8ca14908",
-   "url": "https://www.venturesquare.net/1116329/",
-   "simhash": "18b4b4400454e8d1",
-   "event_key": "5c2c06a4a0e4b22530df849d256acaf4fdf9a9aa",
-   "title": "서울대기술지주, 엔비디아 밖에서도 로봇 AI 돌린다…바이스트라타 투자",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "돌린다",
-    "로봇",
-    "바이스트라타",
-    "밖에서",
-    "서울대기술지주",
-    "엔비디아"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b9da2ce9cbe641b8b06583a61d9598b8d7b33605",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KblJRY3p5ZVhRRkp4UXk1Q1lYU19Uc1pJNU1lOXVadzhnLVBqVTl6WlF3dTVVS2RCUUZYRUZtcEZDaFV3Rl80ZEFjTTFJM3VqcnFLOVdIdmRXNUlK?oc=5",
-   "simhash": "91712b1d3d84b502",
-   "event_key": "61a6628f337a40fa0ca093c9e23955ae727e76f0",
-   "title": "경남도, 스타트업 55곳 고용·투자 성과…AI·콘텐츠 기업 33억원 투자 유치",
-   "source": "뉴스핌",
-   "category": "biz",
-   "tokens": [
-    "경남",
-    "고용",
-    "기업",
-    "성과",
-    "억원",
-    "콘텐츠"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "6ea8349a2ba2eefd4cf46d7a5cdfc731630bf314",
-   "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-   "simhash": "a86e8fa331164263",
-   "event_key": "e168f8fb13e85e28e27a6a3ef12f2ea403cbd48b",
-   "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "android",
-    "building",
-    "developers",
-    "feather",
-    "robotics",
-    "startup"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "2aea7194e7cdbffc1840de48218d57ebfa8daf53",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EMHNkeTdaU2dZRHRvM3NmQWY0WW5Kemd6S0FUOGpVTWp1U3lsRUgxZ2o4dFVoSTF2Zmo0dlRMZjVaVHJOeEVmNnZZeW1ldWRuVXc0Xzc4T0hBQmhQRU8tY2NWczZmbDlNdmlkS3VoSGpqQXphOHd3?oc=5",
-   "simhash": "2de87b76f562734e",
-   "event_key": "8da1f909fd1f17b95446ace775ddd7d8e53afc0f",
-   "title": "캐나다 | BC주 사장님 절반 \"지금 창업 권하지 않는다\"",
-   "source": "밴쿠버 중앙일보",
-   "category": "biz",
-   "tokens": [
-    "권하지",
-    "사장님",
-    "않는다",
-    "절반",
-    "지금",
-    "캐나다"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "3bd40c5dcc31f1689cdcee0bd64a92d01fdf5b55",
-   "url": "https://sancho.bearblog.dev/google-weird/",
-   "simhash": "0c407c2ed221dbfe",
-   "event_key": "f5a7464904f6a49c19ebd63eb7bf08bbbef2aa79",
-   "title": "When did Google get so weird?",
-   "source": "Hacker News",
-   "category": "biz",
-   "tokens": [
-    "did",
-    "get",
-    "google",
-    "weird"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ffcb52f8aaedc00017112348a06a0aaeb8096507",
-   "url": "https://www.khan.co.kr/article/202609280843001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "676aba49fdc8ad4e",
-   "event_key": "8ebfcd609855b8dcb045312a745f64dcf6fbcd14",
-   "title": "국힘, 영화 ‘암살자(들)’ 비판 “표현의 자유는 좌파의 전유물인가”",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "국힘",
-    "비판",
-    "암살자",
-    "영화",
-    "전유물인",
-    "표현"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "3a4692fb05ac0246323381f08679f90bbcc11d7f",
-   "url": "https://www.khan.co.kr/article/202609280828001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "849ffdaa06b89727",
-   "event_key": "c88873cd21f37b819393fabaae0bf0d55b6d9998",
-   "title": "[리얼미터]이 대통령 지지율 37.9%, 2주 연속 상승…국민의힘 39.4%, 민주당 38.7% 오차범위 내 역전",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "국민의힘",
-    "민주당",
-    "상승",
-    "연속",
-    "오차범위",
-    "지지율"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f7cac9b915cde73871dbaf8d097e8b9ab0b0b8d0",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008772165",
-   "simhash": "681eeab283577877",
-   "event_key": "9cf7e68fc62cad0acd4ae7d13ee9a24a40219c3d",
-   "title": "[정치쇼] 조갑제 \"이 대통령, 공소취소서 헤어나면 인재 많이 보일 것\"",
-   "source": "SBS",
-   "category": "kr",
-   "tokens": [
-    "공소취소서",
-    "많이",
-    "보일",
-    "인재",
-    "조갑제",
-    "헤어나면"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "96d61f8255d569f0cacf1c9b8f35ae68e8737268",
-   "url": "https://www.yna.co.kr/view/AKR20260928025651001",
-   "simhash": "cf59abab29829ca6",
-   "event_key": "7cf5d377ee38c95a460e6b88c12ebc197ab1cfb0",
-   "title": "당정 \"반복 담합하면 '등록취소·영업정지' 가능하게 법 개정\"(종합)",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "가능하게",
-    "담합하면",
-    "당정",
-    "등록취소",
-    "반복",
-    "영업정지"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "583db7ba343a8aa02711e055ab922663fe20c126",
-   "url": "https://www.yna.co.kr/view/AKR20260928047400001",
-   "simhash": "d0f09584a1ae42a4",
-   "event_key": "9982a984cbb02a10343e6412a3813d40e42b07c4",
-   "title": "김민석, '재제청 거부' 曺에 \"헌법위반 시정이 K민주주의 기본\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "거부",
-    "김민석",
-    "민주주",
-    "시정",
-    "재제청",
-    "헌법위반"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f18d5a3ca3dbba2f29c80828536c59a40f442b6c",
-   "url": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons",
-   "simhash": "441b847113b21fa4",
-   "event_key": "74b37537c74ebeda9de347dd2210e022f156318d",
-   "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "ambassador",
-    "american",
-    "asked",
-    "jinping",
-    "trump",
-    "weapons"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "a4b56403c557cf660d51df19cc961c76a36d7701",
-   "url": "https://www.theguardian.com/us-news/2026/sep/27/john-kennedy-white-house-trump-ad-tax-money",
-   "simhash": "47c65a1310329a98",
-   "event_key": "9fadd5d7d921f5e4cc1e874203a15a7ec599aca5",
-   "title": "Republican senator criticizes White House for taxpayer-funded Trump ads",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "criticizes",
-    "funded",
-    "republican",
-    "senator",
-    "taxpayer",
-    "white"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f12c8f61500d2703ab3e4a0ee47090cc10d81c17",
-   "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-   "simhash": "cde2729741378984",
-   "event_key": "3f6fbdd60a646248038600caa5bc843967c51cd5",
-   "title": "Embattled Serbian president resigns, paving way for early elections",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "elections",
-    "embattled",
-    "paving",
-    "president",
-    "resigns",
-    "serbian"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "8ec1432dee52de78aeddb5f3026671159f7dfe2a",
-   "url": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
-   "simhash": "ca8464cfb32b52d0",
-   "event_key": "05ef1ad0fbb46ac05cd2bd2d92765d25bdc6a413",
-   "title": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "action",
-    "atrocious",
-    "decries",
-    "military",
-    "official",
-    "possibility"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "6aed4740a80970b03aa7e2e97224d51fe9868139",
-   "url": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
-   "simhash": "e7aa1958cd80d048",
-   "event_key": "541c38a2cebd2dc83b1aac1da80acedfa5439d6d",
-   "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "genocide",
-    "ireland",
-    "israel",
-    "protest",
-    "refuse",
-    "screen"
-   ],
-   "sent_at": "2026-09-28T10:19:14+09:00",
-   "followup_count": 0
-  },
   {
    "url_hash": "39067a424f034e73e74aa68319de49ab7a9709c4",
    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
@@ -13131,6 +12753,378 @@
     "thousands"
    ],
    "sent_at": "2026-11-01T10:40:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "78bf083210af807ec94f99f40f41df38bb347e16",
+   "url": "https://www.etnews.com/20261102000003",
+   "simhash": "d499c6448708e1b9",
+   "event_key": "0c56f626938c1fc63fa51e76aa750c8c4362bb25",
+   "title": "AI 투자 수익성 의구심 확산…월가, 풋옵션·CDS로 위험 헤지",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "cds",
+    "수익성",
+    "의구심",
+    "투자",
+    "풋옵션",
+    "확산"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0dbf0226aa90a12c5a2161ad1c244a578bd24b7d",
+   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "simhash": "bc0b71da9ec5a5e9",
+   "event_key": "8e8d043b368b96df9a3e6b95e36b2c9e58f5a49e",
+   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "campuses",
+    "centers",
+    "compute",
+    "might",
+    "openai",
+    "rebrand"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f4c396dd011aab3b0c0f6d17e3e573116d0c57c1",
+   "url": "https://www.etnews.com/20261102000033",
+   "simhash": "32a2942c175f6293",
+   "event_key": "68a89786358b2ae88e631b7eeb1c464b8127dc82",
+   "title": "'침묵의 암' 췌장암 진단 3년 전부터…전문가가 주목한 내 몸이 보내는 이상신호",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "이상신호",
+    "전문가",
+    "전부터",
+    "주목한",
+    "췌장암",
+    "침묵"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5c4cc32f2947c19a8c816c231ac5fa168503b646",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uQUtNWnFRNzF1cGlJR3Mzb3F4LWJ2dnQ4ZjVmSERsUjFRanhlUmRtTzN5SlVXRG1KR1ZkVnIwSUp0amFuUVVOWmpmMl9qaTBzV2NmMVhJS1M0SnU5V29PeFBPc092SFE?oc=5",
+   "simhash": "fe6e43b4a483e79d",
+   "event_key": "b58d5e7a20d14f4b2b407827959ca6ddb4dd7c50",
+   "title": "“자동차가 운전자와 대화한다”…중국 체리, LLM 기반 AI 비서·46.3인치 디지털 콕핏 공개",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "llm",
+    "대화",
+    "디지털",
+    "운전자",
+    "자동차",
+    "중국"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5df4f16e7b693ce3e94c0a3ce4886ea7b8f0ed2c",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TYjVnZURhMGFtTEgxTDZLMEpwbkJqYW50T21QdVRGbUU4bU4zdEM1R0tfXzBGZkVQaWRCeXRZb1JhUGktamtYdlk4VnFUXzhETXNoNmRqb3VjNzVJOTF5eXptcHFtbVk?oc=5",
+   "simhash": "69ccb196ef5fa7dd",
+   "event_key": "1fb681cae2661b3a07a893ef4801af4922494184",
+   "title": "이재용 회장, 일본 첨단 패키징 연구거점 직접 챙겼다…AI 반도체 기술 경쟁력 강화",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "경쟁력",
+    "연구거점",
+    "일본",
+    "직접",
+    "챙겼다",
+    "첨단"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "81a2f2f0cced9c9430a25b10b52312842535245e",
+   "url": "https://www.venturesquare.net/1124624/",
+   "simhash": "fca1e007ce2161fe",
+   "event_key": "51af98cc59a202ae929ca9854112616f44d27ee4",
+   "title": "탈모로 고생하던 창업자가 100억 브랜드를 만들기까지…리필드 정근식 대표",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "고생하던",
+    "리필드",
+    "만들기",
+    "브랜드",
+    "정근식",
+    "창업자"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a451c23a4c685447f798f2c78ea4dc7749282756",
+   "url": "https://www.venturesquare.net/1124616/",
+   "simhash": "62813ba6180ee238",
+   "event_key": "6abdefa89dbdf89a88f8dd7bc58ba509ad42672a",
+   "title": "[컬처슬로건 탐방기] 팀스파르타, ‘빠우성’",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "빠우성",
+    "팀스파르타"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3e4e3eed2bbff167eabf45e306d9f9773b92dbb1",
+   "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+   "simhash": "b53a53fa1a462518",
+   "event_key": "347123e3badb12c065cad4fffe72ab0b2ed15104",
+   "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "centers",
+    "data",
+    "like",
+    "mass",
+    "produced",
+    "startup"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5b263ffd33d87c199ff69b9bcd3c421b70a9aa07",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmSE56RmZYa20yN0l1ZXZVakRtU2NFVEppVEQ5amhMMlppQ1hfUzFGZ29IVkhPSlZFbE1yVTV4RFFNMEVUS3BLN2o1VFFhTWdYeXfSAVNBVV95cUxPSkZPVVZ3ZlRPWXBuS2l3YmVJNXl0OG5zaVlJeGhyQkdvcm03X0lpaUJTTG1HdFdfdW1vNlpueDNncmtpY2hqVnQzckIyM1R4bFpxYw?oc=5",
+   "simhash": "862f5cc44201293e",
+   "event_key": "814638660f349ad437336f4e4da77f0f27304dcc",
+   "title": "로컬창업 소상공인 3년간 1227억 유치…매출 43% 증가",
+   "source": "서울경제",
+   "category": "biz",
+   "tokens": [
+    "1227",
+    "년간",
+    "매출",
+    "증가"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b23877b88e691b4d2863ccf743aa1c192e2503c7",
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "simhash": "719ceb5fa8dcff63",
+   "event_key": "c499d9e271c9b75f641141e6eb2c436d372b983d",
+   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "apollo",
+    "companies",
+    "delivers",
+    "economist",
+    "financial",
+    "payoff"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7ba1b89d85d2eaa2120f13f3dd373db9f89b282c",
+   "url": "https://www.yna.co.kr/view/AKR20261102047800001",
+   "simhash": "ba4df01940503762",
+   "event_key": "a51940a56e0153989fa6414c84ccd521d9927924",
+   "title": "국힘, 대통령 시정연설 전 피켓시위…\"공소취소는 헌법쿠데타\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "공소취소",
+    "국힘",
+    "피켓시위",
+    "헌법쿠데타"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "58c672bc0a9ba89c269ca07ead86a1ca4e756581",
+   "url": "https://www.yna.co.kr/view/AKR20261102032400001",
+   "simhash": "63f61700855e0579",
+   "event_key": "9d77f5823ed893a7fb8264b8c4f4bb0ac7eb7cae",
+   "title": "국힘 \"미래대응기금, 히틀러식 재정수권법…재정건전성 지켜야\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "미래대응기금",
+    "재정건전성",
+    "재정수권법",
+    "지켜야",
+    "히틀러식"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "26b2b5c1c51227ef272c14759d32750809737186",
+   "url": "https://www.khan.co.kr/article/202611021050001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "f2ada622589b656f",
+   "event_key": "85ad52f86392af636d2dc5d71b6cbb43115f909e",
+   "title": "박지원 “대통령 너무 많이 나오면 안돼…빅3, 내각이 일할 수 있는 시스템으로 가야”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "나오면",
+    "너무",
+    "많이",
+    "박지원",
+    "시스템",
+    "안돼"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8e028d98cffb298a4843cc57f5d67f434a319133",
+   "url": "https://www.khan.co.kr/article/202611021017001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "2102c87ce48129f1",
+   "event_key": "7f0df4862bdcff84fcd1ffac60d7f87198fcdec8",
+   "title": "[속보] 이 대통령 “IMF, 30년 만에 졸업···K자 성장 극복은 새 성장 공식으로”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "imf",
+    "공식",
+    "극복",
+    "만에",
+    "성장",
+    "졸업"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "788ac747385947b002f8331b89bf9a4c1f414224",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825977",
+   "simhash": "92ca04a0094be7a4",
+   "event_key": "fac5aecd1dc9a6fa27497e1a900ed0bb9235f178",
+   "title": "이 대통령 \"불평등 양극화 그늘 여전 …'모두의 성장' 대전환해야\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "그늘",
+    "대전환해야",
+    "불평등",
+    "성장",
+    "양극화",
+    "여전"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5996328894239aa7ef29d986fa2b5e03902f771c",
+   "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+   "simhash": "cd749e5abe5c2093",
+   "event_key": "82434fc71b3623deafdbb3c8d94fab160c990379",
+   "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "apparently",
+    "hacked",
+    "radiation",
+    "receive",
+    "threat",
+    "ukraine"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ee53adcab60012cfdbed5f9a6e96aa9bdb2e07d5",
+   "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+   "simhash": "bf6c259220984f11",
+   "event_key": "27c57d6e878a6c1ddbdb4437a390a16ca70aeb7b",
+   "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "agenda",
+    "commonwealth",
+    "reparations",
+    "slavery",
+    "summit",
+    "vehement"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f36a535883e3631405052e050303ce19e974dc58",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+   "simhash": "62d2e07f5a18866b",
+   "event_key": "9eeea148b1812a509110bc1d29d39e40b4c028e0",
+   "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "again",
+    "conflict",
+    "hormuz",
+    "iran",
+    "tankers",
+    "trump"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "488e2a034f4af91b4436822f5915db37fe253800",
+   "url": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+   "simhash": "8dc9f98bd6b72bb8",
+   "event_key": "32cf80e5d7b6f71b8a8a4939f40d2ecc3350cf6d",
+   "title": "High-ranking US Democratic senator suffers stroke",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "democratic",
+    "high",
+    "ranking",
+    "senator",
+    "stroke",
+    "suffers"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b5abf5ee68adb6a7677fac161e28417138cba424",
+   "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+   "simhash": "8978f75c8dd840e9",
+   "event_key": "53a87498fe4c3d3bebd9a0e3a9ff43a181a4fd71",
+   "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "child",
+    "eight",
+    "hospitals",
+    "including",
+    "israeli",
+    "strikes"
+   ],
+   "sent_at": "2026-11-02T10:58:34+09:00",
    "followup_count": 0
   }
  ]
