@@ -1,379 +1,7 @@
 {
  "version": 1,
- "updated_at": "2026-11-02T10:58:34+09:00",
+ "updated_at": "2026-11-03T12:46:52+09:00",
  "entries": [
-  {
-   "url_hash": "39067a424f034e73e74aa68319de49ab7a9709c4",
-   "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-   "simhash": "0c025eda9d98a495",
-   "event_key": "7876700636d11b129d9445f5d1e09e68929b4eb6",
-   "title": "OpenAI reportedly ditches model over safety concerns",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "concerns",
-    "ditches",
-    "model",
-    "openai",
-    "reportedly",
-    "safety"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "32712da4bf898a6e3556dab7229292d4e577ee90",
-   "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-   "simhash": "fee8945925ccd760",
-   "event_key": "c7e1d9a8c17206be72dd06431ce61832cef61855",
-   "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "favor",
-    "gemini",
-    "gems",
-    "google",
-    "killing",
-    "skills"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "eea3badab1c03a5d7092d320044f2d8ceb9f77dc",
-   "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-   "simhash": "417c615d3c8a1421",
-   "event_key": "3551cfaf033426184f57c8b71396736ceb38a67d",
-   "title": "When can we say AI made a scientific discovery?",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "tokens": [
-    "discovery",
-    "made",
-    "say",
-    "scientific"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b863c76c49f22710cfe5f38bab6ccd09a66e2be0",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-   "simhash": "5667f9995c568c23",
-   "event_key": "f5ca547587b30394ee6090f5697a618b155ddcc4",
-   "title": "OpenAI’s AI agents need to catch up",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "agents",
-    "catch",
-    "need",
-    "openai"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "c7778bb70327bc40ee02ef84c2cd4c42083405ed",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-   "simhash": "05784a515bf40373",
-   "event_key": "fd58f5ec0157cf11438c54ba29ba9a1783a357a8",
-   "title": "Florida seeks a ban on ChatGPT acting like a person",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "acting",
-    "chatgpt",
-    "florida",
-    "like",
-    "person",
-    "seeks"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "e15a40e5730e367a36d2b158fdb72e88c89dab81",
-   "url": "https://www.venturesquare.net/1116582/",
-   "simhash": "5c1320f8f9380600",
-   "event_key": "0df7cf2fd3e84242fbe09e2c4f94ad9f10c228b4",
-   "title": "와디즈파트너스, 환동해 소셜벤처 10곳 키운다…최소 1곳에 1억원 이상 투자",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "곳에",
-    "소셜벤처",
-    "와디즈파트너스",
-    "최소",
-    "키운다",
-    "환동해"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "76b58c265f2f6c7d7eca80a19b0d510b5a960c47",
-   "url": "https://platum.kr/archives/295220?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b2%2588%25ec%2595%2584%25ec%259b%2583-%25ec%2598%2588%25eb%25b0%25a9-%25ea%25b0%2595%25ec%259d%2598%25eb%25b6%2580%25ed%2584%25b0-%25eb%25a0%2588%25ed%2581%25ac%25eb%25a6%25ac%25ec%2597%2590%25ec%259d%25b4%25ec%2585%2598%25ea%25b9%258c%25ec%25a7%2580-%25ea%25b2%25bd%25ea%25b8%25b0%25eb%25b6%2581%25eb%25b6%2580",
-   "simhash": "77112959c16edde0",
-   "event_key": "d517a6eb4c05f57c9111269fe996923aa345f654",
-   "title": "번아웃 예방 강의부터 레크리에이션까지, 경기북부 청년창업사관학교 입교생 네트워킹",
-   "source": "Platum",
-   "category": "biz",
-   "tokens": [
-    "경기북부",
-    "네트워킹",
-    "레크리에이션",
-    "번아웃",
-    "입교생",
-    "청년창업사관학교"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "c1275cf8b6c3c1720a797442455d73ba840f9801",
-   "url": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
-   "simhash": "b4750f7a9c3ec6b3",
-   "event_key": "7fa2e6d331d03d3e414c4637b53b1ab718d380da",
-   "title": "Maritime intelligence startup Quartermaster raises another $140M",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "another",
-    "intelligence",
-    "maritime",
-    "quartermaster",
-    "raises",
-    "startup"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "d13c7a09817eb46093e177fea5213fafb34a98f5",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GN1NTQVg2bHIzd3d3djZ3a0ZveWhXdEZNX29ITVoyejlZamMzSUQ3VERqLWliMDFCSUdqY2w4dkFPcG02UGRINERoV2pUTDdlTkNWVU9Hd1gtekgybTBjZXBteFYzckFxcjJN?oc=5",
-   "simhash": "bf6aa8bccfea39e2",
-   "event_key": "dbfc8002f5c8d2738e82e7fe2d080c7e5b2caf86",
-   "title": "김신웅 의원 “대전 소상공인, 창업만큼 폐업…실질 지원 필요”",
-   "source": "동양일보",
-   "category": "biz",
-   "tokens": [
-    "김신웅",
-    "대전",
-    "실질",
-    "의원",
-    "창업만큼",
-    "폐업"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ab99fcb83c356b6b22c47d7bcf16cfab5323da0d",
-   "url": "https://www.worldlabs.ai/blog/amd-announcement",
-   "simhash": "2900f81773573f35",
-   "event_key": "0fc8a23a451b45752e355d07e1c9e2f25931a3dc",
-   "title": "World Labs Is Joining AMD",
-   "source": "Hacker News",
-   "category": "biz",
-   "tokens": [
-    "amd",
-    "joining",
-    "labs",
-    "world"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "9c8010ac2d46d7cbfcb4b5b42360426d8dbb4ffb",
-   "url": "https://www.yna.co.kr/view/AKR20260929031800001",
-   "simhash": "0db1e08c68484a0b",
-   "event_key": "13a4cc2eb9aac9aa8fa872c5537a54d6ca1e3fad",
-   "title": "자택 출퇴근을 출장 처리…지방정부 협력사무소 '허위근무' 적발",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "자택",
-    "지방정부",
-    "출장",
-    "출퇴근",
-    "허위근무",
-    "협력사무소"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f6a52b36fd4a27b5e2975b013a498eb1a6d85ea9",
-   "url": "https://www.yna.co.kr/view/AKR20260929050400001",
-   "simhash": "aa0bdeaa24a0b905",
-   "event_key": "914a98b0cd063bdb83d123d551960ba1a5f4f5b6",
-   "title": "국힘, 與 '曺 국감 증인채택'에 \"李대통령도 불러 대질신문해야\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "국감",
-    "국힘",
-    "대질신문해야",
-    "불러",
-    "증인채택"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "dbd50146a62482cd1fc7b1e5a701f74af118fa83",
-   "url": "https://www.khan.co.kr/article/202609291111001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "533bc52c9be259a2",
-   "event_key": "1f9cf1a0bad2a6f9453df903c6a637062e5769a6",
-   "title": "“북한 지뢰 가능성 높다” 군 발표에 공세 높이는 보수 야권…“대북 확성기 방송 재개하라”",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "가능성",
-    "높다",
-    "발표",
-    "북한",
-    "재개하라",
-    "확성기"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "d9763010e3bd9650488b59a21d41c7340ed81829",
-   "url": "https://www.khan.co.kr/article/202609291101001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "a64a251fcb82e67a",
-   "event_key": "b00f610971e6bcb3bfe441599512137793338e88",
-   "title": "추미애 “경기도 청년기본소득 국가 시범사업으로 도입해야···청년 모두에 공평한 출발선”",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "공평한",
-    "도입해야",
-    "시범사업",
-    "청년기본소득",
-    "추미애",
-    "출발선"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "3099996d3daa5c77a0c25ec45ae7ccae9e6fb33f",
-   "url": "https://www.mk.co.kr/news/world/12163518",
-   "simhash": "f94025e7a38d2a96",
-   "event_key": "a01a0a4ee707f547998283686ef263b302f5cad4",
-   "title": "“韓 무기 지원 못받자 보복?”…러 칼럼니스트, 젤렌스키 ‘北 포로 공개’ 이유 해석",
-   "source": "매일경제",
-   "category": "kr",
-   "tokens": [
-    "못받자",
-    "무기",
-    "보복",
-    "젤렌스키",
-    "지원",
-    "칼럼니스트"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "c2c828724a33bc17b0a5e8a9cf1597273edcb111",
-   "url": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
-   "simhash": "23b1a7c7a12fd407",
-   "event_key": "86a4e91fb21ea17833e5d77c2b0750f66dab0e2e",
-   "title": "French PM warns against escalation of school protests after 164 arrested",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "against",
-    "arrested",
-    "escalation",
-    "french",
-    "protests",
-    "school"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "30b59eeb145c1148a944051de9ee9a5741675c2a",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
-   "simhash": "4774c050533fdf6b",
-   "event_key": "1cbd520829f5277d892007e12be5fced75d65d21",
-   "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "iran",
-    "offer",
-    "relief",
-    "sanctions",
-    "tehran",
-    "trump"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ede681f31ca57050fffe442dfb2a4d6af3d2e789",
-   "url": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
-   "simhash": "46f979ec840a674c",
-   "event_key": "818b18e14e47de245b91e9731825b15766d6855c",
-   "title": "The Frenemy: How Australia navigates superpower rivalry",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "australia",
-    "frenemy",
-    "navigates",
-    "rivalry",
-    "superpower"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "d0ad1ffb72378bebd493c8945d4e4537a03bb48b",
-   "url": "https://www.yna.co.kr/view/AKR20260929005351071",
-   "simhash": "02951052405089c2",
-   "event_key": "b82299ce3df64846185a8494dbab5255afa18127",
-   "title": "트럼프 \"中에 무기판매, 좋은 생각이지만 시진핑과 논의 안해\"(종합)",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "논의",
-    "무기판매",
-    "생각이지",
-    "시진핑",
-    "좋은",
-    "트럼프"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ac997d15de9471c119f2d3464a1f054024573170",
-   "url": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
-   "simhash": "fcfa8d2e913ee77d",
-   "event_key": "e65b27722fdebdcb7237af07bb0a1c1ec96c700a",
-   "title": "Trump doubles down on claims US will win war with Iran ‘one way or another’ as talks are in doubt – as it happened",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "another",
-    "claims",
-    "doubles",
-    "happened",
-    "talks",
-    "trump"
-   ],
-   "sent_at": "2026-09-29T11:24:49+09:00",
-   "followup_count": 0
-  },
   {
    "url_hash": "e57a9bcca7dc2b2aad860722060962febf638b10",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
@@ -13125,6 +12753,384 @@
     "strikes"
    ],
    "sent_at": "2026-11-02T10:58:34+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "793a736581dc167fc1337ccbebcb688ca6a56f9f",
+   "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+   "simhash": "18a729b791550921",
+   "event_key": "9d0e539e4b66379be98a944e03b4c96ca1601ed3",
+   "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "agents",
+    "combinator",
+    "garry",
+    "spends",
+    "tokens",
+    "uses"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cf87f0f49a6ce8bffdc701de2752ba5c32e0de28",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+   "simhash": "35d97532452425ca",
+   "event_key": "f1de9262b97c284ed2557abca73d5a7f8ac9d5f6",
+   "title": "Anthropic clamps down on Claude’s AI video game clones",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "anthropic",
+    "clamps",
+    "claude",
+    "clones",
+    "down",
+    "video"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "59396526854b454dc21668652dedc7b9e571fd05",
+   "url": "https://www.etnews.com/20261102000461",
+   "simhash": "8d88769297ebd292",
+   "event_key": "6634081ef987047dcd978f283e0076533f1e2c41",
+   "title": "[대한민국 첨단화 주역 국가슈퍼컴퓨터]38년 간 韓 발전 이끌어...누리온 누적 작업 1600만건 초과",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "1600",
+    "국가슈퍼컴퓨터",
+    "누리온",
+    "대한민국",
+    "이끌어",
+    "첨단화"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b2485c91dd174e286a3ccd3d7478c76eb08d0dd3",
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "simhash": "4d27ff33637fc675",
+   "event_key": "e22de8393776a2da275a31ff168bd763d5aae56f",
+   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "accessible",
+    "experts",
+    "nontechnical",
+    "raises",
+    "training",
+    "trajectory"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "60559b333d0dcf42efc1684aee7be98fe93db903",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sNGJ5OGpLSDZQcUN4d2hwRG8tUkJxRW1qOENMOUxKc3laTUFxWUN6UUdnOTBhWHRRMUJVRGpjWmxxQUowNGt6bEhJVkxPUGoxaWNZcVdLbUNaeDhGcUdXYWxFNDFmMTR1QXZSUEhIQdIBZkFVX3lxTE44UmpwQTQ4aVZUd1ZlRFdmd05aSThrOU5jTUU4QXRILWNucElIZ19DcFVnSUZtM1BvN3JFY3VoYVVZd2pUbmFocUItWjFnTjZtMDZ3QldMWjVxZVhibVQ2a1Nob2pnUQ?oc=5",
+   "simhash": "d7177d90291f8673",
+   "event_key": "8255511baf1815bed4384bf5b9f33b6382027157",
+   "title": "골든플래닛, 은평성모병원 생성형 AI 실증 결과 공개… 간호사·약사가 AI 에이전트 직접 개발",
+   "source": "동아일보",
+   "category": "ai",
+   "tokens": [
+    "간호사",
+    "골든플래닛",
+    "생성형",
+    "실증",
+    "에이전트",
+    "은평성모병원"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f6e87c0d1fe030e04e0c5ca566a1d30f77c59724",
+   "url": "https://www.venturesquare.net/1125179/",
+   "simhash": "153f386d5a2e6c26",
+   "event_key": "7a29cd15a8bce18f5a181333f9621790e18c2b44",
+   "title": "씨엔티테크, 농식품 스타트업 13개사 투자유치 무대 마련…그린다 대상 수상",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "개사",
+    "그린다",
+    "농식품",
+    "무대",
+    "씨엔티테크",
+    "투자유치"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "675044caeb25d655e77b2eadd8efe72b45caeb4d",
+   "url": "https://www.venturesquare.net/1125108/",
+   "simhash": "df15c44f87dc76fa",
+   "event_key": "e247004891b5fcf4845c15e2fbb69c31cd3d7c84",
+   "title": "무빈, 시리즈 A 100억원 투자 유치…로봇 학습용 모션 데이터 기술 확장",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "데이터",
+    "로봇",
+    "모션",
+    "무빈",
+    "시리즈",
+    "학습용"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a4e7190fff4b90da30d0daf8c6ee1014552f84ba",
+   "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+   "simhash": "e6c27edf91b5830c",
+   "event_key": "505de7123c6f70f51c8ff04e15d78d0a1e910ef7",
+   "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "feels",
+    "fiber",
+    "first",
+    "here",
+    "renoa",
+    "years"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ac32f2232a7913487b0c69cfae7cf3238dda400b",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1OFc2c21sbGxzQ3pmN2o3S01vcUMzUktXS0U3NnVKUHhsWTBpMDFySHZxSE9CZVA1d2NCYU5XN0hkUlAxbHY0MTVSNDNBQS1uUjJNSlR5MElZbXFmQVNBNmMwMFpSMXR1di1admREbzlQOEk?oc=5",
+   "simhash": "0326e487d230bb4e",
+   "event_key": "44929a6d0943c363934950e49723987ef9bf1bde",
+   "title": "종로구, 개업 준비부터 자금보증까지 도와주는 ‘소상공인 창업아카데미’",
+   "source": "서울신문",
+   "category": "biz",
+   "tokens": [
+    "개업",
+    "도와주",
+    "자금보증",
+    "종로구",
+    "준비",
+    "창업아카데미"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "150a24daa34de3c3a5c9b2ace9b2bf3ace96102a",
+   "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+   "simhash": "fdfa177b82d8b986",
+   "event_key": "c11fb950fdfcd2a7be0cbe7f1434b75ac9c7e817",
+   "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "anthropic",
+    "block",
+    "ipo",
+    "protect",
+    "public",
+    "sec"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "17e70e0dcfa2b2ac7725474d4a4040458a5964e2",
+   "url": "https://www.yna.co.kr/view/AKR20261103083551001",
+   "simhash": "4e25743b5d69241b",
+   "event_key": "6a2ded2cfa4e7ad2d6690ba0b6f3f5b8737746dd",
+   "title": "국힘 \"李정부 '나쁜 예산' 30조 감액\"…내년 예산안 발표(종합)",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "감액",
+    "국힘",
+    "나쁜",
+    "예산",
+    "예산안",
+    "정부"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a59db960a932f30f7665207573f8a95e3e6073ed",
+   "url": "https://www.yna.co.kr/view/AKR20261103096300073",
+   "simhash": "d96b27ea33d1a7e0",
+   "event_key": "885a65282550f0e666361505cea5f9ffec37229b",
+   "title": "송영길 \"한미일 협력 속도조절해야\"…북중러 군사협력 촉진 우려",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "군사협력",
+    "북중러",
+    "속도조절해야",
+    "송영길",
+    "한미일",
+    "협력"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f5ab0a7ca2670b370e2599d0ec044267845899c9",
+   "url": "https://www.khan.co.kr/article/202611031049001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "7712eadc71d5fd7c",
+   "event_key": "134d1b8aa30bb66d6cd07aa56e427d289d5b6c9d",
+   "title": "[속보] 외교부, ‘1호기 탑승자 정보유출’ 추가 피해 차단 조치…“대통령 내외 등 여권 재발급 시행 중”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "외교부",
+    "재발급",
+    "정보유출",
+    "추가",
+    "탑승자",
+    "호기"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "09baa9368420f6c3138a44ed4238f92a6f682b0e",
+   "url": "https://www.khan.co.kr/article/202611030802001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "1aaf8e4e8dee1043",
+   "event_key": "de46a95faab4c5bf564250b6e3c8e959b2ae99fa",
+   "title": "트럼프 “민주당 승리하면 참모·측근 선제 사면 나설 것”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "민주당",
+    "선제",
+    "승리하면",
+    "참모",
+    "측근",
+    "트럼프"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c853581f89711f3df524de2343840d2a2810b9ed",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827294",
+   "simhash": "894de367519ad915",
+   "event_key": "d4b769a5dc80da3ce44376737d72c2027c27bad2",
+   "title": "821조 최대 예산안…\"모두의 성장으로 대전환\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "대전환",
+    "성장",
+    "예산안",
+    "최대"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7adfe5ff7754fdb3abf06de21d09d674fe00e840",
+   "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+   "simhash": "2d57d959711f472d",
+   "event_key": "a4d6ccc2188ea981aba6256cd8ffbbdc60825c16",
+   "title": "Trump to remove Rwanda and South Africa from US trade deal",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "africa",
+    "remove",
+    "rwanda",
+    "south",
+    "trade",
+    "trump"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0d2530ad16fd7289ff4d5d7d1802db13db822b5a",
+   "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+   "simhash": "eb3617d3a6acc787",
+   "event_key": "1a9bbb0aaa01bd31fd82309141165c50c0b7de6b",
+   "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "bombing",
+    "centre",
+    "kills",
+    "people",
+    "russian",
+    "ukraine"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9992ea91c456eb15b9a232e944950abcaedabd89",
+   "url": "https://www.yna.co.kr/view/AKR20261103056000009",
+   "simhash": "8e48756809242021",
+   "event_key": "1df4525d0d8ca846540eb360b872d402c350ad6a",
+   "title": "美중재 러-우크라 3자협상 재개…10∼11일 UAE 실무회담",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "uae",
+    "실무회담",
+    "우크라",
+    "자협상",
+    "재개",
+    "중재"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "84062b760f3e6d48fca8e9d90bc3288e767873d9",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss",
+   "simhash": "2b43bf5e5d48deb7",
+   "event_key": "88e96c07185274c888ee8c9581453d16c7e9390d",
+   "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "lincoln",
+    "makes",
+    "memorial",
+    "midterms",
+    "reflecting",
+    "trump"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3926bcdf695803e34e2cbd037c601b23e0c1a7dd",
+   "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+   "simhash": "2cddd95634e1d821",
+   "event_key": "9073d895fc1a0f881c991d299b21e337d00e10f8",
+   "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "asia",
+    "china",
+    "mean",
+    "midterms",
+    "pacific",
+    "tariffs"
+   ],
+   "sent_at": "2026-11-03T12:46:52+09:00",
    "followup_count": 0
   }
  ]
