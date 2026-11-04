@@ -1,383 +1,7 @@
 {
  "version": 1,
- "updated_at": "2026-11-03T12:46:52+09:00",
+ "updated_at": "2026-11-04T11:49:33+09:00",
  "entries": [
-  {
-   "url_hash": "e57a9bcca7dc2b2aad860722060962febf638b10",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-   "simhash": "e506bdab369592fb",
-   "event_key": "84f8ef6bd12e905af5b3e91718c06f5791b85eb5",
-   "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "altman",
-    "models",
-    "public",
-    "safe",
-    "sam",
-    "until"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "8000c8f00f46ee6273a4807791943d1cad862258",
-   "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-   "simhash": "d8d409389c96a309",
-   "event_key": "a33937e9443495cfa79152325fb930b9147ddcb9",
-   "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "convinced",
-    "elon",
-    "internet",
-    "launch",
-    "musk",
-    "trolled"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "d219cdb2cc726b7857ab746b7139150139947e07",
-   "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-   "simhash": "c96ecf2611993d21",
-   "event_key": "0184d93501667f0f11de9229fde842ee151138c9",
-   "title": "OpenAI’s latest features take direct aim at the app store model",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "direct",
-    "features",
-    "latest",
-    "model",
-    "store",
-    "take"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "be61da09e9eff62572ed70b1e04624b060efd40c",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-   "simhash": "f400bb49f22a1583",
-   "event_key": "730653aa3dc73a410613c829fff3154d6fa1e1d0",
-   "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "dangerous",
-    "exactly",
-    "researchers",
-    "saying",
-    "superintelligence",
-    "videos"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ce26da60a3b7c605483ea166d7621f8895bb37c3",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUUFNseGRUd1JOX3dyUlNLMkd0R1Q4anZ1d0hqSjBYNE9vVW1Na2MwVVdDeWVuT2JKWlpUN1JWQlJ3NFFvbndQZGhNSGI2Z3dzSEJpbU9vdHlMSkZ6cWRCcdIBeEFVX3lxTFBUaTVIREJBb3hQSWJnNWVSRmhweHJmU0xDaWtJcEYydElzZEh4NWN3OUdYUTNucUxPbUlLd2FxU0YzTWlhZ2lLUzBmb3Uwd3FSZnVOaE9ua2dkRXZ4Y3BxQ0U2V3BqSU5xa1VEd3NmSzJWZDZrbFpweg?oc=5",
-   "simhash": "e5cc951e53f00172",
-   "event_key": "01917a32251412482c28b2995128e062a05db774",
-   "title": "\"전력이 반도체·AI 핵심 경쟁력\"…삼성, 에너지 연구 인력 확보 나서",
-   "source": "뉴시스",
-   "category": "ai",
-   "tokens": [
-    "경쟁력",
-    "삼성",
-    "에너지",
-    "연구",
-    "전력",
-    "핵심"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "544ee31399208316e003388f28af324ba379ed6e",
-   "url": "https://www.venturesquare.net/1116862/",
-   "simhash": "ece6e412b3fb0f7a",
-   "event_key": "c706728f733b7b413686b6252a6bea77084347b7",
-   "title": "시마AI, 2036억원 시리즈C 유치…휴머노이드·드론 겨냥 ‘1000 TOPS’ 피지컬 AI 칩 개발",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "1000",
-    "2036",
-    "tops",
-    "시리즈",
-    "피지컬",
-    "휴머노이드"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "30cf0a2381b495b5002959be57c1eba09a4512cc",
-   "url": "https://platum.kr/archives/295394?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b8%25ec%25b2%259c-%25ec%25b0%25bd%25ec%2597%2585%25ec%2583%259d%25ed%2583%259c%25ea%25b3%2584%25ea%25b0%2580-%25ec%2586%25a1%25eb%258f%2584%25ec%2597%2590-%25eb%25aa%25a8%25ec%259d%25b8%25eb%258b%25a4-surf-2026-incheon-%25ea%25b0%259c%25eb%25a7%2589-%25ec%2598%2588%25ea%25b3%25a0",
-   "simhash": "61782daec95065b9",
-   "event_key": "67d5146d2aba17247c60a73ce8b856a3fbd3f6f7",
-   "title": "인천 창업생태계가 송도에 모인다, ‘SURF 2026 INCHEON’ 개막 예고",
-   "source": "Platum",
-   "category": "biz",
-   "tokens": [
-    "incheon",
-    "surf",
-    "모인다",
-    "송도",
-    "인천",
-    "창업생태계"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "dfa350bf635d1b3601fd4c365187185d68ea6239",
-   "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
-   "simhash": "4226df9d07087412",
-   "event_key": "19bde0d3a8e881434951b6744e9f10bcd0770f15",
-   "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "building",
-    "cancer",
-    "founder",
-    "glasses",
-    "losing",
-    "voice"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "621b012cdaccf4cadbf9d3ca723e2754b42d54b5",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sVDkyZ0dONHE2N0NONGxIS0FPTVpPaGtnR2NBTVhDZ21PcGNkTTNoR09ZdG5jcG8xT3A2b2d6LVp5ei1Kd3BkT000OFpyeldacjRKQm5uYnRkc3ZvQ3RZWNIBeEFVX3lxTFA5RXlkUE5QWkNXa3R2V0RxS0RMaDVMQ3lzR2Vaeks4TzA5MWYyWk5HNFNES1FjTUlybnZvSW55N3UwZW53N3dHa0tlMF9CaVRoRGh6WUpPbHVkV3h5eVNZaFoxanNObE5ZYXRKN2ZsZzN6M3c1V1dlOA?oc=5",
-   "simhash": "5737582b871c89c4",
-   "event_key": "7e55f568d9bfedd5666dd0c27938c36fe5043a2f",
-   "title": "제주 소상공인 1805억 특별보증…연 1% 생활대출도",
-   "source": "뉴시스",
-   "category": "biz",
-   "tokens": [
-    "1805",
-    "생활대출",
-    "제주",
-    "특별보증"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "bf2e738d2e1af5fff3125dd9d41442804012d9b1",
-   "url": "https://github.com/ninjahawk/livenerf",
-   "simhash": "8847b2797155c1cb",
-   "event_key": "bc992216ba43d719d7ed091c5177c48c363a8e0f",
-   "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-   "source": "Hacker News",
-   "category": "biz",
-   "tokens": [
-    "livenerf",
-    "nerfed",
-    "opus",
-    "yet"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "064e00fcf584d9968d6c325d4f00a46f81f12ec8",
-   "url": "https://www.yna.co.kr/view/AKR20260930058200001",
-   "simhash": "d20f65065a18e56c",
-   "event_key": "c6bdd08e1dbf7c6a4e4b469840d25340636f1148",
-   "title": "국힘 \"北 지뢰 부인, 정부가 눈치 본 결과…뻔뻔함 응징해야\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "국힘",
-    "눈치",
-    "부인",
-    "뻔뻔함",
-    "응징해야",
-    "정부"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "0373633e309adadab477d78587d10d3b55b0e606",
-   "url": "https://www.yna.co.kr/view/AKR20260930069800062",
-   "simhash": "10552598815cb634",
-   "event_key": "e0728dd4df29c86168b0efc57f20f6abc1fa92bd",
-   "title": "강릉시민 1인당 10만원…11월 중순부터 강릉페이 지급",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "강릉시민",
-    "강릉페",
-    "만원",
-    "인당",
-    "중순",
-    "지급"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "950b25731381dc3c3ec4ff74f965d6df14800915",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008776320",
-   "simhash": "4545002c7490e9c0",
-   "event_key": "52f93781ca0855f469f812d1da071380d01cb45f",
-   "title": "한병도 \"내일 주택공급·재해예방법 처리…야당 필버 종결 안 하겠다\"",
-   "source": "SBS",
-   "category": "kr",
-   "tokens": [
-    "야당",
-    "재해예방법",
-    "주택공급",
-    "처리",
-    "하겠다",
-    "한병"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "0464d55a6ee3d47b14179c10504ffa79c9af23dc",
-   "url": "https://www.khan.co.kr/article/202609300851001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "faa9a01ba500455a",
-   "event_key": "5f078ea71ecd91dfa3280b0cbd77e51ce27e6555",
-   "title": "김병주 “젤렌스키, 코미디언 출신이라 쇼한 것…포로 공개 배은망덕”",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "김병주",
-    "배은망덕",
-    "쇼한",
-    "젤렌스키",
-    "출신",
-    "코미디언"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "aecf426a02db9a4b1dc53d1eb7516f3435ed8474",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008776264",
-   "simhash": "3c6ba00891d98404",
-   "event_key": "ea723ac5f0b02ddbdbaedccaae9de7370d7d8f99",
-   "title": "김민석, DMZ 지뢰 사고에 \"북한 자작극 운운 규탄…반드시 사과해야\"",
-   "source": "SBS",
-   "category": "kr",
-   "tokens": [
-    "dmz",
-    "김민석",
-    "반드시",
-    "사고",
-    "사과해야",
-    "자작극"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "820a1521498342ccd367fbf10b7dd6ebb9b3672f",
-   "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-   "simhash": "6d364988434c54c5",
-   "event_key": "af408fe462a4de339c18a49cea7851ca4398162b",
-   "title": "Trump rules out joint US-China venture to develop AI",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "china",
-    "develop",
-    "joint",
-    "rules",
-    "trump",
-    "venture"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "447ba4cb2b7d8614ac6114a26e1e945631a5729d",
-   "url": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
-   "simhash": "25b59118512ffa21",
-   "event_key": "1d52db0c0b918b94de7a30098e76c5aaf19d0f05",
-   "title": "Trump says he plans to campaign for 32 days before midterm elections",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "before",
-    "campaign",
-    "elections",
-    "midterm",
-    "plans",
-    "trump"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "07315f3132902d93b516d1259b5cc2925c4621f6",
-   "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-   "simhash": "c0f2d683a55643d3",
-   "event_key": "3b46d14f37b5009bc497293ffaca44bf3c7298f2",
-   "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "blames",
-    "company",
-    "defence",
-    "estonia",
-    "supplying",
-    "ukraine"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "fbed1d0635ca4569e61e9de648e5cb6dbced5123",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss",
-   "simhash": "735880331dc7a1ff",
-   "event_key": "52421231cd14aa0d48122967d4e549450a120a4e",
-   "title": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "crimes",
-    "deflect",
-    "gaza",
-    "netanyahu",
-    "qatar",
-    "targets"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "d859b0f756018b5e14b5a5a4be80979553160cfc",
-   "url": "https://www.yna.co.kr/view/AKR20260930062100083",
-   "simhash": "ce512aede4062c4d",
-   "event_key": "be5bc081b98f2ed1f22edb05348a193088c92a37",
-   "title": "中, 日'유엔 적국조항 삭제' 요구 반대…\"재군사화 현실적 위협\"",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "삭제",
-    "요구",
-    "유엔",
-    "재군사화",
-    "적국조항",
-    "현실적"
-   ],
-   "sent_at": "2026-09-30T10:45:02+09:00",
-   "followup_count": 0
-  },
   {
    "url_hash": "aff29b282932e65dd233d2ced84683a5f5bb9731",
    "url": "https://www.etnews.com/20261001000026",
@@ -13131,6 +12755,384 @@
     "tariffs"
    ],
    "sent_at": "2026-11-03T12:46:52+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "993e48dc4504c6f5debaa131b1992333c56f2fe1",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "simhash": "0c79bdb63b18ada2",
+   "event_key": "150126aa3cbb69ed989786216c9d1833b5075b6e",
+   "title": "Anthropic is working on a system to prove AI models’ identity",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "anthropic",
+    "identity",
+    "models",
+    "prove",
+    "system",
+    "working"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f9b9dfe825fff521253bcd4b1901f59a1ab8493a",
+   "url": "https://www.etnews.com/20261104000170",
+   "simhash": "3082bdaa5f5b07a2",
+   "event_key": "23e72227599f4c10c936a2a658f5c6e9335ded6a",
+   "title": "구글, 美 학교에 '제미나이' 차단 허용…AI 검색 기능은 유지",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "검색",
+    "구글",
+    "제미나",
+    "차단",
+    "학교",
+    "허용"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6f8b66662ba40d967d9802197011fddf21b5bc98",
+   "url": "https://www.etnews.com/20261104000045",
+   "simhash": "c99392858fd9b2c2",
+   "event_key": "579d50fa139e83e347d6211da353496db26f47ef",
+   "title": "과기정통부, AMD와 AI 반도체 협력 본격화…운영위 정기 개최",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "개최",
+    "과기정통부",
+    "본격화",
+    "운영위",
+    "정기"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fd8195e7fb6408b49866b843b4bd39217757e8ec",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+   "simhash": "0545399954fc496d",
+   "event_key": "cd979f6b8e1389e8f92d2f298a5e68da4cc07897",
+   "title": "OpenAI says ChatGPT is catching up to Google in search",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "catching",
+    "chatgpt",
+    "google",
+    "openai",
+    "search"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0d8610dfac361b4ca4331c54c4675ba1a205565c",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sYzFnNnFpRW1HSEZBWlFCN2hpTF82SFVNaXZsMW55N1hQOW1NZ3VSYTVWeEVuZ0pJVm1KUUdYMzl6TFdtRFUxcm83UmtpcmdDeUczZmpWUG50Q1NkREo5LVdBOVdZeWM?oc=5",
+   "simhash": "2fa4945a156b7f66",
+   "event_key": "ccfb5bc914284e73b38699d5c405652aba820f09",
+   "title": "[AI 리뷰] AI 에이전트에 기능 많이 붙인다고 똑똑해지지 않는다",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "기능",
+    "똑똑해지지",
+    "많이",
+    "붙인다고",
+    "않는다",
+    "에이전트"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "943c0ec8be36c91b1ac475a86726bf70852f55a4",
+   "url": "https://www.venturesquare.net/1125537/",
+   "simhash": "a83c886e4d2f349d",
+   "event_key": "a5d5f722e46988e9e04ef79840968bcb23e556e6",
+   "title": "젠엑시스, K-바이오랩허브 스타트업 5개사 데모데이 개최…바이오 전문 투자기관 10곳 참여",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "개사",
+    "데모데",
+    "바이오",
+    "바이오랩허브",
+    "젠엑시스",
+    "투자기관"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e1a4470a709268af4e2b0a2cfeacc24dc61ba5a5",
+   "url": "https://platum.kr/archives/297634?utm_source=rss&utm_medium=rss&utm_campaign=10%25eb%258c%2580-%25ec%25b0%25bd%25ec%2597%2585-%25eb%258f%2599%25ec%2595%2584%25eb%25a6%25ac-100%25ec%2597%25ac-%25ed%258c%2580-%25ec%25b2%25ad%25ec%25a3%25bc%25ec%2584%259c-%25ec%2582%25ac%25ed%259d%2598%25ea%25b0%2584-%25ec%2595%2584%25ec%259d%25b4%25eb%2594%2594%25ec%2596%25b4-%25ea%25b2%25a8%25eb%25a3%25ac",
+   "simhash": "a3af8a8a4109bc7c",
+   "event_key": "b1d572049abf258ac113b46178d3325837f6d89f",
+   "title": "10대 창업 동아리 100여 팀, 청주서 사흘간 아이디어 겨룬다",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "겨룬다",
+    "동아리",
+    "사흘간",
+    "아이디어",
+    "창업",
+    "청주서"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "13775dae291d1ca876e4944f153d1fe97f4d8e25",
+   "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+   "simhash": "a270b2d3780b57fb",
+   "event_key": "1c4b2cf52bd0673a66e25c9b31c9d33360f70b25",
+   "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "kenya",
+    "project",
+    "rivian",
+    "spinout",
+    "walked",
+    "working"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "263efb01ba987a7ea71889d1d668cd8c2b0a6ab0",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ta2pxaXlSN3MtdU5nMGtZNXVJdVU5bnBleUJSd2NZeUl2ZExUSHpGcFd4aFpEVmF6YjI4dklmclJITkVmUGtqTEZCOWJJMXZxVW9Nb3Nn?oc=5",
+   "simhash": "ec1ff43388768906",
+   "event_key": "302b1b329f57df17cb62da88f69f0c2ec4eef1e8",
+   "title": "영등포구, 창업지원 조례 제정…아이디어 발굴부터 사업화까지 전방위 지원",
+   "source": "헤럴드경제",
+   "category": "biz",
+   "tokens": [
+    "사업화",
+    "아이디어",
+    "영등포구",
+    "전방위",
+    "조례",
+    "창업지원"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "642385f0d82e9aa5fac7fb404d043bb63540547e",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCQm1jS3FGS2E0UnpVdzY1YnMtRWlrUkNzZVhrSzNPc3ZLdThNM0VobUZoVFRqR091ZFAtenk0YWxmLXo3WVV0VGFjMENXUXM0WEhiQlJuR0FpY1d2VXBEcUhRbkh0b2dGQnJDc3VvaFZHZ9IBckFVX3lxTFBCQm1jS3FGS2E0UnpVdzY1YnMtRWlrUkNzZVhrSzNPc3ZLdThNM0VobUZoVFRqR091ZFAtenk0YWxmLXo3WVV0VGFjMENXUXM0WEhiQlJuR0FpY1d2VXBEcUhRbkh0b2dGQnJDc3VvaFZHZw?oc=5",
+   "simhash": "c4ca521790040ac5",
+   "event_key": "0e456657cb3be813397f9c7da379ac6c6af43c7f",
+   "title": "고려대 세종산학협력단, 예비창업기업 베트남 진출 지원 - 머니투데이",
+   "source": "머니투데이",
+   "category": "biz",
+   "tokens": [
+    "고려대",
+    "머니투데",
+    "베트남",
+    "세종산학협력단",
+    "예비창업기업",
+    "진출"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "152daa06d1170b7c7ec9d41cc1dc110e62c2bc19",
+   "url": "https://www.yna.co.kr/view/AKR20261104083200001",
+   "simhash": "4d97e531f47da636",
+   "event_key": "9948e49c0b96f727577dbb34d233e8d268d516d1",
+   "title": "韓총리, '北미사일 발표 지연' 지적에 \"국방부 신뢰한다\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국방부",
+    "미사일",
+    "발표",
+    "지연",
+    "지적",
+    "총리"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2bac3b1af16c0665353c99dec79b85cecad49dfc",
+   "url": "https://www.yna.co.kr/view/AKR20261104082800001",
+   "simhash": "87cca2b345b1fb5e",
+   "event_key": "fef704d2c39a437306b06042ffa971b97670f735",
+   "title": "조작기소 특검법안 與주도로 법사위 상정…국힘 반발·퇴장",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "법사위",
+    "상정",
+    "조작기소",
+    "주도",
+    "특검법안"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "05820ce8245d37292f65367850177f915e0cea99",
+   "url": "https://www.khan.co.kr/article/202611041132001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "9e4186bc0717a34a",
+   "event_key": "fbae6d28e3801c6e51272a4d0fd321b1914a5a76",
+   "title": "민주당, 정부에 ‘가상자산 과세 유예’ 공식 제안…“적응기간 필요”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "가상자산",
+    "과세",
+    "민주당",
+    "유예",
+    "적응기간",
+    "정부"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3680a15e918898c87687223d1da326c50a3ebe72",
+   "url": "https://www.khan.co.kr/article/202611041018001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "3e6ec923dd05860a",
+   "event_key": "99b9a2e43dee28c32f5c2c8ab5e780f9a0dbed04",
+   "title": "[미 중간선거]“정부 부정부패”···미 중간선거 출구조사, 10명 중 4명 ‘반트럼프 투표’",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "반트럼프",
+    "부정부패",
+    "정부",
+    "중간선거",
+    "출구조사",
+    "투표"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ffca2374564e17862f899663750cd23f34ca361d",
+   "url": "https://www.mk.co.kr/news/politics/12196199",
+   "simhash": "faaab0c6a414fa46",
+   "event_key": "4e68f517e861335120953eb21c26fdbb9a09332b",
+   "title": "언쟁 벌이는 서영교 법사위원장과 박형수 의원 국회",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "박형수",
+    "벌이",
+    "법사위원장",
+    "서영교",
+    "언쟁",
+    "의원"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5831a926105e748a4fc42d8a29224ca62b490276",
+   "url": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
+   "simhash": "2c40ce5f9e1844c8",
+   "event_key": "0779b75c37269a9d5887367054f2112dea890b86",
+   "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "against",
+    "canada",
+    "coalition",
+    "hockey",
+    "refusing",
+    "ukraine"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8724df6fb179277b671de726a3f1bbd4a0967291",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+   "simhash": "a925001aa00f19b9",
+   "event_key": "84cb78437352641fab117887f37cd9bed301d0dd",
+   "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "deal",
+    "ending",
+    "israel",
+    "military",
+    "scepticism",
+    "trump"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "76e53f5c1617683297fb4e18aa223805f194188b",
+   "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash",
+   "simhash": "d5a5ffd3abd9b1b8",
+   "event_key": "b2dfba288b873cdf7a112985cd3d02f5798d8e86",
+   "title": "Spanish transport minister resigns after deadly train crash",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "deadly",
+    "minister",
+    "resigns",
+    "spanish",
+    "train",
+    "transport"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0da2a737c7be77394e43d9e44a2350ee441c975c",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+   "simhash": "afe67310c43f9b33",
+   "event_key": "514a0143a44146ff3cd2692ff7241bf8bd5e147b",
+   "title": "President Zelenskyy says US elections will impact war in Ukraine",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "elections",
+    "impact",
+    "president",
+    "ukraine",
+    "war",
+    "zelenskyy"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7c1e3362a6d959f53ff1bb55879420369b65e02c",
+   "url": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+   "simhash": "80e01990e5a33f89",
+   "event_key": "cec89fdc4bb13cc70e8e4ad31a890d396d24504d",
+   "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+   "source": "NPR",
+   "category": "world",
+   "tokens": [
+    "dilemma",
+    "diplomatic",
+    "japan",
+    "neighbors",
+    "nuclear",
+    "pressure"
+   ],
+   "sent_at": "2026-11-04T11:49:33+09:00",
    "followup_count": 0
   }
  ]
