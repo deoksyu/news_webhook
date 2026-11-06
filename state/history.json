@@ -1,379 +1,7 @@
 {
  "version": 1,
- "updated_at": "2026-11-05T11:58:16+09:00",
+ "updated_at": "2026-11-06T11:57:57+09:00",
  "entries": [
-  {
-   "url_hash": "71ec6578eae7fce2ff19c38b24dea767857dd913",
-   "url": "https://www.etnews.com/20261001000501",
-   "simhash": "1679320c02474866",
-   "event_key": "2b97da6ddd5a14506c074e003709050fdae77610",
-   "title": "석 달 만에 '사상 최대'…'60조' 마이크론, 다음은 '190조' 삼전닉스",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "다음",
-    "마이크론",
-    "만에",
-    "사상",
-    "삼전닉스",
-    "최대"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "76c618bed6db4f6924cefb66a20dc26deb554665",
-   "url": "https://www.etnews.com/20261002000002",
-   "simhash": "0ef1045b370249f5",
-   "event_key": "f78028986eba49b11518b9f8d2c00629e6f44f57",
-   "title": "美 캘리포니아주, 오픈AI에 소환장…AI 안정성 조사",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "소환장",
-    "안정성",
-    "조사",
-    "캘리포니아주"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "9b59a27765f56de337333415d9c097d08cf728b2",
-   "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-   "simhash": "1c4813c241d36338",
-   "event_key": "ad38018ffa8dc688da9780353e51dfe2ea3d048a",
-   "title": "ChatGPT can now virtually try on clothes for you",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "chatgpt",
-    "clothes",
-    "try",
-    "virtually"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "48899b979b9dec84b41d15368630ebb8aab2ca86",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUb2IzSGlTcUhRczYyRG1VbUdudzBuaFp1ZU1DOFhiS1djcS1Qd3dtX1BZclNHV1Y2amowQVFVTHlzS213WmNxNVdoYVNhVGtpdkd4d1NzNkx3QW9SYXpXdDZidllIaGc?oc=5",
-   "simhash": "ede55f97ed4b6c37",
-   "event_key": "9cc1d44ec9ba0fd34017258361a2e63c7d86d280",
-   "title": "“위험한 철판 작업, AI 로봇이 대신한다”…DGIST 엠에프알, 포스코 무인화 사업 수주",
-   "source": "인공지능신문",
-   "category": "ai",
-   "tokens": [
-    "dgist",
-    "무인화",
-    "엠에프알",
-    "위험한",
-    "철판",
-    "포스코"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "5dc514b5787d01f26b3f861077f54d1b8fbed85b",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOQXRKN1RZbzVaRFdyTzZwXzZpZ0hKQWVRczluV2s3czg4RTFXYW4xLS1NaDB4ZmxqdU9FczRVejcwOXRtdkI1X0lsM2F2Ykg2UldzcE9FYV9GX0txS0o4NlA1b3BkT2c?oc=5",
-   "simhash": "494622c6293f6fc9",
-   "event_key": "022266d267aa3dc284bf7ebf01bf93a2a06e52dd",
-   "title": "AI가 답하는 시대, 영재교육은 ‘정답’보다 ‘질문’이다…AI 시대 영재교육 모델 제시",
-   "source": "인공지능신문",
-   "category": "ai",
-   "tokens": [
-    "답하",
-    "시대",
-    "영재교육",
-    "이다",
-    "정답",
-    "질문"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "85fd537840565344257295cdd73e6863e73a7e72",
-   "url": "https://platum.kr/archives/295589?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2594%2594%25eb%2585%25b8%25ed%258b%25b0%25ec%258b%259c%25ec%2595%2584%25c2%25b7%25ed%2585%2594%25eb%25a0%2588%25ed%2594%25bd%25ec%258a%25a4-%25eb%2593%25b1-7%25ea%25b3%25b3-%25ea%25b5%25ad%25eb%25af%25bc%25ec%2584%25b1%25ec%259e%25a5%25ed%258e%2580%25eb%2593%259c-%25ec%259a%25b4%25ec%259a%25a9%25ec%2582%25ac",
-   "simhash": "a747f59ad5aa92a8",
-   "event_key": "32a10c33dbf3d93ad8a7d5b6a621028e85fbb4f5",
-   "title": "디노티시아·텔레픽스 등 7곳, 국민성장펀드 운용사 앞에서 스케일업 계획 발표",
-   "source": "Platum",
-   "category": "biz",
-   "tokens": [
-    "국민성장펀드",
-    "디노티시아",
-    "스케일업",
-    "앞에서",
-    "운용사",
-    "텔레픽스"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "d650f3579e3a36abda4df66f2cca2a0a9524d294",
-   "url": "https://platum.kr/archives/295580?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%259d%2591%25ec%259e%2590-%25eb%2582%25b4%25eb%258a%2594-%25ec%259e%2584%25eb%258c%2580%25ea%25b4%2580%25eb%25a6%25ac-%25ed%2594%258c%25eb%259e%25ab%25ed%258f%25bc-%25ec%259e%2590%25eb%25a6%25ac%25ed%2586%25a1-%25ec%258b%259c%25eb%25a6%25ac%25ec%25a6%2588a-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598",
-   "simhash": "1d8434c22e0c2396",
-   "event_key": "fb6d282d205e1081206cb2c53cafb752c2c3d629",
-   "title": "흑자 내는 임대관리 플랫폼 자리톡, 시리즈A 투자 유치",
-   "source": "Platum",
-   "category": "biz",
-   "tokens": [
-    "내는",
-    "시리즈",
-    "임대관리",
-    "자리톡",
-    "플랫폼",
-    "흑자"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b4341699df22ef1fbff6ab8279fd019f953178c8",
-   "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-   "simhash": "87d458935f7d2661",
-   "event_key": "a197eb355344c7b969bd1d8406db55e868461295",
-   "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "atreides",
-    "engineering",
-    "sequoia",
-    "startup",
-    "valor",
-    "valuation"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "85d8fb9ff923d9a9f1a53982de303469ccfb7700",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40WWdyd1FZVzBjYTRHaUxpbWExSlI4cTRLSHg4OFBNRGpvMnlVVkRBSU5RcG9xY2VQSFZXUy1Zd2Zwdmk0ekpjajdjbjEtd1QzdVhpajlOdjNIbktyWHZRMTZPcV9qdw?oc=5",
-   "simhash": "2c063830704af848",
-   "event_key": "72ad5e144da24a0b70cb1b633434f9f29cddedf2",
-   "title": "[소상공인 창업가정신 Ⅳ] 매출이 아니라 구조를 바꾼다",
-   "source": "이로운넷",
-   "category": "biz",
-   "tokens": [
-    "구조",
-    "매출",
-    "바꾼다",
-    "아니라"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "bb8d543dd58de38595e3b693755ac33851302b1b",
-   "url": "https://molily.de/web-dev-education/",
-   "simhash": "140669acae8c9622",
-   "event_key": "78009f05fdc0af454551ae15fcf9532bcedf210f",
-   "title": "The death of web development education",
-   "source": "Hacker News",
-   "category": "biz",
-   "tokens": [
-    "death",
-    "development",
-    "education",
-    "web"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "4a79076cbf1c3912daebf54cebbe827ddbed48c4",
-   "url": "https://www.yna.co.kr/view/AKR20261002040800001",
-   "simhash": "e63ec18136620d86",
-   "event_key": "2bfb18fe70e1c1410513ab01dae16c098eb084c1",
-   "title": "\"국민 재판받을 권리 침해는 위헌\"…與, 좌담회 열고 曺압박",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "국민",
-    "권리",
-    "위헌",
-    "재판받",
-    "좌담회",
-    "침해"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "d909029321221dcbfbc33bf46d5ea9fee2c2d96a",
-   "url": "https://www.yna.co.kr/view/AKR20261002037000062",
-   "simhash": "a13a377777fc5798",
-   "event_key": "09caaa6cca40284966185069895f9f3eb246608b",
-   "title": "원주시, 국회서 내년 국비 확보 총력…16건 추가 반영 요청",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "국비",
-    "국회서",
-    "원주시",
-    "총력",
-    "추가",
-    "확보"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "791d50966d7755eae88c644765960ad3d9eddcfb",
-   "url": "https://www.khan.co.kr/article/202610021000001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "71c7f34cb860fc1e",
-   "event_key": "228ae614b23cf0e9783a21a865f6de9879b3d5e0",
-   "title": "정동영 “통일부 장관으로 북에 제의한다…만나서 군사분계선 확정하는 소통 시작해야”",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "군사분계선",
-    "만나서",
-    "시작해야",
-    "정동영",
-    "통일부",
-    "확정하"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "d81f3fa3881c03d8d6c3a6d0126ee33de9b090de",
-   "url": "https://www.khan.co.kr/article/202610020957001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "fecfa6e9e145545e",
-   "event_key": "4926cd96a771bfcce1012230514d93374473707b",
-   "title": "우크라 외무 “북 포로 공개는 ‘사건’ 아닌 외교적 오해···한국과 갈등 조속히 해결되길”",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "외교적",
-    "외무",
-    "우크라",
-    "조속히",
-    "포로",
-    "해결되길"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "972014f50a8c36160c30243b6b48f938bcb8e628",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008780334",
-   "simhash": "4883d06537f2ec05",
-   "event_key": "d909de5b7fb9b90b1edb0924d2283b913d7fd524",
-   "title": "정동영 \"사과 요구는 당연, 확성기는 위험…북에 'MDL 소통하자' 제의\"",
-   "source": "SBS",
-   "category": "kr",
-   "tokens": [
-    "mdl",
-    "사과",
-    "소통하자",
-    "요구",
-    "정동영",
-    "확성기"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b26b8344b8a19cb0c479672abe9381c0af8c5c51",
-   "url": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
-   "simhash": "1f1d7bf8f45059ad",
-   "event_key": "5e8dbd46ae845421997f2f268aee410c843ebbc2",
-   "title": "Brazilian government calls for probe into US funding of far-right causes",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "brazilian",
-    "calls",
-    "causes",
-    "funding",
-    "government",
-    "probe"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "7e681f008198c8de3ebe8d11a00e0ec509245cf4",
-   "url": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
-   "simhash": "0b02f85a4fa9f200",
-   "event_key": "0a440a3bdbaf987b2c48d84272e59a1a868f7130",
-   "title": "NAZA film-makers say they spoke to more than 100 sources about Israeli actions in Gaza",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "actions",
-    "israeli",
-    "makers",
-    "naza",
-    "sources",
-    "spoke"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "173818a1a7142c73140cde2aa419fed7a1d79687",
-   "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves?traffic_source=rss",
-   "simhash": "857419234189bba4",
-   "event_key": "af45ef70f7b3ed5bd4c5441fe399979baf9783a6",
-   "title": "Trump says US may ask Europe to release diesel reserves",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "ask",
-    "diesel",
-    "europe",
-    "release",
-    "reserves",
-    "trump"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "e8496c5992b964248a33203faf8064594f91501a",
-   "url": "https://www.theguardian.com/business/2026/oct/01/britain-talks-european-allies-eu-emergency-diesel-stockpiles-reserves",
-   "simhash": "e5240c11acabbe04",
-   "event_key": "2aee56616b6a70e3a2e7fab432a0b545c51426e7",
-   "title": "Britain in talks with European allies over release of emergency diesel stockpiles",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "allies",
-    "britain",
-    "emergency",
-    "european",
-    "release",
-    "stockpiles"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "134e7441e8a0d2c6024acba8bac9fafe4342b05f",
-   "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-   "simhash": "2cdad91568002479",
-   "event_key": "fccc7d064e80a5022dad722dfb472bbff48623bf",
-   "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "attacker",
-    "flydubai",
-    "indoctrination",
-    "islamist",
-    "netanyahu",
-    "radical"
-   ],
-   "sent_at": "2026-10-02T10:53:16+09:00",
-   "followup_count": 0
-  },
   {
    "url_hash": "88ce35f7c1e7f2a2dd9ba71b077dd1fa60b05a9e",
    "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
@@ -13135,6 +12763,378 @@
     "회담"
    ],
    "sent_at": "2026-11-05T11:58:16+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b9afbb2661b640b57d4e60312399981e75f0e5c7",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+   "simhash": "cdea7bf8d194d4b5",
+   "event_key": "772ef11d25faf58b7073e2c91ce9a5cf66ba6f2a",
+   "title": "Perplexity launches its own take on AI agents for work",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "agents",
+    "launches",
+    "own",
+    "perplexity",
+    "take",
+    "work"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b885cfb61c38a76298a477f246f248f13cb2c495",
+   "url": "https://www.etnews.com/20261105000498",
+   "simhash": "d3a4f973a293c1bc",
+   "event_key": "8e37512697f59139c8250543c0ccc3e916adf144",
+   "title": "그림 그리면 3D로 변한다…중국의 'AI 칠판'",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "그리면",
+    "그림",
+    "변한다",
+    "중국",
+    "칠판"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ec73671ce52f6e9d29c52ce9c4022f44ad13f0d2",
+   "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+   "simhash": "2d8f19c75519c115",
+   "event_key": "cd26fb2c31edaa6655231b9d71bd079411a75b5b",
+   "title": "OpenAI released a new cybersecurity model. Is that enough?",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "cybersecurity",
+    "enough",
+    "model",
+    "openai",
+    "released"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cfd1704d56b5f495a85a08d1ec5674488ba3382c",
+   "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+   "simhash": "ecab57b1748d80c1",
+   "event_key": "32648d993bf598e7f8642cef98ec9a88bd660f8b",
+   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "brockman",
+    "company",
+    "greg",
+    "openai",
+    "president",
+    "ready"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4b216c6625249c325d02606a1bae96dce2cb3473",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+   "simhash": "35dd228819acfeca",
+   "event_key": "8c3c3a789c30a3d6670105ffed795dc48199c542",
+   "title": "Claude AI can plug directly into your bank account",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "account",
+    "bank",
+    "claude",
+    "directly",
+    "plug",
+    "your"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ba569086f62d141cb2de0e0479bcae0a7470acf8",
+   "url": "https://platum.kr/archives/297904?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25eb%25b6%2580%25ed%2584%25b0-%25ed%2598%2581%25ec%258b%25a0-%25ec%2586%258c%25ec%2583%2581%25ea%25b3%25b5%25ec%259d%25b8%25ea%25b9%258c%25ec%25a7%2580-%25ea%25b0%2595%25ec%259b%2590-%25ec%25a7%2580%25ec%2597%25ad%25ea%25b8%25b0%25ec%2597%2585-%25ec%259d%25bc",
+   "simhash": "ce872f460a4cc11a",
+   "event_key": "bbfdd874626e366e4badb1ad54781c26cbaf819a",
+   "title": "스타트업부터 혁신 소상공인까지, 강원 지역기업 일주일 새 네 차례 투자자 앞에",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "강원",
+    "일주일",
+    "지역기업",
+    "차례",
+    "투자자",
+    "혁신"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c3576f61a3fd5647f2f3883cfb3385237e71cd90",
+   "url": "https://platum.kr/archives/297901?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%2590%25eb%2584%2588%25ec%25a7%2580%25c2%25b7%25eb%25b0%25b0%25ed%2584%25b0%25eb%25a6%25ac-%25eb%258f%2584%25ec%258b%259c-%25ec%259a%25b8%25ec%2582%25b0-%25ec%25a3%25bc%25eb%25a0%25a5%25ec%2582%25b0%25ec%2597%2585%25ea%25b3%25bc-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%259e%2587",
+   "simhash": "d0a52e3f68be5638",
+   "event_key": "2dd58332cfa88f93b67b3658f2efb715a1bff021",
+   "title": "에너지·배터리 도시 울산, 주력산업과 스타트업 잇는 창업 축제 개막",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "도시",
+    "배터리",
+    "에너지",
+    "울산",
+    "잇는",
+    "주력산업"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f3a0f74ded4b4fa5d393375e84c62499a68f8131",
+   "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+   "simhash": "0b57bc25d4e4c791",
+   "event_key": "f2362699f6a4a41b541d0b4443d12e497f2d5d99",
+   "title": "Harbinger raises $240M after expanding into defense",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "defense",
+    "expanding",
+    "harbinger",
+    "raises"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2ed9e3b5a317da2d27da7ea43b874987a8d209af",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pd041S3FPUUVaVEJVZ2ZrQTAyMXZXczgtcF9OaE41N2E3RjZqN0tuQVNTRU0ySjNjMTNTcG84OFZ4Y1BPOGZkUWZZdmplMkthRHpDSVJuWHhpLU9PVV9xNEcyWERVX012TzFPSjBoNFluSzFYY2dBNtIBeEFVX3lxTE9pd041S3FPUUVaVEJVZ2ZrQTAyMXZXczgtcF9OaE41N2E3RjZqN0tuQVNTRU0ySjNjMTNTcG84OFZ4Y1BPOGZkUWZZdmplMkthRHpDSVJuWHhpLU9PVV9xNEcyWERVX012TzFPSjBoNFluSzFYY2dBNg?oc=5",
+   "simhash": "984ba4416633180f",
+   "event_key": "24caf8111c66d1c16835b25df546740abae1fdcd",
+   "title": "중기부, 소상공인정책실장에 조경원 창업정책관 발탁",
+   "source": "뉴시스",
+   "category": "biz",
+   "tokens": [
+    "발탁",
+    "창업정책관"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5c666743565d3b40d82aac950f180acf9db3e582",
+   "url": "https://www.reddit.com/r/Entrepreneur/comments/1xo9sjv/most_startups_dont_fall_at_building_they/",
+   "simhash": "02c83f4e159df659",
+   "event_key": "1f306640b1f738576cacfd089e23a3e6f3df88fe",
+   "title": "Most startups don't fall at building, they generally fail at/after launching. Notes from a conversation with Google Product Launch specialist at their office in Singapore",
+   "source": "r/Entrepreneur",
+   "category": "biz",
+   "tokens": [
+    "conversation",
+    "generally",
+    "launching",
+    "singapore",
+    "specialist",
+    "startups"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b6587be4d49758e484bb8e218ccf4934f735a8a7",
+   "url": "https://www.yna.co.kr/view/AKR20261106071800004",
+   "simhash": "0813cd4b10d0f774",
+   "event_key": "cacda1121981d45bb2879832b8ddfa844af8153d",
+   "title": "이원석 전 검찰총장 \"조작기소 특검법 위헌…권력분립 무너뜨려\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "검찰총장",
+    "권력분립",
+    "무너뜨려",
+    "위헌",
+    "이원석",
+    "특검법"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d75b29ff6c3cc55d23950efa93d723e783111a1c",
+   "url": "https://www.yna.co.kr/view/AKR20261106062600001",
+   "simhash": "e0549c848dd27bbd",
+   "event_key": "75ca17fc3ad9a39226eaa330783e1091154f91be",
+   "title": "한병도 \"尹정권 조작기소 실체 단죄…국힘, 정치투쟁 중단해야\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "단죄",
+    "실체",
+    "정권",
+    "정치투쟁",
+    "중단해야",
+    "한병"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cab67201b053b7533ccaafc6ebf6f1371fa9d6af",
+   "url": "https://www.khan.co.kr/article/202611061125001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "ffc04ad823acf812",
+   "event_key": "038d39aeb44ff3fdf445f108c6fde7fae4802faa",
+   "title": "‘냉면이 목구멍으로 넘어가냐’ 북한 리선권, 해임 가능성",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "가능성",
+    "냉면",
+    "넘어가냐",
+    "리선권",
+    "목구멍",
+    "북한"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bf6fcb229a0315dd758722bb5de85588d7631649",
+   "url": "https://www.khan.co.kr/article/202611061123001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "cb71bbbed6d35216",
+   "event_key": "96ef6404a7aba7512a292e4e9cf4d07b2d62b27d",
+   "title": "정성호 “조작기소 특검법, 더 숙의 필요하지 않았나…무리한 수사와 조작 연결짓는 것 쉽지 않아”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "무리한",
+    "않았나",
+    "연결짓",
+    "정성호",
+    "특검법",
+    "필요하지"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7fbca82f123bf99331e6c1c25c80206fa6e1d4f4",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833592",
+   "simhash": "63ace09efcf66b61",
+   "event_key": "3b0d0490c05f7ad51a1e28b2c947dcf0f9c74391",
+   "title": "정점식 \"이 대통령 정치적 고향은 성남 아닌 베네수엘라\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "고향",
+    "베네수엘라",
+    "성남",
+    "아닌",
+    "정점식",
+    "정치적"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "01dfdbcbbd6a156acf262ca160037ecda08f9c09",
+   "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+   "simhash": "2c67056a7fcc0bb9",
+   "event_key": "ff5b9114df364c7d566ba898157cc54a8cfc3554",
+   "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "envoy",
+    "meeting",
+    "putin",
+    "russia",
+    "trump",
+    "ukraine"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5c144b874e585a3eac7173abff87b20b88bd189a",
+   "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+   "simhash": "5e66f413c5caea9b",
+   "event_key": "ef84666f7c535253c545c6eaa653819d27b70cf6",
+   "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "lasting",
+    "melania",
+    "officials",
+    "russian",
+    "ukraine",
+    "ukrainian"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "631c6ea274d1fcd793f37fa431df416e25d4ca87",
+   "url": "https://www.yna.co.kr/view/AKR20261106015800071",
+   "simhash": "9c3731eab8c62468",
+   "event_key": "026f891a3a190229cd2cbe78a35d244b11509ef3",
+   "title": "트럼프 \"우크라戰 곧 끝날 것…유럽 포함 큰 합의 있을 수도\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "끝날",
+    "우크라",
+    "유럽",
+    "있을",
+    "포함",
+    "합의"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1cd5ac414511edbf45748e1434363823aa93fcf5",
+   "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+   "simhash": "afe7528677f612a3",
+   "event_key": "e8900dd82415a14f61dae998c744f9eb69a7ec84",
+   "title": "Trump signs order preventing future presidents from changing Oval Office",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "changing",
+    "future",
+    "office",
+    "presidents",
+    "preventing",
+    "trump"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6dfa1314c0b952b529c7756ba5d07cc8e1502404",
+   "url": "https://www.yna.co.kr/view/AKR20261106006900071",
+   "simhash": "3b9818dcc2821cbf",
+   "event_key": "3a54c830f3a75b3b52e8ff2c63bcde1adac4c76b",
+   "title": "멜라니아, 러·우크라 대표단 만나 \"지속적 평화의 길 밝히자\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "대표단",
+    "만나",
+    "멜라니아",
+    "밝히자",
+    "우크라",
+    "지속적"
+   ],
+   "sent_at": "2026-11-06T11:57:57+09:00",
    "followup_count": 0
   }
  ]
