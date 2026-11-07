@@ -1,380 +1,7 @@
 {
  "version": 1,
- "updated_at": "2026-11-06T11:57:57+09:00",
+ "updated_at": "2026-11-07T11:27:41+09:00",
  "entries": [
-  {
-   "url_hash": "88ce35f7c1e7f2a2dd9ba71b077dd1fa60b05a9e",
-   "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-   "simhash": "e0cbe2a8cb28d717",
-   "event_key": "fff4ae66c2ae095f89401f00cd25c5466e05018b",
-   "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "buying",
-    "call",
-    "consumers",
-    "intelligence",
-    "only",
-    "super"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "cf70e45ebac24c284d093223560b633e57518912",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-   "simhash": "c315f4935d5e0e2b",
-   "event_key": "1b6e5e5a6ad2d8eac95757c5ff5e9fb26301c83b",
-   "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "agent",
-    "dinner",
-    "enterprise",
-    "openai",
-    "order",
-    "software"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ef48f9156b3fa86cf494bb91f46864f97e3fa820",
-   "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-   "simhash": "ae6f0d9e55bd1d31",
-   "event_key": "33ced576289c7fc9810b268d4146e028bbfb6cf6",
-   "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-   "source": "Ars Technica",
-   "category": "ai",
-   "tokens": [
-    "abuse",
-    "access",
-    "agents",
-    "apple",
-    "changes",
-    "permissions"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "db634ba586290c6029d6254296f088a0c4e4e8e7",
-   "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-   "simhash": "97113c0b5566b661",
-   "event_key": "4ce5e7309c56fcfef077a29e1ca3c9daa6197f33",
-   "title": "Meta open sources code to let you make Muse AI gadgets",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "code",
-    "gadgets",
-    "make",
-    "meta",
-    "open",
-    "sources"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ac719b52e635b2277bda9642871704e0ac96e75a",
-   "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-   "simhash": "e206fe2814124f0b",
-   "event_key": "878f5950d9971dbc7770e42d43f56462c578eba5",
-   "title": "Redefining enterprise intelligence with autonomous AI",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "tokens": [
-    "autonomous",
-    "enterprise",
-    "intelligence",
-    "redefining"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "2c16e66a1d1558ebe38ebb5066dd7a5e805608d2",
-   "url": "https://www.venturesquare.net/1117736/",
-   "simhash": "f2442d698507ac09",
-   "event_key": "9e48bd0610770423276762133924684177b44476",
-   "title": "대전혁신센터, 딥테크 투자부터 EXIT까지 잇는다…건국대와 앵커펀드 결성",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "exit",
-    "건국대",
-    "대전혁신센터",
-    "딥테크",
-    "앵커펀드",
-    "잇는다"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "55132a1a5d05ee30f044435dd5937f1db32e5432",
-   "url": "https://platum.kr/archives/295570?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b2%25ab-%25ed%2588%25ac%25ec%259e%2590-%25eb%2585%25b8%25eb%25a6%25ac%25eb%258a%2594-%25ec%25b0%25bd%25ec%2597%2585%25ec%259e%2590%25ec%2597%2590-%25ed%258c%2581%25ec%258a%25a4-%25ec%259a%25b4%25ec%2598%2581%25ec%2582%25ac%25ea%25b0%2580-%25eb%25ac%25b8-%25ec%2597%25b0%25eb%258b%25a4-%25ec%25a4%2591%25ea%25b8%25b0",
-   "simhash": "fd6d15dd3507c9b2",
-   "event_key": "39493658a0f6ba70b73b1a71aaa4ef1bd0a45df4",
-   "title": "첫 투자 노리는 창업자에 팁스 운영사가 문 연다, 중기부 ‘도전의 IR’ 가동",
-   "source": "Platum",
-   "category": "biz",
-   "tokens": [
-    "노리",
-    "연다",
-    "운영사",
-    "중기부",
-    "창업자",
-    "팁스"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "9fe345df2125a399313a48c5346cb3cedb5d0f6c",
-   "url": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
-   "simhash": "6d7ad29a2315408a",
-   "event_key": "273908cee2a8ce4522fec41cc53a3bce333d427b",
-   "title": "Less than 24 hours to apply for a  Side Event at Founder Summit 2026",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "apply",
-    "event",
-    "founder",
-    "hours",
-    "less",
-    "summit"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "63168e7c50df73d1265a74518095df915d621ddf",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SMlAzSlF0YXBRT0V6emR0a2E2UXFraGlOYlZpSzkwZ3gteFN1eGJGUWdyVFl1SVZTcm9FMEtxQ1lHdDRhMEpKLVNzZ0pZR1hoOUZWcTlpRzZxY25RYi1lQ051NG1qbER4RV9qelp1M21IVzJ0eFNLSHl3N1k?oc=5",
-   "simhash": "8827d8129506b8a7",
-   "event_key": "c9590a743f6a323ace75671854f3dfdc961878ec",
-   "title": "[이상헌의 성공창업노트] 프랜차이즈 본사의 고리대금업은 산업 전체와 소상공인을 무너뜨리는 악행",
-   "source": "비욘드포스트",
-   "category": "biz",
-   "tokens": [
-    "고리대금업",
-    "무너뜨리",
-    "본사",
-    "산업",
-    "전체",
-    "프랜차이즈"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "0a4cfd02f5729f8d5b90c6288e921994821c59a7",
-   "url": "https://ziglang.org/download/0.17.0/release-notes.html",
-   "simhash": "a84e0e800802c765",
-   "event_key": "bcfaed47b999c8106192169c1c7a614c11f31328",
-   "title": "Zig v0.17.0",
-   "source": "Hacker News",
-   "category": "biz",
-   "tokens": [
-    "zig"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "971cbe762e224f89c4a07beb6a20ef41e2f24982",
-   "url": "https://www.yna.co.kr/view/AKR20261003015700002",
-   "simhash": "12101aa9a8390caa",
-   "event_key": "c0e288f33940bbd249b917d4f5b3b68f89c5e38d",
-   "title": "[다음주 경제] 경제부처 국정감사 개막…은행권 해킹·세제 개편 등 쟁점",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "개막",
-    "경제부처",
-    "국정감사",
-    "세제",
-    "은행권",
-    "해킹"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "80473a6d32fb42c73ff1207e1e0960a246f275ef",
-   "url": "https://www.yna.co.kr/view/AKR20261003010752504",
-   "simhash": "d9fecf4ec00de53e",
-   "event_key": "9c0ed0793d474002f58822852b4a18e868052a14",
-   "title": "北, 김여정 '남북대화 일축' 하루 뒤 동해로 탄도미사일(종합2보)",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "김여정",
-    "남북대화",
-    "동해",
-    "일축",
-    "탄도미사일",
-    "하루"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f7dcc830a359d45828fd09144cecd312d287202b",
-   "url": "https://www.mk.co.kr/news/politics/12167676",
-   "simhash": "87d04a7e8e86a316",
-   "event_key": "2c77bc7d1b11fa2560e5ee73d57ab2051cfe6658",
-   "title": "국민의힘, 개천절 서울 도심서 2만명 장외집회…‘李 정부 실정 규탄’",
-   "source": "매일경제",
-   "category": "kr",
-   "tokens": [
-    "개천절",
-    "국민의힘",
-    "도심서",
-    "만명",
-    "서울",
-    "장외집회"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f72e62aaa1efc67812d64df33d1a2296c550b610",
-   "url": "https://www.khan.co.kr/article/202610030600101/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "37bbcf964b26a8bd",
-   "event_key": "bb6a43d60a03025173618ed8d50cda5ab988c040",
-   "title": "‘강훈식 사의 표명’ 열흘 넘었는데 비서실장 후임은…‘적임자’ 고심 깊어지는 이 대통령",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "강훈식",
-    "깊어지",
-    "넘었는데",
-    "비서실장",
-    "사의",
-    "적임자"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "404b1bdb2285e762fa4397e3df66b9c065b95426",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781550",
-   "simhash": "51b5f92e952aea20",
-   "event_key": "601895ddeabca1649a954c9afe391cf2e221b2a9",
-   "title": "김지용 청문요청안 재가…정청래와 4시간 만찬",
-   "source": "SBS",
-   "category": "kr",
-   "tokens": [
-    "김지용",
-    "만찬",
-    "시간",
-    "재가",
-    "정청래",
-    "청문요청안"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "0db2b4999279ae4fef9c996206d4a346f630b114",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
-   "simhash": "4d928125940e9d18",
-   "event_key": "d47ca5714ac5a9e0d168a3f38b39840a08c27bd7",
-   "title": "Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – US politics live",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "double",
-    "natural",
-    "pipeline",
-    "politics",
-    "tariffs",
-    "threatens"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "c255774b7b4e5faa4bfb1e77ef50b0a05d08bfe0",
-   "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
-   "simhash": "e1dcd83a83ba04c2",
-   "event_key": "bc166c2768186e9c8fd20069796bdd6e60396325",
-   "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "captives",
-    "ended",
-    "freed",
-    "israel",
-    "negotiator",
-    "sooner"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "878882e4acc33ab209e2bc0b8a526cb1910aa771",
-   "url": "https://www.npr.org/2026/10/02/nx-s1-5986091/how-brazils-two-leading-presidential-candidates-are-talking-about-crime",
-   "simhash": "ed12dd0207059305",
-   "event_key": "949b4352e46f9986d368fc019317648a3ca83e79",
-   "title": "How Brazil's two leading presidential candidates are talking about crime",
-   "source": "NPR",
-   "category": "world",
-   "tokens": [
-    "brazil",
-    "candidates",
-    "crime",
-    "leading",
-    "presidential",
-    "talking"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ade71944554083ed6a0ec51eaba42c6a2ed87174",
-   "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-   "simhash": "287183ea05f4636f",
-   "event_key": "53cf919f523e1ec9a9aef0ed0346087639d95dd1",
-   "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "apart",
-    "intensified",
-    "russian",
-    "strikes",
-    "tearing",
-    "warns"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f08ea1238784c4fa6794d88f5c7f55bd1773ccf6",
-   "url": "https://www.theguardian.com/politics/2026/oct/02/burnham-law-pension-triple-lock",
-   "simhash": "ace75f5e11288452",
-   "event_key": "e3729e96bcfedc84d11a559b5cb024d62cb40409",
-   "title": "Burnham to pass law scrapping pension triple lock before next election",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "before",
-    "burnham",
-    "election",
-    "pension",
-    "scrapping",
-    "triple"
-   ],
-   "sent_at": "2026-10-03T10:34:18+09:00",
-   "followup_count": 0
-  },
   {
    "url_hash": "d0cd774a279590e9e67a7be890d6f4c8816a06f5",
    "url": "https://www.etnews.com/20261003000040",
@@ -13135,6 +12762,379 @@
     "지속적"
    ],
    "sent_at": "2026-11-06T11:57:57+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5287355c1060331ac5034cf43c5f24adbed5d6e0",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+   "simhash": "57f3d7115e208226",
+   "event_key": "577bf7d92f93e2bbd400ba9c038f7d28d78a0d2d",
+   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "anthropic",
+    "nears",
+    "openai",
+    "rival",
+    "trillion",
+    "valued"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6e30f316dca745f7a0f6f22cc507a82334afffd1",
+   "url": "https://www.etnews.com/20261106000102",
+   "simhash": "b218d181905085be",
+   "event_key": "badbda8455b344e17ae79c4b5170ce106dd84afd",
+   "title": "[미리보는 소부장 테크페어]〈1〉ST, SiC·GaN 차세대 전력 반도체로 성장 동력 강화",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "gan",
+    "sic",
+    "동력",
+    "성장",
+    "전력",
+    "차세대"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c2107a5a7cf60537f369c36d5ad304c77510a2f1",
+   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "simhash": "affc993a2af8d365",
+   "event_key": "8c8106079663ad9aa55fa5ea72a593ddc457b4df",
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "center",
+    "crusoe",
+    "google",
+    "project",
+    "troubled",
+    "wyoming"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "016e849ea3abf5a8afcf2007dd4ab37bfebf8b7e",
+   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "simhash": "e39058d4ac5ebe53",
+   "event_key": "16f7ff71084e12ab4f2681c0756e67e724d593ea",
+   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "agent",
+    "collaborate",
+    "introduces",
+    "meta",
+    "spaces",
+    "your"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7ff4ba923ec062904f27e59e470cb05679376137",
+   "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+   "simhash": "ccddffdacc179031",
+   "event_key": "0a00f90fad2a2d37f6fcd955c95b4e8291e6f7c9",
+   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+   "source": "Ars Technica",
+   "category": "ai",
+   "tokens": [
+    "chainalysis",
+    "credentials",
+    "customers",
+    "hackers",
+    "stole",
+    "tokens"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1df43586e408592cdfb34af95aa32085a56abd94",
+   "url": "https://platum.kr/archives/297964?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%25b1%25ea%25b0%2580%25ed%258f%25ac%25eb%25a5%25b4%25ec%2584%259c-%25eb%258f%2599%25eb%2582%25a8%25ec%2595%2584-%25ed%2588%25ac%25ec%259e%2590%25ec%259e%2590-%25eb%25a7%258c%25eb%2582%259c-k-%25ec%25bd%2598%25ed%2585%2590%25ec%25b8%25a0-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25eb%2593%25a4",
+   "simhash": "aa87482386c40d9b",
+   "event_key": "01df086abefa0e4d49a85f76843d84cec7e83c23",
+   "title": "싱가포르서 동남아 투자자 만난 K-콘텐츠 스타트업들, 전시부터 공동 IR까지 한 주에 몰아서",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "동남아",
+    "몰아서",
+    "스타트업들",
+    "싱가포르서",
+    "콘텐츠",
+    "투자자"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3f9244439ab774e68be691672660ed9d63986ed9",
+   "url": "https://www.venturesquare.net/1126470/",
+   "simhash": "9154f0db6cce2da3",
+   "event_key": "02e684db1c14a746a7ae5d871d8e3c12c2a99eaa",
+   "title": "경남창조경제혁신센터, 창업도약기업 IR 경진대회 개최…아라메소재 등 5개사 수상",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "개최",
+    "경남창조경제혁신",
+    "경진대회",
+    "센터",
+    "아라메소재",
+    "창업도약기업"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b3dde555b22f0fffe06b06e7432e670168210926",
+   "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+   "simhash": "c087e3437c8cd0f1",
+   "event_key": "d021dbfa70c43d5371d2ea120bd77549038c9ce9",
+   "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "delivery",
+    "explores",
+    "files",
+    "food",
+    "startup",
+    "wonder"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b1e4cde67bedcfe1b022c142287c96d6d30dea4e",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zY2tPdWl6bTFNdVVuUlpuMHRIdDJCY2Y4bzJQa3dkbk01czBONFo2aTFRZUdPNWxScTE3eUJHSjR0OG5KbTRaOGRoVTM5U29SeEdFU0lpWXAtSUc4cHViWVMxdUVHdjVGdG0w0gFwQVVfeXFMTUJzLXpVM0hDUGItb3hwaThLUFlMd0UwRWItbGxEdjVHS1QyTWFEckZoN3NqTEZMSWE1RlNicWtnSUxaeVZrR2FEOTJONU0ydDF5alpQemtjN1dOajVZdjZmeXNvZUdpRE12VjNVUk9yWQ?oc=5",
+   "simhash": "944f20417a320085",
+   "event_key": "1143117a5b940a51c61a3824889a78c0da30ba0f",
+   "title": "중소벤처기업부, 신임 소상공인정책실장에 조경원 창업정책관 발탁 - 머니투데이",
+   "source": "머니투데이",
+   "category": "biz",
+   "tokens": [
+    "머니투데",
+    "발탁",
+    "신임",
+    "중소벤처기업부"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "68be897c8b54bcd75a9c92a21f06821a33e74f45",
+   "url": "https://mitchellh.com/writing/libghostty-1-0",
+   "simhash": "3c0764052883706e",
+   "event_key": "6f4f425ef328a42d6d3f1c19c912fc782a4ab81d",
+   "title": "Libghostty 1.0",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "libghostty"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e0dcf13e8f5f83e2d085bd8f9b5a66fe650c45e0",
+   "url": "https://www.khan.co.kr/article/202611071036001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "858082c7bbaa7e0b",
+   "event_key": "84fbba8ebd05338b476fe2e678d614e36625dd4e",
+   "title": "머스크·저커버그 떨고 있나…미 민주당 “변호사부터 구하라”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "구하라",
+    "떨고",
+    "머스크",
+    "민주당",
+    "변호사",
+    "저커버그"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b79364fecc486b20f676aea29431dd7e6dc12a61",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835110",
+   "simhash": "92e8ba3b8eed87a4",
+   "event_key": "99da65d41874e9ead7c1d031463c832065d88e3e",
+   "title": "국민의힘, 서울 도심서 '악법 강행 처리' 국민 규탄대회 개최",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "강행",
+    "국민의힘",
+    "규탄대회",
+    "도심서",
+    "서울",
+    "악법"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1381329718b74ab7b158eaea1583a7c1be748fa4",
+   "url": "https://www.mk.co.kr/news/politics/12201432",
+   "simhash": "e511712c5252c1d0",
+   "event_key": "cc7c2d828a3dad790c74fcb73d2bb96d0bb32eab",
+   "title": "한동훈 “특검법이 아니라 특권법…李 재판 무력화할 특권 주는 법”",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "무력화할",
+    "아니라",
+    "재판",
+    "특검법",
+    "특권법",
+    "한동훈"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0a8bc1f9b5dd75105bbc3970b8c4d345a468e851",
+   "url": "https://www.yna.co.kr/view/AKR20261107027800001",
+   "simhash": "c238ed1c522c5214",
+   "event_key": "fb47a89d578203cd674fe1e46c024829ca6f16be",
+   "title": "與 \"국민 호도 멈춰야\"…국힘 '조작기소특검 장외투쟁' 비판",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국민",
+    "국힘",
+    "멈춰야",
+    "장외투쟁",
+    "조작기소특검",
+    "호도"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b53be5eb577d8a0a8e9790317e3e587e9545b404",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834639",
+   "simhash": "335484578353dd38",
+   "event_key": "f2950a849442f5bb51e80329a69c2054a8548051",
+   "title": "7번째 특검…여당서도 \"아무것도 안 나오면 어쩌나\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "나오면",
+    "번째",
+    "아무것",
+    "어쩌나",
+    "여당서",
+    "특검"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e038a952ca73988c67e358a5d1f090c40c0a5d62",
+   "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+   "simhash": "adde6453b91f3494",
+   "event_key": "ef0c8f807e4d89f04c12e3ea995e0afb158c1c5c",
+   "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "architect",
+    "become",
+    "crackdown",
+    "immigration",
+    "miller",
+    "stephen"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5a711dddc217573ed8b54dc657bfef6f7aa2f6dc",
+   "url": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
+   "simhash": "48ec0742f0965eb2",
+   "event_key": "073b4be3ab368ede5134faac312d4a7cc20d9ba0",
+   "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "another",
+    "exits",
+    "house",
+    "susie",
+    "white",
+    "wiles"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f9c8ef93951fb003fd756f9b13310125b50af9c6",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+   "simhash": "c2f6a5db01d55042",
+   "event_key": "6393f553322c27340d3e5f47784b78f5f34ca259",
+   "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "chances",
+    "miller",
+    "republican",
+    "shakeup",
+    "warns",
+    "wiles"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "98ab8b32fa0586def1e8f95416d0cf6d00094959",
+   "url": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+   "simhash": "2c9f759b95ef8aad",
+   "event_key": "16837aaf51a6ebb55db6c03d3c6dd5b974879b32",
+   "title": "US urges China to honour Busan trade deal commitments",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "busan",
+    "china",
+    "commitments",
+    "honour",
+    "trade",
+    "urges"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "978fab70c21d2dc964b1b602cfa4a553ebbb7ffc",
+   "url": "https://www.yna.co.kr/view/AKR20261107004100071",
+   "simhash": "0eb5c8ec825275c6",
+   "event_key": "c6aec80dd0b03b4a3b217d8d6f09a6a8e38d4760",
+   "title": "美베선트, 中허리펑에 \"부산합의 즉각 이행\"…희토류등 불만표출",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "베선트",
+    "부산합",
+    "불만표출",
+    "즉각",
+    "허리펑",
+    "희토류등"
+   ],
+   "sent_at": "2026-11-07T11:27:41+09:00",
    "followup_count": 0
   }
  ]
