@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-07T11:27:41+09:00",
+ "updated_at": "2026-11-08T10:56:43+09:00",
  "entries": [
   {
    "url_hash": "d0cd774a279590e9e67a7be890d6f4c8816a06f5",
@@ -13135,6 +13135,386 @@
     "희토류등"
    ],
    "sent_at": "2026-11-07T11:27:41+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1de98537a9e614419bcb5a868e02a3ba5caa86f9",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "simhash": "ea7d56a30f08872a",
+   "event_key": "bc5db1189c3d53e871425605be1f7b6a7adac028",
+   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "alarming",
+    "anthropic",
+    "automating",
+    "development",
+    "report",
+    "researchers"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "834a3db122eea9411fbbd91bdbd6d24859e00522",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEWF9RY0k5OERveXVuZW52cUVlRVRLc1A1Yjdwa0FpOGM4RWJwSGpuUTl3LXFTUFpmQUxiVzVCRGJRMEVJcFlwYjN5TjFhS3hCbUNYNl9UcjY1QQ?oc=5",
+   "simhash": "2dde1f2202b77957",
+   "event_key": "3c3cac9a1c311a101c43bf63b184f500ef9b1ac0",
+   "title": "토스, ‘가디언즈 26’ 개최…AI 시대 금융보안 해법 모색",
+   "source": "브릿지경제",
+   "category": "ai",
+   "tokens": [
+    "가디언즈",
+    "개최",
+    "금융보안",
+    "시대",
+    "토스",
+    "해법"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2c93e9013ac15b4c158d5aa95ac7df4346244366",
+   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "simhash": "2982ab089536caa0",
+   "event_key": "a0220f0c2426fe01069e4f83b94745ab04b460ce",
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "according",
+    "exec",
+    "intelligence",
+    "megaspeed",
+    "nvidia",
+    "recruited"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3ec5ccceccb4d790847f85ce1cade7593555d936",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kd2Ewd3VBLWpZcWE2OXhqcVpvNlYxajk4Nzk3b0dUeC1CdWVHTEdqaGgteE1TekdYdVZTWjdvblo0Tk9sVW95eFVJbnpZYUJ1cHVpS0M0YTVzZw?oc=5",
+   "simhash": "5041c6cd152c8f80",
+   "event_key": "258139c3ee26e256f40d6638aa5610b35c06e7f4",
+   "title": "LLM 추천 AI, 과거 오류까지 학습…특정 상품 쏠림 심해진다",
+   "source": "한국경제",
+   "category": "ai",
+   "tokens": [
+    "llm",
+    "과거",
+    "심해진다",
+    "오류",
+    "추천",
+    "학습"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "62b32909d0610ea3a59f135d9492cc9e12b7f047",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NWTJ6S1gyQXZ4bVAyRE55c3FaMUQ3ZWktRks5T3NpY1NRd1dYQ2tfQWNjMTRaaDFOTzdjR0ZvbVNLUkk3SVd6U1ZPRzlXMGhPOFl3cUZXUjV4eEJjcTBmWQ?oc=5",
+   "simhash": "814f059030ae64e8",
+   "event_key": "ac19adb8a61eeba34d22de72a120f4d64c920e0b",
+   "title": "강남구 중년, 생성형 AI 유튜브 제작법 무료로 배운다",
+   "source": "뉴시스",
+   "category": "ai",
+   "tokens": [
+    "강남구",
+    "배운다",
+    "생성형",
+    "유튜브",
+    "제작법",
+    "중년"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cc8c096415db2c062d9dfd174ced04e4e6d7038a",
+   "url": "https://www.venturesquare.net/1126514/",
+   "simhash": "c420218fa10989ba",
+   "event_key": "72165b2949cbdb1259f4b6b63ff5bb0f188cfeb7",
+   "title": "“진료실에서 발견한 여성 건강의 정보 격차”…아르카디안 정선화 대표가 생리대를 만든 이유",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "발견한",
+    "생리대",
+    "아르카디안",
+    "여성",
+    "정선화",
+    "진료실"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "42c5438232668983a930cc31fd3d9432f3ba6900",
+   "url": "https://platum.kr/archives/297977?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a7%2588%25eb%258a%2598-%25ec%259c%25a0%25ed%2586%25b5%25eb%25b6%2580%25ed%2584%25b0-%25ea%25b3%25bc%25ec%25b1%2584-%25eb%25b6%2580%25ec%2582%25b0%25eb%25ac%25bc-%25ea%25b0%2580%25ec%25a3%25bd%25ea%25b9%258c%25ec%25a7%2580-%25eb%2586%258d%25ec%2582%25b0%25ec%2597%2585-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8",
+   "simhash": "a4692e459dd75005",
+   "event_key": "f0c5f711f2e5e7d1e035fdb51f92f901bf77de14",
+   "title": "씨이랩, 국민성장펀드 등에서 100억 원 조달…AI 데이터센터 사업 키운다",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "국민성장펀드",
+    "데이터센터",
+    "등에서",
+    "씨이랩",
+    "조달",
+    "키운다"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "2846e03446f423d72ed7490c15d4ee7c761f97cc",
+   "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+   "simhash": "2235310d37f45c0a",
+   "event_key": "d9e87f6696845b8e40f281d03ee50c4b69547688",
+   "title": "Axiom Math wants to keep AI slop out of mathematics",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "axiom",
+    "keep",
+    "math",
+    "mathematics",
+    "slop",
+    "wants"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3822e19e57f981682b724cdd8da048caa9692c8b",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uX1VHaWNkWWl4b2s3U2d1eUVxdFdNOWVYRkhjWVFOdHFjcnAwY295QWpHN2hWRUpvb2hDSGxrekEzTDd2M0lJTWRLVTlEeVBFTWxxcTNpZzfSAVhBVV95cUxObl9VR2ljZFlpeG9rN1NndXlFcXRXTTllWEZIY1lRTnRxY3JwMGNveUFqRzdoVkVKb29oQ0hsa3pBM0w3djNJSU1kS1U5RHlQRU1scXEzaWc3?oc=5",
+   "simhash": "6341f075a20c591d",
+   "event_key": "4c5aa8ea002bb0c10b737985b02dfdfe5ef56b03",
+   "title": "범부처 민생안정지원단, 재창업 소상공인 애로 청취…재기 지원 개선 모색",
+   "source": "아주경제",
+   "category": "biz",
+   "tokens": [
+    "민생안정지원단",
+    "범부처",
+    "소상공인",
+    "애로",
+    "재창업",
+    "청취"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5186d80b7eef562645f5a129edb9b36422b5932f",
+   "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "simhash": "19943c0f0000f4b0",
+   "event_key": "ab7bccde4cb81dc941a20b9470d9fd2a8a41e738",
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "again",
+    "claude",
+    "exposes",
+    "github",
+    "passwords",
+    "public"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "03b84b205903af4ce22a1fbf902df620af77a6c6",
+   "url": "https://www.yna.co.kr/view/AKR20261108016700004",
+   "simhash": "aa42c5266014f584",
+   "event_key": "e4494451f62b024c1fcac00dca015e6e987c955c",
+   "title": "오세훈 \"국민연금으로 지방선거용 주식도박…李대통령 사과해야\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국민연금",
+    "대통령",
+    "사과해야",
+    "오세훈",
+    "주식도박",
+    "지방선거용"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "20d3f9a9bac3998d2b1942cb94b1ccae13c24747",
+   "url": "https://www.yna.co.kr/view/AKR20261107052400001",
+   "simhash": "c5608499223ad2eb",
+   "event_key": "1a0200d8d9d593564097ce59e90e8fb16caafee7",
+   "title": "민주당·정부, 오늘 고위 협의…내년도 예산안 논의 전망",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "고위",
+    "논의",
+    "민주당",
+    "예산안",
+    "정부",
+    "협의"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "9cbf4cc58d31eefd216f2de479bac232cd1ec666",
+   "url": "https://www.mk.co.kr/news/stock/12201573",
+   "simhash": "5af7166ab309c100",
+   "event_key": "0d123d7a25d167613562b4e6bcd0cba5aa1ebec4",
+   "title": "“미국 물가부터 옵션 만기까지”…다음 주 증시 변수, 미리 대비하려면",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "다음",
+    "대비하려면",
+    "만기",
+    "물가",
+    "미국",
+    "옵션"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ac05a48cb15d35c0e979ba426910e5fefc957b4a",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835381",
+   "simhash": "5011892940757840",
+   "event_key": "94bb3784fd8535bc00cde6198dd5b00a429e03c2",
+   "title": "\"재판 취소 악법\" 거리 나선 국힘…민주 \"조작 기소 규명\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "거리",
+    "나선",
+    "민주",
+    "악법",
+    "재판",
+    "취소"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e21f1219c1de7d11761d81f104d0308bc6092e36",
+   "url": "https://www.chosun.com/politics/2026/11/08/37P3APKPUFEPPKQLWBD5EPNSNI/",
+   "simhash": "aadd321caad1c4c9",
+   "event_key": "09d5bc00687e37c2815feac6ebf41ba9020589f0",
+   "title": "박수영 “미래대응기금 정권 ‘쌈짓돈’으로 만들려고 경제부총리도 경질”",
+   "source": "조선일보",
+   "category": "kr",
+   "tokens": [
+    "경제부총리",
+    "만들려고",
+    "미래대응기금",
+    "박수영",
+    "쌈짓돈",
+    "정권"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8a344a1b3fd41cd601ad493f03ad94ccc4bf3b87",
+   "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+   "simhash": "67527818084d7110",
+   "event_key": "059cc4bfb9f7c59ae5c731db555936b27773c6e1",
+   "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "election",
+    "faces",
+    "results",
+    "uncertainty",
+    "weeks",
+    "zealand"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d20a9cc53ad39adf731e6b7cc4517c1fe7e78b59",
+   "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+   "simhash": "87ec3e57ba1837a0",
+   "event_key": "da52301ee77e1ae75b626bd0c7f4a2f8e2b8dc11",
+   "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "eisenkot",
+    "forming",
+    "government",
+    "israel",
+    "leader",
+    "opposition"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "de886ae817942f84179154ffa98c40851064cb08",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
+   "simhash": "ee0975015505b529",
+   "event_key": "d225a45734217910a6de77ce119c9c7b8eb1b530",
+   "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "broker",
+    "chris",
+    "climate",
+    "country",
+    "exporter",
+    "talks"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7aacc4faeee55da452356cda5f90fb0bc1981a83",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+   "simhash": "3cec0d233256377c",
+   "event_key": "2f992a6e8ee960ff3945bc022e5e1ad9634ccb14",
+   "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "abdul",
+    "canada",
+    "sayed",
+    "slams",
+    "tariff",
+    "trump"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5742743ee13280286a42b6738357576dcbb816c5",
+   "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+   "simhash": "e310d37f8b59d35a",
+   "event_key": "10ebfedba9a63bb86f1d6bd6af5c9d88a79015b8",
+   "title": "More than 140,000 rally as new protests against rising costs sweep France",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "against",
+    "costs",
+    "france",
+    "protests",
+    "rally",
+    "rising"
+   ],
+   "sent_at": "2026-11-08T10:56:43+09:00",
    "followup_count": 0
   }
  ]
