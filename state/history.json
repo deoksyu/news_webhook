@@ -1,381 +1,7 @@
 {
  "version": 1,
- "updated_at": "2026-11-11T11:24:08+09:00",
+ "updated_at": "2026-11-12T12:29:40+09:00",
  "entries": [
-  {
-   "url_hash": "54da693e6cb24610fb6597b0df333c39e5dddd44",
-   "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-   "simhash": "33b4d9b30071ecd4",
-   "event_key": "e1c810f3229576981135ec8fa91ff7720b42c080",
-   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "chip",
-    "microsoft",
-    "nvidia",
-    "releases",
-    "revamped",
-    "windows"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "610b12eb506990c2daa4c5d96602abcac85f39b6",
-   "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-   "simhash": "a531990745f91321",
-   "event_key": "2b6a700e9497ceca741d02b0d21f12127b73e046",
-   "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "chatgpt",
-    "crises",
-    "during",
-    "health",
-    "mental",
-    "talking"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b2d1fdcc50f22fa232df49c5006dd7de9a21a445",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-   "simhash": "a54f7a7654366121",
-   "event_key": "9ee1b1f2c3b61110856ea5368ea6d7c5cddc7441",
-   "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "buttons",
-    "chatgpt",
-    "intelligent",
-    "pictures",
-    "responses",
-    "update"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "4e9b092e050474bb21857ce9b52273b27fc64002",
-   "url": "https://www.etnews.com/20261008000087",
-   "simhash": "113a55d2121834b4",
-   "event_key": "2ae13f34cc6a276644053fd87209d6cc68c3fb03",
-   "title": "신한·KB 노린 해킹범 정체는 '광둥성 거주 26세 중국인'?…AI 흔적서 개인정보 포착",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "개인정보",
-    "광둥성",
-    "신한",
-    "중국인",
-    "해킹범",
-    "흔적서"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "405e19568b95d02e1f4d73066a2ad8962cf6a128",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGTVN6cnBVTkNCbjFBSmVKUlREd2dTZmowNGNYQWk1OThzRXpETUw1Z092bWNWenpvV2psWi1LdE9CcnJsbjZ3RllaVU12ZUtNTm1aSFpJenZWazMzV0JaMjBQNmdTd2s?oc=5",
-   "simhash": "35e732a41ebf1f59",
-   "event_key": "f43f78d4dd8f69ea29d7ec494c227da614832cef",
-   "title": "삼성전자, 3분기 영업익 107조 ‘사상 최대급’…AI 반도체가 실적 판 바꿨다",
-   "source": "인공지능신문",
-   "category": "ai",
-   "tokens": [
-    "바꿨다",
-    "사상",
-    "실적",
-    "영업익",
-    "최대급"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "695e309a3b4f017d9f791d14c2c4ae98cc1f293f",
-   "url": "https://www.venturesquare.net/1118473/",
-   "simhash": "1f1fdcbb98c8378e",
-   "event_key": "1754a313767f2f03a4f36e49a6ab6ddb6b817f71",
-   "title": "부산에서 아시아로, 세계로…‘FLY ASIA 2026’, 해양 AI·투자·협력의 장 열었다",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "2026",
-    "asia",
-    "fly",
-    "부산",
-    "아시아",
-    "열었다"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "3a21712d2f6890d28f8a33bb2bc3ed263e448aa0",
-   "url": "https://platum.kr/archives/295847?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2599%2588%25ed%258a%25b8-%25ea%25b8%25b0%25ea%25b5%25ac-%25ed%2595%258f%25ec%2597%2590%25ec%259d%25b4%25eb%25b8%2594-%25ec%259a%25b4%25ec%2598%2581%25ec%2582%25ac-%25ed%258e%2598%25ec%2585%2594%25eb%2584%25a4%25ec%259d%25b4%25ed%258a%25b8-%25ec%2594%25a8%25ec%2597%2594%25ed%258b%25b0%25ed%2585%258c%25ed%2581%25ac",
-   "simhash": "348821d0136a26f5",
-   "event_key": "3e7aa67b568267c19ef6419cc78138e4d6813563",
-   "title": "홈트 기구 ‘핏에이블’ 운영사 페셔네이트, 씨엔티테크서 투자 유치",
-   "source": "Platum",
-   "category": "biz",
-   "tokens": [
-    "기구",
-    "씨엔티테크서",
-    "운영사",
-    "페셔네이트",
-    "핏에이블",
-    "홈트"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "d8ea58b3c06ce6ad715574dd72755321c5f396c8",
-   "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
-   "simhash": "ce0bc6158f72173a",
-   "event_key": "aa06241d1e9ff23bb1ef3703afd57d2fca330891",
-   "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "alibaba",
-    "american",
-    "become",
-    "bloom",
-    "manufacturing",
-    "raises"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "18a94e9784e34e2b89bddd4c0bd3e660b265e332",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnJKczRINnM0X1p4VHdEaDh5N0F2ZjB1WGtnV251azU1ZVMtaWpzS1RmNWxuN0M3amVDYU1Qb1IxQUVSVEhXRDBicWliOWI5VVFXSU5aUEN0cDU3a3d0SzlUN0dKREFKRnpMYk40cndBb05PeFVMSWI5Z2NMZ0V2Y3hsdV9aME4xV2stb056M0gzZi0tcmFycWl3SFB6T3liSkl2R2hLcGJGQnRiSWFXNA?oc=5",
-   "simhash": "1e14f85e4ba8d320",
-   "event_key": "2f46d1797f0eeb59911fd3af5d8c339757dcacd2",
-   "title": "이소영 \"소상공인 안전망 강화…창업벤처규제혁신위 신설\"",
-   "source": "노컷뉴스",
-   "category": "biz",
-   "tokens": [
-    "강화",
-    "신설",
-    "안전망",
-    "창업벤처규제혁신"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ffaeefda6df4a38864b15dfdc5bc81056807ef88",
-   "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-   "simhash": "dd2118e24e8fafbe",
-   "event_key": "a270660d19af8477e0fc186ec2d1ac9b62da90cf",
-   "title": "Margaret Hamilton has died",
-   "source": "Hacker News",
-   "category": "biz",
-   "tokens": [
-    "died",
-    "hamilton",
-    "margaret"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "914ce735fe6cec8dc19e8cbb6d49494ecabf07ea",
-   "url": "https://www.yna.co.kr/view/AKR20261008040200001",
-   "simhash": "46600ba2c1e5802a",
-   "event_key": "f43ed407abb94fe5e8401acce271b79342a61ad8",
-   "title": "장동혁 \"與, 조희대에 모욕적 질문하며 국감장 감금…의회 내란\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "감금",
-    "국감장",
-    "모욕적",
-    "장동혁",
-    "조희대",
-    "질문"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "a80eaa9ed934aca2f0495cd8762c5bc6c60d4d76",
-   "url": "https://www.khan.co.kr/article/202610081100001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "21d181a665d3fd4b",
-   "event_key": "1305a0b321e0b1de0c44608fba0b871955e092cb",
-   "title": "[속보]정부, 농민들 반발에 농지조사 큰 폭 후퇴···관행적 임대·휴경, 농지은행 안 맡겨도 처분 안 한다",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "관행적",
-    "농민들",
-    "농지은행",
-    "농지조사",
-    "반발",
-    "정부"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "948cae00268ceec6011430469ad9a5bb358b0c90",
-   "url": "https://www.yna.co.kr/view/AKR20261008032600002",
-   "simhash": "a56c0c49822ec2c2",
-   "event_key": "7eb23516342a4286aacf4df5af862798fa118524",
-   "title": "정부, 일자리TF회의…\"양질 일자리·훈련 기회 제공 방안 마련\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "기회",
-    "양질",
-    "일자리",
-    "정부",
-    "회의",
-    "훈련"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "450295aac83b4064824f57df19738db63dccefe1",
-   "url": "https://www.khan.co.kr/article/202610080952001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "f501531d03e62e41",
-   "event_key": "fdb3050a67a653c1684ff35b18c2ecc1b098d848",
-   "title": "환자 잇단 사망, “살려달라” SOS 쪽지 날린 정신병원…정부·인천시 현장점검 나선다",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "sos",
-    "나선다",
-    "살려달라",
-    "인천시",
-    "정신병원",
-    "현장점검"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "08a60aa9f91b2d79653becdeac52a41c0fb93ee2",
-   "url": "https://www.mk.co.kr/news/politics/12171318",
-   "simhash": "74efd84f268a35a3",
-   "event_key": "0e079a710b178fa42d04ee81cf18b2a462f7f4f2",
-   "title": "한병도 “5·18 유공자 명단 공개는 비열한 정치…국힘 법안 철회하라”",
-   "source": "매일경제",
-   "category": "kr",
-   "tokens": [
-    "공개",
-    "명단",
-    "비열한",
-    "유공자",
-    "철회하라",
-    "한병"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "32b4b9d095936461800146a02c3276eee8b480b1",
-   "url": "https://www.yna.co.kr/view/AKR20261008061800089",
-   "simhash": "39fd5acfbfe3a98a",
-   "event_key": "510e16e533c3b4a9477305711599f1a13cca1614",
-   "title": "푸틴 측근, APEC 앞두고 방중…'미중러 정상회담' 논의 가능성",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "apec",
-    "가능성",
-    "미중러",
-    "앞두고",
-    "정상회담",
-    "푸틴"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "9c565d55abc04d8a8b7864d2cf7c28cbff05ab01",
-   "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-   "simhash": "dc8bd2d96a73936a",
-   "event_key": "0e1c0ec26ad4914a962ce7f2d9f4b30872f9f63a",
-   "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "attack",
-    "deadly",
-    "israelis",
-    "mourn",
-    "october",
-    "victims"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "79ea472cc39e678b8af47027103b74c2bc3d4822",
-   "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
-   "simhash": "0c1f7cd415cf0faf",
-   "event_key": "e1288fc900eaae5e7777baf8ca49e43a11964b78",
-   "title": "EU-China trade talks begin in Beijing amid escalating pressure",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "beijing",
-    "china",
-    "escalating",
-    "pressure",
-    "talks",
-    "trade"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "35daf79b50ec64cc7222cc657fdb99936832aa7d",
-   "url": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins",
-   "simhash": "2850f776eda2ecbf",
-   "event_key": "8b5b5e1a8d49b9d2edc9466f0af8ab22625c5db3",
-   "title": "‘Neither war nor peace’: Palestinians in Gaza on existing amid disease, despair and ruins",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "despair",
-    "disease",
-    "existing",
-    "neither",
-    "palestinians",
-    "peace"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "3ca6ed97cad1c4ba59bf17e7589538347a9241ee",
-   "url": "https://www.theguardian.com/world/2026/oct/07/maria-del-carmen-abascal-spain-housing-protests-dies",
-   "simhash": "8101008cd0da4f60",
-   "event_key": "9f258422f198655c81b4555117460380ffa6aa3d",
-   "title": "María del Carmen Abascal, symbol of Spain’s housing protests, dies aged 87",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "abascal",
-    "carmen",
-    "housing",
-    "protests",
-    "spain",
-    "symbol"
-   ],
-   "sent_at": "2026-10-08T11:22:20+09:00",
-   "followup_count": 0
-  },
   {
    "url_hash": "51c6cb3bd66a262bac9a6a0c7a30cde44d47d90a",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
@@ -13147,6 +12773,385 @@
     "sworn"
    ],
    "sent_at": "2026-11-11T11:24:08+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4e629312efe09f0afb8eecb2e7f10af6b83b8b09",
+   "url": "https://www.etnews.com/20261112000021",
+   "simhash": "c61000a2cc56110e",
+   "event_key": "76cb2d30169eeac9808edb90cb264e5df3cf8db4",
+   "title": "삼성전기 유리기판 공급망 윤곽…레이저 LPKF, 식각 태성, 검사는 테크밸리·이노메트리",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "lpkf",
+    "공급망",
+    "삼성전기",
+    "유리기판",
+    "이노메트리",
+    "테크밸리"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ee74287dd1a05d06d7eb9030d40ae3dc326caee2",
+   "url": "https://www.etnews.com/20261112000009",
+   "simhash": "90a09f61250e9b21",
+   "event_key": "e57ac354f1eface3308e1e2e907fe3b81686d218",
+   "title": "WSJ “엔비디아 이사회, 젠슨 황 CEO 해임 추진”",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "ceo",
+    "wsj",
+    "이사회",
+    "추진",
+    "해임"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d8ef3fe6591f506ad313f2e5f97a57449f56558c",
+   "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+   "simhash": "0dbc768e75b53f17",
+   "event_key": "eeab13dd8f2af28031fb82ceaa246b6e325e0f6f",
+   "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "accused",
+    "affair",
+    "another",
+    "having",
+    "jensen",
+    "nvidia"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "91cac14281c6733b353e672b981aa604ae11f3d4",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TSUFCTFUyQmFVNi1RSFdGSi1SUFU3UUJmSTZpNFlQOG5nV0lnOVFkclpPb1U1MTBObzBYVG1zbEs4WkhSTE10OG9vSEFicTl5NGVrX1dRVTFMTnB6?oc=5",
+   "simhash": "00d76ab579a34170",
+   "event_key": "77398267dfb09612495baddee2fb21edb12e60c7",
+   "title": "정부, 첨단 AI반도체 10종 로드맵 발표…로봇·드론·자율주행차 속도",
+   "source": "뉴스핌",
+   "category": "ai",
+   "tokens": [
+    "로드맵",
+    "로봇",
+    "발표",
+    "자율주행차",
+    "정부",
+    "첨단"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "15774d57286ae4f5e3a2b256b31f7a1788ccfa10",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42YndULVE0aGR3NThXQ2o3c0N6SV80cG40VDNJS1FxcE1LZ2hYRnl4SGQ4R0d6MmUwdVZhN0pyM3BDcFhNT212V1VnaGtOcWlCU08tQXFjdF9ON3JvdjE4OGlJOGRRY0FKUmRPeTJFXy1XeUtw0gF6QVVfeXFMTVBOVzd6U0JJeXRNdk5ZbDI2X3NBaEFSM0Y2dUduMWFTckhVMXdUUVctWVg1bHRMN3d1ZWpSaFExNUZyamtzN1k3NUdhOGpuU1FGVUhBWmFTZ01DMnBIZzN2bEFVd25SZDlMLVFnLWFfZllnOEFOQ21rWGc?oc=5",
+   "simhash": "b1471f18b0f51751",
+   "event_key": "2d2db5aae198c7afb7575884f314d53939310213",
+   "title": "과기정통부 \"국산 AI 반도체 양산·상용화 본격화…인텔과 협력 확대\" - 머니투데이",
+   "source": "머니투데이",
+   "category": "ai",
+   "tokens": [
+    "과기정통부",
+    "국산",
+    "머니투데",
+    "본격화",
+    "상용화",
+    "양산"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c7e508050a686aa6b4ba7d953f0b3c7e65adc969",
+   "url": "https://www.venturesquare.net/1127844/",
+   "simhash": "23a43fd01bf11b79",
+   "event_key": "c21ee5f68cf230bafb8ebccef1535aedbf306a30",
+   "title": "블루포인트, 양자 QX 스케일업 3년 성과 공개…5개국 고객 확보·후속투자 161억원",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "공개",
+    "블루포인트",
+    "성과",
+    "스케일업",
+    "양자",
+    "후속투자"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "43919f11c4cb89cd34dbbb2a6a2832f2e6a9abda",
+   "url": "https://www.venturesquare.net/1126076/",
+   "simhash": "038048b1a19abce8",
+   "event_key": "815a27199101d2100fa8e59491bd7cb525e73890",
+   "title": "“앱이 아니라 매출을 팝니다”…A to Z System, 미국 메디컬 스파의 ‘실장’을 디지털로",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "system",
+    "디지털",
+    "메디컬",
+    "아니라",
+    "앱이",
+    "팝니다"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "571fb0494bf3f24fb53a290f9b861603638a0e6a",
+   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "simhash": "d33779839a1d0282",
+   "event_key": "e8714543c18392cdfa900097c62d97b3208e6e85",
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "acquires",
+    "created",
+    "founder",
+    "odessia",
+    "openai",
+    "startup"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b453fb87f6c18cafd8356174df9bdba96a86ff21",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iZHJkeHV4QklIMnhSMFhZQjR4RTRlOHhYLU1od212MkJRSjZvMWxxYlFEbGYwZHVCUWp3SE11VGd1aU9Cd0h2YnduRnFVeXNVZ21MNUliOGlsbmJxWTBJ?oc=5",
+   "simhash": "e0532a9684695e25",
+   "event_key": "3dd667734dc858d17556e50f8ef83dee6fe42486",
+   "title": "강동대, 지역 소상공인 경쟁력 강화 창업 멘토링 운영",
+   "source": "뉴스1",
+   "category": "biz",
+   "tokens": [
+    "강동대",
+    "강화",
+    "경쟁력",
+    "멘토링",
+    "운영",
+    "창업"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "57483bacacb06e5ebc016ec6aa03cd2bde9a04ea",
+   "url": "https://termsheetplease.com/",
+   "simhash": "5bf59f4afb0ffee3",
+   "event_key": "7fb7f62aae5459abede23237ce61595dbff8bf23",
+   "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "deciding",
+    "papers",
+    "please",
+    "recreated",
+    "show",
+    "startups"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bce30072a638aee63cf7160be907b0db5d8d897e",
+   "url": "https://www.yna.co.kr/view/AKR20261112095000001",
+   "simhash": "c94cdde647580c1b",
+   "event_key": "4b147e6dd968c9dea7f33e5cb937fdf477251233",
+   "title": "與투톱 '부동산 엇박자 차단' 총력…당내서는 \"적절한 조정 필요\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "당내서",
+    "부동산",
+    "엇박자",
+    "적절한",
+    "차단",
+    "투톱"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d99538fbb730368b64f83784cf5a9236ae9b8250",
+   "url": "https://www.yna.co.kr/view/AKR20261112088600001",
+   "simhash": "7657f3db07250ccc",
+   "event_key": "c50a57985b4741dedc561df64685bd839b41c66b",
+   "title": "국힘, 이용철 '통진당 대관 논란' 십자포화…\"등골 오싹해\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "대관",
+    "십자포화",
+    "오싹해",
+    "이용철",
+    "통진당"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a9e55812ce267265a0d12f7378ada51a270bd397",
+   "url": "https://www.khan.co.kr/article/202611120954001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "d0e6a7f78084d3b8",
+   "event_key": "1cfcff89e92cfc2f485dfd61669bd37a642334ab",
+   "title": "[속보] 청와대 “북한 APEC 참여 가능성 적어…북·미 접촉 개연성 단정 어려워”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "apec",
+    "가능성",
+    "개연성",
+    "북한",
+    "어려워",
+    "청와대"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3835e63f39ddbd015aefef1989be71ba4982ec18",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842775",
+   "simhash": "56f35005c19c84f2",
+   "event_key": "f2aec60d7e3093c63e14ffd0967c975ca7296f3e",
+   "title": "민주 \"재판 지연, 한덕수 석방의 문…조희대, 내란 지우기 나섰나\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "나섰나",
+    "민주",
+    "재판",
+    "조희대",
+    "지우기",
+    "한덕수"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "29d25228d38f2e00e39ea78a8cb0b5b3cca780bb",
+   "url": "https://www.mk.co.kr/news/politics/12206206",
+   "simhash": "87c5d194a912e06c",
+   "event_key": "304e69c29bd452ee394ccc6d54ecb2f2145de613",
+   "title": "외통위 전체회의 나온 정동영 통일부 장관",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "나온",
+    "외통위",
+    "장관",
+    "전체회",
+    "정동영",
+    "통일부"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bde5d271888d56d29e3844443042917e98c7411f",
+   "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+   "simhash": "49daf154ac4b4075",
+   "event_key": "fb3f573f7e27b550f10dc29860bb5a5d427eb0fc",
+   "title": "Israeli strikes hit medical complex as nine killed across Gaza",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "across",
+    "complex",
+    "israeli",
+    "killed",
+    "medical",
+    "strikes"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "50c37507d805e6713e721cbdd75cabf51753a456",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+   "simhash": "c85062b3dab98b59",
+   "event_key": "18feaf54b890f654ff786f3291e9652b0267b2fc",
+   "title": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "democrat",
+    "elected",
+    "mississippi",
+    "narrow",
+    "politics",
+    "senator"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "12466203a25a3a77509acd7119823979464a3988",
+   "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+   "simhash": "8ffeb69389778119",
+   "event_key": "460d4a95f68164692f2413260e8a8db00cb1eb4e",
+   "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "election",
+    "launches",
+    "manifesto",
+    "nigeria",
+    "president",
+    "regain"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ef93d2e33465090758d2a3b4bebeef78a8748f2a",
+   "url": "https://www.yna.co.kr/view/AKR20261112006600071",
+   "simhash": "06307708288c16e8",
+   "event_key": "339b4730d1f384e7600bf5cefe688c16e906804d",
+   "title": "美, 러 안보협정 숙원 길 터주나…\"우크라전 합의 일환 구상\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "숙원",
+    "안보협정",
+    "우크라전",
+    "일환",
+    "터주나",
+    "합의"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "99d2f3605bb591868893043b75b9f815cfb8467d",
+   "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
+   "simhash": "24840892d418b412",
+   "event_key": "19f896f6098a5519f37eb56e046599b0f067f1a6",
+   "title": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "action",
+    "climate",
+    "leaders",
+    "urgent",
+    "without",
+    "world"
+   ],
+   "sent_at": "2026-11-12T12:29:40+09:00",
    "followup_count": 0
   }
  ]
