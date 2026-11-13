@@ -1,386 +1,7 @@
 {
  "version": 1,
- "updated_at": "2026-11-12T12:29:40+09:00",
+ "updated_at": "2026-11-13T12:02:23+09:00",
  "entries": [
-  {
-   "url_hash": "51c6cb3bd66a262bac9a6a0c7a30cde44d47d90a",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-   "simhash": "3fdb06024dcd953c",
-   "event_key": "64c7aa245dfeab2ae1aa9689624173c31062e468",
-   "title": "Anthropic launches free AI security scans for open-source projects",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "anthropic",
-    "launches",
-    "projects",
-    "scans",
-    "security",
-    "source"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "9efb0c447d4a5040a991a12eab516d4f0844ba63",
-   "url": "https://www.etnews.com/20261009000007",
-   "simhash": "1c8ae800f598769c",
-   "event_key": "f11292eba438e261ca02630c06037fc2568525a9",
-   "title": "엔비디아 넘어선 '분기 영업익 100조' 삼성전자…내년 전망도 밝은데 주가만 반대로 간다",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "넘어선",
-    "밝은데",
-    "삼성전자",
-    "엔비디아",
-    "영업익",
-    "주가"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "c4b9450255a9e60fedb01feaa3a68cf78ced9fe5",
-   "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-   "simhash": "e7299a99a7c80750",
-   "event_key": "d34cdce184ff8b207527bdc3f023bda555b07302",
-   "title": "Google brings agentic AI to Gemini, starting with businesses",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "agentic",
-    "brings",
-    "businesses",
-    "gemini",
-    "google",
-    "starting"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "54a283d7c732aefa5a4003c5d698e90c4745db0a",
-   "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-   "simhash": "f1901b3e38986391",
-   "event_key": "9ad4a504c7366148653894394fd64d11a59c1e25",
-   "title": "Anthropic changes usage policy to ban model abuse and election interference",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "anthropic",
-    "changes",
-    "election",
-    "interference",
-    "policy",
-    "usage"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ebb614553ba6c1d6ef7ffbcb571981a0bd978417",
-   "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-   "simhash": "cf96512ea919df25",
-   "event_key": "c30ed70fcbc805b8fcfaed72c2317351dc2efef3",
-   "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "tokens": [
-    "conversation",
-    "creator",
-    "designed",
-    "roundtables",
-    "viruses"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "88854919d85b474e1689b166bc6b953c4e4448e8",
-   "url": "https://platum.kr/archives/295909?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b1%2584%25ed%2598%2588-%25ec%2597%2586%25ec%259d%25b4-%25ec%258b%25ac%25ec%25a0%2584%25eb%258f%2584%25eb%25a1%259c-%25ed%2598%2588%25ec%2595%25a1-%25ec%2588%2598%25ec%25b9%2598-%25ec%2598%2588%25ec%25b8%25a1%25ed%2595%2598%25eb%258a%2594-%25ec%259b%25a8%25ec%259d%25b4%25eb%25b9%2584%25eb%2582%2598-%25ec%2584%259c",
-   "simhash": "3191b65a0a74a068",
-   "event_key": "4f0cca387c88ec4daca1b1b74719bd60b3c32762",
-   "title": "채혈 없이 심전도로 혈액 수치 예측하는 웨이비나, 서울대기술지주 투자 유치",
-   "source": "Platum",
-   "category": "biz",
-   "tokens": [
-    "서울대기술지주",
-    "심전도",
-    "없이",
-    "예측하",
-    "웨이비나",
-    "채혈"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "d341110a1d189ca12e72cf47070ef1d6af716972",
-   "url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
-   "simhash": "003f47921ed72bba",
-   "event_key": "0ee89ba0b7322c5794391844453195c3c88b28c7",
-   "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "founder",
-    "looking",
-    "prison",
-    "served",
-    "startup",
-    "untapped"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "0902f461d6642a28f386a9664948f68b881ceb20",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jUUdRTEU4c0dIcjdBbTF3NXNhQzVuYjlRazJWcVJkeUtBMF8tTXpLam1xd0RscDRIUUtoUkJPcWlRTGV0WEZhTWdweEJSRUlMeEtwdUdxRmZqOGsybmtfMDhR0gFiQVVfeXFMTmNRR1FMRThzR0hyN0FtMXc1c2FDNW5iOVFrMlZxUmR5S0EwXy1NektqbXF3RGxwNEhRS2hSQk9xaVFMZXRYRmFNZ3B4QlJFSUx4S3B1R3FGZmo4azJua18wOFE?oc=5",
-   "simhash": "1c770ff403023b8e",
-   "event_key": "ad7593932e38ae04506b63c84d36782579c078f4",
-   "title": "이소영 \"소상공인 비용 부담 지표화…취약 사업자 지원 확대\"",
-   "source": "뉴스1",
-   "category": "biz",
-   "tokens": [
-    "부담",
-    "비용",
-    "사업자",
-    "지표화",
-    "취약",
-    "확대"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "9904e404a61f6b4695b71398b539a0110a9f4a4a",
-   "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
-   "simhash": "51227493c6351e37",
-   "event_key": "7062451e9ae5ed928bc89f1cf8187934096bec9f",
-   "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
-   "source": "Hacker News",
-   "category": "biz",
-   "tokens": [
-    "chronotherapy",
-    "circadian",
-    "disorder",
-    "evidence",
-    "implications",
-    "rhythm"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "e8947d3adf72c0ca9ea14efdeac6456ae5ac8ff6",
-   "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-   "simhash": "2c259f98f91252d3",
-   "event_key": "bbcda0218e0485457254127e2b8085f850ef9f87",
-   "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "closer",
-    "flags",
-    "healthleap",
-    "hospital",
-    "patients",
-    "raises"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "e603632ff07ff800d7f106f7180b2ea56e900c14",
-   "url": "https://www.yna.co.kr/view/AKR20261009026200504",
-   "simhash": "733a3e02830d8c91",
-   "event_key": "8cc74222ded99eeece0382e269bf9c64182dbf8c",
-   "title": "北지뢰제거·軍첨단전력 공개 이어 유엔서 외교대응도 착수",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "공개",
-    "외교대응",
-    "유엔서",
-    "이어",
-    "지뢰제거",
-    "첨단전력"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "73a8a18e02242b22c158a1d35bf71e4a15e4c4a8",
-   "url": "https://www.khan.co.kr/article/202610091115011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "29dcc937efc33156",
-   "event_key": "7c9ab40112cbe7f3a8add9faf8274fe1b8850a6c",
-   "title": "정부, ‘러트닉, 김정관에 국정원 불신 전달’ 보도에 “사실 아냐”",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "국정원",
-    "김정관",
-    "러트닉",
-    "불신",
-    "전달",
-    "정부"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ecfdbaa5d5bb4fc7db0fbb3d7afb09c9e8782f60",
-   "url": "https://www.khan.co.kr/article/202610091058001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "789ac2b2f61c386f",
-   "event_key": "a09e32246492a5502e0c211ee16a6fcf72e10458",
-   "title": "“한·미동맹 정신 아냐” 정청래 ‘미국 비자 발급 보류’에 여당 의원들 “강력 유감” 항의",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "미국",
-    "미동맹",
-    "아냐",
-    "의원들",
-    "정신",
-    "정청래"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "663d70a2bbc20a7fa7b2d3c0c32651707313c7de",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790344",
-   "simhash": "2df7b4dcc12350b9",
-   "event_key": "124b2024b3ee766b639615ad2c77ccf6df29795f",
-   "title": "정점식 \"지뢰폭발, 북한의 명백한 군사도발…안보현실 직시해야\"",
-   "source": "SBS",
-   "category": "kr",
-   "tokens": [
-    "군사도발",
-    "명백한",
-    "안보현실",
-    "정점식",
-    "지뢰폭발",
-    "직시해야"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "4550f8be1c0e8ff54e0333bf6b6d7e6506adefc7",
-   "url": "https://www.yna.co.kr/view/AKR20261009027400001",
-   "simhash": "295e0130e39fa783",
-   "event_key": "0f015c82bbd14252e7be99d23f170ef7a63af45b",
-   "title": "韓총리 \"AI시대에도 한글 가치 이어갈 것…정부, 적극 뒷받침\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "가치",
-    "뒷받침",
-    "시대에",
-    "이어갈",
-    "총리",
-    "한글"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "182232147756aae9526ea8a4639be884c95c492b",
-   "url": "https://www.theguardian.com/world/2026/oct/09/india-dehli-cockroach-party-weekend-demonstration-mass-detention",
-   "simhash": "ac5576de27cb99a8",
-   "event_key": "6f5022ae9e06217260a6848318a35bce71483a63",
-   "title": "India’s ‘Cockroach’ party accuses government of mass detention of members ahead of weekend protest",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "accuses",
-    "cockroach",
-    "detention",
-    "government",
-    "members",
-    "weekend"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ef630c77b64dc8d335c8706269af115d4ca103d2",
-   "url": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
-   "simhash": "06b6641b551142d1",
-   "event_key": "f187415f49c1eb82d8bbb4b05119523fe5ea7003",
-   "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "broader",
-    "darfur",
-    "embargo",
-    "extends",
-    "proposal",
-    "sanctions"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "984273deb01c706153cbe1a6fe1f635629c1cf98",
-   "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-   "simhash": "67c49672c7512092",
-   "event_key": "b9de83806887046cfb4a64cb3e1151c39bb276af",
-   "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "blame",
-    "crisis",
-    "funds",
-    "housing",
-    "protesters",
-    "vulture"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "24d7125f86e0564d10d7e42e63b043e88224babc",
-   "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
-   "simhash": "0237cfb737978ee9",
-   "event_key": "5810fd15e8399f1dd35ccb7ff6bc35d13b81cd44",
-   "title": "Putin pledges Russia’s support to end US-led war on Iran",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "end",
-    "iran",
-    "pledges",
-    "putin",
-    "russia",
-    "support"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "5aab8670e4370deb1d228ae7bc434018df92d8e9",
-   "url": "https://www.theguardian.com/politics/2026/oct/09/labour-wins-holborn-st-pancras-byelection-green-party",
-   "simhash": "2927c41779fd2f0b",
-   "event_key": "fe8ea994116581b81d3cffdba51f272c060b2c91",
-   "title": "Labour fends off Green party to win Holborn and St Pancras byelection",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "byelection",
-    "fends",
-    "green",
-    "holborn",
-    "labour",
-    "pancras"
-   ],
-   "sent_at": "2026-10-09T11:39:55+09:00",
-   "followup_count": 0
-  },
   {
    "url_hash": "6cd6f5cc677d305a1a62e63c5e7f64075a42fc73",
    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -13152,6 +12773,382 @@
     "world"
    ],
    "sent_at": "2026-11-12T12:29:40+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "8af226d2b9f4a1155c6b9f0f3c6400abefc7038a",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+   "simhash": "452edd399e8dd659",
+   "event_key": "4b207d91b24cbc3bd7b24972e6bd8eb20fa49aec",
+   "title": "Google’s new Gemini model is better at understanding complicated questions",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "better",
+    "complicated",
+    "gemini",
+    "google",
+    "questions",
+    "understanding"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ffe8fad2ae47bb8dd62c33fa3e392bd3db54e353",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlekItNE45ZDRaT0VsMU9RUUNobTh2bTRjQnU3Uk8wZWp3cDdrQVBBQk5xamtUbExoVDRzSlYxdGdwYy1BbktDOHU4NUI0VkhoX2Q0NHU5VWFOTVRBYzA1YW5QeEdRd3c?oc=5",
+   "simhash": "2db6c6b75db6e008",
+   "event_key": "426f12e49252df45e6951a6dcb45a5a681516176",
+   "title": "한일경제연대, AI·반도체 공동개발부터 경제공동체까지…2045년 목표 3단계 로드맵 제시",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "2045",
+    "경제공동체",
+    "공동개발",
+    "로드맵",
+    "목표",
+    "한일경제연대"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4ae3018d7917117088abf7a4ad0208d79ebb66a4",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+   "simhash": "273b973edf451f24",
+   "event_key": "1ee669c5a65d5e17d15824fb26468bbd382ca34b",
+   "title": "AI chatbots are recommending fake retail websites, study finds",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "chatbots",
+    "finds",
+    "recommending",
+    "retail",
+    "study",
+    "websites"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fd9b6d5ef91cdf937d994e35fa6caadf0cacffe1",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jdWU3YXN5MW52anJNUklKeVFaRHhsMHo5WXg4LVlsM1BGeFdVZTZGVDJTa3JUdklkRkdyYUg4ME0yeEtxcDhmMEVSdTV6ZFpYdElZWERraU9TSmtralZ5LUNubDRJbGptbHMzemdIbmJXU2NlaFhMT9IBeEFVX3lxTE5jdWU3YXN5MW52anJNUklKeVFaRHhsMHo5WXg4LVlsM1BGeFdVZTZGVDJTa3JUdklkRkdyYUg4ME0yeEtxcDhmMEVSdTV6ZFpYdElZWERraU9TSmtralZ5LUNubDRJbGptbHMzemdIbmJXU2NlaFhMTw?oc=5",
+   "simhash": "a4d8029801d87c36",
+   "event_key": "7af25d40174a59db45d8828c37ab1066a2eed5d5",
+   "title": "서울시 자체 생성형 인공지능 서비스, 이용률 19% 그쳐",
+   "source": "뉴시스",
+   "category": "ai",
+   "tokens": [
+    "생성형",
+    "서비스",
+    "서울시",
+    "이용률",
+    "인공지능",
+    "자체"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fc0f425d4885ad33be2ec480d529b1ec2bbfb9ff",
+   "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+   "simhash": "6f059f38c0316423",
+   "event_key": "6411a55db947cdb123407d20cdc0df3dcc3b3f4d",
+   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "billion",
+    "nebius",
+    "neocloud",
+    "planned",
+    "playbook",
+    "spending"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "eaa3e79e2bc66aec08798107a19bb4ac9b7c0ff4",
+   "url": "https://www.venturesquare.net/1128397/",
+   "simhash": "aed57850ed960efa",
+   "event_key": "a37fa018bcbc65af449f372ed237d853c6c77659",
+   "title": "라이플렉스사이언스, 시리즈 A 70억원 유치…골관절염 RNA 치료제 임상 준비 가속",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "rna",
+    "골관절염",
+    "라이플렉스사이언",
+    "시리즈",
+    "억원",
+    "치료제"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "382b33b65409a20c4dc7d038c7bcfa00eebb3e12",
+   "url": "https://platum.kr/archives/298437?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a7%2580%25ec%2597%25ad%25ec%259c%25bc%25eb%25a1%259c-%25ea%25b0%2584-%25ec%25b0%25bd%25ec%2597%2585-%25ed%2588%25ac%25ec%259e%2590%25ea%25b8%2588%25ec%259d%2580-%25ec%25a7%2580%25ec%2597%25ad%25ec%2597%2590-%25eb%2582%25a8%25ec%259d%2584%25ea%25b9%258c-%25eb%25a7%25a4%25ec%25b6%259c-%25ec%2597%25b0%25ea%25b3%2584",
+   "simhash": "4014d8ae221ba0b8",
+   "event_key": "623d776ff820f59b698f323477c81f04d57e5d9f",
+   "title": "지역으로 간 창업 투자금은 지역에 남을까, 매출 연계·프로젝트 투자 제도화 과제",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "남을까",
+    "매출",
+    "연계",
+    "제도화",
+    "투자금",
+    "프로젝트"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c188bc0e22913fbf9e301dfe248fb241dcae9047",
+   "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+   "simhash": "66a7fa96e21c7738",
+   "event_key": "9266d76b1a5105fb5ff259f82f4a2679b8896f7a",
+   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "android",
+    "challenging",
+    "cyanogen",
+    "founder",
+    "google",
+    "windows"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ff3849e441cd5f379b96cca91ccf09fe8986f1ea",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJZ2s2ZVlVUGFFVlR6LU1PbGFVS2dDLW83bjBNTXVqcDQ3M3ZCdkwxM1Q2bFdsT01YbXlCOGZtQ0pYNnM0Zjh6RE93cjZ6ZFRTTUQwY3pHVllJWk4xdndRYzIyQTB3dw?oc=5",
+   "simhash": "91a34c9c31ec21bb",
+   "event_key": "84614634c8fd433b73128fcdfb40df98ca42adbe",
+   "title": "강남구, 중장년 AI 전문가 양성…소상공인 매출 증대·창업 성과",
+   "source": "강남포스트",
+   "category": "biz",
+   "tokens": [
+    "강남구",
+    "매출",
+    "양성",
+    "전문",
+    "중장년",
+    "증대"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f101ffad2bb3a11309d8d81bf89cac5b5f4011f0",
+   "url": "https://ipo.anthropic.com/us/",
+   "simhash": "349457344060a080",
+   "event_key": "3e799552bb6e7c4a956540dd6b09e50b6f6c5afa",
+   "title": "Anthropic IPO",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "anthropic",
+    "ipo"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "193093b9f9807ed525128c33659aa5fdd49a90d6",
+   "url": "https://www.yna.co.kr/view/AKR20261113073900001",
+   "simhash": "37ea4e01de994714",
+   "event_key": "dcef7c0f9df46ba37a3f9e769afda6517251a02a",
+   "title": "與, 국힘 장외투쟁에 \"민생 배임\"…한병도 \"달나라 말고 국회로\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "달나라",
+    "민생",
+    "배임",
+    "장외투쟁",
+    "한병"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4aba61de25e923ec8c8a1e63aeb8e7f85f2184f0",
+   "url": "https://www.yna.co.kr/view/AKR20261113043600001",
+   "simhash": "7fd4758bef7d993d",
+   "event_key": "fd61f525fd0277376a585682e92d5e076eaba22d",
+   "title": "정점식 \"與 종부세 반란쇼 4일 천하…'14억' 요구했다 꼬리내려\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "꼬리내려",
+    "반란쇼",
+    "요구",
+    "정점식",
+    "종부세",
+    "천하"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cec3d2c28c759e538c5ba8c7598c0a99f76298b3",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008844641",
+   "simhash": "577d46e23ffb6be6",
+   "event_key": "b2e42d3e2c6840910ab415a18ebcb5625094397a",
+   "title": "국민의힘 \"이용철은 '탈옥 맞춤형', 절대 장관해선 안 돼\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "국민의힘",
+    "맞춤형",
+    "이용철",
+    "장관해선",
+    "절대",
+    "탈옥"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1a56cafeec4916b52af1195ba74fe8d06c71ee1f",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008844531",
+   "simhash": "e649860d0b4beeb7",
+   "event_key": "7c4f390f12dff6384d2db2bddc49dbe938329f16",
+   "title": "정점식 \"허수아비 '명픽' 김민석 대표 신세 처량\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "김민석",
+    "대표",
+    "명픽",
+    "신세",
+    "정점식",
+    "허수아비"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "28e7870de0a4065a46966ff7d6c2e27d992f71ff",
+   "url": "https://www.khan.co.kr/article/202611130844001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "14e5a50fcf1e0028",
+   "event_key": "47f8807ca61668ec1fef4608eac0c2f5480e23e1",
+   "title": "나경원 “김승원 법무부 장관 됐으면 사건 암장···이용철 철회하라”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "김승원",
+    "나경원",
+    "됐으면",
+    "법무부",
+    "이용철",
+    "철회하라"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c1a5614e92cdc98357685b2c2c3646f93144e09e",
+   "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+   "simhash": "3c3e501647e9a2b3",
+   "event_key": "9d34bc53fe2b9579b30943615bb30af566e2a517",
+   "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "bringing",
+    "europe",
+    "russia",
+    "ukraine",
+    "welcomes",
+    "zelensky"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "63a35e964e0e72fd02f0f586127e616b27dd0266",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+   "simhash": "06fdf183e69c963d",
+   "event_key": "ff6f56e6dd4cdd2db25fb595c1bb71cb47dfce11",
+   "title": "Chris Van Hollen says he will run for Senate majority leader, challenging fellow Democrat Chuck Schumer – live",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "challenging",
+    "democrat",
+    "hollen",
+    "majority",
+    "schumer",
+    "senate"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "64644a3809e9cce0947a0f509a9ae66a6c46b08c",
+   "url": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
+   "simhash": "6e8b0400a02acfc8",
+   "event_key": "87a968175278897040e3c3e82b0566fa418efa8a",
+   "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "2027",
+    "albania",
+    "held",
+    "nato",
+    "summit",
+    "tirana"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "60a0b3ceaed774f98b2e601629a5153f641b2380",
+   "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+   "simhash": "e832c0d9bc3f66e8",
+   "event_key": "57248706ff9b8112118533a3fa2f4a282d123f43",
+   "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "disrupted",
+    "putin",
+    "starlink",
+    "takes",
+    "talks",
+    "ukraine"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4e0288e65d84ec6dc460a4b9f3ff468da468fcec",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+   "simhash": "a4ecf1550ccbd26d",
+   "event_key": "6eda294478ccbec32358b52c8ad24e64fe862521",
+   "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "health",
+    "hospital",
+    "israeli",
+    "ministry",
+    "palestinians",
+    "strike"
+   ],
+   "sent_at": "2026-11-13T12:02:23+09:00",
    "followup_count": 0
   }
  ]
