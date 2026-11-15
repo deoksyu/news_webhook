@@ -1,378 +1,7 @@
 {
  "version": 1,
- "updated_at": "2026-11-14T11:48:46+09:00",
+ "updated_at": "2026-11-15T11:16:39+09:00",
  "entries": [
-  {
-   "url_hash": "87ebbd4b9709235085324c9aa66daca117b92db6",
-   "url": "https://www.etnews.com/20261008000266",
-   "simhash": "38466801d19a0251",
-   "event_key": "86dfd0f919c6e0af11483a48a13b378d39e6e777",
-   "title": "'AI 해킹'에 통신사 비상태세 돌입…전사 취약점 점검",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "돌입",
-    "비상태세",
-    "전사",
-    "점검",
-    "취약점",
-    "통신사"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "c760623ac90d6ec242c9e059e5849f5b7c9049b1",
-   "url": "https://www.etnews.com/20261008000207",
-   "simhash": "2304104e43e105ec",
-   "event_key": "c929c838639e1245b62c461011fa7ba113294ab3",
-   "title": "구글과 손잡은 日 파나소닉…불붙는 '스마트 홈 경쟁'",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "경쟁",
-    "구글",
-    "불붙",
-    "손잡",
-    "스마트",
-    "파나소닉"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "2c9728d3318bed23628c85911ba40b59de81514d",
-   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-   "simhash": "452ba1133c7c1e12",
-   "event_key": "cb448e69b3ef68ffd65436583a473826868d9551",
-   "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "brake",
-    "emergency",
-    "microsoft",
-    "models",
-    "nadella",
-    "satya"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "50bdc14666b3c2b58ba1f1d0fcb7e93d9dfa4a91",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-   "simhash": "750bf1aadf56df2b",
-   "event_key": "20389b7c1e42f5ed3391e234f3bad5d25927dda3",
-   "title": "AI agent makers are promising privacy — will they deliver?",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "agent",
-    "deliver",
-    "makers",
-    "privacy",
-    "promising"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "a4e3b698d4f53e08d2298896476600e107f30d76",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4bmtZWGltaHRWQjBSc1JyaFNzVEI3eWsweldXeFRGYXo3bTlGZmNPTGpGQ1F1WDJlOHhLaG9la3FlakZ5bUFnMFFTOGt4dy11U3N6dFdTUzVkWTFVT2ppNGUxcEhvQWdpRVJrNEU4eWbSAXRBVV95cUxQU0lBU21LZXRlWXhHQnBYX3p0LWdfdW9rVHNRQUY0REpJRzJQekp3SXR5V3ZJUW9VQkgtRE54RnNQT1J6ZlFfQ2RZLWJFa3lFaWd6Yldqd1VSWmJRcnEyVWxwVTdrT1ljZy13RmQ3eW9CeUFtdQ?oc=5",
-   "simhash": "d596f59d4168ff74",
-   "event_key": "978cd633c0027f0d248488bafb89ec72a17cd55d",
-   "title": "MLCC·AI반도체·회사채액티브·AI에이전트 [이주의 상장ETF]",
-   "source": "IT조선",
-   "category": "ai",
-   "tokens": [
-    "mlcc",
-    "에이전트",
-    "회사채액티브"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "666078f52645c046d8f48376ecf57a66f628c36c",
-   "url": "https://www.venturesquare.net/1117960/",
-   "simhash": "8a7e17a565ce20ee",
-   "event_key": "b4af9c38d473cd497d4dd89ac075d7ece4e6b9f4",
-   "title": "[최앤리의 스타트업 법률 가이드] SAFE는 간단하고 RCPS는 복잡하다? 스타트업 첫 투자계약에서 놓치기 쉬운 것들",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "rcps",
-    "safe",
-    "간단하고",
-    "복잡하다",
-    "최앤리",
-    "투자계약"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "37ab2828e2dbffd9119ff1212277619060589aa7",
-   "url": "https://platum.kr/archives/295980?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25ed%2583%2580-%25ec%259d%25b8%25ec%2588%2598-%25eb%25ac%25b4%25ec%2582%25b0%25eb%2590%259c-%25eb%25a7%2588%25eb%2588%2584%25ec%258a%25a4-%25eb%258f%2585%25eb%25a6%25bd-%25ed%259b%2584-%25ec%25b2%25ab-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598",
-   "simhash": "21ad05169060c0a0",
-   "event_key": "5ad733522af563f4402dbfd9ecdb8eb670b719ed",
-   "title": "메타 인수 무산된 마누스, 독립 후 첫 투자 유치",
-   "source": "Platum",
-   "category": "biz",
-   "tokens": [
-    "독립",
-    "마누스",
-    "메타",
-    "무산된",
-    "인수"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "a9ac27256d24f09f4457d6a322b83513b9727798",
-   "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-   "simhash": "0cd5981a18e20633",
-   "event_key": "bffec613845dbca44ba61f0bc13bd5cbe880ce71",
-   "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "centers",
-    "defense",
-    "energy",
-    "modernize",
-    "petra",
-    "vehicles"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "2a36e2b5fafe41c4efa8a0f12f219900334af3c6",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfdW1kcWl2QXB6cjF3WWRPTXRLdUoxcEQwMFFDMTl6azBWQm5oclM2SE0xU1UyM1hxOEhvVU5YMEMxd1FHampndFlhM1IwZmd4akwxRmlaaHVJbVE?oc=5",
-   "simhash": "b406bc5402abd5e9",
-   "event_key": "f840c72dd9a3e8d38bf9237984c798c506293315",
-   "title": "[이상헌의 성공창업경제학] '치킨값 논란' 소상공인의 생존 문제다",
-   "source": "위메이크뉴스",
-   "category": "biz",
-   "tokens": [
-    "논란",
-    "문제다",
-    "생존",
-    "치킨값"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "1f4b55400949c0bc51121c4d45fe577a0c5ceb9c",
-   "url": "https://housing.over.pizza/",
-   "simhash": "0eac93a495b4769a",
-   "event_key": "46fc081332abb51a7fc050f03e8778a63c8684ee",
-   "title": "A city-building game in which the city would prefer you didn't",
-   "source": "Hacker News",
-   "category": "biz",
-   "tokens": [
-    "building",
-    "city",
-    "didn",
-    "game",
-    "prefer"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "350899628f2e8254d866a135e9ccd137ff06a477",
-   "url": "https://www.yna.co.kr/view/AKR20261010028200001",
-   "simhash": "98d89acd48716a25",
-   "event_key": "37c94f364581a68bc9272688a111f63790056989",
-   "title": "與하락세에도 국힘 지지율 횡보…반사이익 부재에 엇갈린 진단",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "국힘",
-    "반사이익",
-    "엇갈린",
-    "지지율",
-    "하락세에",
-    "횡보"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "bd6c7d2d2d0cfa9c3a82912946300d309c2ecef1",
-   "url": "https://www.yna.co.kr/view/AKR20261010024800530",
-   "simhash": "5e08e13b487c2f7d",
-   "event_key": "d75cfb92fafe9cc2e80ddf9dbb0fbefe18b0094d",
-   "title": "김영훈 \"민주노총, 경사노위 들어와야…복귀조건에 정부도 공감\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "경사노위",
-    "김영훈",
-    "들어와야",
-    "민주노총",
-    "복귀조건",
-    "정부"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "e23f64d15339eb0f12e771db1bc15bd237896bc5",
-   "url": "https://www.mk.co.kr/news/world/12172833",
-   "simhash": "2720d02ee8810be7",
-   "event_key": "90671dd88bb5636d5332ef163dc3be6535c3a2c7",
-   "title": "“야당 인사 대통령선거 출마 막으려 개헌하나?”…비판여론 커진 멕시코",
-   "source": "매일경제",
-   "category": "kr",
-   "tokens": [
-    "개헌하나",
-    "대통령선거",
-    "막으려",
-    "멕시코",
-    "비판여론",
-    "야당"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "da10f797c25cdbea033905004198f0591b7d9512",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791619",
-   "simhash": "4121e283aa265efe",
-   "event_key": "955849ba8bf9deef8b4e35221e88ab6e2402b5d3",
-   "title": "김정은, 대외 메시지 없이…당 창건 81주년 공연 관람",
-   "source": "SBS",
-   "category": "kr",
-   "tokens": [
-    "김정",
-    "대외",
-    "메시지",
-    "없이",
-    "주년",
-    "창건"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "1f157bb04550206311729fc17adcd8f9b5d86ff4",
-   "url": "https://www.khan.co.kr/article/202610111013001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "f12a23362dc94882",
-   "event_key": "727ad8dbb02e46beb531f2eab289f0a664525718",
-   "title": "이 대통령 “품격 없다 비난해도 SNS 소통 계속할 것···조롱 당한 노무현 전 대통령 떠올라”",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "sns",
-    "계속할",
-    "노무현",
-    "대통령",
-    "떠올라",
-    "비난해"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "7ed1120d7944b9f3cbb3f31b0694d579dd7a2605",
-   "url": "https://www.yna.co.kr/view/AKR20261011011400009",
-   "simhash": "e67192dba08ddcc4",
-   "event_key": "ae28cf123970663922367cb2dbf3c66f9e6506c7",
-   "title": "\"美, 러 정유소 공격 멈추라며 우크라에 정보공유 중단 경고\"",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "공격",
-    "멈추",
-    "우크라",
-    "정보공유",
-    "정유소",
-    "중단"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "fc08051d6b1e75fb8637541f58d9d56715de9ce6",
-   "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
-   "simhash": "6da773901814dd19",
-   "event_key": "6c4e7d46ff7e0c300d24a71352a2366cf44e9680",
-   "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "get",
-    "president",
-    "time",
-    "ukraine",
-    "watch"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "332fe26b99a2c8da54713021d00b12650437805f",
-   "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
-   "simhash": "0da68633ee1eb3c4",
-   "event_key": "eb6d2b3d6f3d88020f9718bf682536078f3aec76",
-   "title": "Trump says Ukraine needs a new leader after diesel deal with Russia",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "deal",
-    "diesel",
-    "leader",
-    "needs",
-    "russia",
-    "ukraine"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "17e9ab0c2e1c0fc966ee5fa149c1b81ae04395db",
-   "url": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
-   "simhash": "e70518161c56239a",
-   "event_key": "ed17ab47f49efb048f0a67522876baa49be1705f",
-   "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "across",
-    "demand",
-    "europe",
-    "israel",
-    "photos",
-    "thousands"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "934b53dd1a5f47ec3832f28b65fcd8c7052dad9f",
-   "url": "https://www.yna.co.kr/view/AKR20261011000651085",
-   "simhash": "62164ee238a31c5b",
-   "event_key": "a4b6529118fd0fe41f1d48caaf7cf45621b4a112",
-   "title": "미러 '경유딜'에 EU \"전쟁자금 대는 것\"…영국 \"우크라와 연대\"(종합)",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "경유딜",
-    "대는",
-    "미러",
-    "영국",
-    "우크라",
-    "전쟁자금"
-   ],
-   "sent_at": "2026-10-11T10:25:03+09:00",
-   "followup_count": 0
-  },
   {
    "url_hash": "f59b334c6fab621b9995b935289754a697ff5bcd",
    "url": "https://www.etnews.com/20261012000006",
@@ -13152,6 +12781,374 @@
     "ugandan"
    ],
    "sent_at": "2026-11-14T11:48:46+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "dee319e724d7fd07de9b243e1e2926f3ccf827a3",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4bUhlY2tFaXYwTy02WHA2TTdscVpaeWFsUlR5NDczWDZWLU1ySGpUX0dSOUJCcndTOHNOVHJ5cUNDbElVUmUtQTBBeHpSZGxKV0NndWNCc21waUtWX1NQeUpSaUxRWkxzOW1mOWpLc27SAXRBVV95cUxNbjdWYU4tcGhaNzV6TUpHa2RwaTloRUFhZHpULWpyZ29nX2pxYkJ0VFpabGNNRDUtX19qV3NpZUJuWmtQWEFEY3lROTR5UlpydTFUZVhDaDNybHdtc2hmWUN1MjhIamdGUXZvUEQydi1DZ2xqaQ?oc=5",
+   "simhash": "e1be3dba60f327c0",
+   "event_key": "6cd4804d9521a96e502e86615b7009b30fc97f27",
+   "title": "반도체·에너지 선순환…최태원 “AI 플라이휠 만들자”",
+   "source": "IT조선",
+   "category": "ai",
+   "tokens": [
+    "만들자",
+    "에너지"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b08cefd9996dfc5a6f6dc1ddd91fe34424b098fa",
+   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "simhash": "633d8d1375ce6aa5",
+   "event_key": "b51334b9bb36ae07b8f92bcff1f457f6ef4521e8",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "didn",
+    "graveyard",
+    "list",
+    "projects",
+    "running",
+    "startups"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f4156f2021924e7860b288855105485db96c4711",
+   "url": "https://www.etnews.com/20261115000051",
+   "simhash": "94242ec8bf4b96bc",
+   "event_key": "0cd55898b62ced7d345d6ccc4551b05cccc3f5de",
+   "title": "'젠슨 황 없는 엔비디아' 복귀론·책임론 정면충돌",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "복귀론",
+    "없는",
+    "정면충돌",
+    "책임론"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c65d336ec99db5f9619b2b08a2be4511ba9b456e",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXdjFIZmkyWHlWU1pudGpndE1wRjVoV19wSmxGUGdJWGRPNi11Qnl2MWpWcExhbmxKS1doWmV5eEhILXJnOWI4MWp5TE9oZVFDTHRTSy1B?oc=5",
+   "simhash": "6de8df8f0527f434",
+   "event_key": "c9a39629e587cd64a61e7c0c625ed406484f34ac",
+   "title": "AI 반도체 호황에 ICT 수출 증가율 첫 200% 돌파",
+   "source": "지디넷코리아",
+   "category": "ai",
+   "tokens": [
+    "ict",
+    "돌파",
+    "수출",
+    "증가율",
+    "호황"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6373a56d597ffd27184c36b02fa5fb00218f6189",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xRXF1STI3VHB1NU11V05LRFVxSDh5YlAwdW1UazlGdHRDQndubnpicjVvenlEZlRjZmZHcjhueGNFemhJNGpKQ0k0dXhoQWN1cFJRWmh5RVdhaWR2eDEwMHMwdEZpNGs?oc=5",
+   "simhash": "9f223cc1b95b842c",
+   "event_key": "d8850ce594c7c4fbe1ae12735b779ccb9dad8ce0",
+   "title": "美연구소 \"中 AI모델, 엔비디아 최첨단칩 훈련\"",
+   "source": "연합뉴스TV",
+   "category": "ai",
+   "tokens": [
+    "모델",
+    "연구소",
+    "최첨단칩",
+    "훈련"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fdbb2642b40278dc0a8cd325f82e17e41fad1c3d",
+   "url": "https://platum.kr/archives/298535?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%2581%25eb%2582%25a8%25ea%25b6%258c-%25ec%25b0%25bd%25ec%2597%2585%25ec%2584%25bc%25ed%2584%25b0%25eb%2593%25a4%25ec%259d%25b4-%25ed%2595%25a8%25ea%25bb%2598-%25ec%2597%25b0-%25ed%2588%25ac%25ec%259e%2590%25ec%2584%25a4%25eb%25aa%2585%25ed%259a%258c-%25ec%25a7%2580%25ec%2597%25ad-%25eb%2594%25a5%25ed%2585%258c",
+   "simhash": "20a4d50e9469e872",
+   "event_key": "1b5aabcb19fbe246a50f82be8307992155dfa38b",
+   "title": "영남권 창업센터들이 함께 연 투자설명회, 지역 딥테크 스타트업과 투자사 연결",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "딥테크",
+    "영남권",
+    "창업센터들",
+    "투자사",
+    "투자설명회",
+    "함께"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "475d1635b48700432fe7ee4cf3ec311d7b80c7a1",
+   "url": "https://www.venturesquare.net/1128476/",
+   "simhash": "fbf825feef2263dd",
+   "event_key": "77a1f98e16a43ccefba233d4509172f51f87b284",
+   "title": "DHP 2026, 해외 매출 90% 넘긴 의료AI 기업들 한자리에…K-헬스케어 글로벌 진출 전략 공유",
+   "source": "벤처스퀘어",
+   "category": "biz",
+   "tokens": [
+    "dhp",
+    "글로벌",
+    "기업들",
+    "한자리",
+    "해외",
+    "헬스케어"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ad639fbc6552b9e9ff7b95b49e8c631c7e691930",
+   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "simhash": "b03d719296d67eb9",
+   "event_key": "2646f9d9c5178878fde3e526d8679a1820e45fc3",
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "source": "TechCrunch Venture",
+   "category": "biz",
+   "tokens": [
+    "blasts",
+    "departure",
+    "founders",
+    "funding",
+    "jensen",
+    "startup"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ee29fae6b4d8bae5697b56ce82b04d9784112c04",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4bHNtZUJDZ3NXb1lZbWcyTG43aEk1S3Z2dlUxNFhRUUFsV1dKaTZFbzNsT3hCYkcxYmhHSzFPeGtfcS15S0ZWRkFvWEZoS2w4VmRSeg?oc=5",
+   "simhash": "b84b78e3262572ee",
+   "event_key": "a87ed444180dfa3bb5065be2f97805f895e56acf",
+   "title": "2027년 자영업…10대 생존 키워드",
+   "source": "매일경제",
+   "category": "biz",
+   "tokens": [
+    "2027",
+    "생존",
+    "자영업",
+    "키워드"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "85985435b8f3533a599fa0d2943f9adc57c79d93",
+   "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+   "simhash": "2710748d94d87e31",
+   "event_key": "1b8138b7049d11d866ea282c4f6a46cf89a68aba",
+   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "circular",
+    "deliberately",
+    "financing",
+    "nvidia",
+    "prices",
+    "through"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c0c185b2bff5f463358f24f622a865ef060d3282",
+   "url": "https://www.yna.co.kr/view/AKR20261115007500001",
+   "simhash": "ac4cd8257520d301",
+   "event_key": "270e60d75d531ef4042fd642bb8fe42c24e93422",
+   "title": "野박충권, '무분별한 북한주민 접촉 차단' 법안 발의",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "무분별한",
+    "박충권",
+    "법안",
+    "북한주민",
+    "접촉",
+    "차단"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "737873eb3ae1cf58ff6e6818389ef51c158b0fc4",
+   "url": "https://www.khan.co.kr/article/202611151100011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "ea3df7c841058449",
+   "event_key": "cf23c4227c1b563eb630f95eec8474e0122c0445",
+   "title": "내년 중앙부처 세종 이전 앞두고···‘수도권&#8764;세종청사 통근버스’ 재개 추진",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "8764",
+    "세종청사",
+    "수도권",
+    "앞두고",
+    "중앙부처",
+    "통근버스"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a6e20cbe5b407aca4bf080d5d8a2b28b107847fe",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846381",
+   "simhash": "9ece0004066db1e3",
+   "event_key": "5014b657b0c82463ef7e437e8e4886ce2e9e71df",
+   "title": "북, '조용원 방러' 보도…\"전투적우의·동맹관계 날로 공고화\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "공고화",
+    "날로",
+    "동맹관계",
+    "방러",
+    "전투적우",
+    "조용원"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "30ea78c1e9b429351f763005b9ae02c4c78d2046",
+   "url": "https://www.yna.co.kr/view/AKR20261114033800017",
+   "simhash": "10ad6e240c132717",
+   "event_key": "dcd9792c4e3038ae80c5abd027b1e03a1149acc0",
+   "title": "\"한국 IP 대역 유망\"…북한 라자루스, 국내 서버 30곳 노렸다",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "노렸다",
+    "대역",
+    "라자루스",
+    "북한",
+    "유망",
+    "한국"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "54b000823775f7bb4880ab9a950d8249e9284d67",
+   "url": "https://www.khan.co.kr/article/202611151037001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "ee9ea12344874530",
+   "event_key": "75765e7054944dc72b391d44a831b3cba75d0bae",
+   "title": "백령공항 건설 ‘본궤도’···80인승 규모로 키워 2033년 개항",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "2033",
+    "건설",
+    "규모",
+    "백령공항",
+    "본궤",
+    "인승"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7fd21f8fe65fe00cca91e7a6b7a4a4dc72d79db9",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+   "simhash": "5c12e1529805be58",
+   "event_key": "052ad500459f497e5222977435e9713c5bfd861a",
+   "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "caretaker",
+    "despite",
+    "israel",
+    "offensive",
+    "policy",
+    "status"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "34ad9c56868836543f7dea718c3a8970245bdc3b",
+   "url": "https://www.yna.co.kr/view/AKR20261115009600009",
+   "simhash": "8a4ffc1e9330da70",
+   "event_key": "a81c9f4350071aabc3705e4ed8cfd691bdd7df13",
+   "title": "미·중·러 '동상삼몽'…주변국들 '제2의 얄타회담' 될라 우려",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "동상삼몽",
+    "될라",
+    "얄타회담",
+    "우려",
+    "주변국들"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3dcd9e4ec57513b29a1a8f3389067bf548e29324",
+   "url": "https://www.yna.co.kr/view/AKR20261115004500071",
+   "simhash": "2a3440a917e5011b",
+   "event_key": "bc9d51af810de241965e3fac7a7a7b4a3e96f038",
+   "title": "트럼프 맏사위 \"러시아-유럽 직접 대화 조성에 집중\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "대화",
+    "러시아",
+    "맏사위",
+    "유럽",
+    "직접",
+    "트럼프"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1ac9d358b741f4c6cea32ed047499a7bbf2b6c89",
+   "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+   "simhash": "8f0d729f0612b739",
+   "event_key": "d457852661a31a33e3d78ca2da175dad9ed10513",
+   "title": "UK government to consider changing age of consent after allegations against Russell Brand",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "against",
+    "allegations",
+    "changing",
+    "consent",
+    "consider",
+    "government"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "854cd71bb366818f3c30bbf3d1d2fd1f1e169148",
+   "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
+   "simhash": "b107588e4c43b1b8",
+   "event_key": "562f46404c8964c8a682fda1a68af807f0cce0f7",
+   "title": "Netanyahu says only a unity government can guarantee Israel’s security",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "government",
+    "guarantee",
+    "israel",
+    "netanyahu",
+    "security",
+    "unity"
+   ],
+   "sent_at": "2026-11-15T11:16:39+09:00",
    "followup_count": 0
   }
  ]
