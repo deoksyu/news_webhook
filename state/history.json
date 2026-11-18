@@ -1,758 +1,7 @@
 {
  "version": 1,
- "updated_at": "2026-11-16T11:29:17+09:00",
+ "updated_at": "2026-11-18T12:57:11+09:00",
  "entries": [
-  {
-   "url_hash": "3afb1424f73840ab2fda95e0ae0e65a51b2cc77e",
-   "url": "https://www.etnews.com/20261013000117",
-   "simhash": "75f80bea7bbb9692",
-   "event_key": "dc88c82dbf8d471c6ff2d2ba1a4373c95035d9c4",
-   "title": "APEC 10개국 서울 집결…AI·자율주행 모빌리티 협력 넓힌다",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "apec",
-    "개국",
-    "넓힌다",
-    "모빌리티",
-    "서울",
-    "자율주행"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "2c202cedf073eee79e74cf11024a1ded9291cc17",
-   "url": "https://www.etnews.com/20261013000056",
-   "simhash": "dc17639c817e6fd5",
-   "event_key": "22741f68e63a3218a028b3123c37807ed61be249",
-   "title": "IMF, 한국 성장률 3.3%로 상향…AI·반도체 수출 호조 영향",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "imf",
-    "상향",
-    "성장률",
-    "수출",
-    "한국",
-    "호조"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "95ff95e9d78242f18f15f1007e6584ef5d2bcb62",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41TkF5dzc2N25lcmt6TEpqWlAwMV9IZDFMb2F0MEhyck5JSGlRc01TQWVxTFJaaDJtV0Nac3F4TDluOWhQRlBrRVVRTWxrUjJWb1p5eVVZa0xQc3VhQzl6LWdPZDB3UEU?oc=5",
-   "simhash": "872862d469d7c0d7",
-   "event_key": "9e19b1d71ba5deaf56458ef179c781a87bcd6dc8",
-   "title": "현대차·기아, AI 데이터 인프라 기업 바스트 데이터에 전략적 투자…자율주행·로보틱스 데이터 병목 뚫는다",
-   "source": "인공지능신문",
-   "category": "ai",
-   "tokens": [
-    "데이터",
-    "로보틱스",
-    "바스트",
-    "인프라",
-    "자율주행",
-    "현대차"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "5b079896143e186c9575b788463c08ba3309a4d2",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43aUp3V2ktZmdMMU91MEVTRzZyVTNjTmpja0dnSTEzT1NWbUlQclh1NTVNTG1JZUhYbzRGeGpTbGhscUxaRGVtU2N3TDZ4akJXalBsRHpHck5nanpH?oc=5",
-   "simhash": "9c57605372ba6422",
-   "event_key": "8f6fc6811bad37501960cfca488b1fd197fd125f",
-   "title": "크래프톤, 내년 초 로봇 AI 통합 모델 공개 추진...\"사람과 소통하는 능력 중요\"",
-   "source": "뉴스핌",
-   "category": "ai",
-   "tokens": [
-    "로봇",
-    "모델",
-    "소통하",
-    "추진",
-    "크래프톤",
-    "통합"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "6e0c60884a28c66080905a0e89b4d955c3b364d1",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83VWx0YVgtMFRXUFdHVTJYdmFwbkE5Q2ZMX1BRNDZYMEVmOEhQUnlkNnVkeVQwM20wQko0Y3hicW5IN214bHhVbjRiNjBTbF9FaEdrZUx2VXRmaXkyOWpQUHRzMjRuNGFxTVE?oc=5",
-   "simhash": "94018fda438ad61c",
-   "event_key": "2a52a6fe02520dd7db6d55d44d5f7bada6209f03",
-   "title": "\"내년부터 인천에 자율주행 버스 달린다\"…인천시, 인공지능(AI)기반 자율 주행 대중교통 본격 추진",
-   "source": "SBS 뉴스",
-   "category": "ai",
-   "tokens": [
-    "달린다",
-    "대중교통",
-    "버스",
-    "인천",
-    "인천시",
-    "자율주행"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "5b89e569a2c6d06a4adb6012ea5e7f1643a885d6",
-   "url": "https://platum.kr/archives/296042?utm_source=rss&utm_medium=rss&utm_campaign=ktg-%25ec%2583%2581%25ec%2583%2581%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ec%25ba%25a0%25ed%2594%2584-10%25ea%25b8%25b0-%25eb%258d%25b0%25eb%25aa%25a8%25eb%258d%25b0%25ec%259d%25b4-%25ec%2582%25ac%25ec%259d%25b4%25ed%2581%25b4%25ec%2597%2591%25ec%258a%25a4-%25eb%258c%2580%25ec%2583%2581",
-   "simhash": "c03a936948ad850f",
-   "event_key": "a2f75852ed2b63598913bc70d31b1af490f1a20e",
-   "title": "KT&G 상상스타트업캠프 10기 데모데이, 사이클엑스 대상",
-   "source": "Platum",
-   "category": "biz",
-   "tokens": [
-    "대상",
-    "데모데",
-    "사이클엑스"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "8cedbdac428e00c1aa14ec1cb9e53635c0d683aa",
-   "url": "https://platum.kr/archives/296026?utm_source=rss&utm_medium=rss&utm_campaign=k-%25eb%25b0%2594%25ec%259d%25b4%25ec%2598%25a4-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%258b%25b1%25ea%25b0%2580%25ed%258f%25ac%25eb%25a5%25b4-%25ec%259d%2598%25eb%25a3%258c%25ea%25b3%2584-%25ec%2595%259e%25ec%2597%2590%25ec%2584%259c-ir-%25ed%258b%25b0%25eb%25b9%2584%25ec%25a7%2580",
-   "simhash": "0a135e8c41c2759b",
-   "event_key": "e7af72ddaee8fb5c43f67f57dcbb26cd3098fa9f",
-   "title": "K-바이오 스타트업, 싱가포르 의료계 앞에서 IR… 티비지파트너스 ‘커넥트 2026’",
-   "source": "Platum",
-   "category": "biz",
-   "tokens": [
-    "2026",
-    "바이오",
-    "싱가포르",
-    "앞에서",
-    "의료계",
-    "티비지파트너스"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b7c7c18fb529b9960f80aecbee2756c7eadd7044",
-   "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
-   "simhash": "caa16f49adb46679",
-   "event_key": "9427f78f3bb9fe732181a5aa12cd7fe8a7cdd488",
-   "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "devastating",
-    "efferon",
-    "eradicate",
-    "pediatric",
-    "sepsis",
-    "wants"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "73fa2b0a4ef1f53f29e0950cb2cd882db8793d99",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03RnlwMF9oM3JMVmZfTzgyampMVTUxN3J4TjcwblBLMlVZRzVONlFULTVTX2hEZW5KMGYxMi04bkFyRmR6ejRwR1dhcDc2MVFvaVFqRlJyNzB5U3QxN1FKUtIBYEFVX3lxTE03RnlwMF9oM3JMVmZfTzgyampMVTUxN3J4TjcwblBLMlVZRzVONlFULTVTX2hEZW5KMGYxMi04bkFyRmR6ejRwR1dhcDc2MVFvaVFqRlJyNzB5U3QxN1FKUg?oc=5",
-   "simhash": "a8c61e95b07a08b1",
-   "event_key": "11ce86a036219f50144d9e808596a1707987019e",
-   "title": "원주 소상공인 경제포럼 15일 개최…창업부터 시장 개척까지",
-   "source": "연합뉴스",
-   "category": "biz",
-   "tokens": [
-    "개척",
-    "경제포럼",
-    "시장",
-    "원주"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "9202dbf6eedd440b126bb645b68164ca05614ffc",
-   "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-   "simhash": "2943f05917486e28",
-   "event_key": "3a63e1ad4a4c75aa1313775e037bb70d996817d1",
-   "title": "AI is a tool and using it well takes skill",
-   "source": "Hacker News",
-   "category": "biz",
-   "tokens": [
-    "skill",
-    "takes",
-    "tool",
-    "using",
-    "well"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b3a74174c92891ddcca3533342e0be4fb8a67e3f",
-   "url": "https://www.yna.co.kr/view/AKR20261013063400001",
-   "simhash": "183206b7635cec4d",
-   "event_key": "f83666c6248eb973069a974ae7e992732167ca9e",
-   "title": "주진우 \"李대통령 '황제골프' 특검법안 대표발의할 것\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "대표발의할",
-    "주진우",
-    "특검법안",
-    "황제골프"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f45693e1a3ddc18db6d9caee85cca32bad1b430a",
-   "url": "https://www.yna.co.kr/view/AKR20261013025600071",
-   "simhash": "a0aad3833b641ca0",
-   "event_key": "682ecf659c685f8b9fc3379428b66f070c80c942",
-   "title": "與맹성규 \"민주, 위성락보단 정동영·이종석에 힘 실어줄 것\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "맹성규",
-    "민주",
-    "실어줄",
-    "위성락보단",
-    "이종석",
-    "정동영"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "6a6ed6e2106636ee6f5349a33474c2d359a6e95b",
-   "url": "https://www.khan.co.kr/article/202610131201001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "3db453e742440090",
-   "event_key": "dac1df4805918bfe1982dc6551e43cda430e3160",
-   "title": "오래된 공공건물은 장애인 편의시설 설치 대상서 제외…인권위 “접근권 기준 전면 재검토해야”",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "공공건물",
-    "대상서",
-    "오래된",
-    "장애인",
-    "재검토해야",
-    "편의시설"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "9f0681a02ae8ad8deb7559be8f30a9cabd19fa03",
-   "url": "https://www.khan.co.kr/article/202610131041001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "4bc7e28de171284b",
-   "event_key": "259d766b875273fc970db3af4511cb0a3f0bb500",
-   "title": "[단독]김승원 의혹 제보자, 공소청에 ‘재수사’ 탄원…국회에는 ‘한동훈법’ 청원",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "공소청",
-    "국회에",
-    "김승원",
-    "재수사",
-    "제보자",
-    "한동훈법"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "a3cce4cbd8d3be116f31b79f7ee20bdc46190467",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794257",
-   "simhash": "bd70136529bce381",
-   "event_key": "37f404a2760f59041151afdc173dacfef3207f20",
-   "title": "\"딸 논문 대필 '봐주기 수사'\"…\"아들 위해서 '법안 발의'\"",
-   "source": "SBS",
-   "category": "kr",
-   "tokens": [
-    "논문",
-    "대필",
-    "봐주기",
-    "수사",
-    "아들",
-    "위해서"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "64fb95c9796d8208ab85f64bf6a7ac97839f0012",
-   "url": "https://www.yna.co.kr/view/AKR20261013069200071",
-   "simhash": "8e1db80ea5f69034",
-   "event_key": "bb759ebe6492c336ce45ea7a8db8a5511ee73a2c",
-   "title": "트럼프 \"러·우크라, 에너지 휴전 동의했다…후티 잘못 처신\"",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "동의",
-    "에너지",
-    "우크라",
-    "잘못",
-    "후티",
-    "휴전"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "e1f9249328bad7f5df607da0dbe93217671610a0",
-   "url": "https://www.yna.co.kr/view/AKR20261013063800009",
-   "simhash": "764faa25a2cb1a56",
-   "event_key": "ea655f6e9c10f92148064921aee45812564a6c20",
-   "title": "트럼프 경유딜에 러-우 종전논의 올스톱…美특사 회담 보류",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "경유딜",
-    "보류",
-    "올스톱",
-    "종전논",
-    "특사",
-    "회담"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "fb1c29410e9936043b0583d78caa0400131dcd8d",
-   "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
-   "simhash": "0562585f433dcc45",
-   "event_key": "34acf022344bf1ce5c51e69862738eeacca84e62",
-   "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "analysis",
-    "crucial",
-    "elections",
-    "global",
-    "headaches",
-    "worsen"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b958ff3747fe0b2b79008b8c9078e33851cdf57a",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
-   "simhash": "3cf441d1780f9d25",
-   "event_key": "a786412b65c93697514b85229d718150845e4e65",
-   "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "flights",
-    "halted",
-    "houthis",
-    "iran",
-    "misbehaving",
-    "riyadh"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "6961810aeae66ad660beae835207dedd5570c9fc",
-   "url": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
-   "simhash": "786adf723b5defef",
-   "event_key": "01c34f136e13e559bfc3da7ebcf10450829e577a",
-   "title": "IMF warns global economy ‘could soon test the limits of resilience’",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "economy",
-    "global",
-    "limits",
-    "resilience",
-    "soon",
-    "warns"
-   ],
-   "sent_at": "2026-10-13T12:16:43+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "6fc9bef61e022edeab9871c8859f4fbe570d3ac8",
-   "url": "https://www.etnews.com/20261014000063",
-   "simhash": "635cbfed79b9c056",
-   "event_key": "ec8f79df3ba98686221f9705e4817cf34bed1d29",
-   "title": "카카오, 인적분할 후 성장전략 공개…스테이블코인·AI 콘텐츠 확대",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "성장전략",
-    "스테이블코인",
-    "인적분할",
-    "카카오",
-    "콘텐츠",
-    "확대"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "85e37809c5c8dbe79dd7e668e01fd359d1a407a4",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-   "simhash": "e5aefbaa7129fd5d",
-   "event_key": "6e16f5b8a44b5245923551c82ead600f392742c7",
-   "title": "Google finally releases Gemini 4 Argon",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "argon",
-    "finally",
-    "gemini",
-    "google",
-    "releases"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "491287490246a16f6f5c903cd094d3ba5faca8c0",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9La3U5U25wb3l6RlEyTC1KRnViVkJZei1MVG5WMmpJSkNBVDdURV9qMmp5dG10RjVHR2J3S204d0NocEFSLTFLaDdCaWVPN1F3Qmh3dURqcllMOENwVkJZc9IBeEFVX3lxTE1kUXJ0eGh3dGZCMWE5Z3dWWnRMcEZIel84eHdHMWI0QjVJWEZBTUlHTTlrYUVIX2hja193Q2NrMnhvVklfNDNTTWVUcVZpZktOUlZUTG00ckpsMjZLRnplNUZQVjVZWnpIaTc2MHJZLUt5My02cUVNbA?oc=5",
-   "simhash": "884996a82888716c",
-   "event_key": "76f403b80d1f30c813a413ac747db0a898ea4721",
-   "title": "AI 응용처별 반도체 솔루션 총집합…삼성전자, SEDEX 2026 참가",
-   "source": "뉴시스",
-   "category": "ai",
-   "tokens": [
-    "2026",
-    "sedex",
-    "삼성전자",
-    "솔루션",
-    "응용처별",
-    "총집합"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "70093601d1461d3d21781434ce38e0fa76b4dd98",
-   "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-   "simhash": "9da1dd1b898d0c35",
-   "event_key": "196fdd487462791daf89588c94a687f5657fba9c",
-   "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "hiring",
-    "judge",
-    "openai",
-    "orders",
-    "records",
-    "secrets"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f608394757dec8f6f8bce96c1fa367364d215995",
-   "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-   "simhash": "2db2dcb4044ad461",
-   "event_key": "4e0b9ba02b8e90c186418029fa4537473a221123",
-   "title": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "accelerated",
-    "development",
-    "disney",
-    "epic",
-    "shifts",
-    "upcoming"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "fcb778963e56067d5c14f7432aabfed859c0c4dd",
-   "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
-   "simhash": "eb108a5b1db07123",
-   "event_key": "7e522ce21c65e4718c36d4b5df28f4d9ffad9c33",
-   "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "battlefield",
-    "between",
-    "everything",
-    "orbit",
-    "organs",
-    "startup"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b1c075723b3567b20611cc62e18f051b9557c5c1",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nbGhSMy05dWhFRTVDdFE1STltSE4wa0FKbnAxbXFGQnhOVnNzeXBTZWs2QTNCbkFJNjZaSmhXSVJuYmNLcXJXbUo0dVJMZmd4NXJPaGxqT29IR01SLW80?oc=5",
-   "simhash": "dda6ae90f3a29c82",
-   "event_key": "4aaa6f6b402e7b88b0cf142325584c9da1d71b7c",
-   "title": "충북도 민생경제 대전환 추진…소상공인 성장 등 9750억 투입",
-   "source": "뉴스1",
-   "category": "biz",
-   "tokens": [
-    "9750",
-    "대전환",
-    "민생경제",
-    "성장",
-    "추진",
-    "충북"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "a8983c3740ba20e7c940b5600a401a4a962f909c",
-   "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-   "simhash": "89f84e4bdf1c4715",
-   "event_key": "f1ad3cb1bb30a6f29e50141f76548e1dc0b5fd01",
-   "title": "OpenAI engineer arrested in bugging of executive conference room",
-   "source": "Hacker News",
-   "category": "biz",
-   "tokens": [
-    "arrested",
-    "bugging",
-    "conference",
-    "engineer",
-    "executive",
-    "openai"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "2769992f87723218d0d121be97c264b240aeb566",
-   "url": "https://www.venturesquare.net/1119520/",
-   "simhash": "062e6fa44b54ec27",
-   "event_key": "9157fa18c52489a430727c7a4df4eb452ed41d8e",
-   "title": "동승, 신사업·M&A 전담 ‘동승글로벌’ 설립…VC 출신 박혁진 대표 영입",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "동승",
-    "동승글로벌",
-    "박혁진",
-    "설립",
-    "신사업",
-    "전담"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "84271c1a6b7cf562d07a207e991ac4ecd4d83f79",
-   "url": "https://outstanding.kr/iambox20261013/",
-   "simhash": "959f09a2844c980a",
-   "event_key": "39ef4b0e4615c93b7abee305a5d286ab9e664716",
-   "title": "투자 없이 300호점까지.. 공실을 창고로 바꾼 아이엠박스의 성장기",
-   "source": "아웃스탠딩",
-   "category": "biz",
-   "tokens": [
-    "공실",
-    "성장기",
-    "아이엠박스",
-    "없이",
-    "창고",
-    "호점"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "0c4a05d79d579ce5ef394416dad240d197e48fac",
-   "url": "https://www.yna.co.kr/view/AKR20261013189300001",
-   "simhash": "2633367c60b8f489",
-   "event_key": "df6a930e25835ccd807d1c4123fad5836f25800c",
-   "title": "조의장, 그리스서 경제협력 간담회…방산·첨단산업 세일즈외교",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "간담회",
-    "경제협력",
-    "그리스서",
-    "세일즈외교",
-    "조의장",
-    "첨단산업"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "3d52ee95fe0a1e090707a6ff0eba8a0a3811d32d",
-   "url": "https://www.yna.co.kr/view/AKR20261014029000002",
-   "simhash": "f1f32d9d3564708e",
-   "event_key": "3eaf804064ec63f247e79da920c6691c3a64c19b",
-   "title": "이형일 \"반도체 다음은 서비스산업…입법 협조 요청드린다\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "다음",
-    "반도체",
-    "서비스산업",
-    "요청드린다",
-    "이형일",
-    "입법"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ea4ab1f8b15f6ca52b0ed6df3ac3f25265861da5",
-   "url": "https://www.khan.co.kr/article/202610140824001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "fb156083a42766ef",
-   "event_key": "0a284f66aad8776ec1f4e5334bee3a831825b786",
-   "title": "안철수, 외교·통일·국방부 ‘세종 이전’ 발표에 “북한에 수도 헌납할 건가”",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "국방부",
-    "세종",
-    "안철수",
-    "외교",
-    "통일",
-    "헌납할"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "e6036f001e6ebe556fc1d590d128fe7ef23bcbce",
-   "url": "https://www.khan.co.kr/article/202610140718001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "a84cefe30a7cdefe",
-   "event_key": "d82f08833271270cecece966ed9f049f28312416",
-   "title": "김지용 중수청장 후보자 오늘 인사청문회…여당 내에서도 검증 예고",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "김지용",
-    "내에서",
-    "여당",
-    "인사청문회",
-    "중수청장",
-    "후보자"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "09f81f411329b4451a94c0f53604dfb8fc8e5053",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008796379",
-   "simhash": "7d76666867f05f1e",
-   "event_key": "622a1ce7871aaa3cb65db0fb97ac4fc9833b8645",
-   "title": "주미대사관 \"강경화 'DMZ 지뢰 발언', 정전협정 위반 강조 취지\"",
-   "source": "SBS",
-   "category": "kr",
-   "tokens": [
-    "dmz",
-    "강경화",
-    "발언",
-    "정전협정",
-    "주미대사관",
-    "지뢰"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b768a7655aeed280c928775fc76f4db36bfc46f4",
-   "url": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
-   "simhash": "8c38c3166f4a56b6",
-   "event_key": "319447b50193d619eb7409d7f8c27e95ebcc6dc4",
-   "title": "Russia detains Japanese journalist, accusing him of alleged spying",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "accusing",
-    "alleged",
-    "detains",
-    "japanese",
-    "journalist",
-    "russia"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f3bef0edc2ce22793fcb54ce8f1275cd5933becf",
-   "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-   "simhash": "6a90c595f4e277ae",
-   "event_key": "32fdce3f4eaed78ecb2fc0ddb64dc4de395469a7",
-   "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "kyiv",
-    "plant",
-    "power",
-    "russian",
-    "strikes",
-    "zelensky"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ee3e6474303a28fd67d5acd9a6e8c8df75b8568e",
-   "url": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
-   "simhash": "248a110548c281b1",
-   "event_key": "f2dddfe31715783146e35ea562f1b1ab1f243787",
-   "title": "Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "burnham",
-    "host",
-    "show",
-    "solid",
-    "support",
-    "zelenskyy"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "5b3def2aa099a679128627128493f80545f1e948",
-   "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
-   "simhash": "ae665318619f2f7d",
-   "event_key": "7d1d8caf27d2eeb35dab7a7d00be74b57c8606ec",
-   "title": "Trump says Houthis trying to increase oil prices before US elections",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "before",
-    "elections",
-    "houthis",
-    "increase",
-    "prices",
-    "trying"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "6aeb75a31dc6fdb5d13d1d9743fbeedbcd651241",
-   "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
-   "simhash": "069a244680650397",
-   "event_key": "c04ade795f82c79a4be643f8374e5fe3e8147a32",
-   "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "bringing",
-    "china",
-    "companions",
-    "lonely",
-    "talk",
-    "warmth"
-   ],
-   "sent_at": "2026-10-14T10:29:11+09:00",
-   "followup_count": 0
-  },
   {
    "url_hash": "e422d5ed36814fbc0b7ef8ba7849d220df092706",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
@@ -13152,6 +12401,384 @@
     "폐암"
    ],
    "sent_at": "2026-11-16T11:29:17+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "776157cf22e3ea278c2650bc36b5f964daad26b1",
+   "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+   "simhash": "8d2ad10e95d08935",
+   "event_key": "26bddcf900125f2fef9604e753b020d48227a27f",
+   "title": "Model ML raises $250M to automate investment banking grunt work",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "automate",
+    "banking",
+    "grunt",
+    "investment",
+    "model",
+    "raises"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b4420b34b7621c1f9631f48bdb60ddfa2552bed2",
+   "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+   "simhash": "6316b1dbe35e0721",
+   "event_key": "39f375e3e5dc0c8ef14729cb8096fbe3a786afbc",
+   "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "altman",
+    "deepfakes",
+    "even",
+    "instagram",
+    "safe",
+    "sam"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6ab4eb3121ad6e1222a44766f1d52453a0c00990",
+   "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+   "simhash": "249d702e7c1f01ec",
+   "event_key": "8944f4f291754d14adfc59da889974136563df2f",
+   "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "alternative",
+    "arrives",
+    "chatgpt",
+    "desktop",
+    "focused",
+    "privacy"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "f5403d7bcd37d29db45309f0280cc0c0d493f355",
+   "url": "https://www.etnews.com/20261117000384",
+   "simhash": "7a878b300046548c",
+   "event_key": "708a350f0e1b989aea1f55e7eec675b8fdb41a33",
+   "title": "손짓 한 번에 스스로 찾아오는 'AI 물류 로봇'",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "로봇",
+    "물류",
+    "번에",
+    "손짓",
+    "스스",
+    "찾아오"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0488c951c7292232f15faa7e7a24755077b6edf3",
+   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+   "simhash": "bfed14a8b75c0790",
+   "event_key": "fe1a839f1460a5f44a194c0783b9d51118149efa",
+   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "source": "The Verge AI",
+   "category": "ai",
+   "tokens": [
+    "agent",
+    "becomes",
+    "free",
+    "google",
+    "spark",
+    "tasks"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d26a7bde3e3fbfaa723d8e0f28fabc823df101b4",
+   "url": "https://platum.kr/archives/298823?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b3%25b5%25ea%25b3%25b5%25ea%25b8%25b0%25ec%2588%25a0%25eb%25a1%259c-%25ec%25b0%25bd%25ec%2597%2585%25ed%2595%259c-%25ea%25b8%25b0%25ec%2597%2585-%25ec%2583%2581%25ec%259e%25a5-%25ec%259a%2594%25ea%25b1%25b4%25ea%25b3%25bc-vc-%25ed%2588%25ac%25ec%259e%2590-%25ea%25b8%25b0%25ec%25a4%2580%25ec%259d%2584-%25ed%2595%259c",
+   "simhash": "ff61504eafb502d0",
+   "event_key": "2160993036c748a77894ba6c74dd42128a5f0190",
+   "title": "공공기술로 창업한 기업, 상장 요건과 VC 투자 기준을 한자리에서",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "공공기술",
+    "기업",
+    "상장",
+    "요건",
+    "창업한",
+    "한자리"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "da2e79598f4df2c38d8ae3e1480d7d6fec8dbccc",
+   "url": "https://platum.kr/archives/298795?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25eb%2594%2594%25ec%259d%25b8%25ed%2585%258c%25ed%2581%25ac-338%25ec%2596%25b5-%25ec%259b%2590-%25ec%258b%259c%25eb%25a6%25ac%25ec%25a6%2588c-%25ec%259c%25a0%25ec%25b9%2598-ai-%25eb%25a1%259c%25eb%25b4%2587%25eb%2582%25b4%25ec%258b%259c%25ea%25b2%25bd-%25eb%2584%2598%25ec%2596%25b4",
+   "simhash": "4ac7b56cff5e7fe5",
+   "event_key": "2bd759266f425e725587f5bc50b3fa61529d63a7",
+   "title": "메디인테크, 338억 원 시리즈C 유치… AI 로봇내시경 넘어 수술로봇 개발",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "개발",
+    "넘어",
+    "로봇내시경",
+    "메디인테크",
+    "수술로봇",
+    "시리즈"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "bec78e9702b1517e441d1104662360a47acad1d7",
+   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "simhash": "eb87588b170d87b0",
+   "event_key": "cff66eda2501a33e472c06cda09cb3cca9182a0b",
+   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "corma",
+    "cybersecurity",
+    "months",
+    "reaches",
+    "startup",
+    "valuation"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a62b54b5d8683ec7e9d6c3ac08cb44a5651e8920",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qTkM5eWV4MFFqd2lOQXRUYTR4bzlhcV9MaDk3cllsSUhqbGhFWmxaem1fQjlNWTdYYmVwNUxZVEtiM3JIZWxRdHRyVHpJUQ?oc=5",
+   "simhash": "af1eb90ac4eaf9bd",
+   "event_key": "a296cff098916ff53107d455c98e96821e678f7b",
+   "title": "소상공인 10명 중 3명 폐업도 제때 못해…빚·인수자 부담에 평균 16.7개월 소요",
+   "source": "전자신문",
+   "category": "biz",
+   "tokens": [
+    "개월",
+    "못해",
+    "부담",
+    "인수자",
+    "제때",
+    "평균"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "3da82e8464b9048f538e74a780b8caa51a82289d",
+   "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+   "simhash": "2a70d62724c062a3",
+   "event_key": "85ce544bd78fc8573ff35810cdaa1ea83d23e965",
+   "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "disclosing",
+    "nvidia",
+    "revenues",
+    "sales",
+    "singapore",
+    "stopped"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6bed2ca6b3758a4cb714c90e0bd7067aa8f713e6",
+   "url": "https://www.yna.co.kr/view/AKR20261118098800053",
+   "simhash": "27a8b82892004d00",
+   "event_key": "653da741f698b6452154d2cfabaa6093234b74c9",
+   "title": "경찰, '공무원 동원 당원모집' 권기창 안동시장 구속영장 신청",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "경찰",
+    "공무원",
+    "구속영장",
+    "권기창",
+    "당원모집",
+    "안동시장"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "1a46a55a31273f291cde2b23f774f3043bc7a641",
+   "url": "https://www.yna.co.kr/view/AKR20261118097300001",
+   "simhash": "cfc38877e2f27188",
+   "event_key": "21ec59a19a0f411b5d7131133ee2f360cecf5e9a",
+   "title": "국힘, 與민주유공자법 추진에 \"내일 상정법안 모두 필리버스터\"",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "민주유공자법",
+    "상정법안",
+    "추진",
+    "필리버스터"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "cd307be1ef34b6a9ae9c09523568c61494f62e90",
+   "url": "https://www.khan.co.kr/article/202611181208001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "5a46ea1bd4a3cde8",
+   "event_key": "096702c4ed33addd372e9e475efe4c5acf0c1f30",
+   "title": "오세훈 “세운4구역 소송, 국가유산청 반드시 질 것···정치적 목적 행정농단”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "국가유산청",
+    "반드시",
+    "세운",
+    "오세훈",
+    "정치적",
+    "행정농단"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4cd9695e62b1c1ddcb23de725a0eb0e116ef773e",
+   "url": "https://www.khan.co.kr/article/202611181119001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "d8c80f2fd9fa3bba",
+   "event_key": "cd61898989c9eb514e372219e633dafa902e26e4",
+   "title": "미 전문가 “김정은, 중국 전용기 탈 수도”···북·미 회담 가능성 작지만 희망 섞인 관측 솔솔",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "가능성",
+    "김정",
+    "수도",
+    "전문",
+    "전용기",
+    "중국"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4170e7efdeb8b724369483487bdb38b35cc055c1",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851394",
+   "simhash": "6327cff62f92ab1c",
+   "event_key": "3a6caf6d1d889a4a9021872df9671806a4329e76",
+   "title": "국힘, 이 대통령 수능 포상금 지시에 \"사시 어떻게 합격했는지 의심스러워\"",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "국힘",
+    "어떻게",
+    "의심스러워",
+    "지시",
+    "포상금",
+    "합격했는지"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d605c6185bec7d6b7f645a0e351ed252b6ffd262",
+   "url": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race",
+   "simhash": "e0c5b85b9a8d19c1",
+   "event_key": "8a98748b3b13b06fc1ab8749b0340a297276d74f",
+   "title": "Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats 56 Senate seats",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "alaska",
+    "democrats",
+    "peltola",
+    "republican",
+    "senate",
+    "sullivan"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6355b1e930409e2113057f46cc50a5b18f032379",
+   "url": "https://www.yna.co.kr/view/AKR20261118097400073",
+   "simhash": "270eae57429b6a2e",
+   "event_key": "9c973b8971b42bddf708d3eb33f28453c6208713",
+   "title": "미중러 '빅딜'에 소외될라…'신얄타 체제' 우려에 속 타는 일본",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "미중러",
+    "빅딜",
+    "소외될라",
+    "신얄타",
+    "우려",
+    "체제"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0d16dbbdfa58eb66e386126214579085a8465445",
+   "url": "https://www.yna.co.kr/view/AKR20261118071552009",
+   "simhash": "dfc89f6fa6e3705a",
+   "event_key": "88ec9848b7a340a9de1ea547a97da0c25616ff71",
+   "title": "美국무 \"트럼프, 북미 정상회담에 진지…성사 안 될 수도\"(종합)",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "국무",
+    "북미",
+    "성사",
+    "정상회담",
+    "진지",
+    "트럼프"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "355946cc040d35e2f9fe451ca49b835bcc9bb883",
+   "url": "https://www.theguardian.com/world/2026/nov/18/brexit-work-travel-rules-urgent-improvement-cbi",
+   "simhash": "01261a90bd42146b",
+   "event_key": "620eac957e81bd47482a2b6c02c103a4d58636ea",
+   "title": "Brexit work travel rules need urgent improvement, say UK business leaders",
+   "source": "The Guardian",
+   "category": "world",
+   "tokens": [
+    "brexit",
+    "business",
+    "improvement",
+    "leaders",
+    "travel",
+    "urgent"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0f45a7c6a244b65d25a9f40dd12ca1a9663d4531",
+   "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
+   "simhash": "25581e1f15d845cd",
+   "event_key": "7187bddaa9b5f1d68801d152728f32a61e993b8c",
+   "title": "What is Trump hoping to achieve at APEC meeting in China?",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "achieve",
+    "apec",
+    "china",
+    "hoping",
+    "meeting"
+   ],
+   "sent_at": "2026-11-18T12:57:11+09:00",
    "followup_count": 0
   }
  ]
