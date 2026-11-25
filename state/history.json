@@ -1,758 +1,7 @@
 {
  "version": 1,
- "updated_at": "2026-11-23T12:22:44+09:00",
+ "updated_at": "2026-11-25T14:09:39+09:00",
  "entries": [
-  {
-   "url_hash": "0e19bec78e364455f491b685a07a59716d399135",
-   "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-   "simhash": "65bf911e1e341e0f",
-   "event_key": "da19dd0b770771294b46ada3928554b3c5cd58dd",
-   "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "agents",
-    "frontier",
-    "insider",
-    "microsoft",
-    "threats",
-    "trusted"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "bdf125d2211872f3cc68af210b9be1e6f52139eb",
-   "url": "https://www.etnews.com/20261020000020",
-   "simhash": "4bd43504f50cf270",
-   "event_key": "221da5962cdd408ea8f203946731d9479e8a7d84",
-   "title": "MS, AI 에이전트 내부자 위협 대응 강화…실시간 감시·권한 통제",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "강화",
-    "내부자",
-    "대응",
-    "실시간",
-    "에이전트",
-    "위협"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "141841bfba33c1b9aa6a1f5a87e3521c64e988e9",
-   "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-   "simhash": "b93aaf9b5d586cd1",
-   "event_key": "6ea8d319cf83da19f4d799ba1ae8026231425e9e",
-   "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "accounts",
-    "charges",
-    "coding",
-    "hackers",
-    "opencode",
-    "running"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "34e3380a24681e5351d159be8b76f01897ecb141",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4bkJOV3o5ZVNmWGgwa1BCZVppVGRfYmFXLWVxM2xoRzc5Njh0UGNOWEZWZFpqVmRqR0ZPVkpuOGNkYWNKUGgyQmdMZkFsY3ZkZk13QTdyRVVFQnJMTjMtdQ?oc=5",
-   "simhash": "816cd10b6fc87de3",
-   "event_key": "de91c80ceaf65fec1da53316fea75ef7dff34ea3",
-   "title": "李대통령, 반도체·AI·로봇 규제 손질…23일 범정부 규제합리화 회의",
-   "source": "아시아경제",
-   "category": "ai",
-   "tokens": [
-    "규제",
-    "규제합리화",
-    "대통령",
-    "로봇",
-    "범정부",
-    "손질"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "fce96817697ab621f3b17caf768814e9fbb640cb",
-   "url": "https://www.etnews.com/20261020000002",
-   "simhash": "33f191c07364af5d",
-   "event_key": "59db6279d4aeeeef55994470363777592768149b",
-   "title": "오픈AI 회의실 도청 혐의자, 사우디 왕족 AI 프로젝트 합류 타진",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "도청",
-    "사우디",
-    "오픈",
-    "프로젝트",
-    "혐의자",
-    "회의실"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b6e05ef72beb3a2b84d9ce22b845e3e6e99cbed4",
-   "url": "https://platum.kr/archives/296538?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25ac%25ec%258f%2598%25ec%25bc%2580%25ec%2596%25b4-34%25ec%2596%25b5%25ec%259b%2590-%25ed%2594%2584%25eb%25a6%25aca-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598%25ec%25b9%25b4%25eb%25a9%2594%25eb%259d%25bc%25eb%25a1%259c-%25ea%25b4%2580%25ec%25a0%2588-%25ec%259e%25ac%25eb%258a%2594",
-   "simhash": "180156006211bac9",
-   "event_key": "4cb7bbe19a72fd18df79667217bb53a78d90f3f8",
-   "title": "올쏘케어, 34억원 프리A 투자 유치…카메라로 관절 재는 재활 AI 확증임상 착수",
-   "source": "Platum",
-   "category": "biz",
-   "tokens": [
-    "억원",
-    "올쏘케어",
-    "유치",
-    "카메라",
-    "프리",
-    "확증임상"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "78900e996773aeb5701859dcab207e6880a27ac2",
-   "url": "https://platum.kr/archives/296521?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b4-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%25a7%2580%25ec%259b%2590%25ed%2595%25b4%25eb%258f%2584-%25eb%2590%25a0%25ea%25b9%258c%25eb%25a7%25a4%25ec%25b6%259c%25c2%25b7%25ea%25b3%25a0%25ec%259a%25a9-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25eb%25a1%259c",
-   "simhash": "683b30e927eba259",
-   "event_key": "7e1b2546d270d3191e635e82ce9dc92ec51a7c3b",
-   "title": "이 스타트업, 지원해도 될까…매출·고용 데이터로 채용 공고 분석하는 ‘혁신의숲 career’",
-   "source": "Platum",
-   "category": "biz",
-   "tokens": [
-    "career",
-    "데이터",
-    "될까",
-    "분석하",
-    "지원해",
-    "혁신의숲"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "8a61882c5d2faa281d33683faa309c1df71e993a",
-   "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-   "simhash": "0abe19535fa5a460",
-   "event_key": "63b0433fd53a4b3756be7024d3520fd1f8c77358",
-   "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "assistant",
-    "launch",
-    "months",
-    "startup",
-    "unicorn",
-    "valuation"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "8e039ae7d55f6de60f92030fb9e08e0d41c80f16",
-   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQc1Rlc0Q1d0ZhWWViZmNxR0h0MFhwbW00bVlheF84dXJDWHRLckhlcDY4U0tBZjJwdHBGY0Rualo3S1hmV3lmY1RnUHBqMGlFLVdjSEMwcHFRM0lEWjB0RjdBOE03ZTdMVFVzem9aWUNXc2xXRUx4OTZpLUVsVUdhd0hmcVU1bmc3cWpDR2lwZzhmT0VaU2lFdnBoLTVKUGZ5cWxSYW50NWFvLVpyT3Q2M094andFeWxGRllxdF9NNkFseklGN1BVWmpCTkpnT25tTV9CQm10VHdyb3Vza3ZHN0U3YzlnemQ2dGlibWxXcU1ydDlJRFVITkNwX09BdUowLV82NXZvSHlWOXgyZVRXTG1lZi0wVVZ6?oc=5",
-   "simhash": "ae656e9e1f0ebab1",
-   "event_key": "141d8d1d52d4c4f0fcbbcca97d5c277fbf689a3d",
-   "title": "서울 강남구, 소상공인 지원 플랫폼 출시…맞춤형 사업 추천·상권 분석 제공",
-   "source": "데일리안",
-   "category": "biz",
-   "tokens": [
-    "강남구",
-    "맞춤형",
-    "사업",
-    "서울",
-    "출시",
-    "플랫폼"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "e3ef569967110d0cce9be6a2ab255bbd9fec29a5",
-   "url": "https://josie.lol/blog/linux-rtx-spark",
-   "simhash": "f3380df77fecaeb7",
-   "event_key": "631e99b8ba8d8200e58da42e4c4749dd8370ef7f",
-   "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-   "source": "Hacker News",
-   "category": "biz",
-   "tokens": [
-    "account",
-    "because",
-    "laptop",
-    "linux",
-    "microsoft",
-    "putting"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "588e17d4090de8aa6000960191b2b7be3af35e13",
-   "url": "https://www.yna.co.kr/view/AKR20261020055600001",
-   "simhash": "ce4e500198e63377",
-   "event_key": "822a7737b261fb14c0d97583cf36c900e3e43638",
-   "title": "국힘 \"與, 추미애 '빨대' 부승찬 '쭉쭉' 망언 최고징계해야\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "국힘",
-    "부승찬",
-    "빨대",
-    "쭉쭉",
-    "최고징계해야",
-    "추미애"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ded6cfa48a1339b35fe89021926e4dde4c16b508",
-   "url": "https://www.khan.co.kr/article/202610200947001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "119a2e4e84946881",
-   "event_key": "c24a202cf768cf895246983151ba8eb7a4b11b41",
-   "title": "[속보] 합참의장 “북, 적반하장식 전가 용납 못해…추가 도발시 단호히 대응”",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "단호히",
-    "도발시",
-    "용납",
-    "적반하장식",
-    "전가",
-    "합참의장"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "34513ba10065e2bbef3edf3c2f3fcc0c596e027b",
-   "url": "https://www.khan.co.kr/article/202610200845001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "0aa0a9804b8f446a",
-   "event_key": "bef2b8f57483390e49c4d0da514678d1433a5997",
-   "title": "유튜브 세계도 ‘승자독식’···상위 10%가 전체 수입 76% 챙겨",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "상위",
-    "세계",
-    "수입",
-    "승자독식",
-    "유튜브",
-    "전체"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "4d7208d0d49572f76cca52cb11ea00f620dc0bbf",
-   "url": "https://www.yna.co.kr/view/AKR20261019173500001",
-   "simhash": "b9e9750bcab91240",
-   "event_key": "31daac512e1c2589c105b1f743ceadf22ff09a9c",
-   "title": "김민석, 강릉 ITS 세계총회 방문…내년 보선 앞두고 민심공략",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "강릉",
-    "김민석",
-    "민심공략",
-    "방문",
-    "세계총회",
-    "앞두고"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f56e24add5d549f5612bd65f37534d82fc0d9f59",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805495",
-   "simhash": "4a72d130bdd589d6",
-   "event_key": "ca5b2197b5f427f21cee47efa8183a69e4fbc4b1",
-   "title": "[정치쇼] 신장식 \"구조적 다수? 그렇게 가기로 했다면 조국혁신당에 서운해하지 말라\"",
-   "source": "SBS",
-   "category": "kr",
-   "tokens": [
-    "구조적",
-    "그렇게",
-    "서운해하지",
-    "신장식",
-    "조국혁신당",
-    "했다면"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "1f04ac3ba57cc6dfe7d40046465769543aefe6bc",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-   "simhash": "0ac1424695629a5b",
-   "event_key": "8341fd9b867d1cb80efc107815573a29103257f1",
-   "title": "At Kansas rally, Trump focuses closing midterm message on anti-Muslim racism – US politics live",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "closing",
-    "focuses",
-    "kansas",
-    "message",
-    "midterm",
-    "politics"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "22d0ca62b6ca3d56adf8529e632fce6a6c8ea5cb",
-   "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
-   "simhash": "2fa4811ad59ef393",
-   "event_key": "2858ee7d4e67e5877880a7df7c88bffe1bc9f956",
-   "title": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "deploy",
-    "luxury",
-    "milan",
-    "prepares",
-    "protests",
-    "troops"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "8160725fecce15ab3db36f6355897480110a11ff",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
-   "simhash": "6679d0eff85e656a",
-   "event_key": "1274c3b8ab9504493f1402dd83217e9bacdf3b8d",
-   "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "economically",
-    "hits",
-    "iran",
-    "live",
-    "militarily",
-    "trump"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "da0daa90beed7dc8849025e2aa44f2ac857c7d71",
-   "url": "https://www.yna.co.kr/view/AKR20261020025800009",
-   "simhash": "20d657fa69573ae0",
-   "event_key": "eabf385fd3b7248fc1049d307ff0822c6c13bd00",
-   "title": "트럼프의 압박수단일까…우크라 \"위성통신·정보공유 제한 여전\"",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "압박수단일까",
-    "우크라",
-    "위성통신",
-    "정보공유",
-    "제한",
-    "트럼프"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "13f0ac9bb12133f881a46928d238ac97e0949dfa",
-   "url": "https://www.yna.co.kr/view/AKR20261020006900071",
-   "simhash": "b014484751800743",
-   "event_key": "fbabd5534c75ab8f8508071ccb1b0f8893cd1d93",
-   "title": "트럼프, '젤렌스키 배제' 종전협상론…\"푸틴·시진핑과 회담 용의\"",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "배제",
-    "시진핑",
-    "젤렌스키",
-    "종전협상론",
-    "트럼프",
-    "푸틴"
-   ],
-   "sent_at": "2026-10-20T10:21:46+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b6629abae55b8c83edc91fa400f5ef26eebb92ca",
-   "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-   "simhash": "713f3597cf99a4f6",
-   "event_key": "3a38473d02f2f6e75f7f5ed3df4755c3ee333890",
-   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "anthropic",
-    "block",
-    "killed",
-    "people",
-    "pitches",
-    "safety"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "aeaa448f66c5e86ea1656d089968836d1f404b17",
-   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-   "simhash": "893a391bb3df0038",
-   "event_key": "7f679ca42bbc084baf7ed2ed679a051feccc7c5d",
-   "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "acquires",
-    "biotech",
-    "business",
-    "openai",
-    "orchestra",
-    "startup"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ec31e6fc5c0ba3934e701f7b8cad40feb6e2c5a0",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-   "simhash": "a9f7dbb3efab076a",
-   "event_key": "1bf49cf2773e289b660f142ad819f98ba017dc7c",
-   "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "altman",
-    "dismisses",
-    "judge",
-    "lawsuit",
-    "sexual",
-    "sister"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "42ee40efa03786400b00f81c6584a1757ff3293a",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiSE45SGtxZTVlSDRpUG4zdWdzaUdVNW92a0o1OU1TYkZ4Vk4tTm5IR1NHdnZHMjNFMm5rX3A5SlcxYXR0Uk1vMDJSaF9rMTQzR25WUFktRXM3OWNkNGJKV0UyWmI5Z3c?oc=5",
-   "simhash": "8f2981c1816b9b30",
-   "event_key": "6556cb5104c7f0f029f43159729598efe2304f21",
-   "title": "고객에게 먼저 전화하는 AI 에이전트...채널톡, AI 전화 상담 ‘보이스 알프’ 정식 출시",
-   "source": "인공지능신문",
-   "category": "ai",
-   "tokens": [
-    "고객",
-    "먼저",
-    "보이스",
-    "에이전트",
-    "전화하",
-    "채널톡"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "5ed43860b2e69fceb1ed0656a310aaf5277732e9",
-   "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-   "simhash": "95e4163b38a15e6d",
-   "event_key": "c40a19fc779727bb093f8e6a2eff3edd39946806",
-   "title": "Google’s more personalized Gemini AI is heading to your car",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "car",
-    "gemini",
-    "google",
-    "heading",
-    "personalized",
-    "your"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "71cf1cd6b4bb450d73d2e607c912aa1cdf597d22",
-   "url": "https://www.venturesquare.net/1121490/",
-   "simhash": "3e4163164f8112d1",
-   "event_key": "c2cdf51cd65f4db6098bceaaf00f1274085a7e6b",
-   "title": "엔지틴, 단백질 기반 스킨케어 ‘더마튠’ 피부과 입점…시술 후 관리 시장 진출",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "기반",
-    "단백질",
-    "더마튠",
-    "스킨케어",
-    "엔지틴",
-    "피부"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "7c70e2659721cbfb137867ac9d6fe6e7a8f07739",
-   "url": "https://byline.network/2026/10/20-661/",
-   "simhash": "8d56e8189f5c6350",
-   "event_key": "9b4979fc9117abb9a691862c50e5f3da102b30aa",
-   "title": "SAP코리아 “유망 중소・중견기업 ERP 도입 파격 지원한다”",
-   "source": "바이라인네트워크",
-   "category": "biz",
-   "tokens": [
-    "erp",
-    "sap",
-    "유망",
-    "중견기업",
-    "중소",
-    "코리아"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "a8d6030b440a267722dd6c4cfc5d10ebbd7ec528",
-   "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-   "simhash": "02b3bd180d243d72",
-   "event_key": "37ea23198e1ad78067b1378d5d907dfef0ae2d56",
-   "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "assistant",
-    "built",
-    "disrupt",
-    "founder",
-    "pitched",
-    "replika"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "c6fd953819ac6af1b8c6b296f0bbb5910ffa7fe0",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OZFF1Mmw2SHc0dXNHSmo5SWhTejdrQ1pTZkRQLVFrQklaTU5sVHRHeWhLQVE0b0tQcy1rZW4waXRBLXhsdnlnRnRsdDBvRjBTbVRaWk5DOXItNDRhT0RfYdIBeEFVX3lxTE8xM1M3NEo1ZGt4aU55VEsxcWF6T3BUeWR3U1VBZmVFUVpGb0pTZ21LSE1mMnlsRmtiYl8xYW5adzR1R2d5aWZpX1o0Q3hIQ0Y3M1RhUnk5MDhId2c1TDd3ODc5c0x4ZXZHMjFFNEFRVHRPNkt5TGEtTQ?oc=5",
-   "simhash": "83770f5c3fba789b",
-   "event_key": "4e5d549bc00748e473531a2f5e2e997797657b12",
-   "title": "\"소상공인 사업 절반가량은 실집행률 70% ↓\"",
-   "source": "뉴시스",
-   "category": "biz",
-   "tokens": [
-    "사업",
-    "실집행률",
-    "절반가량"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "3e2f3407495458f5a1e8e188d50d894e0ddb22a0",
-   "url": "https://permit.petercai.com/",
-   "simhash": "77649a8a660c9d6c",
-   "event_key": "c5ddcc88542eef8f4b81204fea744aeaa1c13dec",
-   "title": "SimCity, but with Permits",
-   "source": "Hacker News",
-   "category": "biz",
-   "tokens": [
-    "permits",
-    "simcity"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "a4e4097058620daa494909e9c444b48d992f0289",
-   "url": "https://www.khan.co.kr/article/202610210828001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "30605850d5272f20",
-   "event_key": "12a8cf2dcb53428357e6395a0b29ef3bd2bb7870",
-   "title": "미 재무 “민주당은 ‘트럼프 관세’ 막을 방법 없어”···중간선거 결과 무관 관세 유지 시사",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "관세",
-    "막을",
-    "민주당",
-    "재무",
-    "중간선거",
-    "트럼프"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "bf6a1c95d0223b3fdc5ba1db193f3c760e9406eb",
-   "url": "https://www.mk.co.kr/news/politics/12181404",
-   "simhash": "817753a829507d22",
-   "event_key": "b98b3a9253dbedb844f7c188c9a8b144a8c69831",
-   "title": "김민석 “정권 재창출이 성적표”…이 대통령 ‘구조적 다수론’ 힘 싣기",
-   "source": "매일경제",
-   "category": "kr",
-   "tokens": [
-    "구조적",
-    "김민석",
-    "다수론",
-    "성적표",
-    "재창출",
-    "정권"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "5667ad25e80862c1f1f9762ab099a6bb6468e026",
-   "url": "https://www.khan.co.kr/article/202610210741001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "df55be48bd24bd04",
-   "event_key": "af7011c56977d354d259bbb5388d04ddba03ec0d",
-   "title": "‘우크라 스타실드 속도 제한’ 머스크 지시였나···헤그세스 “우리는 지시 안내렸다” 부인",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "머스크",
-    "스타실드",
-    "안내렸다",
-    "우크라",
-    "지시였나",
-    "헤그세스"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b2ab0cd4b3ce83e291303ae297a6a36cd77bfb16",
-   "url": "https://www.yna.co.kr/view/AKR20261021045000001",
-   "simhash": "6ba1ac86a338e729",
-   "event_key": "a83b18a2c93bf49603c8826cc08f39235b11f207",
-   "title": "정점식 \"경찰 질타하며 개혁 부르짖지만 말고 청장 임명해야\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "개혁",
-    "경찰",
-    "부르짖지",
-    "임명해야",
-    "정점식",
-    "질타"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "62c6e725adf3a7d0463eea5a22f568f19fcf4f71",
-   "url": "https://www.yna.co.kr/view/AKR20261021039100001",
-   "simhash": "0921d5c2f2525028",
-   "event_key": "8f8e0e98228d8ab82c1dca945ee3aff35026f4a9",
-   "title": "김민석 \"초광역특구법 최우선 입법…52시간제 합리적 대안 도출\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "김민석",
-    "시간제",
-    "입법",
-    "초광역특구법",
-    "최우선",
-    "합리적"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f104bcff40114c9efced185f35ca57ced1d59eb4",
-   "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
-   "simhash": "94265802114e8590",
-   "event_key": "55f76c07ee0884107f347bcb2992c9d7d0302844",
-   "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "care",
-    "deal",
-    "done",
-    "peace",
-    "pressures",
-    "ukraine"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "4f5288a2a6bd8182512bcbc2d529952770f3ce55",
-   "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
-   "simhash": "2625f5df7fbd9daf",
-   "event_key": "522b9fc08c698845a87ffd95bd6d5fe9cca86ef9",
-   "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "ahead",
-    "commits",
-    "elections",
-    "high",
-    "midterm",
-    "stakes"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "21db982e4de728247c2d6c3164b948df77925903",
-   "url": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
-   "simhash": "78626512c4ba4328",
-   "event_key": "c6bb3b2b1ba0a894dd24c076d115468b1e824839",
-   "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "intelligence",
-    "resumed",
-    "russian",
-    "sharing",
-    "ukraine",
-    "zelenskyy"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "96c8799ef79ca2fda496b1daae79958cf409139f",
-   "url": "https://www.yna.co.kr/view/AKR20261021004751071",
-   "simhash": "2801d376d7c80503",
-   "event_key": "a680c6569ae78f1c48fc11561d68f723ba15c01b",
-   "title": "트럼프 \"러시아는 거대한 나라…젤렌스키, 종전 합의해야\"(종합)",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "거대한",
-    "나라",
-    "러시아",
-    "젤렌스키",
-    "종전",
-    "합의해야"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "d53aa0e76c50bfbb613272f01b9fe57cb828ed61",
-   "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
-   "simhash": "03205038470716b8",
-   "event_key": "a1a97e4a79091d4b4f1afb826a077bf8bf5b2a42",
-   "title": "Is Donald Trump ready to do business with Myanmar?",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "business",
-    "donald",
-    "myanmar",
-    "ready"
-   ],
-   "sent_at": "2026-10-21T10:08:45+09:00",
-   "followup_count": 0
-  },
   {
    "url_hash": "3045f0c286fabaa783fdc4f66f92b7fe1ce9ba70",
    "url": "https://www.etnews.com/20261022000024",
@@ -12775,6 +12024,381 @@
     "war"
    ],
    "sent_at": "2026-11-23T12:22:44+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7c93f8279c4b9588172e04fd261363d9a085e9c9",
+   "url": "https://www.etnews.com/20261125000227",
+   "simhash": "d9aa2f8d2e1edc1f",
+   "event_key": "a4d0a55d3ae5a5d21c8c6492efd2175415e9564f",
+   "title": "오픈AI·앤트로픽, 인간 통제 벗어난 초강력 AI 미공개 의혹",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "미공개",
+    "벗어난",
+    "앤트로픽",
+    "오픈",
+    "인간",
+    "초강력"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "71615ee1ebfde34573cc0ca80d61b2954451a819",
+   "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "simhash": "7b729b0e14771506",
+   "event_key": "942a3a3649ec6410e04c485202ecad00a6d06eb0",
+   "title": "Even the best AI agents struggle with everyday life",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "tokens": [
+    "agents",
+    "best",
+    "even",
+    "everyday",
+    "life",
+    "struggle"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "ba8ab74438f5d836e94b7e0d371fc3e49072775c",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12VG5ad0Rpc3VpVVF3b2ZFQl94UmFFZnVfMlhYOXZONzNCclBydjJFTTdId3FfWktHdWdycWNQX2NNSm9yNjY2STZhc0x0dXJtWlN6cGxlN3ViRHhxTDlxb3dyS2hfV2M?oc=5",
+   "simhash": "2c06c72aa25ff331",
+   "event_key": "df5009711d014e35735836cb94c16a6a68669b03",
+   "title": "화웨이, 美 재판 9개 혐의 중 7개 유죄…조직범죄 공모는 무죄, \"미중 AI·반도체 기술 패권 경쟁에 미칠 영향 주목\"",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "공모",
+    "유죄",
+    "재판",
+    "조직범죄",
+    "혐의",
+    "화웨"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e44b052b1931911fe106d5f3344dca02f76e061b",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vY1NPLTFlOFFIV2pjWHNlZDg0YXdCNDFUOTU3RU45T1dqNTJMbzdwUk5sbEJJYjN6bGxMM0ducmVMM1BEeW9wWDNxYjRZSHJyQ3ptSmptWkc0S1nSAWBBVV95cUxPdUJ2VGVHQmVndkZZUXllM1lKYlhlMVl6MzRlYU5IYTNLT1pNdVZwLXlCSmJkeHVySW50ZjdZZUNuXzhoM1Q2WENIWkplaC1TbnhTbXE5eURzeWlGNFVYM1Y?oc=5",
+   "simhash": "15e0a6f5a13caf20",
+   "event_key": "c63d834b6642bb5874ddb4ef168eacda91b91bba",
+   "title": "EBS, 생성형 AI 기반 애니메이션 5편 내달 순차 방영",
+   "source": "연합뉴스",
+   "category": "ai",
+   "tokens": [
+    "ebs",
+    "기반",
+    "내달",
+    "생성형",
+    "순차",
+    "애니메이션"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "09674db67e33fc38c23d3f7be27caac14a26c8c8",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRc2dKNE5SbTR3TXpiQTZCOXI1bVJMcDJDazVQNy01UUgtNWRYbWFoa0w5Ym1BalF2SEU4M01EdHhZWTgzbVJrSFlENHpXd1lpRUE4SUZldUdyTDJGZmRSZHJsQmc?oc=5",
+   "simhash": "360c4b5e371e4f1c",
+   "event_key": "af8bbf48aafa1b080d7f97ef91b0aef90331fda8",
+   "title": "포천시, 인공지능 업무비서 '포비' 도입…생성형 모델 여러 개 한곳에서 활용",
+   "source": "서울경제TV",
+   "category": "ai",
+   "tokens": [
+    "도입",
+    "모델",
+    "생성형",
+    "업무비서",
+    "포비",
+    "포천시"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "819f0d552a4a8c360eab338e8cc114cc4aa6aacc",
+   "url": "https://platum.kr/archives/299376?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2588%2598%25eb%258f%2584%25ec%258b%259c%25ec%2584%25a4-%25ec%2597%25b4%25ec%2596%25b4-%25eb%25b3%25b4%25ec%2595%2588-%25ec%258b%25a4%25ec%25a6%259d-%25ea%25b8%25b0%25ec%25a7%2580%25ea%25b5%25ad-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25eb%25a1%259c-%25ec%25a1%25b0%25eb%2582%259c%25ec%259e%2590-%25ec%2588%2598",
+   "simhash": "80eb05a1b4d532c6",
+   "event_key": "6e322f0ad1e787970cf425b4e9352a07c3a937fa",
+   "title": "수도시설 열어 보안 실증, 기지국 데이터로 조난자 수색… 대·중소기업 상생협력 우수사례 10건",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "기지국",
+    "데이터",
+    "상생협력",
+    "수도시설",
+    "우수사례",
+    "중소기업"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4aa40dc8b721a4a9f0652e8edcc0b49520b42a16",
+   "url": "https://platum.kr/archives/299350?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259b%25a8%25ec%2596%25b4%25eb%259f%25ac%25eb%25b8%2594%25ec%2597%2590%25ec%259d%25b4%25ec%2595%2584%25ec%259d%25b4-30%25ec%2596%25b5-%25ec%259b%2590-%25ed%2594%2584%25eb%25a6%25aca-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598-%25ec%25a1%25b0%25ec%2584%25a0%25ec%2586%258c%25c2%25b7",
+   "simhash": "1d2f24f21cb0b2c7",
+   "event_key": "9c8ddfeec425d5560ba18f9cb56958a5dc24139e",
+   "title": "웨어러블에이아이, 30억 원 프리A 투자 유치… 조선소·물류 현장 자율주행 고도화",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "고도화",
+    "물류",
+    "웨어러블에이아",
+    "자율주행",
+    "조선소",
+    "프리"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "388f4aa5f277fc6692e37312bbc4ac3c41015348",
+   "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "simhash": "0d5a4116c9a41ed7",
+   "event_key": "8fa4890d1c02fe95eda53ad718c61bb9b06c6fb5",
+   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "agents",
+    "market",
+    "portfolios",
+    "predictions",
+    "raises",
+    "supertake"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7d1db4c2f1dcc7b327c947cae792b9bdf390aee7",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EczAyaERTdEx4YkhzeG1MXzZzQ3BhMFZSS0EwMmhEM0IxcHU2Z0lET1RsQmhSVmNWcFcyT2dZNXlBLW85elFxYThmc0loZEt0YW1RR1BEbW4tZw?oc=5",
+   "simhash": "8e37f17c2e3aba0a",
+   "event_key": "0a3262e923d02bd234c50f4f7868b2b02885754d",
+   "title": "두 차례 사업 실패가 이끈 소상공인 결제앱",
+   "source": "한국경제",
+   "category": "biz",
+   "tokens": [
+    "결제앱",
+    "사업",
+    "소상공인",
+    "실패",
+    "이끈",
+    "차례"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5ee45fc63309ecc32b708b1ffdc6ce46c1956b4c",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+   "simhash": "63c7a1d19b1d9469",
+   "event_key": "c733821f64d391c56163d1da6f91c1b9f3052106",
+   "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+   "source": "Hacker News",
+   "category": "biz",
+   "tokens": [
+    "matrix",
+    "multiplication"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b13eaa7bda9b6af748a0c57506b07a6b6c40022e",
+   "url": "https://www.yna.co.kr/view/AKR20261125101900001",
+   "simhash": "565adf97b718e840",
+   "event_key": "409ff43b6a3c150f2cadd739a1630d14e2c810db",
+   "title": "MB, 내달 2일 나경원 주도 연구단체 간담회 참석…의원들과 오찬",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "간담회",
+    "나경원",
+    "내달",
+    "연구단체",
+    "의원들",
+    "주도"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6c3228ef99096de9e4270a42e6b763c3c165f9e7",
+   "url": "https://www.yna.co.kr/view/AKR20261125092200001",
+   "simhash": "d8205cbcf9c2f30c",
+   "event_key": "bb53d5913c8ce95fbfcb1fa5c01f7d5057bb598a",
+   "title": "與, 진보野와 '曺탄핵' 연대 잰걸음…혁신당 \"일정 先확정\" 압박",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "연대",
+    "일정",
+    "잰걸음",
+    "진보",
+    "탄핵",
+    "혁신당"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "01b9c3fa3b55560782160ff8a67139e571983267",
+   "url": "https://www.khan.co.kr/article/202611251342001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "ccae0bf0ec28abf1",
+   "event_key": "d353dda258d2259571e85564dfc95c03e09a1a0f",
+   "title": "양대노총 ‘정년 연장’ 최후통첩…“연내 입법 안 되면 대화 없다”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "양대노총",
+    "연내",
+    "연장",
+    "입법",
+    "정년",
+    "최후통첩"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c44c872ad5ce8e777c8d335edac364cfa813b4cf",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862811",
+   "simhash": "66df412d41086b47",
+   "event_key": "f504c9e7d1c6b909dbadf1a5445f48c29045b539",
+   "title": "갈수록 이전투구 양상으로 바뀌는 국힘 '조작 징계' 의혹",
+   "source": "SBS",
+   "category": "kr",
+   "tokens": [
+    "갈수록",
+    "국힘",
+    "바뀌",
+    "양상",
+    "이전투구",
+    "조작"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "29d3c4cce651dcfd2a6df1363ed6ff9fae0f9787",
+   "url": "https://www.khan.co.kr/article/202611251110001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "9f70428402510603",
+   "event_key": "4386b0ce71fca1e55f867d26156c5bf37c7d14a6",
+   "title": "김민석 “조희대 대법원장 탄핵 신속 추진 위한 5당 연대 공식 제안”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "김민석",
+    "대법원장",
+    "신속",
+    "조희대",
+    "추진",
+    "탄핵"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "904ce6720643fdc65800fd09f0903c58f79bf277",
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+   "simhash": "4246de1ab77cc2b7",
+   "event_key": "f637533def9e837782ba07e13707b3f98264e3a6",
+   "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "almost",
+    "deaths",
+    "figures",
+    "russia",
+    "show",
+    "ukraine"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "7d807c2e25bb804639739080880bb61557519092",
+   "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+   "simhash": "4a3af8f84b5e1fa2",
+   "event_key": "812b86486f5e004b810eb60c9c33be5083b2a3a1",
+   "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "candidates",
+    "election",
+    "linked",
+    "network",
+    "taiwan",
+    "verify"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "0364753e3d0de9a7a1354d76da6eed4dfb4dd05f",
+   "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
+   "simhash": "44fab3de4719d903",
+   "event_key": "3873d098a8e864310ee4bb0512f1e8a79c8b1b45",
+   "title": "The Gambia election: Can the next president deliver on a decade of promise",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "decade",
+    "deliver",
+    "election",
+    "gambia",
+    "president",
+    "promise"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "dec8472fc4a0521a804f86a445ce89f4e74045fa",
+   "url": "https://www.yna.co.kr/view/AKR20261125101800083",
+   "simhash": "62d3d7366d5d0d31",
+   "event_key": "cff77272efa7cb29c1cb2b0b317c85067c0474c4",
+   "title": "中 \"트럼프, 대만독립 지지 안한다 말해\"…美에 실천 촉구",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "대만독립",
+    "말해",
+    "실천",
+    "안한다",
+    "지지",
+    "트럼프"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "229105bf1fda06790cddc58a35ab230752929f4c",
+   "url": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
+   "simhash": "4d25a7d2be984b4f",
+   "event_key": "6bae690db8c0fd04b96b9251220df1a69c8dbe22",
+   "title": "UK warns companies of potential Russian sabotage threat",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "companies",
+    "potential",
+    "sabotage",
+    "threat",
+    "warns"
+   ],
+   "sent_at": "2026-11-25T14:09:39+09:00",
    "followup_count": 0
   }
  ]
