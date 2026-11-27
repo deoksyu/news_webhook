@@ -1,757 +1,7 @@
 {
  "version": 1,
- "updated_at": "2026-11-25T14:09:39+09:00",
+ "updated_at": "2026-11-27T13:39:50+09:00",
  "entries": [
-  {
-   "url_hash": "3045f0c286fabaa783fdc4f66f92b7fe1ce9ba70",
-   "url": "https://www.etnews.com/20261022000024",
-   "simhash": "77d3ce2dfa73614e",
-   "event_key": "eda75f55d5b3ec940bfce503ab189d59ba0d714a",
-   "title": "테슬라, 3분기 매출 37조원…FSD 급증 속 AI 투자로 비용 부담",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "fsd",
-    "급증",
-    "매출",
-    "분기",
-    "조원",
-    "테슬라"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "1f413756a0cb052595fadb94475181bf01be91db",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-   "simhash": "fdf13e2a505936e4",
-   "event_key": "d48062fed029ea9b8e27c8cccd4e8ecf855fd9da",
-   "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "agent",
-    "anthropic",
-    "claude",
-    "duet",
-    "muse",
-    "takes"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "d777d785a3acdbe6277f29b211ef34a4e2ecd38e",
-   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-   "simhash": "01dc1b4d3d64dd9f",
-   "event_key": "8d61a5c082325cbae5d6cf12219d9792e16b0a7d",
-   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "coding",
-    "flint",
-    "laptop",
-    "largely",
-    "launches",
-    "recursive"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "663f3957485dcfd2d910c84d6bc14bf0899b2588",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0STJFWFZpN3A0N3BzM29hS2pQU2huZU9GZjg3Y2o1WmhfNGptZGxRV2NsOC1HR2JlYjB3c1ZsM19BNWp5c3M5VE1XMllOTGotT2Y0a2p1TlR5bnNEdXRYTDZkNW9Kc3RDZWd6cw?oc=5",
-   "simhash": "290954f2798078ca",
-   "event_key": "07eaf7507f79813c6c3311139d5efb42791d0546",
-   "title": "시선AI, 의료·바이오 본격 진출…AI 원격의료 플랫폼으로 45조원 日 시장 공략",
-   "source": "로봇신문",
-   "category": "ai",
-   "tokens": [
-    "바이오",
-    "본격",
-    "시선",
-    "원격의료",
-    "의료",
-    "플랫폼"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "70777960dbb39366c0dd305ec158138504e568c9",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03dVdBTml4VXlCX2ZUZW1DZW5QeUxOSnVJc2UtSWJxTUt2X2xCR3hteHp3R2traGtOVUxELUZjOVg1M29XRWVhejA2V2l4TkNIcUN5M2FhNUMyeFJXMzgyQlFVYi1xZGs?oc=5",
-   "simhash": "1fe04ce8084369b0",
-   "event_key": "78195d31b8856ac8fbc3c6b5cdb5de404ae4c68e",
-   "title": "엔비디아, 휴머노이드·AI 학습 기술 확대...범용 로봇 개발 위한 아이작 플랫폼 고도화",
-   "source": "인공지능신문",
-   "category": "ai",
-   "tokens": [
-    "고도화",
-    "기술",
-    "아이작",
-    "플랫폼",
-    "학습",
-    "휴머노이드"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "e5ef844a7e69de29427e0b9e0f2f1e6cba3f5038",
-   "url": "https://www.venturesquare.net/1121809/",
-   "simhash": "08d91c4e0e8e6366",
-   "event_key": "1641291d56ffe692b7d95893929a9f251d4a2814",
-   "title": "네이션에이, 85억원 시리즈A 투자 유치…AI 영상 제작 플랫폼 통합·글로벌 확장 추진",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "네이션에",
-    "시리즈",
-    "억원",
-    "제작",
-    "통합",
-    "플랫폼"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b788a70c0d6f1932f674168d67532aaa9cbde76e",
-   "url": "https://platum.kr/archives/296783?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a7%2581%25eb%25b0%25a9-%25ec%258a%25a4%25eb%25a7%2588%25ed%258a%25b8%25ed%2599%2588-%25eb%25b8%258c%25eb%259e%259c%25eb%2593%259c-%25ec%2586%258c%25eb%25a7%2588-%25ec%25b6%259c%25eb%25b2%2594-%25ec%25b2%25ab-%25ec%25a0%259c%25ed%2592%2588%25ec%259d%2580-%25ec%259e%2590%25eb%2585%2580-%25ea%25b7%2580",
-   "simhash": "4151e253c56f88ac",
-   "event_key": "8636ce20a86e53b315eaebb1cf176bd9e6fedca3",
-   "title": "직방, 스마트홈 브랜드 ‘소마’ 출범, 첫 제품은 자녀 귀가 알리는 도어록",
-   "source": "Platum",
-   "category": "biz",
-   "tokens": [
-    "도어록",
-    "브랜드",
-    "소마",
-    "스마트홈",
-    "직방",
-    "출범"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "c600bafa0bd3b3336c04da9e8d89c5c44e40bbb4",
-   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-   "simhash": "029312dfd5384700",
-   "event_key": "9c9c55d398fb1b86317ad2910f47a5474983fa03",
-   "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "airplanes",
-    "flapping",
-    "old",
-    "raises",
-    "valuation",
-    "year"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "1c8ffa56b07ec2faabddc9af6468cb1e2c9ffadc",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5kZUFNb016SWlYYkMta0cyNm1MenBJNGNUUHZ0Y1VXcktDNTNEUUNiNm1OaUhUbTd2aEtKcFR2MHFUOGJYSlE?oc=5",
-   "simhash": "8c64dc9a832d3b41",
-   "event_key": "81dbfe6d6a9da25700285b4f67bd9f20046daf9a",
-   "title": "한유원, 상품개선 지원사업 참여 소상공인 간담회 개최",
-   "source": "매일경제",
-   "category": "biz",
-   "tokens": [
-    "간담회",
-    "상품개선",
-    "지원사업",
-    "참여",
-    "한유원"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "e8e6c93b5ae60bc6aa720c597ab7bf5e6b25bed0",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfYWhNTlVxTjdaSlpqSFU0YU8tSTR1SzIydGVMVVUyRHFqM2VTemUyWjZnNngzRkNYR1BXZVFjWDhacUt5dUVKRVBGcW9WbEFhRnFGVGIzbXRMdWZsTWlVVtIBYEFVX3lxTFBfYWhNTlVxTjdaSlpqSFU0YU8tSTR1SzIydGVMVVUyRHFqM2VTemUyWjZnNngzRkNYR1BXZVFjWDhacUt5dUVKRVBGcW9WbEFhRnFGVGIzbXRMdWZsTWlVVg?oc=5",
-   "simhash": "61bd22020cce29cf",
-   "event_key": "7075cdf4501389836c4ad0c451f659c84cf56695",
-   "title": "폴리텍대, 벤처창업아이템 경진대회…AI·바이오 창업기술 경쟁",
-   "source": "연합뉴스",
-   "category": "biz",
-   "tokens": [
-    "경쟁",
-    "경진대회",
-    "바이오",
-    "벤처창업아이템",
-    "창업기술",
-    "폴리텍대"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "bb3e45ef39285d5360f4e7335c63631e3b247d72",
-   "url": "https://www.khan.co.kr/article/202610220858001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "d9b5d41fe4cce908",
-   "event_key": "6f927d84f0aa12a40a2afb2ad99e86bbca3e48db",
-   "title": "정점식 “확성기 북한이 하면 로맨스 대한민국이 하면 불륜인가”",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "대한민국",
-    "로맨스",
-    "북한",
-    "불륜인",
-    "정점식",
-    "확성기"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "6722544898bf379eb23484c6a7c74edc4071594a",
-   "url": "https://www.mk.co.kr/news/economy/12182564",
-   "simhash": "d50a934acb3de588",
-   "event_key": "e4b76d6e1d1ae0c6eaa046341568f37ce5b18674",
-   "title": "[속보] 한은, 기준금리 연 3.00% ‘매파적 동결’…11월 인상 가시화",
-   "source": "매일경제",
-   "category": "kr",
-   "tokens": [
-    "가시화",
-    "기준금리",
-    "동결",
-    "매파적",
-    "인상",
-    "한은"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "3d030636ad1b4bf4498bd7dd826d1ec23c124bc6",
-   "url": "https://www.mk.co.kr/news/economy/12182545",
-   "simhash": "357c1a60721ec302",
-   "event_key": "e5bbdcfda956ead4a0c174071d3bf6632903a792",
-   "title": "5년간 법인세 증가분 90%가 수도권에서…서울 쏠림 심해",
-   "source": "매일경제",
-   "category": "kr",
-   "tokens": [
-    "년간",
-    "법인세",
-    "서울",
-    "수도권",
-    "쏠림",
-    "증가분"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "474eb49034074c13694949ed95365142c34d7b3a",
-   "url": "https://www.khan.co.kr/article/202610220725001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "b0a8061a1cb9af31",
-   "event_key": "1942d116df14c16c33b939f794714641b2e8b3f9",
-   "title": "국회, 종합감사 본격화…‘공소취소·레버리지’ 재공방 전망",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "공소취소",
-    "국회",
-    "레버리지",
-    "본격화",
-    "재공방",
-    "종합감사"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "b00d8f9c33f855f79c46751aca53bbfef922ddb4",
-   "url": "https://www.yna.co.kr/view/AKR20261022047400001",
-   "simhash": "680174874e538bf4",
-   "event_key": "e717b1899f84cea68abd3648f8c1ffe0f000f0ce",
-   "title": "與권칠승 \"공급 지연초래 살필것…국힘, 국민연금 매도·정쟁\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "공급",
-    "국민연금",
-    "국힘",
-    "권칠승",
-    "살필것",
-    "지연초래"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "6ae3048a2cf74111a77f5c821f2ff164a9aa863b",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-   "simhash": "24b25b42d908cc34",
-   "event_key": "f78ee92057092ce093c21994332268cc0df03ebd",
-   "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – live",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "allegedly",
-    "carolina",
-    "praises",
-    "protester",
-    "punching",
-    "supporter"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "78496e8dd51838d935aed2c66fde1d8528dded04",
-   "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-   "simhash": "08b1e6bb0759d3ef",
-   "event_key": "b04777e42e715d0278569ed3795c49b95a100e46",
-   "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "agrees",
-    "missiles",
-    "peace",
-    "resume",
-    "russia",
-    "ukraine"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 1
-  },
-  {
-   "url_hash": "e67fda87a229e3f2b7ac79977372c1696c37257f",
-   "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-   "simhash": "b5faf25b735c8735",
-   "event_key": "7ed04bbb310f7781cf3d292ca84c7689f981d04e",
-   "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "accuses",
-    "comments",
-    "foreign",
-    "leaders",
-    "macron",
-    "stupid"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "80fb761d758029854f3bc6c64c7b67a2cf48f7a3",
-   "url": "https://www.yna.co.kr/view/AKR20261022036600009",
-   "simhash": "b2e1abcb19b78d79",
-   "event_key": "bf2c2ce16cb0981eac398df1315e6655edfe5c18",
-   "title": "러시아, 美중간선거 개입 의혹…\"딥페이크 퍼트려 온라인 공작\"",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "개입",
-    "딥페이크",
-    "러시아",
-    "온라인",
-    "중간선거",
-    "퍼트려"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ede3a1b32fd141808ac56e07e626f6b6ebbbb901",
-   "url": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
-   "simhash": "b311270a35491143",
-   "event_key": "b60e7e2aa1b43b6e8c70bd111662570a88521710",
-   "title": "US accuses Canada of election interference ahead of midterms",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "accuses",
-    "ahead",
-    "canada",
-    "election",
-    "interference",
-    "midterms"
-   ],
-   "sent_at": "2026-10-22T10:05:47+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "09c9f9d097fbda6f1ce1011d58660a136b8bf024",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-   "simhash": "45ad4a7b1d186509",
-   "event_key": "b05832b4dfcb4163a6091a06650265570760f272",
-   "title": "Canva’s first AI image model plans designs before generating them",
-   "source": "The Verge AI",
-   "category": "ai",
-   "tokens": [
-    "before",
-    "canva",
-    "designs",
-    "first",
-    "generating",
-    "image"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "85432a28f8271d4fda2e1ba84f7e696943416ab2",
-   "url": "https://www.etnews.com/20261023000004",
-   "simhash": "49d285d461b0054c",
-   "event_key": "b470d10786774d3659127b309bf522ded88f8606",
-   "title": "AI 투자 우려에 나스닥 2.6% 급락…반도체지수 6.7%↓",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "반도체지수",
-    "우려"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "5d204276414bcfa2eeff25d54ee5e294f63a8c5c",
-   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-   "simhash": "7587391fd08c5c30",
-   "event_key": "2b857d0b317de1ea5a7d81ea6ce94358c5b9de6b",
-   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "tokens": [
-    "available",
-    "competition",
-    "competitor",
-    "decision",
-    "openai",
-    "widely"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "3ecc8fb58c56cee90732d224c3871cb419be6018",
-   "url": "https://www.etnews.com/20261023000003",
-   "simhash": "8a963504224ae387",
-   "event_key": "85273ec6532e1e915e6cf22faa8b61ae4cc66243",
-   "title": "앤트로픽도 AI 에이전트 경쟁 뛰어든다…'클로드 듀엣' 공개",
-   "source": "전자신문",
-   "category": "ai",
-   "tokens": [
-    "경쟁",
-    "듀엣",
-    "뛰어든다",
-    "앤트로픽",
-    "에이전트",
-    "클로드"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "ab838d8755d52b2368ff034d3d2aa6168c9f2bf3",
-   "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-   "simhash": "0b170d89080f6d1d",
-   "event_key": "6fd94a446def04497f2b5a0ed76837fbd8c0aaa6",
-   "title": "The Foundations of Scalable AI",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "tokens": [
-    "foundations",
-    "scalable"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "a1b4d790cfe938796712f68b330e8c011936b9a5",
-   "url": "https://www.venturesquare.net/1122251/",
-   "simhash": "89340660802442d9",
-   "event_key": "9389afe6ab3417752f02a6dea1c03cb2f269fa47",
-   "title": "KAIA·벤처스퀘어, 김난도·목승환·전화성과 함께 2027 스타트업 생태계 전망한다",
-   "source": "벤처스퀘어",
-   "category": "biz",
-   "tokens": [
-    "2027",
-    "kaia",
-    "목승환",
-    "벤처스퀘어",
-    "생태계",
-    "전화성"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "3cdf5cb3e65c6a76de1e598dc1f4810fd6b62306",
-   "url": "https://platum.kr/archives/296860?utm_source=rss&utm_medium=rss&utm_campaign=kaist-%25ea%25b5%2590%25ec%2588%2598-%25ec%25b0%25bd%25ec%2597%2585-%25ec%2595%25a0%25eb%258b%2588%25eb%25b8%258c%25eb%25a6%25bf%25ec%25a7%2580-%25eb%258d%2594%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-%25ec%258b%259c%25eb%2593%259c-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598-gpu",
-   "simhash": "2abfa0d7e08efd60",
-   "event_key": "930de0c15a0b2be976266726ea8fe4d661e24e9c",
-   "title": "KAIST 교수 창업 애니브릿지, 더벤처스 시드 투자 유치… GPU·NPU 함께 써 AI 추론 비용 낮춘다",
-   "source": "Platum",
-   "category": "biz",
-   "tokens": [
-    "gpu",
-    "kaist",
-    "npu",
-    "낮춘다",
-    "더벤처스",
-    "애니브릿지"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "8fc1a4ef75d0e67f0df523f74734fa5e02043fd8",
-   "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
-   "simhash": "f864d61a97dba6e3",
-   "event_key": "d300e98ad3621fb4807547946101f673275608bc",
-   "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
-   "source": "TechCrunch Startups",
-   "category": "biz",
-   "tokens": [
-    "early",
-    "growth",
-    "names",
-    "sales",
-    "secret",
-    "startup"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "cecdc23aa5e1a0af8787e1c22dbf2a414923b68b",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XeWJZdEtvNjRRUEpJSWxGRmlpU25TU0lvaTR0bzBfczZUa09YMy0wT2wzVm5oTTU0M01jOWp5ajdTZURwbDBudEktSFFOMlNKTE1yU3AtbjViLXdxVFA0Zg?oc=5",
-   "simhash": "a8762c2493f25ea5",
-   "event_key": "7e1630d4e64c413c861aba2f643a110c3dbbbe87",
-   "title": "계룡시, 소상공인 우수상품 홍보·상권혁신 행사 연다",
-   "source": "뉴스1",
-   "category": "biz",
-   "tokens": [
-    "계룡시",
-    "상권혁신",
-    "연다",
-    "우수상품",
-    "행사",
-    "홍보"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "c549db63579c1ee0d0814a97588bafca7c0fcda9",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IQWJaTFFSZmxHZ0hZMWs1SW0xUmtOMWlMXzFvMjVBNFNxNFBzbGE4ZzR4X2w1WW1GQ2M5OW9BLWR0WGlmS2ZmamVwd3ZIU2FuOV94VkQwSm9LMEnSAWBBVV95cUxNdjJLTXdhTFA2akNlTXU2Q0VQbzFfQXZ3bEFpaUxaekVSWjR2X2ZmX2VfWWN5WUJDSTAtNkFhRlhSc2FHeUZ5QU44YmNTc3RCZjY4YmE5THMzTzZXUDJyX3c?oc=5",
-   "simhash": "2ff6c64d8d7523b8",
-   "event_key": "c17bf61d52059e62cd3ee451160ec39452bcf6a3",
-   "title": "프랜차이즈 창업 박람회 사흘간 코엑스서 개최…200여개사 참여",
-   "source": "연합뉴스",
-   "category": "biz",
-   "tokens": [
-    "박람회",
-    "사흘간",
-    "여개사",
-    "참여",
-    "코엑스서",
-    "프랜차이즈"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "e13b7fc5cf47de1518f0c8020305041a7bcb1bdc",
-   "url": "https://www.yna.co.kr/view/AKR20261023020200504",
-   "simhash": "90170731e8a22eb3",
-   "event_key": "cd52c91caba28c0f60057554a79deb4c0501543a",
-   "title": "조현 \"한일 포괄적 경제협력 제도적 틀 마련 위해 긴밀 소통\"",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "경제협력",
-    "마련",
-    "제도적",
-    "조현",
-    "포괄적",
-    "한일"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "e429787af0bb09de47785a73bc8e88597996ab32",
-   "url": "https://www.yna.co.kr/view/AKR20261022181800001",
-   "simhash": "34813608b221ed2e",
-   "event_key": "b1b6715aeb726eebd56c64c73707de3d90cad66e",
-   "title": "상임위 8곳 국정감사…미래기금·초광역특구법 등 공방 전망",
-   "source": "연합뉴스",
-   "category": "kr",
-   "tokens": [
-    "공방",
-    "국정감사",
-    "미래기금",
-    "상임위",
-    "초광역특구법"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "f0c272fb7cb8d8271d6bfbef79e2720d3b8b416e",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810978",
-   "simhash": "aac48004f8b0320b",
-   "event_key": "303e4c27a764c56ab3d3821126253c98e285b06c",
-   "title": "문체부 \"김혜경 여사 위한 별도 예산 없다\"",
-   "source": "SBS",
-   "category": "kr",
-   "tokens": [
-    "김혜경",
-    "문체부",
-    "별도",
-    "여사",
-    "예산",
-    "위한"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "986fcc9955ff535704cb408eac7447e03536fc17",
-   "url": "https://www.khan.co.kr/article/202610230600021/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "728520a0b751fc90",
-   "event_key": "f1d0c3b67f39ec04670cf3b8532d9c78c94c16af",
-   "title": "[단독] 교사 60% “노동인권 교육 안 한다”는데 국교위는 “지금도 충분”···국정과제 엇박자",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "교사",
-    "교육",
-    "국교위",
-    "국정과제",
-    "노동인권",
-    "엇박자"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "8530890f8c5296b4e79c62478810d6f3820dd051",
-   "url": "https://www.khan.co.kr/article/202610230850001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "simhash": "420ea011aa9a8639",
-   "event_key": "beb219e76448425accf41090d3d779a85759b98c",
-   "title": "‘운명의 날’ 오세훈 2심 선고…촉각 곤두세우는 여야",
-   "source": "경향신문",
-   "category": "kr",
-   "tokens": [
-    "곤두세우",
-    "선고",
-    "여야",
-    "오세훈",
-    "운명",
-    "촉각"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "1934d3152bbc2580c7bcf03079e8226353d83ede",
-   "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
-   "simhash": "a2692dfa9e37a023",
-   "event_key": "dd5838203010bfbf14892e2cbc415e7b83d8d7a1",
-   "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "constant",
-    "diplomats",
-    "moscow",
-    "paranoia",
-    "surveillance",
-    "western"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "30eb5fc3240e71a3f8e32613e22d29181a6c8c12",
-   "url": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
-   "simhash": "cff15eb7d30eef40",
-   "event_key": "ca76740d734587081fcf1226f1920d8259db8fad",
-   "title": "Department of Justice opens criminal investigation into Corey Lewandowski",
-   "source": "The Guardian",
-   "category": "world",
-   "tokens": [
-    "criminal",
-    "department",
-    "investigation",
-    "justice",
-    "lewandowski",
-    "opens"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "fb89e5a6d5ce555603d87eec5657079aa89f0178",
-   "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-   "simhash": "8d36d1a09d0f9e00",
-   "event_key": "0e6ad9d857e1adeed0aa6ecd063d0e3e0fcbcbe6",
-   "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-   "source": "BBC World",
-   "category": "world",
-   "tokens": [
-    "access",
-    "network",
-    "restored",
-    "starlink",
-    "trump",
-    "ukraine"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "0a4df33ef9d1e511f310ccd8481635e353afcd35",
-   "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
-   "simhash": "16a0e8128e361521",
-   "event_key": "24647aec4bad19f2c5a7e7d832298f75e6caa8d2",
-   "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
-   "source": "Al Jazeera",
-   "category": "world",
-   "tokens": [
-    "award",
-    "human",
-    "prize",
-    "rights",
-    "sakharov",
-    "sanctioned"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
-  {
-   "url_hash": "c0a116359b208875c123fa713155e79b5d6fd443",
-   "url": "https://www.yna.co.kr/view/AKR20261023013200071",
-   "simhash": "bb718488c11ab956",
-   "event_key": "d64a11045590a711e643ee3c6b39aa5f98b5a91c",
-   "title": "젤렌스키 \"美 정보공유 재개…스타실드 속도 여전히 제한\"",
-   "source": "연합뉴스",
-   "category": "world",
-   "tokens": [
-    "속도",
-    "스타실드",
-    "여전히",
-    "재개",
-    "정보공유",
-    "젤렌스키"
-   ],
-   "sent_at": "2026-10-23T10:06:23+09:00",
-   "followup_count": 0
-  },
   {
    "url_hash": "f699a3e5cdaf492915584e366379490fa9928321",
    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -12399,6 +11649,381 @@
     "warns"
    ],
    "sent_at": "2026-11-25T14:09:39+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "dfe64ce243fa74bbfbb93c37fd2d58fb624caea8",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qOUF6YUVUcUtCWUJUcWpPNkJWcGlGY1B3RjF0VGh3WDlkQ1pHN2tqUTVHN1lndFlRV3Rsdm9hODd0VmxydFpzTTJMcFJCYXFwV3I4LVBOV1NDeUpkc2pVYWVRNHRUMWM?oc=5",
+   "simhash": "f03bc4c825395441",
+   "event_key": "9b0d40ca6a19f2a213c9fbd3b35fe9fef2295018",
+   "title": "산업부, 피지컬 AI 경쟁력 높인다…로봇 학습 데이터 국가표준 선제 제정 추진",
+   "source": "인공지능신문",
+   "category": "ai",
+   "tokens": [
+    "경쟁력",
+    "국가표준",
+    "높인다",
+    "데이터",
+    "산업부",
+    "피지컬"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "a7b58ed232f5ac2d0e81b79d89fa3a7c776807fd",
+   "url": "https://www.etnews.com/20261126000534",
+   "simhash": "0a18c24007321608",
+   "event_key": "0b00e902a5b768864ccfe5eac714c4e1c4fe378d",
+   "title": "개인정보위, 유출사고 긴급 대응체계 가동…3개월 집중점검",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "가동",
+    "개인정보위",
+    "긴급",
+    "대응체계",
+    "유출사고",
+    "집중점검"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "19193901b907b0b8ec7cf0c250c82b565090fbeb",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40SFJzNlBSUUE2QTFNaDZIRl9WcmYzekhDSUh6bjZBam4xTVRlN3hHeUQyUW9XUks4SXZ2S1IwRmVMUENSNVFGUWo0dHpLdDJidEZWWGdoaE5aMnRHQlVYYTFPUWJZU28?oc=5",
+   "simhash": "988b9d19b48970d4",
+   "event_key": "5991275866e6a4cdd965ba691e77cdcfe769fdfc",
+   "title": "中 AI 개발에 제동…美 반도체·모델 증류 이중 압박",
+   "source": "연합뉴스TV",
+   "category": "ai",
+   "tokens": [
+    "개발",
+    "모델",
+    "압박",
+    "이중",
+    "제동",
+    "증류"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "21c468d0d40b007d8bade0d25fac9c8cbf94d69f",
+   "url": "https://www.etnews.com/20261127000014",
+   "simhash": "79f506a094022b7c",
+   "event_key": "b3b422fb82193df233e5641de46291560f2b1485",
+   "title": "엔비디아 칩 판매사, AI 클라우드에 “중국 기업 임대 시 칩 안 판다” 통보",
+   "source": "전자신문",
+   "category": "ai",
+   "tokens": [
+    "기업",
+    "임대",
+    "클라우드",
+    "통보",
+    "판다",
+    "판매사"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "fb7c85b3296d2ad0a2dd07a4540d66f9ec88095e",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WaXduRjR0QWYzcTBCY19kM1ZDWlllc3FhNHBtV29NNjVNZmZQb3ZCZFlfeGtaMXUzdmJFRGx1Mm11ZEh4N3FJa0cwU1BmNWF5a3c?oc=5",
+   "simhash": "009dc807489bfd68",
+   "event_key": "7b04c79e134f4f437020decef874e3d4a08f4a51",
+   "title": "특징주, 알체라-지능형로봇/인공지능(AI) 테마 상승세에 7.5% ↑",
+   "source": "매일경제 마켓",
+   "category": "ai",
+   "tokens": [
+    "상승세",
+    "알체라",
+    "지능형로봇",
+    "테마",
+    "특징주"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "57fe9f4370e67efdd3e8426fa05f41e5fa850ca6",
+   "url": "https://platum.kr/archives/299655?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258c%2590%25ec%259d%2584-%25ea%25b9%2590-%25ea%25b3%25b3-%25eb%25b6%2588%25ec%259d%2584-%25eb%25b6%2599%25ec%259d%25b8-%25ea%25b3%25b3-%25ec%2597%25b0%25ea%25b2%25b0%25ed%2595%259c-%25ec%2582%25ac%25eb%259e%258c-%25ec%2598%25ac%25ed%2595%25b4%25ec%259d%2598-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8",
+   "simhash": "eda6f3eda747565d",
+   "event_key": "3ea3a649d5775f9840e969a15e1b4243e6e37e21",
+   "title": "판을 깐 곳, 불을 붙인 곳, 연결한 사람… 올해의 스타트업 생태계 촉매자 3인",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "불을",
+    "붙인",
+    "생태계",
+    "연결한",
+    "촉매자",
+    "판을"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "e6568180f5c8e237ffc3844f7b3600fdb23464cf",
+   "url": "https://platum.kr/archives/299622?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b0%2595%25eb%2582%25a8%25ea%25b5%25ac-%25eb%25af%25b8%25eb%259e%2598%25ec%2582%25b0%25ec%2597%2585-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-8%25ea%25b3%25b3-%25eb%258d%25b0%25eb%25aa%25a8%25eb%258d%25b0%25ec%259d%25b4-6%25ea%25b3%25b3-109%25ec%2596%25b5-%25ec%259b%2590-%25ed%2588%25ac",
+   "simhash": "83f12fb73a2e2567",
+   "event_key": "d48aa937cdb95d84b874d04483622226c09575d7",
+   "title": "강남구 미래산업 스타트업 8곳 데모데이, 6곳 109억 원 투자 유치",
+   "source": "Platum",
+   "category": "biz",
+   "tokens": [
+    "강남구",
+    "데모데",
+    "미래산업"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4d83f53e63e2d3da707f6f6d8c617e2537d50728",
+   "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "simhash": "510697da337c4412",
+   "event_key": "5d7f243977082780de79bda7905325c2fec932a1",
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "source": "TechCrunch Startups",
+   "category": "biz",
+   "tokens": [
+    "build",
+    "itself",
+    "maple",
+    "products",
+    "protect",
+    "raises"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "d50ea4dc87d372e9e2a5160cf6b5ae7b57dfbf02",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9STzVlVDZFamRVc0ZkZDdCUmZtWUhOZlJKMXlPLXpucUJnajRuMDlKSWlVOUo2OERET2VqZ2NRelZ6NWdKUHR4dmQ2OV9KRXB6ZS14OVVDUll4UdIBWEFVX3lxTE1jdnl1cl9KNTlWb19jU2Ywc2NJUFAtQ0VnSVNsVmdBMDFHVWhxb3Z4RW9lempibzRfc2tKRC1ra3VyQlB5RXBfcUs0VzZUMWl0MFZaUTdMbjY?oc=5",
+   "simhash": "2493aa20a20418d1",
+   "event_key": "a347b941a699c9e3c9f1980f2ba13f68424bad42",
+   "title": "해남군, 영업신고·사업자등록 한 번에…소상공인 창업 절차 간소화",
+   "source": "아주경제",
+   "category": "biz",
+   "tokens": [
+    "간소화",
+    "번에",
+    "사업자등록",
+    "영업신고",
+    "절차",
+    "해남군"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "c70ac14c8f0198a9f693af38da2d15039ce054d1",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80bHRZY29BQVZydHQ4LWtMYWVqZzZ0T1ZXV09GN0IzcmwxMXJTcXVxU0ZxblR1R0Y4SjF0WFJfcUZvV3lLVWtxcTVfY0FhV3lWWnFYeXB2VDNqTWQzS3RER0ZHRW02alROTnpvTlk0ODVvalVDeTNj?oc=5",
+   "simhash": "112326d32038530f",
+   "event_key": "0991b98b29659ed526bff248c0f683a1b45942d0",
+   "title": "신라대 앵커사업단, ‘2027 모두의 창업’ 대비 청년 창업역량 강화",
+   "source": "부산일보",
+   "category": "biz",
+   "tokens": [
+    "2027",
+    "대비",
+    "신라대",
+    "앵커사업단",
+    "창업역량",
+    "청년"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "4b6831b861356cfc798e2f4f5029bbed98ebec5f",
+   "url": "https://www.yna.co.kr/view/AKR20261127075800001",
+   "simhash": "8f2bec856005c776",
+   "event_key": "ecd1ae82a4e7481f42787de66372d2fbe11f33db",
+   "title": "국힘 \"국민 깨워 대통령 탄핵해야\"…법원에도 '재판 재개' 압박",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "국민",
+    "국힘",
+    "깨워",
+    "대통령",
+    "법원에",
+    "탄핵해야"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "b0687d08d51814cfe897f460c89a665a39efe9f1",
+   "url": "https://www.yna.co.kr/view/AKR20261127053900504",
+   "simhash": "0a23008fdd628017",
+   "event_key": "2618d908c931906b1ab526eb4484f5a55d796db3",
+   "title": "\"북한자료 더 많이 공개\"…27일 국회서 정책토론회",
+   "source": "연합뉴스",
+   "category": "kr",
+   "tokens": [
+    "공개",
+    "국회서",
+    "많이",
+    "북한자료",
+    "정책토론회"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "79a4da13e7baa04dd869b1267caccb9a1d02e0d3",
+   "url": "https://www.khan.co.kr/article/202611271248001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "3d0860e7da002265",
+   "event_key": "28d6b306c11a6a4ea059026f31b1b8098f475d16",
+   "title": "증안펀드 가동하나 안하나…고민 깊어진 정부",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "가동하나",
+    "고민",
+    "깊어진",
+    "안하나",
+    "정부",
+    "증안펀드"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "6cba56b75e2d773456e732b2d5d8a417f2570cd3",
+   "url": "https://www.khan.co.kr/article/202611271121001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "simhash": "f9bdc8bb02786819",
+   "event_key": "578c4191cd447c0abd4cafc6428530ec4f2c1245",
+   "title": "정점식 “법관들 침묵하면 사법부 독립 훼손 공범될 것”",
+   "source": "경향신문",
+   "category": "kr",
+   "tokens": [
+    "공범될",
+    "독립",
+    "법관들",
+    "사법부",
+    "정점식",
+    "침묵하면"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "71713985f3fa0b4feed2e7d2345ce0f6d7d2c625",
+   "url": "https://www.mk.co.kr/news/politics/12220048",
+   "simhash": "2164a358a90e9dbe",
+   "event_key": "9932eff1f503f14d76c3adeee8203d1cc7df638e",
+   "title": "김민석 “청해부대 파견 연장, 우리 선박 보호 위한 시급한 조치”",
+   "source": "매일경제",
+   "category": "kr",
+   "tokens": [
+    "김민석",
+    "선박",
+    "시급한",
+    "연장",
+    "청해부대",
+    "파견"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "5ac3d28bc27f0081a2794b7f49232d5dee6b02a4",
+   "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+   "simhash": "6cc71f1d058a5ef4",
+   "event_key": "119e43404931dc75c30c3f7ff8b21288386d3913",
+   "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "downplays",
+    "during",
+    "russia",
+    "support",
+    "troops",
+    "trump"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "82f94280471729a87b9ec6c59752b81be4b022f7",
+   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "simhash": "3c37ed3b84ebc92b",
+   "event_key": "56177d838db64ab214124d553433b15cf52248c6",
+   "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "enough",
+    "focused",
+    "middle",
+    "pushing",
+    "russia",
+    "zelensky"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "09aaeea7ca77496821cf5200993cf7a37066b643",
+   "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+   "simhash": "2c7e4513faf8b0dd",
+   "event_key": "51b3eaf11f29b830f62f75bc97970ac398fe126c",
+   "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+   "source": "Al Jazeera",
+   "category": "world",
+   "tokens": [
+    "attack",
+    "major",
+    "russian",
+    "trump",
+    "warns",
+    "zelenskyy"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "57cfee09cb9b7c35be2fc9d162f8ddf85dcdcc92",
+   "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+   "simhash": "3f67391bfd3e372e",
+   "event_key": "f504962a6fabf577b78c08a622c71c36a605227b",
+   "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+   "source": "BBC World",
+   "category": "world",
+   "tokens": [
+    "friendship",
+    "interview",
+    "questions",
+    "strange",
+    "trump",
+    "zelensky"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
+   "followup_count": 0
+  },
+  {
+   "url_hash": "49d863732f09b75bf50f13c8a18574051b6b190e",
+   "url": "https://www.yna.co.kr/view/AKR20261127058000073",
+   "simhash": "0423b24cde30c544",
+   "event_key": "e5d04fc305bc9abb873b0f18ada174663ade2934",
+   "title": "\"日, 새 국가안보전략에 '북중러 군사 협력 심화' 명시 검토\"",
+   "source": "연합뉴스",
+   "category": "world",
+   "tokens": [
+    "국가안보전략",
+    "군사",
+    "명시",
+    "북중러",
+    "심화",
+    "협력"
+   ],
+   "sent_at": "2026-11-27T13:39:50+09:00",
    "followup_count": 0
   }
  ]
